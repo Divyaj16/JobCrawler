@@ -1,32 +1,42 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Robert Half",
-        "location": "Albuquerque, NM",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-robert-half-4266037490?position=2&pageNum=0&refId=8x9r%2FcUfvhNuP23rDdzLbw%3D%3D&trackingId=gWSVxRe2NysHW2KFMouhJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-13 14:17:40",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, New Grad & Entry Level",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-new-grad-entry-level-at-jobright-ai-4265870960?position=3&pageNum=0&refId=8x9r%2FcUfvhNuP23rDdzLbw%3D%3D&trackingId=L8xHoZ6ZBvJ%2Fh%2FsPPutbSA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-13 14:17:40",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Q-Centrix",
         "location": "United States",
         "date_posted": "1 hour ago",
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-q-centrix-4224733159?position=1&pageNum=0&refId=QsgYRg5xkVbnhx3ZYLPMqA%3D%3D&trackingId=kHxWtYNKhBCmwo%2FaAFU%2F6g%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-07-13 14:38:03",
+        "email_sent": false
+    },
+    {
+        "title": "Python/ SQL Data Engineer (Entry Level)",
+        "company": "Jobright.ai",
+        "location": "Los Angeles, CA",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/python-sql-data-engineer-entry-level-at-jobright-ai-4265879088?position=1&pageNum=0&refId=uw7XgsmiR1OBPpAfKhXh7Q%3D%3D&trackingId=x9%2BmB2zKGICMnKzoJJ3Zlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-13 15:22:29",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Engineer I (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-engineer-i-remote-at-jobright-ai-4265877192?position=2&pageNum=0&refId=uw7XgsmiR1OBPpAfKhXh7Q%3D%3D&trackingId=nSpjENVdD8WBhem9%2FcpClg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-13 15:22:29",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer I (Entry Level)",
+        "company": "Jobright.ai",
+        "location": "Missouri, United States",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-entry-level-at-jobright-ai-4265879008?position=3&pageNum=0&refId=uw7XgsmiR1OBPpAfKhXh7Q%3D%3D&trackingId=fBnlmC2udGlXR9wW5sI3AA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-13 15:22:29",
         "email_sent": false
     }
 ]
