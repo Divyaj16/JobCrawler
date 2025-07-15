@@ -1,245 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Dario",
-        "location": "United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dario-4247904856?position=1&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=qFsXNsmNYVhB915pCyMhsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "iHeartMedia",
-        "location": "New York, United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-iheartmedia-4255319158?position=2&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=f799aiHaYyBgTVh1ySX%2Bpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "HumCap",
-        "location": "Dallas, TX",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-humcap-4266730298?position=3&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=YwgA1znyNrWOokq96jKhHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "AI & Data Engineer - Python",
-        "company": "Jobot Consulting",
-        "location": "Houston, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-data-engineer-python-at-jobot-consulting-4265430811?position=6&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=5eeaPiU%2FOl%2FOZ9VQJLQCgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4266730430?position=8&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=p7sZAjwqWWLcTIudRMGrcA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "Dallas-Fort Worth Metroplex",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4266731245?position=9&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=g6cpa8rtcwjDnTmL2kH5ig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "Waco Area",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4266728532?position=10&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=ZDLkqsmOizHguI%2B%2F7WKbzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "York, PA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4266733105?position=11&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=YeMyfsN1cKEC6D9%2FxmMNwA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "McLean, VA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4266730433?position=12&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=tREkFdChGs46pnmTHUmL5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "Dover, DE",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4266726739?position=14&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=LC0we6yWtjI5jbXkyjJYSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "Annapolis, MD",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4266734008?position=15&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=zBb00yK6RnlK7gkU7uiYbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "Salisbury, MD",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4266730410?position=17&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=pjT2Jdvabklt7WCaGEgfTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "Paris, TX",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4266727524?position=19&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=VUhOtTZdEGMiqdemzlnwmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Marketing Data Analyst",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/marketing-data-analyst-at-jobright-ai-4267183675?position=32&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=d9jXyzmLLKkjHhfPgCsgbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Research Software Engineer (EPSRC DIVERSE CDT) (110339-0725)",
-        "company": "University of Warwick",
-        "location": "Apopka, FL",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/research-software-engineer-epsrc-diverse-cdt-110339-0725-at-university-of-warwick-4266724791?position=34&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=LkBhIL4JCjqmBtjRmn5bSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Mobile Software Engineer",
-        "company": "SRAM",
-        "location": "Chicago, IL",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/mobile-software-engineer-at-sram-4253463752?position=36&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=InYenEws56mi%2F%2FKkESqlMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Principal",
-        "company": "Cleartelligence",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-principal-at-cleartelligence-4265440957?position=37&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=X3mSU65dbZifUGMGk5UYLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Java Developer - TS/SCI FSP",
-        "company": "Softworld, a Kelly Company",
-        "location": "Chantilly, VA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/java-developer-ts-sci-fsp-at-softworld-a-kelly-company-4267191589?position=38&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=jEdlK9yo4iliHAFWVUtrqA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (.NET)",
-        "company": "Intralot",
-        "location": "Baton Rouge, LA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-net-at-intralot-4265438654?position=40&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=Q1JivC6u7VyCHgkPMkGZug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "TOSCA Automation Engineer",
-        "company": "Narwal",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/tosca-automation-engineer-at-narwal-4267191583?position=55&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=fA%2FP3PcmJnUcb2wY8mavFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Marketing Data Analyst",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/marketing-data-analyst-at-jobright-ai-4267183675?position=7&pageNum=2&refId=P%2Bl2hmQEPttBzr4ggmgSwg%3D%3D&trackingId=0poTovPnh1h2BXH3aRC1UQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Research Software Engineer (EPSRC DIVERSE CDT) (110339-0725)",
-        "company": "University of Warwick",
-        "location": "Apopka, FL",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/research-software-engineer-epsrc-diverse-cdt-110339-0725-at-university-of-warwick-4266724791?position=9&pageNum=2&refId=P%2Bl2hmQEPttBzr4ggmgSwg%3D%3D&trackingId=go%2BWSyqxUqFB%2BF8N8AiNcg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "TOSCA Automation Engineer",
-        "company": "Narwal",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/tosca-automation-engineer-at-narwal-4267191583?position=5&pageNum=5&refId=yyOw6wpcGvnCQQ9ed2ISsw%3D%3D&trackingId=tUcvIQf0MD3OD%2FJ7z54HTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Aditi Chai",
-        "location": "Greater Seattle Area",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-4267187546?position=18&pageNum=0&refId=yvUIdgmUt0ixlYlPMJziCA%3D%3D&trackingId=%2BePvb4slCisogwm42E9Kgw%3D%3D&trk=public_jobs_jserp-result_search-card",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-15 14:30:11",
-        "email_sent": false
-    },
-    {
         "title": "Data & AI Engineer",
         "company": "Wiraa",
         "location": "United States",
@@ -957,6 +717,86 @@
         "url": "https://www.linkedin.com/jobs/view/planning-associate-at-city-of-onalaska-4266731338?position=5&pageNum=7&refId=tm9g1yKOr0sdxA6V3j3UMw%3D%3D&trackingId=IKo7aO3fHByVgxM2IAxhCQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-07-15 15:28:06",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "TalentAlly",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4267302573?position=15&pageNum=0&refId=QsJI80XHMQJ%2FaX7dD%2BEv5A%3D%3D&trackingId=k6wwaEI7FPjXBePBXPzN3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-15 15:46:15",
+        "email_sent": false
+    },
+    {
+        "title": "Azure Data Engineer, Entry Level",
+        "company": "Jobright.ai",
+        "location": "Kansas City, MO",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-entry-level-at-jobright-ai-4267302454?position=19&pageNum=0&refId=QsJI80XHMQJ%2FaX7dD%2BEv5A%3D%3D&trackingId=629Bmi%2BbRD%2Fl9SPJLKBINw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-15 15:46:15",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Bootloader & Cybersecurity",
+        "company": "Global Connect Technologies",
+        "location": "Southfield, MI",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-bootloader-cybersecurity-at-global-connect-technologies-4266736116?position=37&pageNum=0&refId=QsJI80XHMQJ%2FaX7dD%2BEv5A%3D%3D&trackingId=BSiHyRopxI27PBeB0dRVtQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-15 15:46:15",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Automotive Telematics ECU Development",
+        "company": "Global Connect Technologies",
+        "location": "Southfield, MI",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-automotive-telematics-ecu-development-at-global-connect-technologies-4266737139?position=42&pageNum=0&refId=QsJI80XHMQJ%2FaX7dD%2BEv5A%3D%3D&trackingId=ZZgx2KfFamowYIGpSNlluw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-15 15:46:15",
+        "email_sent": false
+    },
+    {
+        "title": "Director, Software Engineer - Customer Identity",
+        "company": "TalentAlly",
+        "location": "Richmond, VA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/director-software-engineer-customer-identity-at-talentally-4267303556?position=5&pageNum=7&refId=XzNePrK8QeqVEDtk88a1XQ%3D%3D&trackingId=PqZAPy2BZsySPdW56hbujw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-15 15:46:15",
+        "email_sent": false
+    },
+    {
+        "title": "Biostatistician",
+        "company": "Roster Talent",
+        "location": "United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/biostatistician-at-roster-talent-4265450323?position=7&pageNum=7&refId=XzNePrK8QeqVEDtk88a1XQ%3D%3D&trackingId=UdwnRHTl4K1Z7CJlyLnbDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-15 15:46:15",
+        "email_sent": false
+    },
+    {
+        "title": "Product Design Engineer",
+        "company": "Akkodis",
+        "location": "Arden Hills, MN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/product-design-engineer-at-akkodis-4267188985?position=9&pageNum=7&refId=XzNePrK8QeqVEDtk88a1XQ%3D%3D&trackingId=y6zwv2IDN4OVWvUh0L9FSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-15 15:46:15",
+        "email_sent": false
+    },
+    {
+        "title": "Advanced Analytics Consultant - Actuarial Science",
+        "company": "Elevance Health",
+        "location": "Chicago, IL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/advanced-analytics-consultant-actuarial-science-at-elevance-health-4266726958?position=10&pageNum=7&refId=XzNePrK8QeqVEDtk88a1XQ%3D%3D&trackingId=L72GHN79m%2BoulX64u2c0ug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-15 15:46:15",
         "email_sent": false
     }
 ]
