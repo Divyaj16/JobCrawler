@@ -1,675 +1,5 @@
 [
     {
-        "title": "Data Engineer (NJUS)",
-        "company": "NetJets",
-        "location": "Columbus, OH",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-njus-at-netjets-4254812073?position=2&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=tFzuaUJB7rij%2BuQ1HPpbxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, New Grad & Entry Level",
-        "company": "Jobright.ai",
-        "location": "Irving, TX",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-new-grad-entry-level-at-jobright-ai-4268185583?position=5&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=3CHrriwv8tR%2Bb9TDp3u99g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Entry Level) (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-remote-at-jobright-ai-4268184604?position=7&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=VbhBX1NOzxccKSu8CtrZ0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Transformation Engineer",
-        "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
-        "location": "Horsham, PA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-transformation-engineer-at-caresignal%C2%AE-%E2%80%93-lightbeam-s-deviceless-remote-patient-monitoring-4267753726?position=9&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=vqPeKLo8YNWwlAhtRkZRNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Washington, United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4268186094?position=21&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=dhFJ9njewJE%2FYbjr3Cei0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-remote-at-jobright-ai-4268185531?position=23&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=k2z4a2zXdSf8od8KQVpA%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Truework",
-        "company": "Checkr, Inc.",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-truework-at-checkr-inc-4228835919?position=26&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=7mjpTCIcu%2BKLaVsC2qW1pw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (San Francisco) (Entry Level)",
-        "company": "Jobright.ai",
-        "location": "San Francisco, CA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-san-francisco-entry-level-at-jobright-ai-4268186356?position=29&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=sxbnYAuitvsdtZFlMiJnOA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "Adobe",
-        "location": "Lehi, UT",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-adobe-4256339718?position=36&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=VrN71%2BVvU%2BjgQrIim2wGyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Orpheus / Argo Smart Routing",
-        "company": "Cloudflare",
-        "location": "Austin, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-orpheus-argo-smart-routing-at-cloudflare-4226444697?position=38&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=OZyrBQJ5gcDOWKT7EfwSOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer V",
-        "company": "Aditi Consulting",
-        "location": "Alaska, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-v-at-aditi-consulting-4257490693?position=39&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=CoBMulYHb5tlA9Fuz0OcOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer 5",
-        "company": "Adobe",
-        "location": "San Jose, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-5-at-adobe-4242257909?position=44&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=dtUfW%2BF7500AhtCFBClvxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, New Grad & Entry Level",
-        "company": "Jobright.ai",
-        "location": "San Francisco, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-new-grad-entry-level-at-jobright-ai-4268181824?position=53&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=sfpjXKB81k7kx5X5ifM9fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Brown Advisory",
-        "location": "Baltimore, MD",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-brown-advisory-4150551726?position=56&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=G9UrxVlhlmmMfYtD8mIC3Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Artificial Intelligence / Machine Learning Research and Development Engineer",
-        "company": "The Applied Research Laboratory at Penn State University",
-        "location": "Reston, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-machine-learning-research-and-development-engineer-at-the-applied-research-laboratory-at-penn-state-university-4256317797?position=58&pageNum=0&refId=%2B%2B%2FFeCf3ZDoS%2BLAf1YyDfA%3D%3D&trackingId=RqShHT%2BQDy%2B3KFZbbfGrQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Truework",
-        "company": "Checkr, Inc.",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-truework-at-checkr-inc-4228835919?position=1&pageNum=2&refId=U%2FS%2BCN%2FhSPffghyw%2FvuXDQ%3D%3D&trackingId=dHb4E6aX34d%2F21hE%2Bb%2F9ew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (San Francisco) (Entry Level)",
-        "company": "Jobright.ai",
-        "location": "San Francisco, CA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-san-francisco-entry-level-at-jobright-ai-4268186356?position=4&pageNum=2&refId=U%2FS%2BCN%2FhSPffghyw%2FvuXDQ%3D%3D&trackingId=PzYMDcPN8TzpwE3ZgSLnmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, New Grad & Entry Level",
-        "company": "Jobright.ai",
-        "location": "San Francisco, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-new-grad-entry-level-at-jobright-ai-4268181824?position=3&pageNum=5&refId=RIC4ZI9Mo1obREavmgDdMA%3D%3D&trackingId=oQ74QX63i6TOObjWFGEQwQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Brown Advisory",
-        "location": "Baltimore, MD",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-brown-advisory-4150551726?position=6&pageNum=5&refId=RIC4ZI9Mo1obREavmgDdMA%3D%3D&trackingId=mtL2uLU0fO0U8yO04kW%2Bhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Artificial Intelligence / Machine Learning Research and Development Engineer",
-        "company": "The Applied Research Laboratory at Penn State University",
-        "location": "Reston, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-machine-learning-research-and-development-engineer-at-the-applied-research-laboratory-at-penn-state-university-4256317797?position=8&pageNum=5&refId=RIC4ZI9Mo1obREavmgDdMA%3D%3D&trackingId=%2BFRYVA4gnPAsfBcSjtVo8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst",
-        "company": "Thomson Reuters",
-        "location": "Yuma, AZ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-at-thomson-reuters-4257762564?position=3&pageNum=7&refId=iplFzf1RY6sEvxRj%2BtqIrQ%3D%3D&trackingId=F5NG9KN16um02fF5BScc0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst",
-        "company": "Thomson Reuters",
-        "location": "Washington, DC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-at-thomson-reuters-4257766108?position=6&pageNum=7&refId=iplFzf1RY6sEvxRj%2BtqIrQ%3D%3D&trackingId=Zw2aVaAa8wQ3y1dC1pj3PQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer Software Applications IV (Hybrid - Winnipeg, Canada)",
-        "company": "Everi Holdings Inc.",
-        "location": "Winnipeg, FL",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/engineer-software-applications-iv-hybrid-winnipeg-canada-at-everi-holdings-inc-4083439933?position=8&pageNum=7&refId=iplFzf1RY6sEvxRj%2BtqIrQ%3D%3D&trackingId=15zwM7hY1i%2BNKk1iUMBBXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist-Sr Consultant II, Associate, (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-consultant-ii-associate-remote-at-jobright-ai-4268172538?position=1&pageNum=10&refId=xa6PS59WgQHtODin4Jie3w%3D%3D&trackingId=dO5l%2FYTANEdpe%2FpmP41KuQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst II, Strategic Insights",
-        "company": "Affirm",
-        "location": "Miami, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-ii-strategic-insights-at-affirm-4256191246?position=2&pageNum=10&refId=xa6PS59WgQHtODin4Jie3w%3D%3D&trackingId=aCPb8maL8mO5DSpFqhBKOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Sr. Analyst, Title Marketing Insights and Analytics",
-        "company": "NBCUniversal",
-        "location": "Universal City, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-analyst-title-marketing-insights-and-analytics-at-nbcuniversal-4254393957?position=4&pageNum=10&refId=xa6PS59WgQHtODin4Jie3w%3D%3D&trackingId=VRwGtLn9tPMe%2FOLUOGW1%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst II, Strategic Insights",
-        "company": "Affirm",
-        "location": "Phoenix, AZ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-ii-strategic-insights-at-affirm-4256192217?position=5&pageNum=10&refId=xa6PS59WgQHtODin4Jie3w%3D%3D&trackingId=oTs5Gi1EcMD2Del%2FCQDHIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst II, Strategic Insights",
-        "company": "Affirm",
-        "location": "Philadelphia, PA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-ii-strategic-insights-at-affirm-4256188933?position=7&pageNum=10&refId=xa6PS59WgQHtODin4Jie3w%3D%3D&trackingId=S6WsJQFAODWuzxxScBkQ3w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "WFH | Online Data Analyst - Spanish Speaker in the United States",
-        "company": "TELUS Digital AI Data Solutions",
-        "location": "Florida, United States",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/wfh-online-data-analyst-spanish-speaker-in-the-united-states-at-telus-digital-ai-data-solutions-4267761638?position=9&pageNum=10&refId=xa6PS59WgQHtODin4Jie3w%3D%3D&trackingId=LKM%2FJLYAFlQHJF4Kv%2B4uXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "M/E Engineer 3",
-        "company": "JE Dunn Construction",
-        "location": "Tulsa, OK",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/m-e-engineer-3-at-je-dunn-construction-4242203151?position=10&pageNum=10&refId=xa6PS59WgQHtODin4Jie3w%3D%3D&trackingId=GOMrWGdjjTWsEzLys8%2Bvng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "WFH | Online Data Analyst - Spanish Speaker in the United States",
-        "company": "TELUS Digital AI Data Solutions",
-        "location": "Delaware, United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/wfh-online-data-analyst-spanish-speaker-in-the-united-states-at-telus-digital-ai-data-solutions-4267760617?position=1&pageNum=12&refId=yj%2FkmF5x2l9j0KlHArqVkw%3D%3D&trackingId=nsyuPrynObkBZrE6uLFzyg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Insights Management Revenue Cycle Specialty Associate, Healthcare",
-        "company": "Huron",
-        "location": "Chicago, IL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/insights-management-revenue-cycle-specialty-associate-healthcare-at-huron-4241258292?position=2&pageNum=12&refId=yj%2FkmF5x2l9j0KlHArqVkw%3D%3D&trackingId=Umkik%2BwWyaPp6gyeYogJ7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst II, Strategic Insights",
-        "company": "Affirm",
-        "location": "Richmond, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-ii-strategic-insights-at-affirm-4256188928?position=4&pageNum=12&refId=yj%2FkmF5x2l9j0KlHArqVkw%3D%3D&trackingId=I%2FtMXT1ZB6SbKWTP%2F99AIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "QC Data Reviewer",
-        "company": "FUJIFILM Biotechnologies",
-        "location": "College Station, TX",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/qc-data-reviewer-at-fujifilm-biotechnologies-4256171163?position=5&pageNum=12&refId=yj%2FkmF5x2l9j0KlHArqVkw%3D%3D&trackingId=SL9NZQ5jkyR4AS0LWuK%2BKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst II, Strategic Insights",
-        "company": "Affirm",
-        "location": "Baltimore, MD",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-ii-strategic-insights-at-affirm-4256192219?position=10&pageNum=12&refId=yj%2FkmF5x2l9j0KlHArqVkw%3D%3D&trackingId=1AOOnzLwyvTwio0iDMkmWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:00:54",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Computer Vision",
-        "company": "Verkada",
-        "location": "San Mateo, CA",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-computer-vision-at-verkada-3765974062?position=3&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=pPyWg47JDqM4ATe8s1AuXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, New Grad & Entry Level",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-new-grad-entry-level-at-jobright-ai-4268192109?position=7&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=zHkTgOWy%2BTknHhQR5ufLqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, New Grad & Entry Level",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-new-grad-entry-level-at-jobright-ai-4268185784?position=11&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=w12nphVxHR%2Bzsnzlt5LvJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, New Grad & Entry Level",
-        "company": "Jobright.ai",
-        "location": "California, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-new-grad-entry-level-at-jobright-ai-4268185983?position=13&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=YmqGdkLGl5qzjxbDYaNwOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Data Analyst - Remote",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-remote-at-jobright-ai-4268184899?position=14&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=gM8akqgkxvZOj%2B6k1y7Xww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "Jobright.ai",
-        "location": "Cleveland, OH",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-jobright-ai-4268186817?position=15&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=Zrc3u%2BU%2BG8Yi4AUG9ubdbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, New Grad & Entry Level",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-entry-level-at-jobright-ai-4268188148?position=21&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=vmk9aLiZDT0jKkXVnNjOWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, New Grad & Entry Level",
-        "company": "Jobright.ai",
-        "location": "Texas, United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-entry-level-at-jobright-ai-4268188525?position=28&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=msnyQuf1a0G7DqfH0jMlLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Entry Level",
-        "company": "Jobright.ai",
-        "location": "McLean, VA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-at-jobright-ai-4268193087?position=30&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=IOPsk%2FXpaGfGse7rOfYqRQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I, New Grad",
-        "company": "Jobright.ai",
-        "location": "Kansas, United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-new-grad-at-jobright-ai-4268191228?position=31&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=Gb5EQMjQKUfZGRFWucbtMQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Data Analyst",
-        "company": "Jobright.ai",
-        "location": "Dayton, OH",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-jobright-ai-4268190220?position=32&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=eBtD87ayxFkAqdnYcWsmtQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Remote) - Entry Level",
-        "company": "Jobright.ai",
-        "location": "Arizona, United States",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-remote-entry-level-at-jobright-ai-4268185991?position=33&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=9Nqc3OxY3zQP9pmshI6Ysw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, New Grad & Entry Level",
-        "company": "Jobright.ai",
-        "location": "Kansas, United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-entry-level-at-jobright-ai-4268193097?position=34&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=Jv1RCWd227AGfX9POmJryA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Roofstock",
-        "location": "San Francisco, CA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-roofstock-4226485227?position=35&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=WGeSYSc%2BXCb%2F8s0HDaoEZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I - Remote (Entry Level)",
-        "company": "Jobright.ai",
-        "location": "Cambridge, MA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-remote-entry-level-at-jobright-ai-4268187514?position=39&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=gTzUnckjiXtVTCFHYX1EUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Data Science, Entry Level",
-        "company": "Jobright.ai",
-        "location": "Columbus, OH",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-data-science-entry-level-at-jobright-ai-4268186906?position=41&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=cRniNJ2jbiEVKWrYaYqmGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I, Entry Level",
-        "company": "Jobright.ai",
-        "location": "Michigan, United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-at-jobright-ai-4268188435?position=42&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=6vrdghQ3bBFS4CnNS5aiQg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Commercial Artificial Intelligence Engineer",
-        "company": "Menarini Stemline",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/commercial-artificial-intelligence-engineer-at-menarini-stemline-4240049716?position=45&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=sgowYoKBReR6q%2Fy6yk6PPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, New Grad",
-        "company": "Jobright.ai",
-        "location": "Houston, TX",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-jobright-ai-4268187287?position=49&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=ME0I0MSmQdPDHQ8QNP5lHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Backend, Entry Level (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-entry-level-remote-at-jobright-ai-4268183883?position=50&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=%2BOLK5v%2FzPjds1MAdxj9LHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Full-Stack Software Engineer, Entry Level (Remote)",
-        "company": "Jobright.ai",
-        "location": "Austin, TX",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-entry-level-remote-at-jobright-ai-4268191349?position=51&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=95d7gLbJeQI4m8DPzDV8cw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "Horizontal Talent",
-        "location": "San Francisco, CA",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-horizontal-talent-4254371417?position=52&pageNum=0&refId=JscfedSe7D%2B0I3D5sYeFEA%3D%3D&trackingId=UDEqhNudXScZ%2FdIPw%2FJAWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, New Grad & Entry Level",
-        "company": "Jobright.ai",
-        "location": "Texas, United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-entry-level-at-jobright-ai-4268188525?position=3&pageNum=2&refId=MKj09uxmYuKNFFukRjo3Wg%3D%3D&trackingId=XBlX7eH76xzIu2AfluSskg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Entry Level",
-        "company": "Jobright.ai",
-        "location": "McLean, VA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-at-jobright-ai-4268193087?position=5&pageNum=2&refId=MKj09uxmYuKNFFukRjo3Wg%3D%3D&trackingId=uegOOc1%2FrAoq%2Bp4XfUVU6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I, New Grad",
-        "company": "Jobright.ai",
-        "location": "Kansas, United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-new-grad-at-jobright-ai-4268191228?position=6&pageNum=2&refId=MKj09uxmYuKNFFukRjo3Wg%3D%3D&trackingId=E8BGZQUgyvwpAI3V4XlwIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Data Analyst",
-        "company": "Jobright.ai",
-        "location": "Dayton, OH",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-jobright-ai-4268190220?position=7&pageNum=2&refId=MKj09uxmYuKNFFukRjo3Wg%3D%3D&trackingId=KC5jis2FF2OKP%2BGOZgLxpQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Remote) - Entry Level",
-        "company": "Jobright.ai",
-        "location": "Arizona, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-remote-entry-level-at-jobright-ai-4268185991?position=8&pageNum=2&refId=MKj09uxmYuKNFFukRjo3Wg%3D%3D&trackingId=Y78b0PPzNEtkkhBEYyW9VQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, New Grad & Entry Level",
-        "company": "Jobright.ai",
-        "location": "Kansas, United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-entry-level-at-jobright-ai-4268193097?position=9&pageNum=2&refId=MKj09uxmYuKNFFukRjo3Wg%3D%3D&trackingId=Ez5dtIpWt%2F5El1RwJkSetA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Roofstock",
-        "location": "San Francisco, CA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-roofstock-4226485227?position=10&pageNum=2&refId=MKj09uxmYuKNFFukRjo3Wg%3D%3D&trackingId=7k%2BF5G9x3%2BWVppjbN5SfdA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Full-Stack Software Engineer, Entry Level (Remote)",
-        "company": "Jobright.ai",
-        "location": "Austin, TX",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-entry-level-remote-at-jobright-ai-4268191349?position=1&pageNum=5&refId=XwlinHoSlw%2FtRNl%2FjxCSig%3D%3D&trackingId=3yeE5elm0V0uFHDqWmFWGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "Horizontal Talent",
-        "location": "San Francisco, CA",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-horizontal-talent-4254371417?position=2&pageNum=5&refId=XwlinHoSlw%2FtRNl%2FjxCSig%3D%3D&trackingId=sX%2Ft%2BM3IKTts5%2B%2Bplrmyeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Monitoring Analyst (On Site)",
-        "company": "Sandvik",
-        "location": "Elko, NV",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-monitoring-analyst-on-site-at-sandvik-4240839414?position=10&pageNum=7&refId=n5nMNBk%2FnvhCcbJZ%2B8%2Ftbg%3D%3D&trackingId=KtUdyb9N%2BJfWgOEFgHeXHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-17 11:26:17",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer, New Grad & Entry Level",
         "company": "Jobright.ai",
         "location": "United States",
@@ -1167,6 +497,556 @@
         "url": "https://www.linkedin.com/jobs/view/associate-manager-business-analytics-340b-coe-mettawa-il-at-biospace-4267076782?position=10&pageNum=12&refId=Ataev358A5m8ZbY4qIz2ng%3D%3D&trackingId=PDQAAMVeIntq%2FirddYOg3w%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-07-17 11:52:58",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - Entry Level (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-entry-level-remote-at-jobright-ai-4268207373?position=4&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=Ort7qKIGl0zHp%2B4TkLVv7w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Entry Level",
+        "company": "Jobright.ai",
+        "location": "Nashville, TN",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-entry-level-at-jobright-ai-4268202384?position=7&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=v%2BR6f%2BWcSsMAlmOgLuSdpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Engineer",
+        "company": "Jobright.ai",
+        "location": "Seattle, WA",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-engineer-at-jobright-ai-4268207376?position=8&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=PbOu9ymEhXXL2LvZQaRFzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (New Grad)",
+        "company": "Jobright.ai",
+        "location": "Georgia, United States",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-new-grad-at-jobright-ai-4268204165?position=9&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=xan%2FvOySLFZkrIVHuhs11Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer (Entry Level) (Remote)",
+        "company": "Jobright.ai",
+        "location": "New York, United States",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-entry-level-remote-at-jobright-ai-4268204212?position=10&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=iPClqsQ4wkEoi2vfio36XQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Analytics Engineer",
+        "company": "Fortegra",
+        "location": "Iselin, NJ",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-analytics-engineer-at-fortegra-4240841129?position=12&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=OIkjg2tV3HxTWoYZmuf4pQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Analyst (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-remote-at-jobright-ai-4268206034?position=15&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=6fA37B9swxrHzrOGaqk81Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer (On Site)",
+        "company": "Westchester Medical Center Health Network",
+        "location": "Valhalla, NY",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-on-site-at-westchester-medical-center-health-network-4267771635?position=19&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=J8jmmzr8FQz5Q6dQ525C0g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Analyst",
+        "company": "Jobright.ai",
+        "location": "Pennsylvania, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-jobright-ai-4268189509?position=21&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=etpO3kmbYcf6mORBWzX4cw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Criteo",
+        "location": "Boston, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-criteo-4268189447?position=24&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=9yp8MphtUqkcSCqJcwlFpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Entry Level",
+        "company": "Jobright.ai",
+        "location": "Rhode Island, United States",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-at-jobright-ai-4268206354?position=29&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=jKnfR7HeBBHdfQLEV5zWsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Founding Engineer",
+        "company": "Selfin (Stealth)",
+        "location": "San Francisco Bay Area",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-founding-engineer-at-selfin-stealth-4267769075?position=30&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=MUqCCMc39x50pG%2BPTBtYjQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Infrastructure Engineer, Linux",
+        "company": "Raft",
+        "location": "Colorado Springs, CO",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/infrastructure-engineer-linux-at-raft-4254371929?position=31&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=fHRQWI5KsqFK1XllosnXQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Analyst",
+        "company": "Jobright.ai",
+        "location": "Nebraska, United States",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-jobright-ai-4268205378?position=33&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=d%2Fb7Q%2FbssSVLUKOyHFVqgA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Solutions Engineer",
+        "company": "Sonio",
+        "location": "The Country, NC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-sonio-4267763707?position=34&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=aDioZvKmmiQ17b2wM9MW5w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Internal Platform",
+        "company": "AI Fund",
+        "location": "San Francisco, CA",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-internal-platform-at-ai-fund-4191517856?position=35&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=sVnulVKPHn%2Fvn1cBPqWsXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Analyst",
+        "company": "Jobright.ai",
+        "location": "Bellevue, WA",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-at-jobright-ai-4268201647?position=36&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=4vHTiTaAIqTXelTjIsJc3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Platform DevOps Engineer (100% REMOTE)",
+        "company": "Lensa",
+        "location": "United States",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/platform-devops-engineer-100%25-remote-at-lensa-4267775262?position=38&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=RnbTCxa5wXZXoWXIZ0z8bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, New Grad & Entry Level",
+        "company": "Jobright.ai",
+        "location": "Massachusetts, United States",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-entry-level-at-jobright-ai-4268204228?position=41&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=3nwELpA1FRbaDu%2FlxYTDow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "[Full Remote] Software Engineer",
+        "company": "Joinrs US",
+        "location": "United States",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-remote-software-engineer-at-joinrs-us-4267785359?position=45&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=7Xtc5aQAW8lHdpUK4IygCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, New Grad & Entry Level",
+        "company": "Jobright.ai",
+        "location": "San Diego, CA",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-entry-level-at-jobright-ai-4268200899?position=46&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=q5nZA%2BKNUyhkI264e5pdPw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I (Entry Level) (Remote)",
+        "company": "Jobright.ai",
+        "location": "Chicago, IL",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-remote-at-jobright-ai-4268207224?position=47&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=t9fJ9SFSfmIhwlapLipnOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I/II - Entry Level (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-ii-entry-level-remote-at-jobright-ai-4268206459?position=48&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=vVY%2BsdORy60%2Fm5WUKklEhw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "ReleHelp",
+        "location": "Columbus, Ohio Metropolitan Area",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-relehelp-4267779267?position=49&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=70kkwZKAa%2B%2FBbBSrsMXOHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Product)",
+        "company": "Wiraa",
+        "location": "Missouri, United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-product-at-wiraa-4268190872?position=52&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=%2Fkig9IIpmA92MIt6PSnvOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend",
+        "company": "Ema Unlimited",
+        "location": "Mountain View, CA",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-ema-unlimited-4267782320?position=53&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=TIzBYnHdbNfQiYB22eyoEA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Cleansing Specialist (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-cleansing-specialist-remote-at-jobright-ai-4268209293?position=56&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=i6wh9jEQ0sL5WRwm%2BeOUTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Early Career Machine Learning Engineer - Entry Level",
+        "company": "Jobright.ai",
+        "location": "San Francisco, CA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/early-career-machine-learning-engineer-entry-level-at-jobright-ai-4268205543?position=60&pageNum=0&refId=ncShkEt5Tp60x9bBaposFQ%3D%3D&trackingId=E%2BDWMXBgee0MWKOEn05c%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Entry Level",
+        "company": "Jobright.ai",
+        "location": "Rhode Island, United States",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-at-jobright-ai-4268206354?position=4&pageNum=2&refId=pUt%2BG5K4pFD1Kg7RWK91vg%3D%3D&trackingId=G6yLsi%2F09%2FQCE7ZahmKXKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Founding Engineer",
+        "company": "Selfin (Stealth)",
+        "location": "San Francisco Bay Area",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-founding-engineer-at-selfin-stealth-4267769075?position=5&pageNum=2&refId=pUt%2BG5K4pFD1Kg7RWK91vg%3D%3D&trackingId=pPa2D3TgnmcFee0g7ot1iA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Infrastructure Engineer, Linux",
+        "company": "Raft",
+        "location": "Colorado Springs, CO",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/infrastructure-engineer-linux-at-raft-4254371929?position=6&pageNum=2&refId=pUt%2BG5K4pFD1Kg7RWK91vg%3D%3D&trackingId=vncO%2FBCEABAvjsF2nu8Vzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Analyst",
+        "company": "Jobright.ai",
+        "location": "Nebraska, United States",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-jobright-ai-4268205378?position=8&pageNum=2&refId=pUt%2BG5K4pFD1Kg7RWK91vg%3D%3D&trackingId=WrNDGiOBxnM9B7V17erPmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Internal Platform",
+        "company": "AI Fund",
+        "location": "San Francisco, CA",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-internal-platform-at-ai-fund-4191517856?position=9&pageNum=2&refId=pUt%2BG5K4pFD1Kg7RWK91vg%3D%3D&trackingId=Xx8nprSATUBmBSc2RDGamg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Analyst",
+        "company": "Jobright.ai",
+        "location": "Bellevue, WA",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-at-jobright-ai-4268201647?position=10&pageNum=2&refId=pUt%2BG5K4pFD1Kg7RWK91vg%3D%3D&trackingId=FZNP1O19yS5ezwHA5CNJXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Product)",
+        "company": "Wiraa",
+        "location": "Missouri, United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-product-at-wiraa-4268190872?position=2&pageNum=5&refId=dncqCAzBEvnE5YRXuGwhMA%3D%3D&trackingId=nJPr%2BkYKldeRlQkMKXnCnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend",
+        "company": "Ema Unlimited",
+        "location": "Mountain View, CA",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-ema-unlimited-4267782320?position=3&pageNum=5&refId=dncqCAzBEvnE5YRXuGwhMA%3D%3D&trackingId=AGZC8XHn7ltHjHz8GJ%2BtEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Cleansing Specialist (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-cleansing-specialist-remote-at-jobright-ai-4268209293?position=6&pageNum=5&refId=dncqCAzBEvnE5YRXuGwhMA%3D%3D&trackingId=z71IgCJOtcRvwmUwD%2BUhfw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Early Career Machine Learning Engineer - Entry Level",
+        "company": "Jobright.ai",
+        "location": "San Francisco, CA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/early-career-machine-learning-engineer-entry-level-at-jobright-ai-4268205543?position=10&pageNum=5&refId=dncqCAzBEvnE5YRXuGwhMA%3D%3D&trackingId=Y1GyKW%2Fg2nGKTu0sp3Pkrg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "Jobright.ai",
+        "location": "Indiana, United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-jobright-ai-4268207218?position=3&pageNum=7&refId=u8dbffDYyqkdoJ6J54B%2BmQ%3D%3D&trackingId=H4RizOZHsjpr3V3d7F8YFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer - Entry Level",
+        "company": "Jobright.ai",
+        "location": "Boise, ID",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-entry-level-at-jobright-ai-4268204150?position=4&pageNum=7&refId=u8dbffDYyqkdoJ6J54B%2BmQ%3D%3D&trackingId=RdOMjRuxB2yvSn%2F8DgdR%2FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Annotator",
+        "company": "ICON Consultants, LP",
+        "location": "Dallas-Fort Worth Metroplex",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-annotator-at-icon-consultants-lp-4267786348?position=5&pageNum=7&refId=u8dbffDYyqkdoJ6J54B%2BmQ%3D%3D&trackingId=Q8zJDYtDHPd7Cvw7woqHvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Market Data Associate",
+        "company": "Bain Capital",
+        "location": "Boston, MA",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/market-data-associate-at-bain-capital-4244857903?position=7&pageNum=7&refId=u8dbffDYyqkdoJ6J54B%2BmQ%3D%3D&trackingId=0RjnGvcQ%2Fxn6pwJlIxKtqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "Jobright.ai",
+        "location": "Wisconsin, United States",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-jobright-ai-4268206116?position=8&pageNum=7&refId=u8dbffDYyqkdoJ6J54B%2BmQ%3D%3D&trackingId=drob5Ezr5WXtjbmRrJVHSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (C++) (Entry Level)",
+        "company": "Jobright.ai",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-entry-level-at-jobright-ai-4268187521?position=9&pageNum=7&refId=u8dbffDYyqkdoJ6J54B%2BmQ%3D%3D&trackingId=bf41UrOjwerygbLVYZA1Rw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Creative Financial Staffing (CFS)",
+        "location": "Fort Wayne, IN",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-creative-financial-staffing-cfs-4268203258?position=10&pageNum=7&refId=u8dbffDYyqkdoJ6J54B%2BmQ%3D%3D&trackingId=5l%2BTNTmB5yMh%2FvD%2BqjmUng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "RESEARCH DATA ANALYST II",
+        "company": "California Department of Social Services",
+        "location": "Sacramento, CA",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/research-data-analyst-ii-at-california-department-of-social-services-4268203285?position=1&pageNum=10&refId=hGdS2ucejqx8R4yrEpbIUg%3D%3D&trackingId=5rmjKG5XuW7oAIsW%2FpOnmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Cybersecurity Project Engineer",
+        "company": "Nightwing",
+        "location": "Sterling, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/cybersecurity-project-engineer-at-nightwing-4251954115?position=3&pageNum=10&refId=hGdS2ucejqx8R4yrEpbIUg%3D%3D&trackingId=rASgbEjpevaUlUeUPI%2BkKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Sensor Software Engineer, AI Platforms",
+        "company": "Jobs via Dice",
+        "location": "Palo Alto, CA",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sensor-software-engineer-ai-platforms-at-jobs-via-dice-4267779613?position=4&pageNum=10&refId=hGdS2ucejqx8R4yrEpbIUg%3D%3D&trackingId=6XU6ojrAYrJj1eQ1%2Fs6CLg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Sr.",
+        "company": "Wiraa",
+        "location": "New York, United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-wiraa-4268191608?position=5&pageNum=10&refId=hGdS2ucejqx8R4yrEpbIUg%3D%3D&trackingId=RwBxRVoPurx9fHPMYoQJNw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Process Engineer, Inventory Management System",
+        "company": "Kairos Power",
+        "location": "Alameda, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/process-engineer-inventory-management-system-at-kairos-power-4244832606?position=6&pageNum=10&refId=hGdS2ucejqx8R4yrEpbIUg%3D%3D&trackingId=LwoV9fw%2FMTsvNnugnubQZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Electronics Engineer",
+        "company": "Battelle",
+        "location": "Columbus, OH",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-electronics-engineer-at-battelle-4244213466?position=7&pageNum=10&refId=hGdS2ucejqx8R4yrEpbIUg%3D%3D&trackingId=yc4l3LnhPE6p03tCpD4NdQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Verification Specialist",
+        "company": "Actalent",
+        "location": "San Mateo, CA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-verification-specialist-at-actalent-4268209074?position=8&pageNum=10&refId=hGdS2ucejqx8R4yrEpbIUg%3D%3D&trackingId=ll9oeoSf9Cv6uJDM%2FwoyyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Manager - Data Science (Gen AI) - Hyderabad, India",
+        "company": "Braintrust",
+        "location": "Indiana, United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/manager-data-science-gen-ai-hyderabad-india-at-braintrust-4256300184?position=9&pageNum=10&refId=hGdS2ucejqx8R4yrEpbIUg%3D%3D&trackingId=MffipTly8cY2EBWKgagTYQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Project Coordinator/Analyst",
+        "company": "New Jersey Institute of Technology",
+        "location": "Newark, NJ",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/project-coordinator-analyst-at-new-jersey-institute-of-technology-4257710315?position=10&pageNum=10&refId=hGdS2ucejqx8R4yrEpbIUg%3D%3D&trackingId=swFmnP3qjrPVV5N4kp6HKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Outside Sales Representative Outside Sales",
+        "company": "Builders FirstSource",
+        "location": "Grawn, MI",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-outside-sales-at-builders-firstsource-4092315091?position=1&pageNum=12&refId=3bCHfrk%2BlmlIU9vKMRINcg%3D%3D&trackingId=gY4aL7GFooIu2liR4lqssw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-17 12:41:08",
         "email_sent": false
     }
 ]
