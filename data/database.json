@@ -1,445 +1,5 @@
 [
     {
-        "title": "Data Engineer I",
-        "company": "Lensa",
-        "location": "San Antonio, TX",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-lensa-4268955602?position=1&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=OwrCehDoqVFXzytSpzHYSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Lensa",
-        "location": "Montvale, NJ",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-lensa-4268955557?position=2&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=nwkSCs1RV5VNh1in68W%2BQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Entry Level",
-        "company": "Jobright.ai",
-        "location": "Chicago, IL",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-entry-level-at-jobright-ai-4270984542?position=4&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=LnWrm8xAcXmEuiFGxeowbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer II - Entry Level - (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-entry-level-remote-at-jobright-ai-4270994361?position=5&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=OllHYXowhaSPPSViHDOtHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer (Associate) (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-associate-remote-at-jobright-ai-4270988222?position=6&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=SH8vZOnNKTPTJN1oBF27qg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Entry Level) (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-remote-at-jobright-ai-4270982785?position=7&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=jhQzVApkEiho5hHiIX3osw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Lensa",
-        "location": "Austin, TX",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4268960034?position=11&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=jlrGvKaPjU3d0rlejN%2B6Hg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Lensa",
-        "location": "Washington, DC",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4268958218?position=12&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=mU1SO8%2BglO5w5dpHArqgKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "Lensa",
-        "location": "Boston, MA",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-lensa-4268955571?position=17&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=Lp2QBaKJvwx8Lu4YvMEkwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Lensa",
-        "location": "Raleigh, NC",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4268956513?position=25&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=ivcHVXPNBkTpvFh%2FAC8oSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "Lensa",
-        "location": "Deerfield, IL",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-lensa-4268953941?position=29&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=09H9Rin0GMqwFN%2FV5W6UtQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Lensa",
-        "location": "Princeton, NJ",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4268958291?position=32&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=x3Dykk1mfGYyjwf%2FxHyZWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Front End Data Developer (4374)",
-        "company": "Lensa",
-        "location": "Washington, DC",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/front-end-data-developer-4374-at-lensa-4273662022?position=33&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=oL7FI2LC7ECLj%2F5BM3EbNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "?Junior Software Engineer",
-        "company": "Lensa",
-        "location": "Huntsville, AL",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/%3Fjunior-software-engineer-at-lensa-4268952878?position=35&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=i1kkQ5HETC%2BncoVVhjzSRQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Software Quality Assurance Engineer - Entry Level",
-        "company": "Lensa",
-        "location": "Vienna, VA",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-quality-assurance-engineer-entry-level-at-lensa-4268957519?position=42&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=t8BUBGuTfVBFtZo4GfvqWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Fullstack)",
-        "company": "Lensa",
-        "location": "Troy, MI",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-at-lensa-4268951970?position=45&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=Qb3JMFrRdHH%2FVjWnmbQI1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer ll",
-        "company": "Lensa",
-        "location": "San Francisco, CA",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ll-at-lensa-4268959043?position=46&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=j4J9cS%2BV4%2F1PdgZ%2B1%2FFm2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Intelligence Analyst (CT) - Entry",
-        "company": "Lensa",
-        "location": "Washington, DC",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/intelligence-analyst-ct-entry-at-lensa-4268957508?position=47&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=Si92l5IkufQ1m1H%2FrxSTfQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer, Behavior Planning & Prediction - Entry Level",
-        "company": "Jobright.ai",
-        "location": "Palo Alto, CA",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-behavior-planning-prediction-entry-level-at-jobright-ai-4270982677?position=48&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=tXnJGQDCosPNwBVS8jesAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "SAP Data Analyst (Contract)",
-        "company": "Lensa",
-        "location": "Irving, TX",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sap-data-analyst-contract-at-lensa-4268958300?position=49&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=HjBNsX4Axuh80DVLQrYPGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Integrity Analyst (Associate)",
-        "company": "Jobright.ai",
-        "location": "Northfield, MN",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-integrity-analyst-associate-at-jobright-ai-4270984426?position=50&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=4vR6%2F9dHHvqKn5lBYjtx5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "L.E.K. Consulting",
-        "location": "New York, United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-l-e-k-consulting-4270985487?position=51&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=Vbt%2FftzrEOYZeKszVk2XDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Localization, Calibration & Mapping, Entry Level, (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-localization-calibration-mapping-entry-level-remote-at-jobright-ai-4270989205?position=52&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=tTcVwVOm24DAvPtZIekfLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "UAT Test Analyst/Clinical Data Analyst I - South Africa , Remote - FSP",
-        "company": "Lensa",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/uat-test-analyst-clinical-data-analyst-i-south-africa-remote-fsp-at-lensa-4268956476?position=53&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=9B1uHaqthEoA%2FrHvFNtZwQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer Development Program - Entry Level Power Engineer",
-        "company": "Lensa",
-        "location": "Austin, TX",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-development-program-entry-level-power-engineer-at-lensa-4268951999?position=55&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=066VcxOHMyHugEVqSX4Kog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist I (Entry Level)",
-        "company": "Jobright.ai",
-        "location": "Rochester, New York Metropolitan Area",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-i-entry-level-at-jobright-ai-4270985465?position=56&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=cPw37EnjXrTEFCCLCy1gDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (L3) (Associate) (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-l3-associate-remote-at-jobright-ai-4270986326?position=57&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=S%2FFKU%2FjwVOeQont20BI5nA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "L.E.K. Consulting",
-        "location": "Los Angeles, CA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-l-e-k-consulting-4270988301?position=58&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=m7XEQkqwlTdupqdHFok1ng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Product Data Analyst, Entry Level, (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/product-data-analyst-entry-level-remote-at-jobright-ai-4270996337?position=59&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=RrRzxgmXrPgQ0rmKBojMcA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist - Entry Level - (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-entry-level-remote-at-jobright-ai-4270985613?position=60&pageNum=0&refId=r5o52wzigtROJd3oke9k8w%3D%3D&trackingId=%2FVH4t3G59fplOFdmjOyo7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "Lensa",
-        "location": "Deerfield, IL",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-lensa-4268953941?position=4&pageNum=2&refId=X7QimvBUs2j5SkTau90f1w%3D%3D&trackingId=%2B7%2Fej1qbM8yhhDTmwJuJQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Lensa",
-        "location": "Princeton, NJ",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4268958291?position=7&pageNum=2&refId=X7QimvBUs2j5SkTau90f1w%3D%3D&trackingId=ZaEXzSJKx2BrUKawt2T90A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Front End Data Developer (4374)",
-        "company": "Lensa",
-        "location": "Washington, DC",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/front-end-data-developer-4374-at-lensa-4273662022?position=8&pageNum=2&refId=X7QimvBUs2j5SkTau90f1w%3D%3D&trackingId=k24lqlVKls3TrV9Gk0dN4g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "?Junior Software Engineer",
-        "company": "Lensa",
-        "location": "Huntsville, AL",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/%3Fjunior-software-engineer-at-lensa-4268952878?position=10&pageNum=2&refId=X7QimvBUs2j5SkTau90f1w%3D%3D&trackingId=3VFB7IA2pfoU2d0rZf%2FzVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "L.E.K. Consulting",
-        "location": "New York, United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-l-e-k-consulting-4270985487?position=1&pageNum=5&refId=OeTXFG29hGPiS3BVuC6VFg%3D%3D&trackingId=PtS4N5NBWKnNlac4CdTEog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Localization, Calibration & Mapping, Entry Level, (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-localization-calibration-mapping-entry-level-remote-at-jobright-ai-4270989205?position=2&pageNum=5&refId=OeTXFG29hGPiS3BVuC6VFg%3D%3D&trackingId=gs3eDhTQsUagL7FLwuh9WQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "UAT Test Analyst/Clinical Data Analyst I - South Africa , Remote - FSP",
-        "company": "Lensa",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/uat-test-analyst-clinical-data-analyst-i-south-africa-remote-fsp-at-lensa-4268956476?position=3&pageNum=5&refId=OeTXFG29hGPiS3BVuC6VFg%3D%3D&trackingId=BnaGgDDa1N82qSMCsPdYzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer Development Program - Entry Level Power Engineer",
-        "company": "Lensa",
-        "location": "Austin, TX",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-development-program-entry-level-power-engineer-at-lensa-4268951999?position=5&pageNum=5&refId=OeTXFG29hGPiS3BVuC6VFg%3D%3D&trackingId=VFdmUcZhcqwgGhamsO3tEw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist I (Entry Level)",
-        "company": "Jobright.ai",
-        "location": "Rochester, New York Metropolitan Area",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-i-entry-level-at-jobright-ai-4270985465?position=6&pageNum=5&refId=OeTXFG29hGPiS3BVuC6VFg%3D%3D&trackingId=mzrfHKAPinxTbb4iODSnbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (L3) (Associate) (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-l3-associate-remote-at-jobright-ai-4270986326?position=7&pageNum=5&refId=OeTXFG29hGPiS3BVuC6VFg%3D%3D&trackingId=uBxyTgQKYBkqNXyhtaduPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "L.E.K. Consulting",
-        "location": "Los Angeles, CA",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-l-e-k-consulting-4270988301?position=8&pageNum=5&refId=OeTXFG29hGPiS3BVuC6VFg%3D%3D&trackingId=kUY%2BgtVQ%2Bd%2BHxSLYYT2e3w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Product Data Analyst, Entry Level, (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/product-data-analyst-entry-level-remote-at-jobright-ai-4270996337?position=9&pageNum=5&refId=OeTXFG29hGPiS3BVuC6VFg%3D%3D&trackingId=WdfEKVfKDAABrzw7CB1vDw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist - Entry Level - (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-entry-level-remote-at-jobright-ai-4270985613?position=10&pageNum=5&refId=OeTXFG29hGPiS3BVuC6VFg%3D%3D&trackingId=TWh5u3EDxzyEcZfbGKHMhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
-        "title": "Industrial Engineering Assistant",
-        "company": "General Dynamics Electric Boat",
-        "location": "North Kingstown, RI",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/industrial-engineering-assistant-at-general-dynamics-electric-boat-4270982605?position=1&pageNum=7&refId=CzCevKKL0wOD%2F42teIrC6g%3D%3D&trackingId=KJ0v%2F0UgT2CXPwi1XR3HWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-23 09:02:15",
-        "email_sent": false
-    },
-    {
         "title": "Junior Data Engineer / Analyst (Remote)",
         "company": "Lensa",
         "location": "United States",
@@ -1067,6 +627,466 @@
         "url": "https://www.linkedin.com/jobs/view/marine-corps-it-engineering-logistics-support-at-uicgs-bowhead-family-of-companies-4139177496?position=5&pageNum=15&refId=rIvGEP6CFqnKsoJRW%2FjWZg%3D%3D&trackingId=m3VI%2B%2B4KjOclcEQfUNkgKA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-07-23 09:55:20",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "KBR, Inc.",
+        "location": "San Antonio, TX",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-kbr-inc-4273994925?position=6&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=ei%2F%2BPs4p33v2JlYlyq6UWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "CVS Health",
+        "location": "Austin, TX",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cvs-health-4274101743?position=8&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=6q6O39yV30fut9Jp1UUapQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Transformation Engineer",
+        "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
+        "location": "Kansas City, MO",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-transformation-engineer-at-caresignal%C2%AE-%E2%80%93-lightbeam-s-deviceless-remote-patient-monitoring-4273995662?position=9&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=7NZtQKYWeCkQPL8CfOsN5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "AI Software Engineer",
+        "company": "Lockheed Martin",
+        "location": "King of Prussia, PA",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-software-engineer-at-lockheed-martin-4271487326?position=10&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=bjcmsI8%2Bit%2BblnQf1qJiDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Transformation Engineer",
+        "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
+        "location": "Dallas, TX",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-transformation-engineer-at-caresignal%C2%AE-%E2%80%93-lightbeam-s-deviceless-remote-patient-monitoring-4273995664?position=11&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=TGv7ffKYist8sY8Tro0jaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Transformation Engineer",
+        "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
+        "location": "Horsham, PA",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-transformation-engineer-at-caresignal%C2%AE-%E2%80%93-lightbeam-s-deviceless-remote-patient-monitoring-4273993774?position=12&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=2iG2x84fjhitqDmFrrc4rQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analytics Engineer (Associate) (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "51 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analytics-engineer-associate-remote-at-jobright-ai-4270996672?position=16&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=lmBcbTC%2F3LzXFyJX%2BgyIJQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - level 2",
+        "company": "Lockheed Martin",
+        "location": "Fort Worth, TX",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-level-2-at-lockheed-martin-4273979565?position=18&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=a5TRmyO7sv9DxUbGF3WnkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer (Entry Level) (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-entry-level-remote-at-jobright-ai-4270992746?position=21&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=6WqGU2ta6favpMRLgIX7SA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Remote",
+        "company": "UnitedHealthcare",
+        "location": "Minnetonka, MN",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-unitedhealthcare-4273995858?position=24&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=TVmncE2b%2FMbZNoNmzAD%2FcQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Healthgrades",
+        "company": "RVO Health",
+        "location": "Minneapolis, MN",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-healthgrades-at-rvo-health-4248338994?position=31&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=STrXBddGrjmGwoPm07b9ZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Chewy",
+        "location": "Bellevue, WA",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-chewy-4273981935?position=37&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=XZh8S3PMjFXODcTyTtfPzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend (Toronto, Hybrid / Remote)",
+        "company": "Lensa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-toronto-hybrid-remote-at-lensa-4268959749?position=40&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=BLXSIlYYWlH3i%2FMnQn5wLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II (Backend), Discovery Experience",
+        "company": "Uber",
+        "location": "Sunnyvale, CA",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-backend-discovery-experience-at-uber-4274105313?position=41&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=aVU2My%2BlwVcOCWAy1l8XiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II (Backend), Discovery Experience",
+        "company": "Uber",
+        "location": "San Francisco, CA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-backend-discovery-experience-at-uber-4274102899?position=43&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=g9htZuX8%2FUmViuv3fsv1rw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, API and Zones",
+        "company": "Cloudflare",
+        "location": "Denver, CO",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-and-zones-at-cloudflare-4246016522?position=44&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=md67veEfGM5MsRdbTIS45g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Marketing Data Analyst",
+        "company": "Lensa",
+        "location": "Atlanta, GA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/marketing-data-analyst-at-lensa-4268965113?position=45&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=XNtnVAoHbC3etGvFPVkR6Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "Kforce Inc",
+        "location": "Jersey City, NJ",
+        "date_posted": "57 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-kforce-inc-4258798645?position=46&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=yy2ESAnShs4yxiLTQ6ALXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Test Engineer, Entry",
+        "company": "Lensa",
+        "location": "Orlando, FL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-entry-at-lensa-4268965197?position=47&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=Z4kCxCxEn4c6fMf6chrwfw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Gameplay",
+        "company": "Lensa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-gameplay-at-lensa-4268963561?position=48&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=dEsJw3BQfAZkxl4oXcZUMA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, API and Zones",
+        "company": "Cloudflare",
+        "location": "Atlanta, GA",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-and-zones-at-cloudflare-4246013776?position=49&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=YaCv9Brdz8b5NjXHmIUOpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Generative AI Software Engineer",
+        "company": "Toyota North America",
+        "location": "Plano, TX",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/generative-ai-software-engineer-at-toyota-north-america-4274112060?position=50&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=7o89So%2BHZ1zjyjL%2B7SEy2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Cubic Corporation",
+        "location": "San Diego, CA",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cubic-corporation-4273994313?position=52&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=uxNcF%2FqnSVKhP1G3jHkeaQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Software Engineer",
+        "company": "Northslope Technologies",
+        "location": "New York, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-at-northslope-technologies-4218796460?position=55&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=8XtXYFO%2B5s3IVJuhPjuaoQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Software Engineer (Java, Trading System)",
+        "company": "Kforce Inc",
+        "location": "Jersey City, NJ",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-java-trading-system-at-kforce-inc-4258797689?position=58&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=hQym33KO4X%2F1aAyEjQqCGw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst II",
+        "company": "Lockton",
+        "location": "Kansas City, MO",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-lockton-4273992214?position=60&pageNum=0&refId=C69MKUmph60PH6pR2UwE1Q%3D%3D&trackingId=KTCxoMp0iOYgArVazofLmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Healthgrades",
+        "company": "RVO Health",
+        "location": "Minneapolis, MN",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-healthgrades-at-rvo-health-4248338994?position=7&pageNum=2&refId=oNFz%2Fe6bJ%2FrHmhjlOgPYjQ%3D%3D&trackingId=04PnXEdJ9drn0NKhrBdVvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Generative AI Software Engineer",
+        "company": "Toyota North America",
+        "location": "Plano, TX",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/generative-ai-software-engineer-at-toyota-north-america-4274112060?position=1&pageNum=5&refId=cm4xKAu21%2BPmH%2BhzQ%2B2pSg%3D%3D&trackingId=x038Ks6divyz7lIJYWjyiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Cubic Corporation",
+        "location": "San Diego, CA",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cubic-corporation-4273994313?position=3&pageNum=5&refId=cm4xKAu21%2BPmH%2BhzQ%2B2pSg%3D%3D&trackingId=g2nEhBA7sVCk2ADhTxx1jQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Software Engineer",
+        "company": "Northslope Technologies",
+        "location": "New York, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-at-northslope-technologies-4218796460?position=6&pageNum=5&refId=cm4xKAu21%2BPmH%2BhzQ%2B2pSg%3D%3D&trackingId=Dyrtom2v7GaqyxDelzuA9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Software Engineer (Java, Trading System)",
+        "company": "Kforce Inc",
+        "location": "Jersey City, NJ",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-java-trading-system-at-kforce-inc-4258797689?position=9&pageNum=5&refId=cm4xKAu21%2BPmH%2BhzQ%2B2pSg%3D%3D&trackingId=GY%2FPO3BJmvg8miXyvSOkAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Online Data Research, Entry Level, (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/online-data-research-entry-level-remote-at-jobright-ai-4270994531?position=1&pageNum=7&refId=OOMzoHXwyZz6bBbandcrtg%3D%3D&trackingId=Gr663%2BbeZOiBJ%2F7vR%2FW7gg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Arc Flash Electrical Engineer",
+        "company": "Enercon Services, Inc.",
+        "location": "United States",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/arc-flash-electrical-engineer-at-enercon-services-inc-4243010232?position=2&pageNum=7&refId=OOMzoHXwyZz6bBbandcrtg%3D%3D&trackingId=6fVLXWs8zoAAwU94ukMjJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Network Architect",
+        "company": "Kforce Inc",
+        "location": "Leawood, KS",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/network-architect-at-kforce-inc-4255377207?position=3&pageNum=7&refId=OOMzoHXwyZz6bBbandcrtg%3D%3D&trackingId=xFYigmI3eeP7VGJ7wwN2oA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Fullstack",
+        "company": "Pave",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-at-pave-4274103400?position=4&pageNum=7&refId=OOMzoHXwyZz6bBbandcrtg%3D%3D&trackingId=%2BH8DXOYIk4W%2BWXoyLbpg1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Arc Flash Electrical Engineer",
+        "company": "Enercon Services, Inc.",
+        "location": "Emeryville, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/arc-flash-electrical-engineer-at-enercon-services-inc-4243015014?position=5&pageNum=7&refId=OOMzoHXwyZz6bBbandcrtg%3D%3D&trackingId=Zkf5p%2FEuD31QSh8jWf%2Fz2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst II - Vendor Success",
+        "company": "Corpay",
+        "location": "Richmond, VA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-vendor-success-at-corpay-4273976685?position=8&pageNum=7&refId=OOMzoHXwyZz6bBbandcrtg%3D%3D&trackingId=IiCfd7fz78bhMIwDGUTVlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist II, Actuarial Research",
+        "company": "Root Inc.",
+        "location": "United States",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-actuarial-research-at-root-inc-4273994745?position=1&pageNum=10&refId=3vb2UyjYD4uI1AhGAX7G1Q%3D%3D&trackingId=%2Bo2N%2B49n4t0%2FJegwQxGgag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer Development Program - Entry Level Power Engineer",
+        "company": "ERCOT",
+        "location": "Austin, TX",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-development-program-entry-level-power-engineer-at-ercot-4274111367?position=2&pageNum=10&refId=3vb2UyjYD4uI1AhGAX7G1Q%3D%3D&trackingId=L0bV6mwLSLK3u6h19%2BOmHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist Bitterman Lab",
+        "company": "Brigham and Women's Hospital",
+        "location": "Boston, MA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-bitterman-lab-at-brigham-and-women-s-hospital-4274108419?position=3&pageNum=10&refId=3vb2UyjYD4uI1AhGAX7G1Q%3D%3D&trackingId=MopCNy2JHMdIEY5L1sj5RQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Elections Data Scientist (Newsperson)",
+        "company": "The Associated Press",
+        "location": "Washington, DC",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/elections-data-scientist-newsperson-at-the-associated-press-4273992914?position=7&pageNum=10&refId=3vb2UyjYD4uI1AhGAX7G1Q%3D%3D&trackingId=qtkFfYQ67MUU6HhASSvzOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Associate, (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "51 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-associate-remote-at-jobright-ai-4270997430?position=9&pageNum=10&refId=3vb2UyjYD4uI1AhGAX7G1Q%3D%3D&trackingId=1%2Fy1MrSlPQmA8OmhNjPyYg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist \u2013 Retail Analytics",
+        "company": "CVS Health",
+        "location": "Wellesley Hills, MA",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-retail-analytics-at-cvs-health-4274103680?position=10&pageNum=10&refId=3vb2UyjYD4uI1AhGAX7G1Q%3D%3D&trackingId=mwbzb3dkWtMchb5jcmPr4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Operating Engineer (Data Center)",
+        "company": "JLL",
+        "location": "Elk Grove Village, IL",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/operating-engineer-data-center-at-jll-4274103935?position=3&pageNum=12&refId=mG1yxLfLjbBC6MVw36IyLA%3D%3D&trackingId=%2Fzqbpq8cRlxSxz1qb9EmJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "Maintenance Technician",
+        "company": "The Westin La Paloma Resort & Spa",
+        "location": "Tucson, AZ",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/maintenance-technician-at-the-westin-la-paloma-resort-spa-4273992714?position=5&pageNum=12&refId=mG1yxLfLjbBC6MVw36IyLA%3D%3D&trackingId=OVi34iB0LvN6IymTk2sogw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
+        "email_sent": false
+    },
+    {
+        "title": "HVAC Technician",
+        "company": "JLL",
+        "location": "Huntsville, AL",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/hvac-technician-at-jll-4274105742?position=6&pageNum=12&refId=mG1yxLfLjbBC6MVw36IyLA%3D%3D&trackingId=BvDfdwo%2FOLx7QitMl4vzAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-23 10:22:39",
         "email_sent": false
     }
 ]
