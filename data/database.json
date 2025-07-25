@@ -1,395 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Echo Global Logistics",
-        "location": "Chicago, IL",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-echo-global-logistics-4253434510?position=1&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=hS%2FfVVpUN57jOe%2FKXljkJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Data Insights",
-        "company": "Cloudflare",
-        "location": "Austin, TX",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-data-insights-at-cloudflare-4232240451?position=2&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=RmuDIVWdzfvpixqlltHCXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer (Associate) (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-associate-remote-at-jobright-ai-4272044318?position=5&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=Dvhk3OHusAGPjOP9zNh1Jg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, AI Infrastructure",
-        "company": "Robinhood",
-        "location": "Menlo Park, CA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-infrastructure-at-robinhood-4247936431?position=8&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=AfMfAMugvU%2BF3MV%2B5JNYdA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Transformation Engineer",
-        "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
-        "location": "Horsham, PA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-transformation-engineer-at-caresignal%C2%AE-%E2%80%93-lightbeam-s-deviceless-remote-patient-monitoring-4275588516?position=10&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=24mP4l%2FZ2tGiAFceF2RTOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Transformation Engineer",
-        "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
-        "location": "Dallas, TX",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-transformation-engineer-at-caresignal%C2%AE-%E2%80%93-lightbeam-s-deviceless-remote-patient-monitoring-4275594242?position=11&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=XN01EAt7s2QDkzZcuYRfnw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist and Machine Learning Engineer, Entry Level, (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-and-machine-learning-engineer-entry-level-remote-at-jobright-ai-4272050606?position=20&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=rH3xef80%2Fs3ZLOvoqpmj8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II, Entry Level",
-        "company": "Jobright.ai",
-        "location": "San Francisco Bay Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-entry-level-at-jobright-ai-4272015666?position=27&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=BWHNGaXNch1Phbnnc4g7zQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Entry Level",
-        "company": "Jobright.ai",
-        "location": "Jersey City, NJ",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-entry-level-at-jobright-ai-4272051609?position=29&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=Tg477umnBGFuC68wazN5Vw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II - Data Platform, Entry Level",
-        "company": "Jobright.ai",
-        "location": "Provo, UT",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-data-platform-entry-level-at-jobright-ai-4272045952?position=30&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=HEdqfEcxtF9J%2BMP0BaLCqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Dev Engineer II",
-        "company": "Aditi Consulting",
-        "location": "Sunnyvale, CA",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-dev-engineer-ii-at-aditi-consulting-4261719530?position=34&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=T8Q1r2HHzh4CLc3e9iTnSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "AI Engineer, VDC - Associate - (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-vdc-associate-remote-at-jobright-ai-4272046997?position=37&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=hn2tn%2Fzb956aH7hJ7TO9hw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "New York, NY",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275589432?position=41&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=kHZmsOF7cv2ZlcOaUwKfBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "Atlanta, GA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275592303?position=42&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=KHSFFFpbBR%2BNEyJe1YiZzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer, Associate",
-        "company": "Jobright.ai",
-        "location": "Palo Alto, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-associate-at-jobright-ai-4272015622?position=44&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=M%2Fh5fFgUvJpbwcMbmx5eWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "Denver, CO",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275591341?position=45&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=LLmW4dlR3IOF4jVBzGZ4VQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "Dallas, TX",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275587459?position=50&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=X7j%2Fl2kG8HKAwebXaIHv%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "Austin, TX",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275592304?position=51&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=yaXiC3rDn%2FR6SHMD6FipPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "Minneapolis, MN",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275590352?position=53&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=y7ImOzFu1N5prXtgwU977g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "Houston, TX",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275589433?position=54&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=9ju0H1lKkEbDMecIRoxK1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "Washington, DC",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275592302?position=55&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=JeN5Z6Q4%2BSmlOHIzQEYr7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "Boston, MA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275587458?position=56&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=BzHc8n9vsxhkTK6TdDzJ3Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "San Francisco, CA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275589431?position=57&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=zcWLvttCyEdbjkxj2aK28A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer in Test",
-        "company": "Jobot",
-        "location": "Rockville, MD",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-jobot-4270160478?position=59&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=LfQzigUunUrpOjCpIFxNMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer 2 - Backend, Apps Foundation (Associate) (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-2-backend-apps-foundation-associate-remote-at-jobright-ai-4272050583?position=60&pageNum=0&refId=EqVZO1WFlVYuvuJD3ScE4g%3D%3D&trackingId=vWxaRsPS9OA32cuLCIruDA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II, Entry Level",
-        "company": "Jobright.ai",
-        "location": "San Francisco Bay Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-entry-level-at-jobright-ai-4272015666?position=2&pageNum=2&refId=%2BtMxCr6VopLLaPWXSqnfkA%3D%3D&trackingId=WCdoAFLBLfcT0m6iNpbQPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Entry Level",
-        "company": "Jobright.ai",
-        "location": "Jersey City, NJ",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-entry-level-at-jobright-ai-4272051609?position=4&pageNum=2&refId=%2BtMxCr6VopLLaPWXSqnfkA%3D%3D&trackingId=KXGyjEJE3w8OShklJqn0dg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II - Data Platform, Entry Level",
-        "company": "Jobright.ai",
-        "location": "Provo, UT",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-data-platform-entry-level-at-jobright-ai-4272045952?position=5&pageNum=2&refId=%2BtMxCr6VopLLaPWXSqnfkA%3D%3D&trackingId=FXa6%2B9WE9IqWOHzKTC8CZw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Dev Engineer II",
-        "company": "Aditi Consulting",
-        "location": "Sunnyvale, CA",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-dev-engineer-ii-at-aditi-consulting-4261719530?position=10&pageNum=2&refId=%2BtMxCr6VopLLaPWXSqnfkA%3D%3D&trackingId=x%2FA3vjA8rIsKJaRYft0xjA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "Austin, TX",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275592304?position=1&pageNum=5&refId=TShNHh0p80yAYdD04ieHtg%3D%3D&trackingId=dI2olLf3oZOJwJ8K6DtlLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "Minneapolis, MN",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275590352?position=3&pageNum=5&refId=TShNHh0p80yAYdD04ieHtg%3D%3D&trackingId=LLi9fTkLGmTzxs1inEiV7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "Houston, TX",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275589433?position=4&pageNum=5&refId=TShNHh0p80yAYdD04ieHtg%3D%3D&trackingId=wPZvQjDVDE01KyMrmixOyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "Washington, DC",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275592302?position=5&pageNum=5&refId=TShNHh0p80yAYdD04ieHtg%3D%3D&trackingId=t8KbszpChJiIxzZoKxQYuQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "Boston, MA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275587458?position=6&pageNum=5&refId=TShNHh0p80yAYdD04ieHtg%3D%3D&trackingId=eNaBRyw28BzsOhbOsRWIvg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer, application via RippleMatch",
-        "company": "RippleMatch",
-        "location": "San Francisco, CA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-application-via-ripplematch-at-ripplematch-4275589431?position=7&pageNum=5&refId=TShNHh0p80yAYdD04ieHtg%3D%3D&trackingId=tWsVczyLwUkpEGOkzxJTUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer in Test",
-        "company": "Jobot",
-        "location": "Rockville, MD",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-jobot-4270160478?position=9&pageNum=5&refId=TShNHh0p80yAYdD04ieHtg%3D%3D&trackingId=GdCJL28ixy5LU8m%2BM7SjfQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer 2 - Backend, Apps Foundation (Associate) (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-2-backend-apps-foundation-associate-remote-at-jobright-ai-4272050583?position=10&pageNum=5&refId=TShNHh0p80yAYdD04ieHtg%3D%3D&trackingId=vZ864iRvN20%2FhSCwFMQwxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, R&D (Entry Level) (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-r-d-entry-level-remote-at-jobright-ai-4272050665?position=7&pageNum=7&refId=yN9aAx645961e%2F%2FDziqwIw%3D%3D&trackingId=EfMmuMZszfcCQpRbqyDeyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Research Analyst - Level 5 or Level 6 - R10200738-7",
-        "company": "Northrop Grumman",
-        "location": "Redondo Beach, CA",
-        "date_posted": "57 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/operations-research-analyst-level-5-or-level-6-r10200738-7-at-northrop-grumman-4265923311?position=1&pageNum=10&refId=PjoJVUzArGEPJ4bFOf%2FrIA%3D%3D&trackingId=%2BMXg9aT5nlU8daDAjzURzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-25 10:01:00",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer I, Foundation - Seattle and Reston",
         "company": "Qualtrics",
         "location": "Reston, VA",
@@ -1277,6 +887,336 @@
         "url": "https://www.linkedin.com/jobs/view/training-specialist-at-summit-companies-4261762685?position=10&pageNum=12&refId=RkQWtYbFTJ3JdGBC%2FfPQBg%3D%3D&trackingId=XIYnRwt%2B%2FA6Kj5mboCg1Dw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-07-25 10:53:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer Associate (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-associate-remote-at-jobright-ai-4272053822?position=4&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=a4zXeI9vhvw8oj4RdG3NyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Fulfillment, Entry Level",
+        "company": "Jobright.ai",
+        "location": "Philadelphia, PA",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-fulfillment-entry-level-at-jobright-ai-4272058303?position=5&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=eVG1H2LEn3cKsfwWOFh%2Bow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "California, United States",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4272055620?position=14&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=Ku4cfe3XhJl%2FyEM4fgGfHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "Virginia, United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4272059314?position=16&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=qKl0ehPzeZ%2Ffsu8o2op7UQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "Massachusetts, United States",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4272058337?position=17&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=Meuqi0XQCE4ujtEDnxftDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "Texas, United States",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4272060210?position=18&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=qPa%2Fg2SShWnUhgJcjeufyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "Texas, United States",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4272058355?position=19&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=%2FbzNZ8U9XV8L3Rvozw7d4A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "Washington, United States",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4272056615?position=23&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=p5O4UUqUGbEJ6a256j3oJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Fullstack - Entry Level - (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-entry-level-remote-at-jobright-ai-4272053769?position=30&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=%2BEB9tXaErwF8e44zFQRUkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I, Fullstack - Entry Level - (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-entry-level-remote-at-jobright-ai-4272060327?position=31&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=xUhokYv%2BCZNboqnETAwbvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - GenAI (Full-Stack), Entry Level, (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-genai-full-stack-entry-level-remote-at-jobright-ai-4272057479?position=33&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=5zHTv6dY97U8b%2FuYFBvAKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Fullstack - Entry Level",
+        "company": "Jobright.ai",
+        "location": "New York, United States",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-entry-level-at-jobright-ai-4272060199?position=34&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=llScgKkchUpCzXDmZSHTqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Cloud Business Data Analyst",
+        "company": "Advocate Health",
+        "location": "Oak Brook, IL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/cloud-business-data-analyst-at-advocate-health-4275591476?position=40&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=UIVHcQET3sA2J%2FUpblrp8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Mobile Software Engineer II",
+        "company": "AppFolio",
+        "location": "Santa Barbara, CA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mobile-software-engineer-ii-at-appfolio-4219199106?position=41&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=MWhioJN14cQuSCvU%2BL%2BIdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - I&C (Instrumentation & Controls)",
+        "company": "GE Vernova",
+        "location": "Wilmington, NC",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-c-instrumentation-controls-at-ge-vernova-4261765593?position=45&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=Q%2Fdcft5Xw5HWWK4LvufO9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Model Based Software Engineer - DC-DC",
+        "company": "Lucid Motors",
+        "location": "Newark, CA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/model-based-software-engineer-dc-dc-at-lucid-motors-4231602590?position=47&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=pyiuSbUioXrrmE7tQAWJ6g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "L.E.K. Consulting",
+        "location": "Boston, MA",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-l-e-k-consulting-4272056191?position=49&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=SAvRCLpEGg%2FeY7mTodVEBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "System Development Engineer, STRADA",
+        "company": "myGwork - LGBTQ+ Business Community",
+        "location": "Minneapolis, MN",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-development-engineer-strada-at-mygwork-lgbtq%2B-business-community-4270161842?position=52&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=0AHNumL6%2Bs9QcSh2rLsXvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Java, React) - Associate - (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-react-associate-remote-at-jobright-ai-4272057457?position=53&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=2ioy2yMtLnLy0Tv1yyAHrg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, IVR - Entry Level",
+        "company": "Jobright.ai",
+        "location": "Greater Chicago Area",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ivr-entry-level-at-jobright-ai-4272055687?position=57&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=aNg3mbXWg1C6rPc%2FHkKUaw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Emulation Tooling and Modeling",
+        "company": "STR",
+        "location": "Woburn, MA",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-emulation-tooling-and-modeling-at-str-4246507894?position=58&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=4DTdLH0L6t6tKvo%2By6Dy4A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist 2 - Robotics",
+        "company": "SLAS (Society for Laboratory Automation and Screening)",
+        "location": "Richland, WA",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-2-robotics-at-slas-society-for-laboratory-automation-and-screening-4272053435?position=60&pageNum=0&refId=P%2FcP%2FUnpqGNVHJF3HLO3Tg%3D%3D&trackingId=mvB9cDcq6N9NRws50lt%2F5A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Fullstack - Entry Level - (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-entry-level-remote-at-jobright-ai-4272053769?position=5&pageNum=2&refId=OW0gYfjNJZQr7Zi9wn0AUQ%3D%3D&trackingId=hiyDtkc7rgc%2FK8XHecW0MA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I, Fullstack - Entry Level - (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-fullstack-entry-level-remote-at-jobright-ai-4272060327?position=6&pageNum=2&refId=OW0gYfjNJZQr7Zi9wn0AUQ%3D%3D&trackingId=82izeZhUxqwD5n8d%2Bqoi%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - GenAI (Full-Stack), Entry Level, (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-genai-full-stack-entry-level-remote-at-jobright-ai-4272057479?position=8&pageNum=2&refId=OW0gYfjNJZQr7Zi9wn0AUQ%3D%3D&trackingId=dUq0UtuxyryA2hNbX%2BH9jg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Fullstack - Entry Level",
+        "company": "Jobright.ai",
+        "location": "New York, United States",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-entry-level-at-jobright-ai-4272060199?position=9&pageNum=2&refId=OW0gYfjNJZQr7Zi9wn0AUQ%3D%3D&trackingId=V602Ml%2BLXF0Bav3CAAMrmg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "System Development Engineer, STRADA",
+        "company": "myGwork - LGBTQ+ Business Community",
+        "location": "Minneapolis, MN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/system-development-engineer-strada-at-mygwork-lgbtq%2B-business-community-4270161842?position=2&pageNum=5&refId=Sj8zrn7w7pqHmzUz6bAWRQ%3D%3D&trackingId=A78ZOig%2FOLwm4P3%2FH0hg%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Java, React) - Associate - (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-react-associate-remote-at-jobright-ai-4272057457?position=3&pageNum=5&refId=Sj8zrn7w7pqHmzUz6bAWRQ%3D%3D&trackingId=Ut5M7%2FaYCvT5tXZuT5dWcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, IVR - Entry Level",
+        "company": "Jobright.ai",
+        "location": "Greater Chicago Area",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ivr-entry-level-at-jobright-ai-4272055687?position=7&pageNum=5&refId=Sj8zrn7w7pqHmzUz6bAWRQ%3D%3D&trackingId=Pvr0FBn70O7iXxXovCfr9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Emulation Tooling and Modeling",
+        "company": "STR",
+        "location": "Woburn, MA",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-emulation-tooling-and-modeling-at-str-4246507894?position=8&pageNum=5&refId=Sj8zrn7w7pqHmzUz6bAWRQ%3D%3D&trackingId=roVr7WApyVi1RGlfSs6V%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist 2 - Robotics",
+        "company": "SLAS (Society for Laboratory Automation and Screening)",
+        "location": "Richland, WA",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-2-robotics-at-slas-society-for-laboratory-automation-and-screening-4272053435?position=10&pageNum=5&refId=Sj8zrn7w7pqHmzUz6bAWRQ%3D%3D&trackingId=Hk3s98sN6F82v4Sbhq4h4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Feasibility Analyst II",
+        "company": "Premier Research",
+        "location": "United States",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/feasibility-analyst-ii-at-premier-research-4233876430?position=4&pageNum=7&refId=KgdSXKlda6F5p68irSDz8g%3D%3D&trackingId=XJkNhOi6jHgWenfnI8eYkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
+        "email_sent": false
+    },
+    {
+        "title": "Validation Lab Test Technician (Onsite)",
+        "company": "MAHLE",
+        "location": "Lockport, NY",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/validation-lab-test-technician-onsite-at-mahle-4267013206?position=5&pageNum=7&refId=KgdSXKlda6F5p68irSDz8g%3D%3D&trackingId=OTRg1LCc6mwc%2BY9xF7zb9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-25 11:18:57",
         "email_sent": false
     }
 ]
