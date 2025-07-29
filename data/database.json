@@ -1,545 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Net2Source (N2S)",
-        "location": "Foster City, CA",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-net2source-n2s-4277488189?position=2&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=9760SOAjh0FV8U9KHHk%2FIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:38",
-        "email_sent": false
-    },
-    {
-        "title": "New Grad Data Engineer \u2013 Ads Data",
-        "company": "Jobright.ai",
-        "location": "San Jose, CA",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/new-grad-data-engineer-%E2%80%93-ads-data-at-jobright-ai-4273560586?position=5&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=OrrIBcKzGMfZJOplZcRiNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:38",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Engineer \u2013 Data Science",
-        "company": "Jobright.ai",
-        "location": "San Diego, CA",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-%E2%80%93-data-science-at-jobright-ai-4273564270?position=8&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=zq5j9bSW%2FEhDBAujfTy41A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:38",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Engineer",
-        "company": "Jobright.ai",
-        "location": "Arlington, TX",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-jobright-ai-4273563630?position=14&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=bWrHBEF7E9BjNcma6BBscw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:38",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Engineer \u2013 Tourism Economics",
-        "company": "Jobright.ai",
-        "location": "Philadelphia, PA",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-%E2%80%93-tourism-economics-at-jobright-ai-4273558740?position=25&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=xIaBoP2XDF79nlJDxRaePA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Engineer \u2013 Wealth Management",
-        "company": "Jobright.ai",
-        "location": "Richardson, TX",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-%E2%80%93-wealth-management-at-jobright-ai-4273560439?position=26&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=TVJnM%2BhCfVLNetg4CYqwKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer \u2013 Data Platform",
-        "company": "Jobright.ai",
-        "location": "Santa Clara County, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-data-platform-at-jobright-ai-4273562604?position=31&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=Hq8WgD4SyHVRknsH61sjVw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer \u2013 Google Cloud Data",
-        "company": "Jobright.ai",
-        "location": "Sunnyvale, CA",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-google-cloud-data-at-jobright-ai-4273558604?position=33&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=aqqA6%2B7mfa2PgW%2F1zFgFBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "Jobright.ai",
-        "location": "Cleveland, OH",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-jobright-ai-4273565315?position=34&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=1leFs%2BpJl7pwDsi6pFnYaw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst \u2013 Tech Refresh, New Grad",
-        "company": "Jobright.ai",
-        "location": "Chantilly, VA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-%E2%80%93-tech-refresh-new-grad-at-jobright-ai-4273558574?position=39&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=6zrVcRaCizbP22rc6D7nMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "T-Mobile",
-        "location": "Atlanta, GA",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-t-mobile-4277495381?position=40&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=np7wGuD2t%2F8JjVkWd9czBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Trust Data Analyst",
-        "company": "Jobright.ai",
-        "location": "Columbus, Ohio Metropolitan Area",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-trust-data-analyst-at-jobright-ai-4273560740?position=42&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=F9Oyy4gtQCyPdI6Nd5JsPQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst \u2013 Emerging Talent Intern, New Grad",
-        "company": "Jobright.ai",
-        "location": "New York, United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-%E2%80%93-emerging-talent-intern-new-grad-at-jobright-ai-4273562631?position=48&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=ASGKwrckRVzsiHD511vFLA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Digital Solution Engineer \u2013 Data Platform",
-        "company": "Jobright.ai",
-        "location": "Dallas, TX",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-digital-solution-engineer-%E2%80%93-data-platform-at-jobright-ai-4273560478?position=51&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=4%2FFj1aqLSqXs3WKILkuyPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "New Grad Data Analyst \u2013 Automatic Camera Enforcement",
-        "company": "Jobright.ai",
-        "location": "New York, United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/new-grad-data-analyst-%E2%80%93-automatic-camera-enforcement-at-jobright-ai-4273558754?position=52&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=NQaEsM4B0qiu1kX6P7KqHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Insights Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-insights-analyst-at-wiraa-4277239273?position=53&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=FZeoqVJBKr5bHGK0QwQOqA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst \u2013 CoC",
-        "company": "Jobright.ai",
-        "location": "Washington, United States",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-%E2%80%93-coc-at-jobright-ai-4273558550?position=55&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=OU1LkvlljzMEoi2RUJclyg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Wells Fargo",
-        "location": "Charlotte, NC",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-wells-fargo-4277492659?position=59&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=2swQv%2FVgxfJS%2BLSMWoACUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Architect",
-        "company": "Jobright.ai",
-        "location": "Newark, NJ",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-architect-at-jobright-ai-4273558696?position=60&pageNum=0&refId=I1Dck2iDPzZVVOqaIq5tnA%3D%3D&trackingId=3vGN6m3dQlu4P0Fx8Fzbog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Engineer \u2013 Wealth Management",
-        "company": "Jobright.ai",
-        "location": "Richardson, TX",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-%E2%80%93-wealth-management-at-jobright-ai-4273560439?position=1&pageNum=2&refId=MGY250xumu233PiieijKNw%3D%3D&trackingId=c%2FeKzineGsx3KZQqP8%2Fcog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer \u2013 Data Platform",
-        "company": "Jobright.ai",
-        "location": "Santa Clara County, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-data-platform-at-jobright-ai-4273562604?position=6&pageNum=2&refId=MGY250xumu233PiieijKNw%3D%3D&trackingId=uqRtTzY%2Bz7xcdDdG1QdNdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer \u2013 Google Cloud Data",
-        "company": "Jobright.ai",
-        "location": "Sunnyvale, CA",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-google-cloud-data-at-jobright-ai-4273558604?position=8&pageNum=2&refId=MGY250xumu233PiieijKNw%3D%3D&trackingId=BnpDoz4WyOb%2F4AOpaxAnww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "Jobright.ai",
-        "location": "Cleveland, OH",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-jobright-ai-4273565315?position=9&pageNum=2&refId=MGY250xumu233PiieijKNw%3D%3D&trackingId=fLYmuIyLaHPtF9bprd2UBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Digital Solution Engineer \u2013 Data Platform",
-        "company": "Jobright.ai",
-        "location": "Dallas, TX",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-digital-solution-engineer-%E2%80%93-data-platform-at-jobright-ai-4273560478?position=2&pageNum=5&refId=4Oe04jZBOwHyJV2y1OJkuQ%3D%3D&trackingId=1aNu1OeBSZEG0FsuwqGjUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "New Grad Data Analyst \u2013 Automatic Camera Enforcement",
-        "company": "Jobright.ai",
-        "location": "New York, United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/new-grad-data-analyst-%E2%80%93-automatic-camera-enforcement-at-jobright-ai-4273558754?position=3&pageNum=5&refId=4Oe04jZBOwHyJV2y1OJkuQ%3D%3D&trackingId=1XnXYb6sDqNvoSdK6UW5kQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Insights Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-insights-analyst-at-wiraa-4277239273?position=4&pageNum=5&refId=4Oe04jZBOwHyJV2y1OJkuQ%3D%3D&trackingId=P8pFNlTCrU9AKFRjX1h6SA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst \u2013 CoC",
-        "company": "Jobright.ai",
-        "location": "Washington, United States",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-%E2%80%93-coc-at-jobright-ai-4273558550?position=6&pageNum=5&refId=4Oe04jZBOwHyJV2y1OJkuQ%3D%3D&trackingId=yCpaXD6eZy4fPIBJgne9sg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Wells Fargo",
-        "location": "Charlotte, NC",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-wells-fargo-4277492659?position=10&pageNum=5&refId=4Oe04jZBOwHyJV2y1OJkuQ%3D%3D&trackingId=t5qnNs2CtZSFXvxRdFVmww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Scientist \u2013 Advertising Finance",
-        "company": "Jobright.ai",
-        "location": "Seattle, WA",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-%E2%80%93-advertising-finance-at-jobright-ai-4273563363?position=7&pageNum=7&refId=m8EfDzY24xNHFPDlJMkwAQ%3D%3D&trackingId=h0xSmSFTFIWSxun1yM9DfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Integration Analyst",
-        "company": "Jobright.ai",
-        "location": "Westlake Village, CA",
-        "date_posted": "51 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-integration-analyst-at-jobright-ai-4273557521?position=9&pageNum=7&refId=m8EfDzY24xNHFPDlJMkwAQ%3D%3D&trackingId=K4OqC4kYR%2BkCvJkTFPa%2B%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Researcher 3, Office of Technical Services, PN 20065706",
-        "company": "Ohio Department of Transportation",
-        "location": "Franklin, OH",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/researcher-3-office-of-technical-services-pn-20065706-at-ohio-department-of-transportation-4271753606?position=4&pageNum=10&refId=%2BzJXPOaOrbcrcOIDZxwEFg%3D%3D&trackingId=RGFDqgkf0vgRrwiJd5AFGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "MRI Technologist - PRN",
-        "company": "Bon Secours",
-        "location": "Greenville, SC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/mri-technologist-prn-at-bon-secours-4273552426?position=9&pageNum=10&refId=%2BzJXPOaOrbcrcOIDZxwEFg%3D%3D&trackingId=j2DFmDd0WLx3fKOFcZtdyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:37:39",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "Jobright.ai",
-        "location": "Washington, United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-jobright-ai-4273564616?position=27&pageNum=0&refId=6TRQQ%2Fko9rYF25OucLxFkg%3D%3D&trackingId=dpksNIxBeIVdNdnU8ayoxg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "New Grad Data Science Engineer",
-        "company": "Jobright.ai",
-        "location": "Mason, OH",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/new-grad-data-science-engineer-at-jobright-ai-4273562781?position=31&pageNum=0&refId=6TRQQ%2Fko9rYF25OucLxFkg%3D%3D&trackingId=rjnfVmnaMTEdUj24WVrsew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Reliability Engineer",
-        "company": "Jobright.ai",
-        "location": "Greater Philadelphia",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-reliability-engineer-at-jobright-ai-4273567011?position=38&pageNum=0&refId=6TRQQ%2Fko9rYF25OucLxFkg%3D%3D&trackingId=AhI8RKed9BxvWs%2FTTGyE5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "T-Mobile",
-        "location": "Bellevue, WA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-t-mobile-4277498158?position=42&pageNum=0&refId=6TRQQ%2Fko9rYF25OucLxFkg%3D%3D&trackingId=fymYQQJz51U7NPNeNDKidQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Analyst \u2013 Advanced Data & Analytics",
-        "company": "Jobright.ai",
-        "location": "New York, United States",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-analyst-%E2%80%93-advanced-data-analytics-at-jobright-ai-4273562703?position=44&pageNum=0&refId=6TRQQ%2Fko9rYF25OucLxFkg%3D%3D&trackingId=bW%2BH9M6l4m9Biv5ykYnxUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "New Grad Data Science Intern",
-        "company": "Jobright.ai",
-        "location": "Seattle, WA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/new-grad-data-science-intern-at-jobright-ai-4273562817?position=47&pageNum=0&refId=6TRQQ%2Fko9rYF25OucLxFkg%3D%3D&trackingId=q5rp8qBVJa%2Bw7ijwGrXUbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst \u2013 Research",
-        "company": "Jobright.ai",
-        "location": "Portland, Oregon Metropolitan Area",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-%E2%80%93-research-at-jobright-ai-4273559926?position=48&pageNum=0&refId=6TRQQ%2Fko9rYF25OucLxFkg%3D%3D&trackingId=zx4X1k1N0zOPR7vQaXc6HQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst \u2013 Single-Family",
-        "company": "Jobright.ai",
-        "location": "McLean, VA",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-%E2%80%93-single-family-at-jobright-ai-4273565451?position=50&pageNum=0&refId=6TRQQ%2Fko9rYF25OucLxFkg%3D%3D&trackingId=pR2epHiAPLmaNCzUxzaDBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst \u2013 Reporting",
-        "company": "Jobright.ai",
-        "location": "Pomona, CA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-%E2%80%93-reporting-at-jobright-ai-4273563805?position=58&pageNum=0&refId=6TRQQ%2Fko9rYF25OucLxFkg%3D%3D&trackingId=a65AyerNFRVAmodOu4eVWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "Jobright.ai",
-        "location": "Washington, United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-jobright-ai-4273564616?position=2&pageNum=2&refId=2IGkkK5jh34caFE2kloo%2BQ%3D%3D&trackingId=kA1oVntfdNYbeUY9Z5NV6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "New Grad Data Science Engineer",
-        "company": "Jobright.ai",
-        "location": "Mason, OH",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/new-grad-data-science-engineer-at-jobright-ai-4273562781?position=6&pageNum=2&refId=2IGkkK5jh34caFE2kloo%2BQ%3D%3D&trackingId=PUDzuTdg7Sk62wJzYiWYgw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst \u2013 Reporting",
-        "company": "Jobright.ai",
-        "location": "Pomona, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-%E2%80%93-reporting-at-jobright-ai-4273563805?position=9&pageNum=5&refId=ZlSnV2RAzGyHSNUIM%2ByLxg%3D%3D&trackingId=AjBgqeLe7Osyka1gaplpzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data & Reporting Specialist II",
-        "company": "Robert Half",
-        "location": "Houston, TX",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-reporting-specialist-ii-at-robert-half-4263636829?position=1&pageNum=7&refId=7ygE7LhJnTUDV64T9wISLQ%3D%3D&trackingId=F0vnbYjbzol9pxVpEvdpRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analytics Associate",
-        "company": "Jobright.ai",
-        "location": "Jersey City, NJ",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analytics-associate-at-jobright-ai-4273565158?position=3&pageNum=7&refId=7ygE7LhJnTUDV64T9wISLQ%3D%3D&trackingId=uHYOiJ9CqoIld3CFifYCjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist \u2013 Graduate, New Grad",
-        "company": "Jobright.ai",
-        "location": "Las Vegas, NV",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-graduate-new-grad-at-jobright-ai-4273562892?position=4&pageNum=7&refId=7ygE7LhJnTUDV64T9wISLQ%3D%3D&trackingId=qxgJaC9CnFpQmZ7FDDefbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Wells Fargo",
-        "location": "Minneapolis, MN",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-wells-fargo-4277493424?position=7&pageNum=7&refId=7ygE7LhJnTUDV64T9wISLQ%3D%3D&trackingId=cYm70%2BiZsWZz5X3rjJr8mQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Scientist \u2013 Trading Operations",
-        "company": "Jobright.ai",
-        "location": "Berkeley, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-%E2%80%93-trading-operations-at-jobright-ai-4273561848?position=9&pageNum=7&refId=7ygE7LhJnTUDV64T9wISLQ%3D%3D&trackingId=eXbNflR0J6RABLCfyC2Q1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Full Stack Software Engineer",
-        "company": "Actalent",
-        "location": "Oak Creek, WI",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-actalent-4273555607?position=1&pageNum=10&refId=rAESpyvzEqUx32FXYPTJhw%3D%3D&trackingId=EJbYOnooxTWNpmYE2whK%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Science Intern \u2013 Service Performance, New Grad",
-        "company": "Jobright.ai",
-        "location": "New York, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-science-intern-%E2%80%93-service-performance-new-grad-at-jobright-ai-4273559840?position=2&pageNum=10&refId=rAESpyvzEqUx32FXYPTJhw%3D%3D&trackingId=%2F1xdL9Lc28fNkhMfHgDZ2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Science Professional Development Program",
-        "company": "Jobright.ai",
-        "location": "Florham Park, NJ",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-science-professional-development-program-at-jobright-ai-4273559905?position=4&pageNum=10&refId=rAESpyvzEqUx32FXYPTJhw%3D%3D&trackingId=aO%2FqKQIh5rxo%2F5bakulsNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Scientist \u2013 CST",
-        "company": "Jobright.ai",
-        "location": "Newport News, VA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-%E2%80%93-cst-at-jobright-ai-4273565516?position=7&pageNum=10&refId=rAESpyvzEqUx32FXYPTJhw%3D%3D&trackingId=QtytO3mTTas%2FChmEdxbHUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Facility Engineer",
-        "company": "Allied OneSource",
-        "location": "Kansas City, MO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-facility-engineer-at-allied-onesource-4277487486?position=9&pageNum=10&refId=rAESpyvzEqUx32FXYPTJhw%3D%3D&trackingId=SgjB6YhjYfxTNzUfua2OiQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-07-29 07:53:58",
-        "email_sent": false
-    },
-    {
         "title": "Junior Data Engineer \u2013 Analytics",
         "company": "Jobright.ai",
         "location": "Miami, FL",
@@ -1007,6 +467,296 @@
         "url": "https://www.linkedin.com/jobs/view/real-id-frankfort-central-at-apex-systems-4277496725?position=10&pageNum=7&refId=zpyFi6S1oRs4iXXfUGoI5w%3D%3D&trackingId=Ygng%2BNEqF5m8tbfaKljzhA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-07-29 08:28:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer I",
+        "company": "Expedia Group",
+        "location": "Seattle, WA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-expedia-group-4273594463?position=1&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=r8kD%2BMldi9gBGMArkgzMcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer Intern, New Grad",
+        "company": "Jobright.ai",
+        "location": "New York, United States",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-intern-new-grad-at-jobright-ai-4273594441?position=3&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=sYxTH1t6vKZCQJoKpm%2ByYQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Engineer \u2013 Data Engineering",
+        "company": "Jobright.ai",
+        "location": "Philadelphia, PA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-%E2%80%93-data-engineering-at-jobright-ai-4273596432?position=9&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=H70eUwdQRtrQHkN6yjhz2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer Intern \u2013 Ads, New Grad",
+        "company": "Jobright.ai",
+        "location": "San Jose, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-intern-%E2%80%93-ads-new-grad-at-jobright-ai-4273593644?position=10&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=uf6tnPjK3fukyMOfxmxfvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Commercial Data Engineer",
+        "company": "Jobright.ai",
+        "location": "East Hartford, CT",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-commercial-data-engineer-at-jobright-ai-4273593173?position=15&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=EycNGwCNCoSyhb4CtXRX7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I- PAAS",
+        "company": "Qualtrics",
+        "location": "Seattle, WA",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-paas-at-qualtrics-4277602929?position=18&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=s3Im97eFmmwwAmKWqAvbjQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst \u2013 Intern, New Grad",
+        "company": "Jobright.ai",
+        "location": "California, United States",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-%E2%80%93-intern-new-grad-at-jobright-ai-4273597087?position=23&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=mhASF8spNFRO8uZY6fyFDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst \u2013 AI & Causal (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-%E2%80%93-ai-causal-remote-at-jobright-ai-4273596247?position=25&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=iyoX2nyTl9AoExnG3ICUAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Jobright.ai",
+        "location": "Chantilly, VA",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-jobright-ai-4273593586?position=30&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=RNMCNFWamBBbH1s5OBU6XA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I- PAAS",
+        "company": "Qualtrics",
+        "location": "Provo, UT",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-paas-at-qualtrics-4277603652?position=31&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=ICMSKKzNhapJvGK%2F0WHhvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Cloud Data Migration Engineer",
+        "company": "Jobright.ai",
+        "location": "Boston, MA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-cloud-data-migration-engineer-at-jobright-ai-4273594564?position=34&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=y2Bv4RHJRI%2FdZE2f3SvB8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "New Grad Data Science Intern",
+        "company": "Jobright.ai",
+        "location": "New York, United States",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/new-grad-data-science-intern-at-jobright-ai-4273594314?position=44&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=eeodx3iuxRRAN26K2WapXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Fullstack Web Software Engineer",
+        "company": "Fly Fairly \ud83d\udc9c\u2708\ufe0f",
+        "location": "Florida, United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-fullstack-web-software-engineer-at-fly-fairly-%F0%9F%92%9C%E2%9C%88%EF%B8%8F-4273595454?position=48&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=ZGbbFtUvxjmhBRNbBkPU3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I, Foundation - Seattle and Reston",
+        "company": "Qualtrics",
+        "location": "Reston, VA",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-foundation-seattle-and-reston-at-qualtrics-4277607416?position=58&pageNum=0&refId=rkuFTLN3yS1rN5UWDEWkSQ%3D%3D&trackingId=jOEeHlQUUUyb4mm2hjrhTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Jobright.ai",
+        "location": "Chantilly, VA",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-jobright-ai-4273593586?position=5&pageNum=2&refId=6QajMm4D39x%2BYP3lQu%2BouA%3D%3D&trackingId=vND%2FjLcWavcSdKsRaYxKuA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I- PAAS",
+        "company": "Qualtrics",
+        "location": "Provo, UT",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-paas-at-qualtrics-4277603652?position=6&pageNum=2&refId=6QajMm4D39x%2BYP3lQu%2BouA%3D%3D&trackingId=1VdTTHJZSXrGn2ve2jz1kg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Cloud Data Migration Engineer",
+        "company": "Jobright.ai",
+        "location": "Boston, MA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-cloud-data-migration-engineer-at-jobright-ai-4273594564?position=9&pageNum=2&refId=6QajMm4D39x%2BYP3lQu%2BouA%3D%3D&trackingId=tJuM%2F5wi%2Fjmj%2F%2B9G%2FgvnAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I, Foundation - Seattle and Reston",
+        "company": "Qualtrics",
+        "location": "Reston, VA",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-foundation-seattle-and-reston-at-qualtrics-4277607416?position=8&pageNum=5&refId=14Ysj9CYjtL6R%2BNpdEBGrA%3D%3D&trackingId=gmL4MOXkfa7xs97QJipPgw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "New Grad Data Scientist Intern",
+        "company": "Jobright.ai",
+        "location": "San Jose, CA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/new-grad-data-scientist-intern-at-jobright-ai-4273596461?position=1&pageNum=7&refId=pb11q6gHGibZ2pkHhOMBoA%3D%3D&trackingId=p2GaHsUzG82%2FUxDN7EAStw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Center Engineer \u2013 Bilingual Mandarin",
+        "company": "Jobright.ai",
+        "location": "Los Angeles, CA",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-center-engineer-%E2%80%93-bilingual-mandarin-at-jobright-ai-4273592619?position=4&pageNum=7&refId=pb11q6gHGibZ2pkHhOMBoA%3D%3D&trackingId=r0fP%2B1%2B3b5xtMmSnxVbzEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 2 - Full Stack",
+        "company": "Sysdig",
+        "location": "San Jose, CA",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-2-full-stack-at-sysdig-4277604612?position=5&pageNum=7&refId=pb11q6gHGibZ2pkHhOMBoA%3D%3D&trackingId=4luxQ2ilNiNYcezqE8qgwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Software Test Engineer II - CX",
+        "company": "Qualtrics",
+        "location": "Seattle, WA",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-ii-cx-at-qualtrics-4277604681?position=8&pageNum=7&refId=pb11q6gHGibZ2pkHhOMBoA%3D%3D&trackingId=A%2BdmHX66DZgIWvx%2FpRTJzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist \u2013 TS/SCI FSP, New Grad",
+        "company": "Jobright.ai",
+        "location": "Annapolis Junction, MD",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-ts-sci-fsp-new-grad-at-jobright-ai-4273596474?position=1&pageNum=10&refId=QoFm7OQiwb1JaNNgH1Dy8w%3D%3D&trackingId=wRbZhFzkYsuaQUN1GOv8Ag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Language Data Scientist",
+        "company": "Jobright.ai",
+        "location": "Santa Clara County, CA",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-language-data-scientist-at-jobright-ai-4273569619?position=2&pageNum=10&refId=QoFm7OQiwb1JaNNgH1Dy8w%3D%3D&trackingId=C0PhA1OhGlo5HwYLQJP4cQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Scientist \u2013 Skillbridge",
+        "company": "Jobright.ai",
+        "location": "Alexandria City County, VA",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-%E2%80%93-skillbridge-at-jobright-ai-4273594430?position=3&pageNum=10&refId=QoFm7OQiwb1JaNNgH1Dy8w%3D%3D&trackingId=YUIcJtFbGZgx1%2B3krS8Ekg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Scientist \u2013 Innovation",
+        "company": "Jobright.ai",
+        "location": "Jersey City, NJ",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-%E2%80%93-innovation-at-jobright-ai-4273585543?position=4&pageNum=10&refId=QoFm7OQiwb1JaNNgH1Dy8w%3D%3D&trackingId=sOattrEWDdR1NFSQCLAQ7w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Business Analyst \u2013 Data",
+        "company": "Jobright.ai",
+        "location": "Des Moines, IA",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-business-analyst-%E2%80%93-data-at-jobright-ai-4273568084?position=5&pageNum=10&refId=QoFm7OQiwb1JaNNgH1Dy8w%3D%3D&trackingId=zbPXu7B8hNKIoKMy4onnXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Scientist \u2013 Robotics",
+        "company": "Jobright.ai",
+        "location": "Richland County, SC",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-%E2%80%93-robotics-at-jobright-ai-4273589679?position=8&pageNum=10&refId=QoFm7OQiwb1JaNNgH1Dy8w%3D%3D&trackingId=krD2b4%2BP9olO3N0ix%2FhSMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer \u2013 Ads CRM Data, New Grad",
+        "company": "Jobright.ai",
+        "location": "San Jose, CA",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-ads-crm-data-new-grad-at-jobright-ai-4273596332?position=2&pageNum=12&refId=eBae2t36lntd11pP2sjzIA%3D%3D&trackingId=euThTVnFTA8Aid5zcvsMDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-07-29 08:56:33",
         "email_sent": false
     }
 ]
