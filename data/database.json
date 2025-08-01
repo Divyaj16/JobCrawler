@@ -1,245 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Genentech",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-genentech-4252714539?position=1&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=FIjc2UP4chuUHS47jy%2Fdyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Data Engineer",
-        "company": "Newmark",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-newmark-4223253655?position=4&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=eHvxq6IBoHdQQaeo9C15lA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "GCP Data Engineer",
-        "company": "Sira Consulting, an Inc 5000 company",
-        "location": "Naperville, IL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/gcp-data-engineer-at-sira-consulting-an-inc-5000-company-4278908901?position=8&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=9TEGTw3RyT3S11V71jmrpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ECLARO",
-        "location": "White Plains, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-eclaro-4262571155?position=9&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=GLioE6GimQrUAQrPLTPk0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "AppCard, Inc.",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-appcard-inc-4270192585?position=13&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=P1TUaXp2vQBcTTEaAppq3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer Intern",
-        "company": "Marquee Insurance Group (MIG)",
-        "location": "Charleston, SC",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-marquee-insurance-group-mig-4277582015?position=19&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=amT2Wct2Pe%2BlVBOum4CMmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I (Go / Terraform / GCP)",
-        "company": "Optomi",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-go-terraform-gcp-at-optomi-4276870907?position=20&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=eJoWk3kEeaLK0GzTUNBgLA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Entry Level",
-        "company": "Avyaa Solutions LLC",
-        "location": "United States",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-entry-level-at-avyaa-solutions-llc-4277564452?position=21&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=3tUBK%2BGI7o4NzAXuY2T9DQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, DevOps (Starlink)",
-        "company": "SpaceX",
-        "location": "Redmond, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-devops-starlink-at-spacex-4265023196?position=24&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=wPWchMMuNHa3NAA1rAqO1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Sales Growth Data Analyst",
-        "company": "Foundation Source",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sales-growth-data-analyst-at-foundation-source-4263730715?position=27&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=BJnG69IPPm3R6iL7aj1nrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Software Engineer (Endpoint Client)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-endpoint-client-at-palo-alto-networks-4193509587?position=30&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=n2NWC1Hm0RP46kAMczi%2Fjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Dynamics)",
-        "company": "SpaceX",
-        "location": "Texas, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-dynamics-at-spacex-4114774654?position=31&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=kZkgX4lZgE0X9j0kY4bLxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - iOS",
-        "company": "Walmart",
-        "location": "Bentonville, AR",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-at-walmart-4253293387?position=38&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=XV4qU8SUf%2BBkrr7nrfaTNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "Newmark",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-newmark-4223258136?position=41&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=0s1ctSLHUsTKrCgfQpzEZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "System Support Engineer",
-        "company": "AppCard, Inc.",
-        "location": "New York, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/system-support-engineer-at-appcard-inc-4271712370?position=43&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=6Y4Y57bF3gXP36YYMzpMyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Android",
-        "company": "Walmart",
-        "location": "Reston, VA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-android-at-walmart-4253290929?position=46&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=t13cuvso3yXVsPNaboYCUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Assurance Engineer",
-        "company": "Torch Technologies, Inc.",
-        "location": "Huntsville, AL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-assurance-engineer-at-torch-technologies-inc-4236010890?position=55&pageNum=0&refId=rF5jgJr4GcHhlJxuw0di4w%3D%3D&trackingId=9mkbrlgS4gBPTXJqLa80kw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Sales Growth Data Analyst",
-        "company": "Foundation Source",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sales-growth-data-analyst-at-foundation-source-4263730715?position=2&pageNum=2&refId=26V9o8YsQl46rvaDe68bew%3D%3D&trackingId=f%2FF%2F5JBaE%2FifcLhxTwTJmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Software Engineer (Endpoint Client)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-endpoint-client-at-palo-alto-networks-4193509587?position=5&pageNum=2&refId=26V9o8YsQl46rvaDe68bew%3D%3D&trackingId=Zj9ZQj9O1YJjkE8XuqLNJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Dynamics)",
-        "company": "SpaceX",
-        "location": "Texas, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-dynamics-at-spacex-4114774654?position=6&pageNum=2&refId=26V9o8YsQl46rvaDe68bew%3D%3D&trackingId=vGvs9qR02CTCRSPiF%2FGfgw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Assurance Engineer",
-        "company": "Torch Technologies, Inc.",
-        "location": "Huntsville, AL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-assurance-engineer-at-torch-technologies-inc-4236010890?position=5&pageNum=5&refId=Fhim5z2DaxBWvOBlghiB6A%3D%3D&trackingId=rQYZAB%2B2XO6X2fSM7HpjUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Ada Software Engineer II",
-        "company": "Raytheon",
-        "location": "Tewksbury, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/ada-software-engineer-ii-at-raytheon-4253536387?position=3&pageNum=7&refId=Uw%2BqIpsqKKOMcRDmyc7Rlg%3D%3D&trackingId=ZCYbIw%2BUFuRqg6qhvV6Kog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Firmware Engineer (Boston, MA - Hybrid)",
-        "company": "SmartSense by Digi",
-        "location": "Boston, MA",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-firmware-engineer-boston-ma-hybrid-at-smartsense-by-digi-4206601027?position=4&pageNum=7&refId=Uw%2BqIpsqKKOMcRDmyc7Rlg%3D%3D&trackingId=GwN0qp49mYuz4nKuJsfUBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
-        "title": "Quality Engineer",
-        "company": "EPITEC",
-        "location": "Ankeny, IA",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/quality-engineer-at-epitec-4277578235?position=3&pageNum=10&refId=Jtt8KNbxcPzltwO8168vWQ%3D%3D&trackingId=Wny6KLKWPeXWjRj2dQDNLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-01 15:00:57",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "American Thrombosis and Hemostasis Network (ATHN)",
         "location": "United States",
@@ -857,6 +617,76 @@
         "url": "https://www.linkedin.com/jobs/view/rf-propagation-engineer-at-jobot-4277553600?position=9&pageNum=7&refId=BJqVsFAmGxzzRLPtBeV34A%3D%3D&trackingId=m6HWdQ6n%2FfMOYUNW3Bi%2FZg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-08-01 15:51:18",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "TalentAlly",
+        "location": "Greater Chicago Area",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4278946397?position=2&pageNum=0&refId=8bqZw%2FXUiFym%2B%2BiqUa3gdg%3D%3D&trackingId=FgSsswm0c%2FBVHjRrE8RSog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-01 16:02:36",
+        "email_sent": false
+    },
+    {
+        "title": "Founding Software Engineer",
+        "company": "Walden Recruiting",
+        "location": "Chicago, IL",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/founding-software-engineer-at-walden-recruiting-4278937689?position=16&pageNum=0&refId=8bqZw%2FXUiFym%2B%2BiqUa3gdg%3D%3D&trackingId=W7RLYF70Sn9hwb%2FieDk%2B4Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-01 16:02:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist With Marcom",
+        "company": "W3Global",
+        "location": "Sunnyvale, CA",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-with-marcom-at-w3global-3952551440?position=21&pageNum=0&refId=8bqZw%2FXUiFym%2B%2BiqUa3gdg%3D%3D&trackingId=c9hB2LNVoqndLh%2B7vIH6cw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-01 16:02:36",
+        "email_sent": false
+    },
+    {
+        "title": "Accreditation and Data Associate",
+        "company": "Network of Schools of Public Policy, Affairs, and Administration (NASPAA)",
+        "location": "Washington DC-Baltimore Area",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/accreditation-and-data-associate-at-network-of-schools-of-public-policy-affairs-and-administration-naspaa-4278941207?position=22&pageNum=0&refId=8bqZw%2FXUiFym%2B%2BiqUa3gdg%3D%3D&trackingId=xU1tFIpPHOTcb%2BmSHMgadg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-01 16:02:36",
+        "email_sent": false
+    },
+    {
+        "title": "Electrical Project Engineer",
+        "company": "McKim & Creed, Inc.",
+        "location": "Raleigh, NC",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/electrical-project-engineer-at-mckim-creed-inc-4277590295?position=23&pageNum=0&refId=8bqZw%2FXUiFym%2B%2BiqUa3gdg%3D%3D&trackingId=n0sW9sxKO4lpnWEtEUbXOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-01 16:02:36",
+        "email_sent": false
+    },
+    {
+        "title": "Project Engineer",
+        "company": "Lithko Contracting",
+        "location": "Atlanta, GA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-lithko-contracting-4278939881?position=24&pageNum=0&refId=8bqZw%2FXUiFym%2B%2BiqUa3gdg%3D%3D&trackingId=WgL%2BdFfSnYBk8PjCQbQVuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-01 16:02:36",
+        "email_sent": false
+    },
+    {
+        "title": "Project Engineer",
+        "company": "Lithko Contracting",
+        "location": "Allentown, PA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-lithko-contracting-4278944369?position=27&pageNum=0&refId=8bqZw%2FXUiFym%2B%2BiqUa3gdg%3D%3D&trackingId=EihiNWTmlwjPBzD%2BwnNT4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-01 16:02:36",
         "email_sent": false
     }
 ]
