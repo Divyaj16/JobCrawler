@@ -1,105 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Los Angeles Dodgers",
-        "location": "Los Angeles, CA",
-        "date_posted": "51 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-los-angeles-dodgers-4278103762?position=1&pageNum=0&refId=%2Bft6IdGfcKKv50Qdkjnn%2Bw%3D%3D&trackingId=7R2ihKcIWZY7AiVxtQBKfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-02 10:30:03",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Routing - New Grad",
-        "company": "Nuro",
-        "location": "Mountain View, CA",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-routing-new-grad-at-nuro-4265604833?position=2&pageNum=0&refId=%2Bft6IdGfcKKv50Qdkjnn%2Bw%3D%3D&trackingId=kmRwFNjC%2B9lIVr2mJosWzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-02 10:30:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer II (NYC)",
-        "company": "Garner Health",
-        "location": "New York, NY",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-nyc-at-garner-health-4224221373?position=3&pageNum=0&refId=%2Bft6IdGfcKKv50Qdkjnn%2Bw%3D%3D&trackingId=2Le9IqcPkfK%2FKvxNmmmvHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-02 10:30:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Transformation Engineer",
-        "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
-        "location": "Dallas, TX",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-transformation-engineer-at-caresignal%C2%AE-%E2%80%93-lightbeam-s-deviceless-remote-patient-monitoring-4279132612?position=5&pageNum=0&refId=%2Bft6IdGfcKKv50Qdkjnn%2Bw%3D%3D&trackingId=LtCPBS5HmfHAqPOAnBCXLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-02 10:30:03",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Development Engineer, Crew",
-        "company": "Delta Air Lines",
-        "location": "Atlanta, GA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-development-engineer-crew-at-delta-air-lines-4190157872?position=9&pageNum=0&refId=%2Bft6IdGfcKKv50Qdkjnn%2Bw%3D%3D&trackingId=fzaavCXu%2BxFj%2FSHVY9aGuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-02 10:30:03",
-        "email_sent": false
-    },
-    {
-        "title": "Member of Technical Staff, Data Platform",
-        "company": "Anchorage Digital",
-        "location": "United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-data-platform-at-anchorage-digital-4211782566?position=23&pageNum=0&refId=%2Bft6IdGfcKKv50Qdkjnn%2Bw%3D%3D&trackingId=8J0j0JKH%2F8MNqYh8bnSAoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-02 10:30:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "L.E.K. Consulting",
-        "location": "Houston, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-l-e-k-consulting-4278108018?position=29&pageNum=0&refId=%2Bft6IdGfcKKv50Qdkjnn%2Bw%3D%3D&trackingId=PJw6CkAkPBEkX9BWS%2FJ%2FTg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-02 10:30:03",
-        "email_sent": false
-    },
-    {
-        "title": "Test Engineer",
-        "company": "Nightwing",
-        "location": "Sterling, VA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/test-engineer-at-nightwing-4251945854?position=31&pageNum=0&refId=%2Bft6IdGfcKKv50Qdkjnn%2Bw%3D%3D&trackingId=orPwlLj91aSnbLa5xGq8rA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-02 10:30:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Garner Health",
-        "location": "New York, NY",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-garner-health-4240353941?position=35&pageNum=0&refId=%2Bft6IdGfcKKv50Qdkjnn%2Bw%3D%3D&trackingId=CfCBOC5TihD%2FViPRt5yZ9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-02 10:30:03",
-        "email_sent": false
-    },
-    {
-        "title": "Quality Data Abstractor, Part Time",
-        "company": "Lifepoint Health\u00ae",
-        "location": "Los Alamos, NM",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/quality-data-abstractor-part-time-at-lifepoint-health%C2%AE-4279132354?position=38&pageNum=0&refId=%2Bft6IdGfcKKv50Qdkjnn%2Bw%3D%3D&trackingId=txP6DzR3u7FaISSbEmzkWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-02 10:30:03",
-        "email_sent": false
-    },
-    {
         "title": "Data Scientist Controls Engineer (LAP)",
         "company": "Ford Motor Company",
         "location": "Louisville, KY",
@@ -547,6 +447,46 @@
         "url": "https://www.linkedin.com/jobs/view/data-and-computational-sciences-research-scientist-%E2%80%93-image-analytics-at-vertex-pharmaceuticals-4222381836?position=24&pageNum=0&refId=p%2BR2au41axIPUGFTmYfmEw%3D%3D&trackingId=uy96qnIzKTm0dc3aUsPZIA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-08-02 11:21:24",
+        "email_sent": false
+    },
+    {
+        "title": "Data Driven Insights Analyst",
+        "company": "Raymond James",
+        "location": "St. Petersburg, FL",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-driven-insights-analyst-at-raymond-james-4263545607?position=16&pageNum=0&refId=%2BDP%2BCEsLZnY4dg4NxwInFQ%3D%3D&trackingId=cjpJnFsor8FSDVlh5Ys3iQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-02 11:35:07",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Science Analyst (Internal Mayo Clinic Staff/Work Unit Only)",
+        "company": "Mayo Clinic Healthcare",
+        "location": "Rochester, MN",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-science-analyst-internal-mayo-clinic-staff-work-unit-only-at-mayo-clinic-healthcare-4279139221?position=23&pageNum=0&refId=%2BDP%2BCEsLZnY4dg4NxwInFQ%3D%3D&trackingId=zIauGFv9WdOx%2FU7be1h%2BXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-02 11:35:07",
+        "email_sent": false
+    },
+    {
+        "title": "Pre-Sales Solutions Engineer - Americas",
+        "company": "Innovative Systems, Inc.",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/pre-sales-solutions-engineer-americas-at-innovative-systems-inc-4265294833?position=30&pageNum=0&refId=%2BDP%2BCEsLZnY4dg4NxwInFQ%3D%3D&trackingId=Ugz5A0LHNCBuiBSY3G%2BLxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-02 11:35:07",
+        "email_sent": false
+    },
+    {
+        "title": "Project Engineer",
+        "company": "Fisk Electric Co.",
+        "location": "San Antonio, TX",
+        "date_posted": "Just now",
+        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-fisk-electric-co-4207350703?position=32&pageNum=0&refId=%2BDP%2BCEsLZnY4dg4NxwInFQ%3D%3D&trackingId=fw9OD7PMlXnm3cxqPxtF8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-02 11:35:07",
         "email_sent": false
     }
 ]
