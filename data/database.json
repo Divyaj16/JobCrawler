@@ -1,816 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Avyaa Solutions LLC",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-avyaa-solutions-llc-4277393400?position=1&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=OAYDlwDzO%2BS8e5nUMwIysQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4279603570?position=2&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=f8UGL4s819dGAE%2BaiVZcYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Python Engineer (Data)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/python-engineer-data-at-wiraa-4279602744?position=3&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=%2B6ZmDiiMHZ0y0sPpMsjBlA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "Tailscale",
-        "location": "United States",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-tailscale-4224768432?position=4&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=yYeOlNqTjyaJcBEUl8Ohkw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst- Junior- Full Time - Remote",
-        "company": "Smart Hire Agency",
-        "location": "Los Angeles, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-junior-full-time-remote-at-smart-hire-agency-4277385728?position=5&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=GV5cGVIYEQB6Ls5p4y7x6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst - Full Time (100% Remote)",
-        "company": "Smart Hire Agency",
-        "location": "Los Angeles, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-smart-hire-agency-4277386760?position=6&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=5hjkWdf20rx%2F2Lk6fXbqOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst Junior Assistant - Remote",
-        "company": "Smart Hire Agency",
-        "location": "Los Angeles, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-junior-assistant-remote-at-smart-hire-agency-4277390380?position=7&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=LrTaIFjiS9ikQ8T3XaL%2F4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Smart Hire Agency",
-        "location": "Los Angeles, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-smart-hire-agency-4277391227?position=8&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=vWVrClVlKmy1wxWpGJIh4g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Enterprise)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-enterprise-at-wiraa-4279606253?position=9&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=wvYRrzqEmhAUuq3fXjzWQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst- Remote",
-        "company": "Smart Hire Agency",
-        "location": "Los Angeles, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-smart-hire-agency-4277385731?position=10&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=boEH3sjHbWeaEoNeM3G0dw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Database Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-sr-at-wiraa-4279601849?position=11&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=K%2BmXcy%2BFIxsRCAy5eyxDnA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior , Data Analyst- Remote",
-        "company": "Smart Hire Agency",
-        "location": "Los Angeles, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-remote-at-smart-hire-agency-4277392215?position=12&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=hCXaLRK3uipV1FJ19E1nHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-jobright-ai-4279270057?position=13&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=QxqUvYa90%2FwPwROmCKOcfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst Remote",
-        "company": "Smart Hire Agency",
-        "location": "Los Angeles, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-smart-hire-agency-4277385715?position=14&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=a%2BgzgIuQbEybPOtXUz6PeA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, New Grad",
-        "company": "Jobright.ai",
-        "location": "Long Beach, CA",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-jobright-ai-4279262592?position=15&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=WzGkbQZ39mbW1dFokEJ5zw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Wfh - Data Entry Analyst",
-        "company": "Smart Hire Agency",
-        "location": "Los Angeles, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/wfh-data-entry-analyst%C2%A0-at-smart-hire-agency-4277386758?position=16&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=NmPAuuUgy9qJienWaIz5wQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, New Grad",
-        "company": "Jobright.ai",
-        "location": "Arlington, TX",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-jobright-ai-4279274102?position=17&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=ZFlTpkNcNjrQE0l83tKatw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Smart Hire Agency",
-        "location": "Los Angeles, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-smart-hire-agency-4277393093?position=18&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=TQ5T%2Bm128GoJOVqG2RJSrA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Morgan Advanced Materials",
-        "location": "Fostoria, OH",
-        "date_posted": "57 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-morgan-advanced-materials-4277391159?position=19&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=FUDGL8ucRSexs9Ey1ZF4Hg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Destinations",
-        "company": "Hightouch",
-        "location": "San Francisco Bay Area",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-destinations-at-hightouch-4176592116?position=20&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=P%2BycKZEF6EZOQHD427zn2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer | Backend",
-        "company": "Jobright.ai",
-        "location": "San Francisco Bay Area",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-backend-at-jobright-ai-4279264095?position=21&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=muO7bhH5oLoGy9djQeRkFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer | Backend",
-        "company": "Jobright.ai",
-        "location": "New York, United States",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-backend-at-jobright-ai-4279258887?position=22&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=leZmlfHjCN3ICAbY17HIUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Digital Data Analyst- Remote",
-        "company": "Smart Hire Agency",
-        "location": "Los Angeles, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/digital-data-analyst-remote-at-smart-hire-agency-4277386763?position=23&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=w%2F4Bc9wtfv4L4c6XwWXE3w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Application Software Engineer",
-        "company": "Stefanini North America and APAC",
-        "location": "Dearborn, MI",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/application-software-engineer-at-stefanini-north-america-and-apac-4279608345?position=24&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=eTXWKebtPMGe6UsLcieZKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer, Attack Surface Intelligence",
-        "company": "Jobright.ai",
-        "location": "Boston, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-attack-surface-intelligence-at-jobright-ai-4279260404?position=25&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=aek9K%2BnaYD%2FZq9jw5hG9Xw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "SoTalent",
-        "location": "St Louis, MO",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-sotalent-4277387860?position=26&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=Pz1xPsAdQAj9hyKVmq6GuA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer (Cloud NW & AI Security)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-cloud-nw-ai-security-at-palo-alto-networks-4266239581?position=27&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=Qt%2BjbeGON4l4YmDdvXvCTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Jobright.ai",
-        "location": "Atlanta, GA",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-jobright-ai-4279264653?position=28&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=EOupyp7hB7xRPt1UAoaxxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer, Servicing",
-        "company": "Jobright.ai",
-        "location": "California, United States",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-servicing-at-jobright-ai-4279267237?position=29&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=W3zw1KlGqknBf52m7QxRhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Oracle Database Engineer",
-        "company": "Jobright.ai",
-        "location": "Aurora, CO",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-oracle-database-engineer-at-jobright-ai-4279274006?position=30&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=9i3okxDWkywtFfpCNzNxMQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Engineer - M",
-        "company": "Jobs via Dice",
-        "location": "New York, NY",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-m-at-jobs-via-dice-4279275018?position=31&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=jvl2z4bFyVoHErnUFyiLyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer REMOTE (Engineer Software 1) - 24743",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "47 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-remote-engineer-software-1-24743-at-jobright-ai-4279259750?position=32&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=2iqVPIT2%2B1lsxxnryXI%2Fpw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer \u2013 AlloyDB Infrastructure",
-        "company": "Jobright.ai",
-        "location": "New York, United States",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-alloydb-infrastructure-at-jobright-ai-4279262348?position=33&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=nFuTg%2FfjFOXbb3p7x0KY6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer \u2013 Global Banking & Markets",
-        "company": "Jobright.ai",
-        "location": "Salt Lake City Metropolitan Area",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-global-banking-markets-at-jobright-ai-4279273285?position=34&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=xEa4fXJTAygP6dDZ4XeuKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer \u2013 Electronic Trading",
-        "company": "Jobright.ai",
-        "location": "New York, United States",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-electronic-trading-at-jobright-ai-4279271369?position=35&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=ufnnN%2BxkeH9D9r8QipN5Mw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "56 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-remote-at-jobright-ai-4279256955?position=36&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=YPnJ9eBRLm%2Fif1IdiSvjsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Engineer - M",
-        "company": "Jobs via Dice",
-        "location": "Secaucus, NJ",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-m-at-jobs-via-dice-4279270617?position=37&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=VFkuTbHzbRCJGPyD2VHbpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer (C/C++) (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-c-c%2B%2B-remote-at-jobright-ai-4279267035?position=38&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=aR%2BvoyrUe46sqvWrEQIpIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Engineer - M",
-        "company": "Jobs via Dice",
-        "location": "Newark, NJ",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-m-at-jobs-via-dice-4279268897?position=39&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=SezXpDxJLZW6oKs4W5tskw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "University Grad 2026: Software Engineer - Backend, New Grad",
-        "company": "Jobright.ai",
-        "location": "New York, United States",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/university-grad-2026-software-engineer-backend-new-grad-at-jobright-ai-4279257945?position=40&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=21VYEooQa%2BRSu0i0Lfk84A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Engineer - M",
-        "company": "Jobs via Dice",
-        "location": "North Bergen, NJ",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-m-at-jobs-via-dice-4279268896?position=41&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=Z5Y9WeSVQzloKWVyA6oXqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist for the Lab for Globalization and Shared Prosperity, Department of Government - College of Arts & Sciences",
-        "company": "Georgetown University",
-        "location": "Washington, DC",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-for-the-lab-for-globalization-and-shared-prosperity-department-of-government-college-of-arts-sciences-at-georgetown-university-4274269264?position=42&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=aSHQYZFRGIDhU561hydu7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Embedded Firmware",
-        "company": "Zipline",
-        "location": "South San Francisco, CA",
-        "date_posted": "58 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-embedded-firmware-at-zipline-4241070890?position=43&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=%2BSnvmxl9aTWrVBnXk5gOrw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Kubernetes Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Columbia, MD",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-kubernetes-software-engineer-at-jobs-via-dice-4279272434?position=44&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=5lKMBmtuDqVSjj3j2OJR6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst- Remote",
-        "company": "Smart Hire Agency",
-        "location": "Los Angeles, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-remote-at-smart-hire-agency-4277392230?position=45&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=%2F%2F8nmqOqPps0znCqZe1Brg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer IV",
-        "company": "Ezurio",
-        "location": "Irvine, CA",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-iv-at-ezurio-4247487356?position=46&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=AWNHlf6%2FVrOl16ocewqbOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Temporary - Admissions Systems & Data Analyst",
-        "company": "Georgetown University",
-        "location": "Washington, DC",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/temporary-admissions-systems-data-analyst-at-georgetown-university-4274202465?position=47&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=kOefxTu1S3nix2HxG2lZTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "WANT YOUR WORK TO MEAN SOMETHING?",
-        "company": "Driven Insights",
-        "location": "Gardner, MA",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/want-your-work-to-mean-something%3F-at-driven-insights-4279602972?position=48&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=BhMGQV6yBSY5hOqO%2FFr9bA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Revature",
-        "location": "Wake Forest, NC",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4279258870?position=49&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=R6i%2BTqbzdTeAi%2FOULsa2Zg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Revature",
-        "location": "Westfield, NC",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4279264091?position=50&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=Rp7gGmgMmAkl%2FHTpStH0Cg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst",
-        "company": "Smart Hire Agency",
-        "location": "Los Angeles, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst%C2%A0-at-smart-hire-agency-4277390394?position=51&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=s0AcHZw4w9i5Z9CJp8edKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer 1 or 2 - Stormwater (OPEN & PROMOTIONAL)",
-        "company": "Spokane County",
-        "location": "Spokane, WA",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-1-or-2-stormwater-open-promotional-at-spokane-county-4279605916?position=52&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=Patzp3QXZvDvQk1Ze3h7DA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Revature",
-        "location": "Durham, NH",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4279263532?position=53&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=iDpu5E1PcsX%2Fqpkq0S8%2BrA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Fraud Data Scientist",
-        "company": "ID.me",
-        "location": "Mountain View, CA",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/fraud-data-scientist-at-id-me-4121538629?position=54&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=XoY4OXaFCE1uUeUa5pbMRQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Beavercreek, OH",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4279274081?position=55&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=jYyU6caTJJIWumxGrP3D3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "Revature",
-        "location": "Danbury, CT",
-        "date_posted": "49 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-revature-4279263206?position=56&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=S8FrEnhy2TLFmqQ5DxdWmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "C/C++ Software Engineer II",
-        "company": "Jobright.ai",
-        "location": "Woburn, MA",
-        "date_posted": "58 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-software-engineer-ii-at-jobright-ai-4279258721?position=57&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=yy1OVygGTX%2FWlYz2xzWRgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "Revature",
-        "location": "Arlington, TX",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-revature-4279265048?position=58&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=mq%2FDi0lqV2xQ%2BjfaJ8D5zQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Quantitative Researcher (San Francisco)",
-        "company": "Insight Investment",
-        "location": "San Francisco, CA",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-san-francisco-at-insight-investment-4279610740?position=59&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=7BUxwuagyHvUf8FOT5YriA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "Revature",
-        "location": "Tucson, AZ",
-        "date_posted": "49 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-revature-4279262367?position=60&pageNum=0&refId=sjSjXkIejDj0YPcETSowuQ%3D%3D&trackingId=e1VdAQp8jb7POBETdem3pQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "SoTalent",
-        "location": "St Louis, MO",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-sotalent-4277387860?position=1&pageNum=2&refId=i3e9xuqKYpgRgSSjNzT3%2Fg%3D%3D&trackingId=kcn8K0GIgzZNy9exDtd%2F%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer (Cloud NW & AI Security)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-cloud-nw-ai-security-at-palo-alto-networks-4266239581?position=2&pageNum=2&refId=i3e9xuqKYpgRgSSjNzT3%2Fg%3D%3D&trackingId=X7BQCdogiW4v8MwxW9IKXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Jobright.ai",
-        "location": "Atlanta, GA",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-jobright-ai-4279264653?position=3&pageNum=2&refId=i3e9xuqKYpgRgSSjNzT3%2Fg%3D%3D&trackingId=yZRRJGqytKMdvMacPgG5gw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer, Servicing",
-        "company": "Jobright.ai",
-        "location": "California, United States",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-servicing-at-jobright-ai-4279267237?position=4&pageNum=2&refId=i3e9xuqKYpgRgSSjNzT3%2Fg%3D%3D&trackingId=GqfzHmChd9nZpOiHWnQzDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Oracle Database Engineer",
-        "company": "Jobright.ai",
-        "location": "Aurora, CO",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-oracle-database-engineer-at-jobright-ai-4279274006?position=5&pageNum=2&refId=i3e9xuqKYpgRgSSjNzT3%2Fg%3D%3D&trackingId=K4Mmp0XsQ35GflJ%2Fjtufwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Engineer - M",
-        "company": "Jobs via Dice",
-        "location": "New York, NY",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-m-at-jobs-via-dice-4279275018?position=6&pageNum=2&refId=i3e9xuqKYpgRgSSjNzT3%2Fg%3D%3D&trackingId=DZAEE%2F3byfzL99H1sMNdjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer REMOTE (Engineer Software 1) - 24743",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "47 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-remote-engineer-software-1-24743-at-jobright-ai-4279259750?position=7&pageNum=2&refId=i3e9xuqKYpgRgSSjNzT3%2Fg%3D%3D&trackingId=GvHYxk2Vx3%2F7s6fo%2Fcc4kQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer \u2013 AlloyDB Infrastructure",
-        "company": "Jobright.ai",
-        "location": "New York, United States",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-alloydb-infrastructure-at-jobright-ai-4279262348?position=8&pageNum=2&refId=i3e9xuqKYpgRgSSjNzT3%2Fg%3D%3D&trackingId=X3JFjuOwXPP7NKdbXPDDJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer \u2013 Global Banking & Markets",
-        "company": "Jobright.ai",
-        "location": "Salt Lake City Metropolitan Area",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-global-banking-markets-at-jobright-ai-4279273285?position=9&pageNum=2&refId=i3e9xuqKYpgRgSSjNzT3%2Fg%3D%3D&trackingId=8rB6jLcHlVHXR7v6UclWOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer \u2013 Electronic Trading",
-        "company": "Jobright.ai",
-        "location": "New York, United States",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-electronic-trading-at-jobright-ai-4279271369?position=10&pageNum=2&refId=i3e9xuqKYpgRgSSjNzT3%2Fg%3D%3D&trackingId=CYvS%2BuFYFQMlYNzU0oA6Kg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst",
-        "company": "Smart Hire Agency",
-        "location": "Los Angeles, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst%C2%A0-at-smart-hire-agency-4277390394?position=1&pageNum=5&refId=ZxobMVfsleId87a9ru6ZUA%3D%3D&trackingId=ESsVX8jvLEq18sUy2mhX4Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer 1 or 2 - Stormwater (OPEN & PROMOTIONAL)",
-        "company": "Spokane County",
-        "location": "Spokane, WA",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-1-or-2-stormwater-open-promotional-at-spokane-county-4279605916?position=2&pageNum=5&refId=ZxobMVfsleId87a9ru6ZUA%3D%3D&trackingId=YsVZobwR0z1qzaNSaPHjPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Revature",
-        "location": "Durham, NH",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-revature-4279263532?position=3&pageNum=5&refId=ZxobMVfsleId87a9ru6ZUA%3D%3D&trackingId=r9nR5urzjzR4UQk7FJbP2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Fraud Data Scientist",
-        "company": "ID.me",
-        "location": "Mountain View, CA",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/fraud-data-scientist-at-id-me-4121538629?position=4&pageNum=5&refId=ZxobMVfsleId87a9ru6ZUA%3D%3D&trackingId=EJ34WTzquQH9N5bJwvmKow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Beavercreek, OH",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4279274081?position=5&pageNum=5&refId=ZxobMVfsleId87a9ru6ZUA%3D%3D&trackingId=KdZL7QU1rma116FslvNKEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "Revature",
-        "location": "Danbury, CT",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-revature-4279263206?position=6&pageNum=5&refId=ZxobMVfsleId87a9ru6ZUA%3D%3D&trackingId=C0sz3deqLuSvYP%2B7n14kXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "C/C++ Software Engineer II",
-        "company": "Jobright.ai",
-        "location": "Woburn, MA",
-        "date_posted": "58 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-software-engineer-ii-at-jobright-ai-4279258721?position=7&pageNum=5&refId=ZxobMVfsleId87a9ru6ZUA%3D%3D&trackingId=TlLgUZAeAk3C8baqQ0Ul%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "Revature",
-        "location": "Arlington, TX",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-revature-4279265048?position=8&pageNum=5&refId=ZxobMVfsleId87a9ru6ZUA%3D%3D&trackingId=uJeiol9Zs1XVTDUaI3WVJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Quantitative Researcher (San Francisco)",
-        "company": "Insight Investment",
-        "location": "San Francisco, CA",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-san-francisco-at-insight-investment-4279610740?position=9&pageNum=5&refId=ZxobMVfsleId87a9ru6ZUA%3D%3D&trackingId=kCkP1r4u%2F0bUtDZr8i9fAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "Revature",
-        "location": "Tucson, AZ",
-        "date_posted": "49 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-revature-4279262367?position=10&pageNum=5&refId=ZxobMVfsleId87a9ru6ZUA%3D%3D&trackingId=%2FqQzpFAAPB4HxWAlXi8LCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative Outside Sales",
-        "company": "Builders FirstSource",
-        "location": "Springfield, VA",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-outside-sales-at-builders-firstsource-4211123122?position=1&pageNum=7&refId=kbEQBXPBN53khbTr54f59Q%3D%3D&trackingId=FLXG%2FutCR09Frsd1I5hOmQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-04 13:03:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Q-Centrix",
         "location": "United States",
         "date_posted": "35 minutes ago",
@@ -1157,6 +347,496 @@
         "url": "https://www.linkedin.com/jobs/view/quality-engineer-at-trelleborg-seals-profiles-4265349695?position=8&pageNum=10&refId=EiXHoe38WuxduxOKCiJ8kA%3D%3D&trackingId=i9P41LtfIItSCOLUxTFVVQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-08-04 13:50:29",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "Agility Partners",
+        "location": "Cincinnati Metropolitan Area",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-agility-partners-4279629002?position=1&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=%2F3EDCa6hYXvcmc76vOHjug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Seneca Resources",
+        "location": "Austin, TX",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-seneca-resources-4279626169?position=5&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=0XLDLRwImQ%2FLwzC7ZJOZSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst Full Time ( 100% Remote)",
+        "company": "TapTalent.ai",
+        "location": "Baton Rouge, LA",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-taptalent-ai-4279623860?position=6&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=ovZvsReId7S%2BVum2riqkwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst Full Time (100% Remote)",
+        "company": "TapTalent.ai",
+        "location": "Tucson, AZ",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-taptalent-ai-4279624681?position=8&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=B3o%2F93Q2vfTjb8S6X%2BMQAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Asset Servicing - Associate - NYC - GBM Public",
+        "company": "Goldman Sachs",
+        "location": "New York, NY",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-asset-servicing-associate-nyc-gbm-public-at-goldman-sachs-3944555458?position=9&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=vxYRai0v53fXxbhZ2hrp7g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "TapTalent.ai",
+        "location": "Malvern, PA",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-taptalent-ai-4279629284?position=11&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=XWOCIUvbBC7frnpU%2BYOclg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "BI/Data Analyst",
+        "company": "Thomas Edwards Group",
+        "location": "Dallas, TX",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/bi-data-analyst-at-thomas-edwards-group-4279627106?position=13&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=%2F0p%2F5cDkTSPubw38gpwpTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Envix Technologies Inc",
+        "location": "United States",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-envix-technologies-inc-4277398349?position=19&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=SlKj1uB%2B4iuC03AxdRllsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst with SQL and Traded Products",
+        "company": "TapTalent.ai",
+        "location": "Billings, MT",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-with-sql-and-traded-products-at-taptalent-ai-4279625652?position=23&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=TCO0MpSyk80lzlQZl01zig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Staff Software Engineer - Frontend/UI (AIOps)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-staff-software-engineer-frontend-ui-aiops-at-palo-alto-networks-4279276959?position=24&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=vUbSWZUFfbVqnSoWRiZsCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Daughenbaugh & Company PLLC",
+        "location": "Houston, TX",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-daughenbaugh-company-pllc-4279280486?position=26&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=perzZLTTN7%2BbhrWxoxSSfg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I (San Francisco)",
+        "company": "Jerry",
+        "location": "San Francisco Bay Area",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-san-francisco-at-jerry-4279278649?position=28&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=27AyHhOX1ZZRJh6CWH65yg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Video",
+        "company": "Alarm.com",
+        "location": "Tysons Corner, VA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-video-at-alarm-com-4237497499?position=30&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=5SUWunkWsOoWv1jyWDzceg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Autonomy Software Engineer",
+        "company": "Ascent AeroSystems",
+        "location": "Wilmington, MA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/autonomy-software-engineer-at-ascent-aerosystems-4279631168?position=35&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=FW5gnN8XRiPXHCSzw4jUAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Guidewire",
+        "company": "Grinnell Mutual",
+        "location": "Des Moines, IA",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-guidewire-at-grinnell-mutual-4279275702?position=37&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=9npI677zMV2qel4iwXE%2B2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Payroll Data Analyst",
+        "company": "TapTalent.ai",
+        "location": "Delaware City, DE",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/payroll-data-analyst-at-taptalent-ai-4279631037?position=39&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=wec22lXIt7%2F6htZuRbHZNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - UAV Systems",
+        "company": "Ascent AeroSystems",
+        "location": "Wilmington, MA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-uav-systems-at-ascent-aerosystems-4279628447?position=43&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=8lB0%2BDCTLutszotROeE3GQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I (San Francisco)",
+        "company": "Jerry",
+        "location": "San Francisco, CA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-san-francisco-at-jerry-4279282108?position=46&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=ghtd8fbXAkNL9fEPzix18g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I (San Francisco)",
+        "company": "Jerry",
+        "location": "Palo Alto, CA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-san-francisco-at-jerry-4279275993?position=47&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=jiYBCaTLoaSmvaiC%2FJwxwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Quality Assurance Engineer",
+        "company": "Elevate HR, Inc.",
+        "location": "New York, NY",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-quality-assurance-engineer-at-elevate-hr-inc-4279278479?position=48&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=YQr%2FiWemzAzkvShEEnkx8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Field Data Collector - Detroit, MI",
+        "company": "Intetics",
+        "location": "Detroit, MI",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/field-data-collector-detroit-mi-at-intetics-4279616811?position=49&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=4zNFRVi9QbbxyUsPtM5xDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "CTIO-Data Scientist-Sr Associate",
+        "company": "PwC",
+        "location": "California, United States",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/ctio-data-scientist-sr-associate-at-pwc-4266182670?position=50&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=GC%2FIVAdCgOcAHvfXgwc0Ww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "CTIO-Data Scientist-Sr Associate",
+        "company": "PwC",
+        "location": "California, United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ctio-data-scientist-sr-associate-at-pwc-4265896216?position=51&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=aGY%2FU4qcRLfPZVUhcKdftA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "CommScope",
+        "location": "Santa Clara, CA",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-commscope-4252617701?position=52&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=YS8I5%2FzS%2BmnL5E2tkPT7Dg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Mechanical Engineer \u2013 Data Center Cooling",
+        "company": "HCLTech",
+        "location": "Charlotte, NC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-%E2%80%93-data-center-cooling-at-hcltech-4259882386?position=53&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=KLTcE3B2LV3dcUBljHDRWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, C++ - Top Secret Clearance",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-top-secret-clearance-at-spacex-4150826987?position=54&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=cAYncfCWgT1PK0fxu8upWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "FlairTechSolutions Inc",
+        "location": "United States",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-flairtechsolutions-inc-4279278397?position=55&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=ApVuVzEljhnCpTVo%2F9cUJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "CTIO-Data Scientist-Sr Associate",
+        "company": "PwC",
+        "location": "California, United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ctio-data-scientist-sr-associate-at-pwc-4265882487?position=56&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=16ih9fMlmD50zQKqhnGHNg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "CTIO-Data Scientist-Sr Associate",
+        "company": "PwC",
+        "location": "California, United States",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ctio-data-scientist-sr-associate-at-pwc-4265886150?position=57&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=WFndTtS2cWgJL1Xz80tmYg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "CTIO-Data Scientist-Sr Associate",
+        "company": "PwC",
+        "location": "California, United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ctio-data-scientist-sr-associate-at-pwc-4266181766?position=58&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=eAyDvZsYFs%2BqxOXUl86eBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "BI Consultant",
+        "company": "AMEND Consulting",
+        "location": "Cincinnati, OH",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/bi-consultant-at-amend-consulting-4277700300?position=59&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=6qLTCzF2nTRUClh7SDLjFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Applications Software Engineer",
+        "company": "Apex Systems",
+        "location": "Dearborn, MI",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/applications-software-engineer-at-apex-systems-4279621480?position=60&pageNum=0&refId=N%2FmkfQEq2psjY%2FQtzvgc%2BA%3D%3D&trackingId=Rc1X5Z2WtglgBlzGD64B8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Daughenbaugh & Company PLLC",
+        "location": "Houston, TX",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-daughenbaugh-company-pllc-4279280486?position=1&pageNum=2&refId=GrFG12ivPDEKan3YmV42Lw%3D%3D&trackingId=yurXcR9bMNzUXZZDst82Wg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I (San Francisco)",
+        "company": "Jerry",
+        "location": "San Francisco Bay Area",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-san-francisco-at-jerry-4279278649?position=3&pageNum=2&refId=GrFG12ivPDEKan3YmV42Lw%3D%3D&trackingId=AFc9b61%2FVcI3MjEz%2FUctFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Video",
+        "company": "Alarm.com",
+        "location": "Tysons Corner, VA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-video-at-alarm-com-4237497499?position=5&pageNum=2&refId=GrFG12ivPDEKan3YmV42Lw%3D%3D&trackingId=Qvay%2BK5N7bt8N8QTLuaNTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Autonomy Software Engineer",
+        "company": "Ascent AeroSystems",
+        "location": "Wilmington, MA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/autonomy-software-engineer-at-ascent-aerosystems-4279631168?position=10&pageNum=2&refId=GrFG12ivPDEKan3YmV42Lw%3D%3D&trackingId=7MilJVqrHq3IBL0zCjXQaw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "CTIO-Data Scientist-Sr Associate",
+        "company": "PwC",
+        "location": "California, United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ctio-data-scientist-sr-associate-at-pwc-4265896216?position=1&pageNum=5&refId=b%2BPdfRXUxhzgjA%2BSScYUcg%3D%3D&trackingId=r4PJ36giibPychMp8JlVYg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "CommScope",
+        "location": "Santa Clara, CA",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-commscope-4252617701?position=2&pageNum=5&refId=b%2BPdfRXUxhzgjA%2BSScYUcg%3D%3D&trackingId=qgUYE0nhqUvDsKa%2BhlDJkg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Mechanical Engineer \u2013 Data Center Cooling",
+        "company": "HCLTech",
+        "location": "Charlotte, NC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-%E2%80%93-data-center-cooling-at-hcltech-4259882386?position=3&pageNum=5&refId=b%2BPdfRXUxhzgjA%2BSScYUcg%3D%3D&trackingId=KDclQbH5Cdkxy2byY9GFfw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "FlairTechSolutions Inc",
+        "location": "United States",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-flairtechsolutions-inc-4279278397?position=4&pageNum=5&refId=b%2BPdfRXUxhzgjA%2BSScYUcg%3D%3D&trackingId=ibpRpEsYnPrCwQa9kJwVLw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, C++ - Top Secret Clearance",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-top-secret-clearance-at-spacex-4150826987?position=5&pageNum=5&refId=b%2BPdfRXUxhzgjA%2BSScYUcg%3D%3D&trackingId=b8Le9UmjCHYmC7OsgI4fjw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "CTIO-Data Scientist-Sr Associate",
+        "company": "PwC",
+        "location": "California, United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ctio-data-scientist-sr-associate-at-pwc-4265882487?position=6&pageNum=5&refId=b%2BPdfRXUxhzgjA%2BSScYUcg%3D%3D&trackingId=9AYDllivUr45hV7JEKS1Sw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "CTIO-Data Scientist-Sr Associate",
+        "company": "PwC",
+        "location": "California, United States",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ctio-data-scientist-sr-associate-at-pwc-4265886150?position=7&pageNum=5&refId=b%2BPdfRXUxhzgjA%2BSScYUcg%3D%3D&trackingId=8EQ6PlHhsPE63czro4awAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "CTIO-Data Scientist-Sr Associate",
+        "company": "PwC",
+        "location": "California, United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ctio-data-scientist-sr-associate-at-pwc-4266181766?position=8&pageNum=5&refId=b%2BPdfRXUxhzgjA%2BSScYUcg%3D%3D&trackingId=f6Tkdc5dAskbO9w4y08Jlw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "BI Consultant",
+        "company": "AMEND Consulting",
+        "location": "Cincinnati, OH",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/bi-consultant-at-amend-consulting-4277700300?position=9&pageNum=5&refId=b%2BPdfRXUxhzgjA%2BSScYUcg%3D%3D&trackingId=l7Ml9kJmC1hFdU83%2BphEAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Applications Software Engineer",
+        "company": "Apex Systems",
+        "location": "Dearborn, MI",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/applications-software-engineer-at-apex-systems-4279621480?position=10&pageNum=5&refId=b%2BPdfRXUxhzgjA%2BSScYUcg%3D%3D&trackingId=MCQmdsEgoQJrBLcrO7oEPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Field Job - Fulltime and Part time - Las Vegas Nevada",
+        "company": "V2 Infra Tech LLC",
+        "location": "Las Vegas, NV",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/field-job-fulltime-and-part-time-las-vegas-nevada-at-v2-infra-tech-llc-4279278314?position=1&pageNum=7&refId=4pzVjDbyk7trBORrDUm%2BYw%3D%3D&trackingId=3voHpcciHF5pUDamTPaevg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "FEA Analyst (Bolted Joint Analysis)",
+        "company": "DBSI Services",
+        "location": "Tucson, AZ",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/fea-analyst-bolted-joint-analysis-at-dbsi-services-4279621740?position=3&pageNum=7&refId=4pzVjDbyk7trBORrDUm%2BYw%3D%3D&trackingId=y5Y1rzsvFIkF03i2SyqVAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
+        "email_sent": false
+    },
+    {
+        "title": "Category Development Analyst",
+        "company": "FGF Brands",
+        "location": "Bentonville, AR",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/category-development-analyst-at-fgf-brands-4241094420?position=5&pageNum=7&refId=4pzVjDbyk7trBORrDUm%2BYw%3D%3D&trackingId=SryyqsUxi2JdU1sH6a3Gzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-04 14:15:22",
         "email_sent": false
     }
 ]
