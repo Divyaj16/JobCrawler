@@ -1,675 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4282305443?position=3&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=roxr9C%2FtNPQyP4pBXeCHzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "Lensa",
-        "location": "Arlington, VA",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-lensa-4282108134?position=4&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=l9y8X5jtXXMQaJw%2Fpz452A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Ads",
-        "company": "Discord",
-        "location": "San Francisco Bay Area",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ads-at-discord-4281852163?position=8&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=I1HVUuzbhl5aMJXARuPn8w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Data Analyst",
-        "company": "Lensa",
-        "location": "Los Angeles, CA",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-at-lensa-4280233570?position=10&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=gHVIDCOPI%2B6TRKNGY0XEWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "SPIRE ENERGY LTD",
-        "location": "Florida, United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-spire-energy-ltd-4281850194?position=11&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=BWov4rN4NT9doo%2B7ofzUtg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Insights Analyst - Healthcare ( remote ) ( remote )",
-        "company": "Lensa",
-        "location": "Orlando, FL",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-insights-analyst-healthcare-remote-remote-at-lensa-4282109114?position=13&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=amW8uEIJTpiKQRczEsr0DQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "SPIRE ENERGY LTD",
-        "location": "Colorado, United States",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-spire-energy-ltd-4281848519?position=17&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=rXJQCEMm14XuKW0gaFAEkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst I",
-        "company": "Lensa",
-        "location": "Lake Forest, IL",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-lensa-4280230720?position=20&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=7VVSiupy9bt4p%2B8hcWKgFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "AI Software Engineer",
-        "company": "V-Soft Consulting Group, Inc.",
-        "location": "Cincinnati, OH",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-software-engineer-at-v-soft-consulting-group-inc-4282308797?position=21&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=tEWcd%2Bjtw7p7Q1XF0Tzzww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "SPIRE ENERGY LTD",
-        "location": "Arkansas, United States",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-spire-energy-ltd-4281848480?position=22&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=6uY%2FYUn1yi%2FI4R9DaHAfQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer",
-        "company": "Lensa",
-        "location": "Fredericksburg, VA",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-lensa-4280233323?position=26&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=%2FjslRh2MMNp6L9NphGy%2Flg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Management Engineer",
-        "company": "American Chemical Society",
-        "location": "Columbus, OH",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/data-management-engineer-at-american-chemical-society-4281849222?position=27&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=JFVrj8QON0BY4%2Bs7OprJUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer (Go) (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-go-remote-at-jobright-ai-4280230931?position=29&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=yirc0gFfYIr4dR%2FlcTatlg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer, Computer Vision",
-        "company": "Jobright.ai",
-        "location": "Hawthorne, CA",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-computer-vision-at-jobright-ai-4281842839?position=31&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=ZImd53jZieJEjRNgMLs68Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Wilmington, DE",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4280232600?position=32&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=aPyI1QlXtPHJi4Eq6tpZZg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Management Engineer",
-        "company": "American Chemical Society",
-        "location": "Washington, DC",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/data-management-engineer-at-american-chemical-society-4281851051?position=34&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=jV7QZMyW8FcEUZiynxIFWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II - Supply Chain (Remote)",
-        "company": "Lensa",
-        "location": "Atlanta, GA",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-supply-chain-remote-at-lensa-4280235268?position=36&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=yGlSunKQfGlqZHn1%2BleIHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Dev Engineer II",
-        "company": "Aditi Consulting",
-        "location": "Redmond, WA",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-dev-engineer-ii-at-aditi-consulting-4282315401?position=38&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=OssJBkYKHXBPEJAFW7jkjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Database Reliability Engineer",
-        "company": "Jobright.ai",
-        "location": "Irvine, CA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-database-reliability-engineer-at-jobright-ai-4281851132?position=41&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=ZDWdYFOw5gHWybH7gYso4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer - Fullstack, Multiple Locations (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-fullstack-multiple-locations-remote-at-jobright-ai-4281842995?position=42&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=HkiNFsjiHfAj2lywFqAELg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Azure Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Chicago, IL",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-jobs-via-dice-4280232599?position=43&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=WyeptNc0Fi6atEpDcXOSEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer, Starlink Network",
-        "company": "Jobright.ai",
-        "location": "Redmond, WA",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-starlink-network-at-jobright-ai-4281844710?position=45&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=VQrOZUGEiIOJ1pgxsStNyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer- Java/Kafka",
-        "company": "Jobright.ai",
-        "location": "Charlotte, NC",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-java-kafka-at-jobright-ai-4281841972?position=47&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=%2BpC%2Fqr549YDjGgNiJ4EMkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Bioinformatics Data Analyst I",
-        "company": "Lensa",
-        "location": "Salt Lake City, UT",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/bioinformatics-data-analyst-i-at-lensa-4280232497?position=48&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=YFSyLWLzFnpJBG0yN3w1kw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer, Handshake AI - Payouts",
-        "company": "Jobright.ai",
-        "location": "New York, United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-handshake-ai-payouts-at-jobright-ai-4281845941?position=50&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=6kGtLpEWTMu63eA%2B4R68Jw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer - Backend (Java)",
-        "company": "Jobright.ai",
-        "location": "Charlotte, NC",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-backend-java-at-jobright-ai-4281851228?position=53&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=2xmkPPhdVkpQTNLkn%2BNqcw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer, Client",
-        "company": "Jobright.ai",
-        "location": "San Francisco, CA",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-client-at-jobright-ai-4281846444?position=55&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=xVekz5fTs3pTMabkliGI0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer with scala and spark",
-        "company": "Jobs via Dice",
-        "location": "New York, NY",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-with-scala-and-spark-at-jobs-via-dice-4280234280?position=56&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=DwWkvMv2bjnXHEz9LaSeVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer, Data - Top Secret Clearance",
-        "company": "Jobright.ai",
-        "location": "Hawthorne, CA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-data-top-secret-clearance-at-jobright-ai-4281844798?position=57&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=nu6MflfZXr6d18842n4OoQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Engineer, Platform",
-        "company": "T-Mobile",
-        "location": "Overland Park, KS",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-engineer-platform-at-t-mobile-4281852090?position=59&pageNum=0&refId=u1SYrijZg6AgZ5ERXjvZFA%3D%3D&trackingId=ksCDqiNzyv5hLUXldvvGKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer",
-        "company": "Lensa",
-        "location": "Fredericksburg, VA",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-lensa-4280233323?position=1&pageNum=2&refId=lcwfJaLwj7H1wInBdywfCw%3D%3D&trackingId=dhlnjs4DPhuamoaVWfsCQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Management Engineer",
-        "company": "American Chemical Society",
-        "location": "Columbus, OH",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/data-management-engineer-at-american-chemical-society-4281849222?position=2&pageNum=2&refId=lcwfJaLwj7H1wInBdywfCw%3D%3D&trackingId=KiKMK8LNFXag%2BzXXtdAvLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer (Go) (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-go-remote-at-jobright-ai-4280230931?position=4&pageNum=2&refId=lcwfJaLwj7H1wInBdywfCw%3D%3D&trackingId=WpGPpQrno%2Fr56vexG4Mu8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer, Computer Vision",
-        "company": "Jobright.ai",
-        "location": "Hawthorne, CA",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-computer-vision-at-jobright-ai-4281842839?position=6&pageNum=2&refId=lcwfJaLwj7H1wInBdywfCw%3D%3D&trackingId=%2FWVCTePbvJn27pc1aeAOVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Wilmington, DE",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4280232600?position=7&pageNum=2&refId=lcwfJaLwj7H1wInBdywfCw%3D%3D&trackingId=gDKSFpLWI5ltNeCByi5XjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Management Engineer",
-        "company": "American Chemical Society",
-        "location": "Washington, DC",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/data-management-engineer-at-american-chemical-society-4281851051?position=9&pageNum=2&refId=lcwfJaLwj7H1wInBdywfCw%3D%3D&trackingId=ypbpHCdD%2BCZ2cA7YPO5yxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer - Backend (Java)",
-        "company": "Jobright.ai",
-        "location": "Charlotte, NC",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-backend-java-at-jobright-ai-4281851228?position=3&pageNum=5&refId=rqrIJFP6GkV1Oa45XF%2BG1w%3D%3D&trackingId=2DoJ53VC5rHAL5TsIX4ISw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer, Client",
-        "company": "Jobright.ai",
-        "location": "San Francisco, CA",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-client-at-jobright-ai-4281846444?position=5&pageNum=5&refId=rqrIJFP6GkV1Oa45XF%2BG1w%3D%3D&trackingId=SlKhhJ0%2BHCsAPdOjrf2wvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer with scala and spark",
-        "company": "Jobs via Dice",
-        "location": "New York, NY",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-with-scala-and-spark-at-jobs-via-dice-4280234280?position=6&pageNum=5&refId=rqrIJFP6GkV1Oa45XF%2BG1w%3D%3D&trackingId=h2MuzOS5G4F5pOQngzGv5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer, Data - Top Secret Clearance",
-        "company": "Jobright.ai",
-        "location": "Hawthorne, CA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-data-top-secret-clearance-at-jobright-ai-4281844798?position=7&pageNum=5&refId=rqrIJFP6GkV1Oa45XF%2BG1w%3D%3D&trackingId=ENAwDXDh%2BswsUZMSzo%2FPtw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Engineer, Platform",
-        "company": "T-Mobile",
-        "location": "Overland Park, KS",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-engineer-platform-at-t-mobile-4281852090?position=9&pageNum=5&refId=rqrIJFP6GkV1Oa45XF%2BG1w%3D%3D&trackingId=A4V%2FgmJr%2FpUhHekR5RthTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - COBRA, New Grad",
-        "company": "Jobright.ai",
-        "location": "San Diego, CA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-cobra-new-grad-at-jobright-ai-4281850378?position=1&pageNum=7&refId=GZbZ23WwnKqAO7CdA7X5hg%3D%3D&trackingId=jOtNOgr2IRKlwqh30SKP7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "BI Developer/Reporting Analyst",
-        "company": "Piper Companies",
-        "location": "San Antonio, TX",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/bi-developer-reporting-analyst-at-piper-companies-4280226773?position=5&pageNum=7&refId=GZbZ23WwnKqAO7CdA7X5hg%3D%3D&trackingId=M965%2BDGsm429FbaRsUdqSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer-Cincinnati, OH-Onsite role",
-        "company": "Jobs via Dice",
-        "location": "Cincinnati, OH",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-cincinnati-oh-onsite-role-at-jobs-via-dice-4280229798?position=9&pageNum=7&refId=GZbZ23WwnKqAO7CdA7X5hg%3D%3D&trackingId=vT9acqD6VR7AUhAlIV5pLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Front End Engineer",
-        "company": "Pegasystems",
-        "location": "Waltham, MA",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/front-end-engineer-at-pegasystems-4281843925?position=10&pageNum=7&refId=GZbZ23WwnKqAO7CdA7X5hg%3D%3D&trackingId=lTNpv%2BigmuVRjfMZm1sRkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Systems PhD Candidates, New Grad",
-        "company": "Jobright.ai",
-        "location": "Bellevue, WA",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-systems-phd-candidates-new-grad-at-jobright-ai-4280231236?position=1&pageNum=10&refId=ZzpnA1YTIGA7aU1RvFM6XQ%3D%3D&trackingId=9LB5WPd8KgXklJ850G0XTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer TSSCI Poly",
-        "company": "Actalent",
-        "location": "Aurora, CO",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-tssci-poly-at-actalent-4282152671?position=2&pageNum=10&refId=ZzpnA1YTIGA7aU1RvFM6XQ%3D%3D&trackingId=TQCQ%2BpSySLHFxM%2BmWuqmRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Developer Advocate",
-        "company": "Agora",
-        "location": "Santa Clara, CA",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/developer-advocate-at-agora-4282315492?position=3&pageNum=10&refId=ZzpnA1YTIGA7aU1RvFM6XQ%3D%3D&trackingId=UGatjFgMkaaSR5FTzOSu0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "ENGINEER - RESEARCH ENGINEER - Propulsion System Engineer",
-        "company": "Southwest Research Institute",
-        "location": "San Antonio, TX",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-research-engineer-propulsion-system-engineer-at-southwest-research-institute-4282312572?position=5&pageNum=10&refId=ZzpnA1YTIGA7aU1RvFM6XQ%3D%3D&trackingId=CxxVFKy6zH9pyhgS%2BIDDpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level React Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Sarasota, FL",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-react-software-engineer-at-jobs-via-dice-4280229725?position=7&pageNum=10&refId=ZzpnA1YTIGA7aU1RvFM6XQ%3D%3D&trackingId=NiuMxZEo47oRhIeSQZp8ag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Genetic Data Analyst",
-        "company": "DNA Swine Genetics",
-        "location": "Columbus, NE",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/genetic-data-analyst-at-dna-swine-genetics-4280224862?position=8&pageNum=10&refId=ZzpnA1YTIGA7aU1RvFM6XQ%3D%3D&trackingId=7DS53TeMYMKdVky0pVk%2B3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "C++ Software Engineer",
-        "company": "Middleman Software, Inc.",
-        "location": "Nashville Metropolitan Area",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-middleman-software-inc-4282304494?position=9&pageNum=10&refId=ZzpnA1YTIGA7aU1RvFM6XQ%3D%3D&trackingId=bzOcsfs8ZsWER%2FdF3IcL5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "RESEARCH OFFICER \u2013 DATA SCIENTIST/STATISTICIAN",
-        "company": "Swansea University / Prifysgol Abertawe",
-        "location": "Medicine, NE",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/research-officer-%E2%80%93-data-scientist-statistician-at-swansea-university-prifysgol-abertawe-4281847773?position=10&pageNum=10&refId=ZzpnA1YTIGA7aU1RvFM6XQ%3D%3D&trackingId=RaTlddMJc7L50ru%2FoY8W%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Forward Deployed Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "New York, NY",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-at-jobs-via-dice-4280232578?position=1&pageNum=12&refId=vGjDohDnhKm5DXAmUEEgKw%3D%3D&trackingId=02rNj6tYFnT95iHK%2F1BuCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "PHP Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Daly City, CA",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/php-software-engineer-at-jobs-via-dice-4280228736?position=2&pageNum=12&refId=vGjDohDnhKm5DXAmUEEgKw%3D%3D&trackingId=CTeJFg6JBd%2FRSpXUO4sLbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Technical Support Engineer",
-        "company": "Piper Companies",
-        "location": "Morrisville, NC",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/technical-support-engineer-at-piper-companies-4280230462?position=3&pageNum=12&refId=vGjDohDnhKm5DXAmUEEgKw%3D%3D&trackingId=1JRhmDWYGMOG0SsOGif28A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Quantitative Analyst, New Grad (Remote)",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-new-grad-remote-at-jobright-ai-4281848341?position=5&pageNum=12&refId=vGjDohDnhKm5DXAmUEEgKw%3D%3D&trackingId=ttByl%2B69vPLYYTzRWhDkpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Forward Deployed Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Los Angeles, CA",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-at-jobs-via-dice-4280227926?position=7&pageNum=12&refId=vGjDohDnhKm5DXAmUEEgKw%3D%3D&trackingId=XKf4%2Boyh%2FIHcM6nu2LI%2B9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Forward Deployed Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Austin, TX",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-at-jobs-via-dice-4280228870?position=9&pageNum=12&refId=vGjDohDnhKm5DXAmUEEgKw%3D%3D&trackingId=FvBlgkevlfQkX3bL0tgJeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "INNOVATION SPECIALIST",
-        "company": "California Department of Health Care Services",
-        "location": "Yolo, CA",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/innovation-specialist-at-california-department-of-health-care-services-4281846506?position=5&pageNum=15&refId=KABr1OupV5CbcOwCauM63A%3D%3D&trackingId=V4M3795xmEdnoa0InBSMRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Engineering Manager, Ads",
-        "company": "Jobright.ai",
-        "location": "San Francisco, CA",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-engineering-manager-ads-at-jobright-ai-4280227956?position=4&pageNum=17&refId=9C87J3qOkFtynjj4sz6JGQ%3D%3D&trackingId=%2F2YS6SPbDId1PQx0IxN2SA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Intel Analyst",
-        "company": "CACI International Inc",
-        "location": "Aurora, CO",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/intel-analyst-at-caci-international-inc-4281850358?position=6&pageNum=17&refId=9C87J3qOkFtynjj4sz6JGQ%3D%3D&trackingId=kFK0TKX%2FViBclZx05jlRcQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist with AI/ML(Full time role)",
-        "company": "Jobs via Dice",
-        "location": "Philadelphia, PA",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-with-ai-ml-full-time-role-at-jobs-via-dice-4280232677?position=8&pageNum=17&refId=9C87J3qOkFtynjj4sz6JGQ%3D%3D&trackingId=icM8K64JpZImTJ%2FqYbzfQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "Project Engineer",
-        "company": "Jobs via Dice",
-        "location": "Magna, UT",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-jobs-via-dice-4280229704?position=1&pageNum=20&refId=oSO8%2BvLj8jc7pMFdTP8HMw%3D%3D&trackingId=9S9mUfWDwcsMasgublqUrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "AI Governance Analyst",
-        "company": "Jobs via Dice",
-        "location": "Toronto, OH",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-governance-analyst-at-jobs-via-dice-4280229770?position=3&pageNum=20&refId=oSO8%2BvLj8jc7pMFdTP8HMw%3D%3D&trackingId=eAGiPpN1wXJDvWrPnXsG4w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "OneStream Analyst",
-        "company": "Jobs via Dice",
-        "location": "McLean, VA",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/onestream-analyst-at-jobs-via-dice-4280235214?position=4&pageNum=20&refId=oSO8%2BvLj8jc7pMFdTP8HMw%3D%3D&trackingId=J0RzX4KxGRqNRiOKdZ0O6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
-        "title": "MerchandiseDataAnalyst",
-        "company": "Jobs via Dice",
-        "location": "California City, CA",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/merchandisedataanalyst-at-jobs-via-dice-4280231692?position=6&pageNum=20&refId=oSO8%2BvLj8jc7pMFdTP8HMw%3D%3D&trackingId=dmlLUBzdRfgil%2FS7B38L6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-08 18:35:47",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer, Broadband",
         "company": "T-Mobile",
         "location": "Bellevue, WA",
@@ -1727,6 +1057,226 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-4280239050?position=42&pageNum=0&refId=NJNzxxr293Wvlc%2Ft9rq6nA%3D%3D&trackingId=rYr6mYoqwaomWs34heXf7g%3D%3D&trk=public_jobs_jserp-result_search-card",
         "source": "LinkedIn",
         "scraped_date": "2025-08-08 19:32:15",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Entry Level (Remote)",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-remote-at-jobright-ai-4281868688?position=11&pageNum=0&refId=RO6VngClIKQqMguie%2Bt0hg%3D%3D&trackingId=0j%2F8H%2BU8aObfLZaBK1okYQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Analytics Engineer",
+        "company": "Jobright.ai",
+        "location": "Chicago, IL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-analytics-engineer-at-jobright-ai-4281870491?position=14&pageNum=0&refId=RO6VngClIKQqMguie%2Bt0hg%3D%3D&trackingId=TaaF2Pj%2F2AWhaqFLFBuq9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Analyst, Data Science",
+        "company": "Jobright.ai",
+        "location": "New York, United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-analyst-data-science-at-jobright-ai-4281872326?position=34&pageNum=0&refId=RO6VngClIKQqMguie%2Bt0hg%3D%3D&trackingId=bYrTMImGj94PWlYlDd3wRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Backend",
+        "company": "Coverflex",
+        "location": "United States",
+        "date_posted": "Just now",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-coverflex-4280252378?position=48&pageNum=0&refId=RO6VngClIKQqMguie%2Bt0hg%3D%3D&trackingId=H1ja4cK1xyyvlIEDqjmZfw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist - Morristown, NJ, White Plains or NYC, NY",
+        "company": "Valley Bank",
+        "location": "White Plains, NY",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-morristown-nj-white-plains-or-nyc-ny-at-valley-bank-4280252435?position=58&pageNum=0&refId=RO6VngClIKQqMguie%2Bt0hg%3D%3D&trackingId=le0IJflSmCAdbvTJLstpFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Master Data Analyst I",
+        "company": "TD SYNNEX North America",
+        "location": "Clearwater, FL",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/master-data-analyst-i-at-td-synnex-north-america-4281864905?position=59&pageNum=0&refId=RO6VngClIKQqMguie%2Bt0hg%3D%3D&trackingId=Lezr5bbLsEG6lhhSJw5vTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Analyst, Data Science",
+        "company": "Jobright.ai",
+        "location": "New York, United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-analyst-data-science-at-jobright-ai-4281872326?position=9&pageNum=2&refId=NypMDgBKOiejlFiNq%2Buf9g%3D%3D&trackingId=l%2BNVCww%2BbyR%2FYHOAiauylQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist - Morristown, NJ, White Plains or NYC, NY",
+        "company": "Valley Bank",
+        "location": "White Plains, NY",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-morristown-nj-white-plains-or-nyc-ny-at-valley-bank-4280252435?position=8&pageNum=5&refId=p9ypSJAA%2BcdRThNLn41%2FsA%3D%3D&trackingId=RkfNrBOqJqszKzKt5Zh4Eg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Master Data Analyst I",
+        "company": "TD SYNNEX North America",
+        "location": "Clearwater, FL",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/master-data-analyst-i-at-td-synnex-north-america-4281864905?position=9&pageNum=5&refId=p9ypSJAA%2BcdRThNLn41%2FsA%3D%3D&trackingId=vpFX9AfCfbOacujAytWdsg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Teledyne Technologies Incorporated",
+        "location": "Lincoln, NE",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-teledyne-technologies-incorporated-4280252421?position=1&pageNum=7&refId=jJAY%2FtXnUQel0K2Teoymsg%3D%3D&trackingId=lgSxGaq2ENCglETT0%2BujPw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer Oracle Fusion",
+        "company": "Jobs via Dice",
+        "location": "Phoenix, AZ",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-oracle-fusion-at-jobs-via-dice-4280228883?position=3&pageNum=7&refId=jJAY%2FtXnUQel0K2Teoymsg%3D%3D&trackingId=HLSIXPn6kOeXR3%2BzMaGRdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Associate, Software Engineer (Sunrise, FL)",
+        "company": "L3Harris Technologies",
+        "location": "Sunrise, FL",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-sunrise-fl-at-l3harris-technologies-4280252337?position=6&pageNum=7&refId=jJAY%2FtXnUQel0K2Teoymsg%3D%3D&trackingId=b51CJJZkd68xQm17MiJC2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Jerry",
+        "location": "Las Vegas, NV",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-jerry-4280244457?position=7&pageNum=7&refId=jJAY%2FtXnUQel0K2Teoymsg%3D%3D&trackingId=G4J%2BcuGq0oly8asRDQOH4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Jerry",
+        "location": "Miami, FL",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-jerry-4280248170?position=8&pageNum=7&refId=jJAY%2FtXnUQel0K2Teoymsg%3D%3D&trackingId=lbpUNozz5CJCAu06JvSgPw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Jerry",
+        "location": "Dallas, TX",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-jerry-4280241789?position=4&pageNum=10&refId=hrQ8BmLQaKcKbTSAo%2BJjZA%3D%3D&trackingId=YPABzeoxNR1oaD5mLI07fQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Digital Insights Analyst",
+        "company": "Jobright.ai",
+        "location": "St. Petersburg, FL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-digital-insights-analyst-at-jobright-ai-4281869648?position=5&pageNum=10&refId=hrQ8BmLQaKcKbTSAo%2BJjZA%3D%3D&trackingId=itFdQMiPprntQECRfZKuLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Citadel Securities",
+        "location": "Miami, FL",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-citadel-securities-4264412194?position=6&pageNum=10&refId=hrQ8BmLQaKcKbTSAo%2BJjZA%3D%3D&trackingId=0ib4Da0LsP14SOULLPfQ%2FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Jerry",
+        "location": "Newark, NJ",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-jerry-4280246263?position=8&pageNum=10&refId=hrQ8BmLQaKcKbTSAo%2BJjZA%3D%3D&trackingId=N%2F076iZYsBN%2FuCDkLupAXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Jerry",
+        "location": "Charlotte, NC",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-jerry-4280243709?position=9&pageNum=10&refId=hrQ8BmLQaKcKbTSAo%2BJjZA%3D%3D&trackingId=k5703B3AacoDNn9n0WKxvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Critical Facilities Engineer",
+        "company": "Allied OneSource",
+        "location": "Shawnee, KS",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-center-critical-facilities-engineer-at-allied-onesource-4280249384?position=4&pageNum=12&refId=Gz8fH4d8WnCwJDaEOEmckQ%3D%3D&trackingId=eifEKl4a7gbvAhA%2Bp5CzUQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Daily Process Engineer",
+        "company": "Avient Corporation",
+        "location": "Greenville, NC",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/daily-process-engineer-at-avient-corporation-4240236894?position=3&pageNum=15&refId=eXA%2FqpQ5LYKhHVwY3o8FLg%3D%3D&trackingId=TvWMNFfMzYuqoJWM1L4Uvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
+        "email_sent": false
+    },
+    {
+        "title": "Operations Analyst II",
+        "company": "Amentum",
+        "location": "Huntsville, AL",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/operations-analyst-ii-at-amentum-4281699372?position=8&pageNum=15&refId=eXA%2FqpQ5LYKhHVwY3o8FLg%3D%3D&trackingId=xfNyB3s0WSRwO9%2FbttDcvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-08 19:44:30",
         "email_sent": false
     }
 ]
