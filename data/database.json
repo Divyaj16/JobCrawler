@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "BBG Ventures",
-        "location": "Mountain View, CA",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-bbg-ventures-4290102762?position=3&pageNum=0&refId=oGjAhyrww3NFgeGpicUCQA%3D%3D&trackingId=rSoQ7THcm4xBTcFZ%2FrB08A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 22:42:04",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "eNGINE",
         "location": "Pittsburgh, PA",
@@ -107,6 +97,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-barclays-4287668247?position=5&pageNum=0&refId=76CObX4YMIvxmKpQRFy%2Brg%3D%3D&trackingId=oFDo31eF1MTdg2BBDB02kw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-08-23 23:40:28",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Top Secret Clearance Required)",
+        "company": "Lockheed Martin",
+        "location": "King of Prussia, PA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-top-secret-clearance-required-at-lockheed-martin-4289362795?position=6&pageNum=0&refId=%2B69fA3jf4%2FbpDuMmwFk4UA%3D%3D&trackingId=9GtSuW%2F0h3DCQW%2BlR%2BFvAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 23:49:19",
         "email_sent": false
     }
 ]
