@@ -1,55 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4290297941?position=3&pageNum=0&refId=%2FmK%2Ff5%2F0Rfyv3T89FUdXPQ%3D%3D&trackingId=gDSnSY038x33emONedLspg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 15:58:14",
-        "email_sent": false
-    },
-    {
-        "title": "Golang Software Engineer",
-        "company": "CyberCoders",
-        "location": "Denver, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/golang-software-engineer-at-cybercoders-4279068523?position=10&pageNum=0&refId=%2FmK%2Ff5%2F0Rfyv3T89FUdXPQ%3D%3D&trackingId=7fmpztF%2B%2FLlRi5qw814F8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 15:58:15",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-hirenza-4290405375?position=12&pageNum=0&refId=%2FmK%2Ff5%2F0Rfyv3T89FUdXPQ%3D%3D&trackingId=FO7Kv17uABuZSECFk4LfiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 15:58:15",
-        "email_sent": false
-    },
-    {
-        "title": "Cyber Security Engineer",
-        "company": "James Search Group",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/cyber-security-engineer-at-james-search-group-4290405380?position=13&pageNum=0&refId=%2FmK%2Ff5%2F0Rfyv3T89FUdXPQ%3D%3D&trackingId=0blXCGXSNnQJXykTcrkl%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 15:58:15",
-        "email_sent": false
-    },
-    {
-        "title": "Power System Engineer",
-        "company": "ETAP Software",
-        "location": "Irvine, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/power-system-engineer-at-etap-software-4265167199?position=25&pageNum=0&refId=%2FmK%2Ff5%2F0Rfyv3T89FUdXPQ%3D%3D&trackingId=s7Wf5M66ydfOUz%2BjUIMyHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 15:58:15",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Realtor.com",
         "location": "United States",
@@ -127,6 +77,76 @@
         "url": "https://www.linkedin.com/jobs/view/data-scientist-at-best-job-tool-4290299828?position=11&pageNum=0&refId=zkY1RwhPh07b65n2roDQoA%3D%3D&trackingId=q28sG09D%2Bcrsr8tWM59vVA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-08-23 16:52:36",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "James Search Group",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-james-search-group-4290402815?position=5&pageNum=0&refId=QlIjtl%2BQEyAsSNyi5%2FyF2A%3D%3D&trackingId=42rE8PhUra1sOonLADHlTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 17:01:08",
+        "email_sent": false
+    },
+    {
+        "title": "Infrastructure and Operations Engineer",
+        "company": "Progressive Data Jobs",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/infrastructure-and-operations-engineer-at-progressive-data-jobs-4290090085?position=10&pageNum=0&refId=QlIjtl%2BQEyAsSNyi5%2FyF2A%3D%3D&trackingId=W48MR9x908u8bFQRbBvbyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 17:01:08",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer 1 (Remote)",
+        "company": "Talentify.io",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-1-remote-at-talentify-io-4290084612?position=12&pageNum=0&refId=QlIjtl%2BQEyAsSNyi5%2FyF2A%3D%3D&trackingId=OLSGKiSvGZU1s9bdYcVvYg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 17:01:08",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer 1 (Remote)",
+        "company": "Talentify.io",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-1-remote-at-talentify-io-4290086535?position=13&pageNum=0&refId=QlIjtl%2BQEyAsSNyi5%2FyF2A%3D%3D&trackingId=wUXddliDC7SD0CmpmfnGug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 17:01:08",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer 1 (Remote)",
+        "company": "Talentify.io",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-1-remote-at-talentify-io-4290088304?position=14&pageNum=0&refId=QlIjtl%2BQEyAsSNyi5%2FyF2A%3D%3D&trackingId=GS9HJczAmMncXKF23nFsMg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 17:01:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-wiraa-4290081549?position=16&pageNum=0&refId=QlIjtl%2BQEyAsSNyi5%2FyF2A%3D%3D&trackingId=oE%2Bwj7%2BQKlRL7Xt%2F8GK8Yw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 17:01:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - S&P Global",
+        "company": "Jobs via eFinancialCareers",
+        "location": "New York, NY",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-s-p-global-at-jobs-via-efinancialcareers-4287652792?position=17&pageNum=0&refId=QlIjtl%2BQEyAsSNyi5%2FyF2A%3D%3D&trackingId=iIJ0vF7aJwQL9Iq%2FNDcStQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 17:01:08",
         "email_sent": false
     }
 ]
