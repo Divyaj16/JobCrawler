@@ -1,85 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4290414078?position=2&pageNum=0&refId=WI1y9osEIsalc94xSUS8bQ%3D%3D&trackingId=qmsy%2FvbwoJ4NJUns4o5d%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 20:35:49",
-        "email_sent": false
-    },
-    {
-        "title": "Database Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-hirenza-4290424445?position=3&pageNum=0&refId=WI1y9osEIsalc94xSUS8bQ%3D%3D&trackingId=hWOr055mqTaxpgJYqB9TUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 20:35:49",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-wiraa-4290411250?position=5&pageNum=0&refId=WI1y9osEIsalc94xSUS8bQ%3D%3D&trackingId=3RmZyRJXI3%2BH9BaLyf7g9g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 20:35:49",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4290410273?position=13&pageNum=0&refId=WI1y9osEIsalc94xSUS8bQ%3D%3D&trackingId=yGYeGQ3VXed3gde%2BRzIcAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 20:35:49",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-hirenza-4290425366?position=14&pageNum=0&refId=WI1y9osEIsalc94xSUS8bQ%3D%3D&trackingId=%2F2J5I6157gNCNm53TaY5lw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 20:35:49",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-hirenza-4290417955?position=16&pageNum=0&refId=WI1y9osEIsalc94xSUS8bQ%3D%3D&trackingId=V1PL4Kft9gc47eUAZ0hNGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 20:35:49",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (C++)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-wiraa-4290405739?position=17&pageNum=0&refId=WI1y9osEIsalc94xSUS8bQ%3D%3D&trackingId=jO9MVzV4XfHjgOSmj6RN7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 20:35:49",
-        "email_sent": false
-    },
-    {
-        "title": "AI and Data Scientist- Health Analytics",
-        "company": "Carilion Clinic",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-and-data-scientist-health-analytics-at-carilion-clinic-4290411698?position=18&pageNum=0&refId=WI1y9osEIsalc94xSUS8bQ%3D%3D&trackingId=E9EHOavwuQS6wN8DpWgdDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 20:35:49",
-        "email_sent": false
-    },
-    {
         "title": "Splunk Engineer",
         "company": "VMR Strategic Solutions, LLC",
         "location": "Annapolis Junction, MD",
@@ -117,6 +37,36 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4290426382?position=4&pageNum=0&refId=2VMhQdp5oHXA0MO3DCFrmw%3D%3D&trackingId=TPXWADI0LXjADKCiYRS2oQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-08-23 21:32:35",
+        "email_sent": false
+    },
+    {
+        "title": "Clinical Data Reviewer",
+        "company": "Syneos Health",
+        "location": "California, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/clinical-data-reviewer-at-syneos-health-4290106190?position=9&pageNum=0&refId=nBgn8Jl0qqT3A9M1R4XT3g%3D%3D&trackingId=263ncvGbZfDD83ibgcs1ag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 21:42:08",
+        "email_sent": false
+    },
+    {
+        "title": "Clinical Data Reviewer (US and UK Only)",
+        "company": "Syneos Health",
+        "location": "North Carolina, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/clinical-data-reviewer-us-and-uk-only-at-syneos-health-4290107167?position=10&pageNum=0&refId=nBgn8Jl0qqT3A9M1R4XT3g%3D%3D&trackingId=Zxx8sZpO9kemHXs2vVPvSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 21:42:08",
+        "email_sent": false
+    },
+    {
+        "title": "Operations Analyst",
+        "company": "Akima",
+        "location": "Fort Belvoir, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/operations-analyst-at-akima-4290424439?position=11&pageNum=0&refId=nBgn8Jl0qqT3A9M1R4XT3g%3D%3D&trackingId=UD4%2FuO%2B5XhpLwrjpgNyRbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 21:42:08",
         "email_sent": false
     }
 ]
