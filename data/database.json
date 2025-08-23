@@ -1,25 +1,5 @@
 [
     {
-        "title": "Splunk Engineer",
-        "company": "VMR Strategic Solutions, LLC",
-        "location": "Annapolis Junction, MD",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/splunk-engineer-at-vmr-strategic-solutions-llc-4290413632?position=9&pageNum=0&refId=YtSgcgJUG0iZyvGbR%2B1pGw%3D%3D&trackingId=Bn%2BOSQXMol6OrJJpGL%2BeMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 20:48:03",
-        "email_sent": false
-    },
-    {
-        "title": "RESEARCH ANALYST",
-        "company": "NYC Department of Social Services",
-        "location": "Brooklyn, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/research-analyst-at-nyc-department-of-social-services-4287665043?position=22&pageNum=0&refId=YtSgcgJUG0iZyvGbR%2B1pGw%3D%3D&trackingId=XYIu8aaJLk1pstqNJkt3eg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-23 20:48:03",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "White & Case LLP",
         "location": "Tampa, FL",
@@ -67,6 +47,76 @@
         "url": "https://www.linkedin.com/jobs/view/operations-analyst-at-akima-4290424439?position=11&pageNum=0&refId=nBgn8Jl0qqT3A9M1R4XT3g%3D%3D&trackingId=UD4%2FuO%2B5XhpLwrjpgNyRbw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-08-23 21:42:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4290414078?position=1&pageNum=0&refId=4cA8%2FhXNcWQ5%2BQnF4VRwpg%3D%3D&trackingId=ic2bBqOSX72F8uZE7N4d0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 21:53:06",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-hirenza-4290424445?position=2&pageNum=0&refId=4cA8%2FhXNcWQ5%2BQnF4VRwpg%3D%3D&trackingId=dRNdrHEaRu7NU0al2AjYDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 21:53:06",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-wiraa-4290411250?position=3&pageNum=0&refId=4cA8%2FhXNcWQ5%2BQnF4VRwpg%3D%3D&trackingId=a3J32AyqxCregUnl%2FTYBFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 21:53:06",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-hirenza-4290425366?position=5&pageNum=0&refId=4cA8%2FhXNcWQ5%2BQnF4VRwpg%3D%3D&trackingId=IFYq4V8buF4SNiGH2AYAYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 21:53:06",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-hirenza-4290417955?position=6&pageNum=0&refId=4cA8%2FhXNcWQ5%2BQnF4VRwpg%3D%3D&trackingId=FXq0c7qTf2AH1H8VJTvICA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 21:53:06",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4290410273?position=7&pageNum=0&refId=4cA8%2FhXNcWQ5%2BQnF4VRwpg%3D%3D&trackingId=%2B6F2ourPVzZLFSgknmx9Cw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 21:53:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (C++)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-at-wiraa-4290405739?position=8&pageNum=0&refId=4cA8%2FhXNcWQ5%2BQnF4VRwpg%3D%3D&trackingId=XUDjFlJwm6DMFkWneQ4zDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-23 21:53:06",
         "email_sent": false
     }
 ]
