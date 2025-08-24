@@ -1,345 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Similarweb",
-        "location": "New York, NY",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-similarweb-4240996285?position=4&pageNum=0&refId=1wqg56PAk1VkEffET2FAXA%3D%3D&trackingId=KFYpUl0O2wQsTaD0H2y%2BDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:15:01",
-        "email_sent": false
-    },
-    {
-        "title": "Developer",
-        "company": "Tata Consultancy Services",
-        "location": "Jacksonville, FL",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/developer-at-tata-consultancy-services-4278184952?position=9&pageNum=0&refId=1wqg56PAk1VkEffET2FAXA%3D%3D&trackingId=ps4JNHMjMGhI6Bupbn2rZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:15:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Imperial Supplies",
-        "location": "Green Bay, WI",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-imperial-supplies-4253540995?position=13&pageNum=0&refId=1wqg56PAk1VkEffET2FAXA%3D%3D&trackingId=lf0bX1x6EWpMSD5IyesAUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:15:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist - Intermediate",
-        "company": "Tata Consultancy Services",
-        "location": "Downingtown, PA",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-intermediate-at-tata-consultancy-services-4278186686?position=19&pageNum=0&refId=1wqg56PAk1VkEffET2FAXA%3D%3D&trackingId=1xg%2BTxDNJU3zXAdbOBCfhg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:15:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Lensa",
-        "location": "Washington, DC",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4290470117?position=2&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=c%2FbVfYacjxUXQGVgbC3baw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Lensa",
-        "location": "Dallas, TX",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4290462584?position=5&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=RkvsPZ9Fh0Lt5cjImtaTcg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Lensa",
-        "location": "Columbus, OH",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4290468212?position=7&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=ZuWJShAmYnzKra7M1TjlaQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Engineer Data Platform - US Based Remote",
-        "company": "Lensa",
-        "location": "Kansas City, MO",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-engineer-data-platform-us-based-remote-at-lensa-4290462634?position=8&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=GC5BCqSbvFQ8GT1qikHoBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Lensa",
-        "location": "Raleigh, NC",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lensa-4290469160?position=9&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=l44%2FWjTcAjLFHP1ubpINtA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - School of Medicine, Biomedical Informatics",
-        "company": "Lensa",
-        "location": "Atlanta, GA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-school-of-medicine-biomedical-informatics-at-lensa-4290465522?position=10&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=GdvGH3YiVdKBEAxrnqVDGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "Lensa",
-        "location": "Frankfort, KY",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-lensa-4290464498?position=11&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=YnTQl3AHtikWGa2crKxw2w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Lensa",
-        "location": "Washington, DC",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lensa-4290463518?position=12&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=mNHwN%2B1NTAKnN%2Bpe0VIWyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "Lensa",
-        "location": "United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-lensa-4290464419?position=13&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=X3FjTK4dCksFu2xAFC4lyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer II-Android",
-        "company": "Lensa",
-        "location": "Chicago, IL",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-ii-android-at-lensa-4290469261?position=16&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=SN14Tc7Oh1LbKJPWXnUv6g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "DATA INTELLIGENCE SPECIALIST (CHARLOTTE, NC)",
-        "company": "Lensa",
-        "location": "Charlotte, NC",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-intelligence-specialist-charlotte-nc-at-lensa-4290466381?position=17&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=XHpdBcYMzVfQLdOtRu1new%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Associate, Software Engineer (Greenville, TX)",
-        "company": "Lensa",
-        "location": "Greenville, TX",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-greenville-tx-at-lensa-4290466378?position=18&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=DgaYO9yJH2%2FoGziFeVqyYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Forward Deployed Engineer",
-        "company": "C3 AI",
-        "location": "Redwood City, CA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-c3-ai-4252416460?position=19&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=gs0U0gni5EFBQYptqFaJdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer, Veteran Opportunity",
-        "company": "Lensa",
-        "location": "San Diego, CA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-veteran-opportunity-at-lensa-4290462514?position=23&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=CiZMzZgjXOCIetk07WcMmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Solar and Energy Storage Remote Operator and Data Analyst",
-        "company": "Lensa",
-        "location": "Westborough, MA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/solar-and-energy-storage-remote-operator-and-data-analyst-at-lensa-4290462546?position=26&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=j8VnH3sYLE0OwOmiJiy6eQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level ATLO Electrical System Integration/Test Engineer",
-        "company": "Lensa",
-        "location": "Littleton, CO",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-atlo-electrical-system-integration-test-engineer-at-lensa-4290463575?position=32&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=1pRtQ%2BxjAGI6ADNRt9qDMg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Research Data Scientist",
-        "company": "Tatari",
-        "location": "Los Angeles, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/research-data-scientist-at-tatari-4254155059?position=38&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=fusxjhgftMb9vVRiztbr6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Research Data Scientist",
-        "company": "Tatari",
-        "location": "San Francisco, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/research-data-scientist-at-tatari-4254148935?position=39&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=379QeLoMnNXlo3DG%2BEKVqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Biostatistician I",
-        "company": "Lensa",
-        "location": "San Antonio, TX",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/biostatistician-i-at-lensa-4290466358?position=40&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=XNLsIV1i4VYSGUY1OJd4jw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Chemical Engineer",
-        "company": "Lensa",
-        "location": "San Antonio, TX",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/chemical-engineer-at-lensa-4290461789?position=41&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=lE%2F%2BcC1bjnCC3iWnsWO9Dg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "RF Engineer I",
-        "company": "Lensa",
-        "location": "Fort Collins, CO",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/rf-engineer-i-at-lensa-4290468315?position=43&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=WBUknxCr%2BAgXl%2FcTp6nbyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "OCU-Technical-Materials Engineering Associate-1st Shift",
-        "company": "Lensa",
-        "location": "Columbus, IN",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ocu-technical-materials-engineering-associate-1st-shift-at-lensa-4290467311?position=44&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=x7Wy9rciSRLAfrCilq5tVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Consultant Mechanical Engineer (Mission Critical/Data Centers)",
-        "company": "WSP in the U.S.",
-        "location": "New York, NY",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-consultant-mechanical-engineer-mission-critical-data-centers-at-wsp-in-the-u-s-4265504623?position=45&pageNum=0&refId=nQeIDx0aPw%2F6AeQqbeJizw%3D%3D&trackingId=yximlGMQ5b7CAfIQCELP%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:30:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientists",
-        "company": "Get Hired with Lois",
-        "location": "San Francisco Bay Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientists-at-get-hired-with-lois-4287683857?position=15&pageNum=0&refId=OjjcqSuiJhKziQ8kmqA0EQ%3D%3D&trackingId=J1mF%2FTBq8epI2ok%2FAtPWWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:41:37",
-        "email_sent": false
-    },
-    {
-        "title": "Member of Technical Staff, Data Platform",
-        "company": "Anchorage Digital",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-data-platform-at-anchorage-digital-4211782566?position=20&pageNum=0&refId=OjjcqSuiJhKziQ8kmqA0EQ%3D%3D&trackingId=V7KzpWSM6lQIk1hMs722ug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:41:37",
-        "email_sent": false
-    },
-    {
-        "title": "Power BI Administrator",
-        "company": "Kforce Inc",
-        "location": "Dania, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/power-bi-administrator-at-kforce-inc-4226309862?position=25&pageNum=0&refId=OjjcqSuiJhKziQ8kmqA0EQ%3D%3D&trackingId=jkvFTiBGSdgW%2Bqte7qN2Ew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:41:37",
-        "email_sent": false
-    },
-    {
-        "title": "\ud83d\ude80 HIRING NOW | \ud83d\udcca Actuarial Data Scientist | \ud83d\udcbb Digital Transformation | \ud83e\udd16 Advanced ML Projects | \ud83d\udca1 Innovate in the Insurance Space | \ud83d\udcb5 Up to $175k Package | \ud83c\udfe2 Onsite \u2013 Multiple US Locations",
-        "company": "Data Revolution",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/%F0%9F%9A%80-hiring-now-%F0%9F%93%8A-actuarial-data-scientist-%F0%9F%92%BB-digital-transformation-%F0%9F%A4%96-advanced-ml-projects-%F0%9F%92%A1-innovate-in-the-insurance-space-%F0%9F%92%B5-up-to-%24175k-package-%F0%9F%8F%A2-onsite-%E2%80%93-multiple-us-locations-at-data-revolution-4287140495?position=29&pageNum=0&refId=OjjcqSuiJhKziQ8kmqA0EQ%3D%3D&trackingId=9HZeoX8d3dldNCOKkr68%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:41:37",
-        "email_sent": false
-    },
-    {
-        "title": "Laboratory Data Reviewer",
-        "company": "Eurofins Viracor BioPharma Services",
-        "location": "Fairfield, OH",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/laboratory-data-reviewer-at-eurofins-viracor-biopharma-services-4290476589?position=30&pageNum=0&refId=OjjcqSuiJhKziQ8kmqA0EQ%3D%3D&trackingId=lrvShFlLyJECHLKmso5D%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:41:37",
-        "email_sent": false
-    },
-    {
-        "title": "Laboratory Report Analyst",
-        "company": "Eurofins Viracor BioPharma Services",
-        "location": "Fairfield, OH",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/laboratory-report-analyst-at-eurofins-viracor-biopharma-services-4290475650?position=37&pageNum=0&refId=OjjcqSuiJhKziQ8kmqA0EQ%3D%3D&trackingId=lD2BSES8Xk%2FiKULLRATasg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:41:37",
-        "email_sent": false
-    },
-    {
-        "title": "Pump Applications Engineer",
-        "company": "DXP Enterprises, Inc.",
-        "location": "Lenexa, KS",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/pump-applications-engineer-at-dxp-enterprises-inc-4225022325?position=44&pageNum=0&refId=OjjcqSuiJhKziQ8kmqA0EQ%3D%3D&trackingId=cnZ4ODrLHx9yIHTuUgwQHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-24 11:41:37",
-        "email_sent": false
-    },
-    {
         "title": "GCP Data Engineer",
         "company": "Tata Consultancy Services",
         "location": "Issaquah, WA",
@@ -447,6 +107,236 @@
         "url": "https://www.linkedin.com/jobs/view/geotechnical-staff-engineer-at-s-me-4241074965?position=49&pageNum=0&refId=EUcRBD%2FBKEMvuoH%2Bi0GvPQ%3D%3D&trackingId=1KK4ksq7a%2FUz3a7ceU4%2BIw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-08-24 11:59:28",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (SQL)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sql-at-wiraa-4290471908?position=1&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=h1dqMEFtE0hLDonoiCebzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:48",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Brightwell",
+        "location": "Atlanta, GA",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-brightwell-4264811493?position=2&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=q1Zc0mOd3nYgHiGQ%2BGq7CA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:48",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer  (Python, MLOps)",
+        "company": "Red Hat",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-mlops-at-red-hat-4290477494?position=4&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=lX4SZ5%2BPGB2hB8OOr7OtHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:48",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Globe Life",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-globe-life-4290481295?position=8&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=62MzFuFHuO4CQcGaN74pcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:48",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Patient Access Operations",
+        "company": "TieTalent",
+        "location": "United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-patient-access-operations-at-tietalent-4290177248?position=15&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=neWDiv248R6Gq50xY9hOQw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:48",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Manufacturing Accounting",
+        "company": "Jobs via Dice",
+        "location": "Austin, TX",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-manufacturing-accounting-at-jobs-via-dice-4290169821?position=22&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=MdqK5jv2OTPfHx1xLnVsqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:48",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer II",
+        "company": "Actalent",
+        "location": "Raleigh, NC",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-ii-at-actalent-4288385537?position=25&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=vKXxn0azQztnJ%2B5U2jP%2BJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:48",
+        "email_sent": false
+    },
+    {
+        "title": "WANT YOUR WORK TO MEAN SOMETHING?",
+        "company": "Driven Insights",
+        "location": "Gardner, MA",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/want-your-work-to-mean-something%3F-at-driven-insights-4290474787?position=26&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=NP%2FKVLVT%2Fk%2Fc8IvyZOpAsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "Entry-Level Embedded Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Berkeley, MO",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-embedded-software-engineer-at-jobs-via-dice-4290173587?position=30&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=3GXWkBSMHYJkd3MEQ2qhqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "RTOS Embedded Engineer 5 (AHT) - R10198758-3",
+        "company": "Northrop Grumman",
+        "location": "Linthicum Heights, MD",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/rtos-embedded-engineer-5-aht-r10198758-3-at-northrop-grumman-4254255717?position=31&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=17I%2FErI6IaCN8To5pXquKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "San Diego, CA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4290177173?position=32&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=G%2FKgwXLFPfKcmCPItzAFKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "Field System Engineer - Burlington, NC",
+        "company": "TieTalent",
+        "location": "United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/field-system-engineer-burlington-nc-at-tietalent-4290175308?position=34&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=p2cyyYwXlgg3aQjkSSQ1Mw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Communications Platform",
+        "company": "Jobs via Dice",
+        "location": "Fremont, CA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-communications-platform-at-jobs-via-dice-4290173585?position=35&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=x64%2FVY4523MlFIpYfhyA5Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Scientist",
+        "company": "Jobs via Dice",
+        "location": "Alexandria, VA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-jobs-via-dice-4290174504?position=36&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=pSpdPPnaJIggTBVsx5PErg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "Cyber Systems Security Engineer Entry Level - Must Have Poly",
+        "company": "Jobs via Dice",
+        "location": "Annapolis, MD",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/cyber-systems-security-engineer-entry-level-must-have-poly-at-jobs-via-dice-4290168783?position=40&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=%2BxSxo22pg5X0gsfNHC89gQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer - Simulation",
+        "company": "Jobs via Dice",
+        "location": "Oklahoma City, OK",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-simulation-at-jobs-via-dice-4290177161?position=42&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=7UQYpRFHojCgXmxPQvtheQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "GNC Software Engineer (Falcon)",
+        "company": "Jobs via Dice",
+        "location": "Hawthorne, CA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/gnc-software-engineer-falcon-at-jobs-via-dice-4290169813?position=43&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=txKiEv6HgyZOcerVql9rDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "Sales Engineer, Southwest (Enterprise)",
+        "company": "Cribl",
+        "location": "Phoenix, AZ",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sales-engineer-southwest-enterprise-at-cribl-4238002342?position=45&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=dzwx4NiX5ZO8r1g0lMe%2FOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Top Secret Clearance Required)",
+        "company": "Jobs via Dice",
+        "location": "King of Prussia, PA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-top-secret-clearance-required-at-jobs-via-dice-4290171616?position=46&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=WeuYjaIwtKxjH5mF7yGtZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "Quality RN Data Analyst Full Time Days",
+        "company": "TieTalent",
+        "location": "California, MD",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/quality-rn-data-analyst-full-time-days-at-tietalent-4290172823?position=48&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=exgS7F3z1GxWTxq25EtV%2Bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "Fire Protection Consultant - Remote, US",
+        "company": "Bowman Consulting",
+        "location": "United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/fire-protection-consultant-remote-us-at-bowman-consulting-4253817841?position=51&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=by3lnqU%2FR35jY2rKkt%2BiqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "International Operations Analyst",
+        "company": "TieTalent",
+        "location": "Pleasant Prairie, WI",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/international-operations-analyst-at-tietalent-4290172874?position=52&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=hTcXnWvTaK6zUJM5iu5sMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
+        "email_sent": false
+    },
+    {
+        "title": "Workforce Access Management Data Analyst",
+        "company": "Jobs via Dice",
+        "location": "Minneapolis, MN",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/workforce-access-management-data-analyst-at-jobs-via-dice-4290173583?position=53&pageNum=0&refId=xM9MvaIpBAK5nPv1A8P%2FNA%3D%3D&trackingId=VlMaIC9WD7Wn2C5GG4kG2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-24 12:43:49",
         "email_sent": false
     }
 ]
