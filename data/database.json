@@ -1,476 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Tech9",
-        "location": "United States",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tech9-4288295509?position=1&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=NHia7JQcCmiMD0r%2BXUJ4uA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (entry)",
-        "company": "Jerry",
-        "location": "San Francisco Bay Area",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-entry-at-jerry-4291363671?position=5&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=EbCVI5k0TgRpy3ddKr8xWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4291618689?position=6&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=zCv7bwWEhSZSoQqSpnQY8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Cushman & Wakefield",
-        "location": "New York, NY",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-cushman-wakefield-4291622923?position=7&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=aPYb%2BMazUa4CNdnLD390VQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (entry)",
-        "company": "Jerry",
-        "location": "San Francisco County, CA",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-entry-at-jerry-4291358893?position=9&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=Fjcncs6DWA%2Bo5jt3daJULA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (entry)",
-        "company": "Jerry",
-        "location": "San Francisco, CA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-entry-at-jerry-4291366113?position=10&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=f60d2MXj9GLrqd7iDd3LOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Etegent Technologies",
-        "location": "Beavercreek, OH",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-etegent-technologies-4291363564?position=13&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=Hs54NTzCFQalvINDlPqvJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Korn Ferry",
-        "location": "Columbus, OH",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-korn-ferry-4291660879?position=18&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=fte%2FbaS87kXQCeylrSOvFg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Rhode Island, United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291663873?position=32&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=x2HylQeXhiriANukW8oHsA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291664778?position=33&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=UPwLGpzQeeizHgPFIk%2Ft%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded/Firmware Software Test Engineer Level 1",
-        "company": "eStaffing Inc.",
-        "location": "Johnson City, TN",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-firmware-software-test-engineer-level-1-at-estaffing-inc-4291668386?position=34&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=3FusxyqLIN1kKw1XB5q4tw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Florida, United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291665741?position=36&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=Y61eYTqUyF0HtrWPWRpUpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Alabama, United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291660949?position=38&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=CijE3V3DhA0Dcn14CeM66Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "North Carolina, United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291663867?position=39&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=8H3oNV6Or2JSVSXROAgLng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Virginia, United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291669390?position=40&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=SxAH2fR9ili88fLNUJmkFg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Pennsylvania, United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291667646?position=41&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=7ipfoJGaOVmcr8MUN4irAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "South Carolina, United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291665783?position=43&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=vBM8bvXOx92u%2F1fBXhL6aw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Arizona, United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291667647?position=44&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=CAwtAPXVohR0P1GqRu69%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "New York, NY",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291672012?position=45&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=IQ2HlPmJORazNxAwA8EDUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "New York, United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291669393?position=46&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=BY%2BAhO2RFXghRd5rTYeBHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Oklahoma, United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291663868?position=47&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=e3zX%2FObejYkLokq%2BfqsPYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Colorado, United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291661957?position=48&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=z7x17nGCcYiyEF8NCoj9TA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Kentucky, United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291666654?position=49&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=egLufRCFwYRQTACmxcIZUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Wisconsin, United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291664814?position=50&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=aP9WHxPAziY0t%2B8PXTa5TA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Houston, TX",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291662885?position=51&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=grgwepTW7q9qMJ0impHN0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Iowa, United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291666601?position=52&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=w73Aw4CECiW0V2xJLj3Eog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Dallas, TX",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291667654?position=53&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=xWbcbmGhSuf95HBwPT4aHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Texas, United States",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291667653?position=54&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=%2BYe0Pjb8oNM2QjehfPReQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "San Antonio, TX",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291663878?position=55&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=YW19aDCRGjcSY9iV1VRquQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Mississippi, United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291672004?position=56&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=PGnizoVKQHlumgTUOwSg9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Austin, TX",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291664818?position=57&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=z%2FuhDDRQpW%2Fd6SbMJwD2PA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Missouri, United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291665784?position=58&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=XdWU5Oh8qyjpcEJioLT3MQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Minnesota, United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291672005?position=59&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=OJ%2BmojY0%2FkafDH3jqpit2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Rhode Island, United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291663873?position=8&pageNum=2&refId=MDTOIhfjDdYEqYxW1xvkGw%3D%3D&trackingId=D5sFclfzvvCOsW2IN%2BTv4Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291664778?position=9&pageNum=2&refId=MDTOIhfjDdYEqYxW1xvkGw%3D%3D&trackingId=Ix8AWs8oE3DBIKOK8J3MPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded/Firmware Software Test Engineer Level 1",
-        "company": "eStaffing Inc.",
-        "location": "Johnson City, TN",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-firmware-software-test-engineer-level-1-at-estaffing-inc-4291668386?position=10&pageNum=2&refId=MDTOIhfjDdYEqYxW1xvkGw%3D%3D&trackingId=aI2HDhCqGqlm4j5KvBuj7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Wisconsin, United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291664814?position=1&pageNum=5&refId=yaGv%2FSRuSH%2Fm6t%2FPMk4z4g%3D%3D&trackingId=F18QOZEB89oVbCQKMM8%2BmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Houston, TX",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291662885?position=2&pageNum=5&refId=yaGv%2FSRuSH%2Fm6t%2FPMk4z4g%3D%3D&trackingId=n4aDugDfv6nA6VAVza4CYA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Iowa, United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291666601?position=3&pageNum=5&refId=yaGv%2FSRuSH%2Fm6t%2FPMk4z4g%3D%3D&trackingId=PvDQ5466ErM3y0My7YCQUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Dallas, TX",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291667654?position=4&pageNum=5&refId=yaGv%2FSRuSH%2Fm6t%2FPMk4z4g%3D%3D&trackingId=UqCmpDaQZI1aUNO48W8nIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Texas, United States",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291667653?position=5&pageNum=5&refId=yaGv%2FSRuSH%2Fm6t%2FPMk4z4g%3D%3D&trackingId=FTPKRnbyNrQzP%2Fy2pC77ww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "San Antonio, TX",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291663878?position=6&pageNum=5&refId=yaGv%2FSRuSH%2Fm6t%2FPMk4z4g%3D%3D&trackingId=bHsTqFhgmRZCTLKgezNPGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Mississippi, United States",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291672004?position=7&pageNum=5&refId=yaGv%2FSRuSH%2Fm6t%2FPMk4z4g%3D%3D&trackingId=JqNUPfHd27Un5qEp9HKTXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Austin, TX",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291664818?position=8&pageNum=5&refId=yaGv%2FSRuSH%2Fm6t%2FPMk4z4g%3D%3D&trackingId=1XXiisiGHibJ7bUM33ULLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Missouri, United States",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291665784?position=9&pageNum=5&refId=yaGv%2FSRuSH%2Fm6t%2FPMk4z4g%3D%3D&trackingId=GXcP8a7TTgCpxdGB51MDbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Trainer - Freelance Data Annotator",
-        "company": "Toloka Annotators",
-        "location": "Minnesota, United States",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-trainer-freelance-data-annotator-at-toloka-annotators-4291672005?position=10&pageNum=5&refId=yaGv%2FSRuSH%2Fm6t%2FPMk4z4g%3D%3D&trackingId=xDuOPdp9bKsxHvuRBE6woQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst",
-        "company": "Freelance",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-4291361757?position=35&pageNum=0&refId=WrYZW4eKUSTaO44Hdbzp6Q%3D%3D&trackingId=uK6n9IdPuI4D%2B78d9%2FqQLA%3D%3D&trk=public_jobs_jserp-result_search-card",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-26 21:24:52",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Wiraa",
         "location": "United States",
         "date_posted": "1 hour ago",
@@ -797,6 +327,56 @@
         "url": "https://www.linkedin.com/jobs/view/java-software-engineer-4291670370?position=15&pageNum=0&refId=q7QwV0x8l8rXWC%2Bxu1gL1Q%3D%3D&trackingId=4cN12ZiEF1NutbtQ0Gfj7Q%3D%3D&trk=public_jobs_jserp-result_search-card",
         "source": "LinkedIn",
         "scraped_date": "2025-08-26 22:17:55",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-beaconfire-inc-4287131476?position=1&pageNum=0&refId=%2BVPiZyv55MqRqhQZOpdrgw%3D%3D&trackingId=oh83tADbuOQPyKOVW%2BVjcg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-26 22:36:51",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Lockheed Martin",
+        "location": "Littleton, CO",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lockheed-martin-4291603845?position=12&pageNum=0&refId=%2BVPiZyv55MqRqhQZOpdrgw%3D%3D&trackingId=0b6arnlBE%2FYtDRigSx7pqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-26 22:36:51",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Product Test Automation",
+        "company": "Kane Partners LLC",
+        "location": "Allentown, PA",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-product-test-automation-at-kane-partners-llc-4291677039?position=16&pageNum=0&refId=%2BVPiZyv55MqRqhQZOpdrgw%3D%3D&trackingId=40vAmC%2FqakPrRWtz%2F9abYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-26 22:36:51",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4282823587?position=19&pageNum=0&refId=%2BVPiZyv55MqRqhQZOpdrgw%3D%3D&trackingId=EVTivsfHJR8b%2BNdtgVJ7Hg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-26 22:36:51",
+        "email_sent": false
+    },
+    {
+        "title": "Electrical Engineer (Part-time) - CIT",
+        "company": "NOVA Engineering and Environmental, LLC",
+        "location": "Fort Lauderdale, FL",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/electrical-engineer-part-time-cit-at-nova-engineering-and-environmental-llc-4198576590?position=40&pageNum=0&refId=%2BVPiZyv55MqRqhQZOpdrgw%3D%3D&trackingId=zetuLfsJwJziQXZiLibU2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-26 22:36:51",
         "email_sent": false
     }
 ]
