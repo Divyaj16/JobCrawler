@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Data Visualization Society",
-        "location": "Boston, MA",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-data-visualization-society-4291724858?position=6&pageNum=0&refId=OPA9VDauiXewHDrqEWRe%2Fw%3D%3D&trackingId=4Z%2B%2Bd9Gpbgnj3lzJYUYZmg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-31 16:53:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4293477797?position=10&pageNum=0&refId=OPA9VDauiXewHDrqEWRe%2Fw%3D%3D&trackingId=wtPqOe48taDA7GAGprfkKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-31 16:53:11",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst/SQL Developer Healthcare",
         "company": "Intevity",
         "location": "Ventura, CA",
@@ -157,6 +137,36 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-people-at-braze-4293483385?position=27&pageNum=0&refId=55pS7G39dbVgf7%2BNXBwIhw%3D%3D&trackingId=1%2FcaZuAWm8elhcbJsaD9dg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-08-31 17:46:50",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "C.H. Robinson",
+        "location": "Minnesota, United States",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-c-h-robinson-4293511025?position=4&pageNum=0&refId=cBjfCzSGj7cV7hvPp1YVUg%3D%3D&trackingId=wpPwzAbLqUEk8%2BU9psoYmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-31 17:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Robert Half",
+        "location": "United States",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-robert-half-4293501964?position=10&pageNum=0&refId=cBjfCzSGj7cV7hvPp1YVUg%3D%3D&trackingId=W03xW5DMHcbI3RAj0izjrw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-31 17:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Hardware Engineer - Magnetics Design Focus",
+        "company": "Schweitzer Engineering Laboratories (SEL)",
+        "location": "Pullman, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/hardware-engineer-magnetics-design-focus-at-schweitzer-engineering-laboratories-sel-4293397742?position=11&pageNum=0&refId=cBjfCzSGj7cV7hvPp1YVUg%3D%3D&trackingId=lM%2B%2FPvX1B5YrL9Ju9x1jLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-31 17:58:25",
         "email_sent": false
     }
 ]
