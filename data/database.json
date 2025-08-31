@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4293480448?position=1&pageNum=0&refId=SNrXpqqPJLW%2FT374WED4sA%3D%3D&trackingId=UrHo%2FuhTOhWIrFSbEvyNoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-08-31 21:31:06",
-        "email_sent": false
-    },
-    {
         "title": "Data Scientist",
         "company": "Wiraa",
         "location": "United States",
@@ -127,6 +117,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-apk-solutions-4293499111?position=1&pageNum=0&refId=hcIKBGXpJuBwHuB%2Bbpox2g%3D%3D&trackingId=ZIX6Y9JWaSJFb2s%2FWxTX3A%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-08-31 22:23:44",
+        "email_sent": false
+    },
+    {
+        "title": "Founding Engineer",
+        "company": "Verita AI",
+        "location": "San Francisco Bay Area",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/founding-engineer-at-verita-ai-4293511796?position=4&pageNum=0&refId=jIqxZ1f5CPb81DNP6hny%2BA%3D%3D&trackingId=8EVQhsDeCe4bkpKd1KzvUQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-08-31 22:40:46",
         "email_sent": false
     }
 ]
