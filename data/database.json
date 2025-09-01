@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4294137858?position=2&pageNum=0&refId=HHXDXBpcjU27UTuiKMhPXA%3D%3D&trackingId=OXgeDxeX6PWwQoH7Mzjagg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 20:36:49",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4294141719?position=9&pageNum=0&refId=HHXDXBpcjU27UTuiKMhPXA%3D%3D&trackingId=eWy2RY29tQubyPf54Tu7vw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 20:36:49",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4294144511?position=11&pageNum=0&refId=HHXDXBpcjU27UTuiKMhPXA%3D%3D&trackingId=%2F59Hx350RiA7rvttzIvukg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 20:36:49",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Wiraa",
         "location": "United States",
@@ -207,6 +177,36 @@
         "url": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-best-job-tool-4294146646?position=20&pageNum=0&refId=i1o%2Frfy9xWO0VYFb63bKSA%3D%3D&trackingId=iMoBZlrXdwxRfEYIDwAsdA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-01 21:32:18",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4294115540?position=9&pageNum=0&refId=IX4QL7i7mHaxQjhscEnQPg%3D%3D&trackingId=tVY9PLn%2Fl%2FZmBuzm%2FlfW0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 21:41:35",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-wiraa-4294114610?position=11&pageNum=0&refId=IX4QL7i7mHaxQjhscEnQPg%3D%3D&trackingId=9s7t0UJlivvZnmMu%2BGL2kg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 21:41:35",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Frontend)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wiraa-4294117537?position=14&pageNum=0&refId=IX4QL7i7mHaxQjhscEnQPg%3D%3D&trackingId=yT%2BQbz08m4uY52byrERZNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 21:41:35",
         "email_sent": false
     }
 ]
