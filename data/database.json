@@ -1,35 +1,5 @@
 [
     {
-        "title": "Business & Data Analyst",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-best-job-tool-4294140853?position=9&pageNum=0&refId=V%2FQkB7zun0gtpvr1OiCBhw%3D%3D&trackingId=LXwa2SFGW698%2FR1mMWCf4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 22:51:02",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4294141925?position=10&pageNum=0&refId=V%2FQkB7zun0gtpvr1OiCBhw%3D%3D&trackingId=dX3WYsSnfrVfWLGF0dodrw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 22:51:02",
-        "email_sent": false
-    },
-    {
-        "title": "SR. Data Scientist",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-best-job-tool-4294146646?position=14&pageNum=0&refId=V%2FQkB7zun0gtpvr1OiCBhw%3D%3D&trackingId=QJ0xOHELiFdMJx0x4qZrGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 22:51:02",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Insight Global",
         "location": "Boston, MA",
@@ -87,6 +57,36 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-i-san-francisco-at-jerry-4292226602?position=3&pageNum=0&refId=BMEMObYr0wBznQ9AGUcjmA%3D%3D&trackingId=BRbUc%2FvkRIs2MhTBOhqs3w%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-01 23:47:46",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Starshield)",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-starshield-at-spacex-4294154095?position=3&pageNum=0&refId=wxa8F41zYEyF%2BHTJPfiXVw%3D%3D&trackingId=dhGQpY5eECL2ovw3iF1FFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 23:57:51",
+        "email_sent": false
+    },
+    {
+        "title": "2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I (On-site)",
+        "company": "Raytheon",
+        "location": "Woburn, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/2026-fulltime-raytheon-missile-defense-sensors-software-engineer-i-on-site-at-raytheon-4294149224?position=6&pageNum=0&refId=wxa8F41zYEyF%2BHTJPfiXVw%3D%3D&trackingId=cLC3jLyYWveyH4sxEaV%2FCQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 23:57:51",
+        "email_sent": false
+    },
+    {
+        "title": "2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I (On-site)",
+        "company": "Raytheon",
+        "location": "Tewksbury, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/2026-fulltime-raytheon-missile-defense-sensors-software-engineer-i-on-site-at-raytheon-4294150145?position=7&pageNum=0&refId=wxa8F41zYEyF%2BHTJPfiXVw%3D%3D&trackingId=hUb9SohLM7Lj7YieaSOgGw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 23:57:51",
         "email_sent": false
     }
 ]
