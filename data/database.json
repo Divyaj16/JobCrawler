@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4294112579?position=4&pageNum=0&refId=MA%2BqCKIAmsLf%2BlQKb6zNxA%3D%3D&trackingId=0TW3gyPqXykbzeQiW4vxWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 20:48:25",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Machina Cognita Technologies",
-        "location": "Carlsbad, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-machina-cognita-technologies-4294139089?position=6&pageNum=0&refId=MA%2BqCKIAmsLf%2BlQKb6zNxA%3D%3D&trackingId=CAH5C9MpWhs0qHTDXtTq%2BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 20:48:25",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-hirenza-4294138739?position=12&pageNum=0&refId=MA%2BqCKIAmsLf%2BlQKb6zNxA%3D%3D&trackingId=9Ny84nIChblvYs6Qb1TLcw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-01 20:48:25",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "AARATECH",
         "location": "San Francisco Bay Area",
@@ -207,6 +177,36 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-wiraa-4294117537?position=14&pageNum=0&refId=IX4QL7i7mHaxQjhscEnQPg%3D%3D&trackingId=yT%2BQbz08m4uY52byrERZNA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-01 21:41:35",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4294137858?position=7&pageNum=0&refId=OA2ZlxiXI%2BB65KZYMnesBw%3D%3D&trackingId=Fm2Bf8t3V81zULCHr8MFog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 21:51:12",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4294141719?position=14&pageNum=0&refId=OA2ZlxiXI%2BB65KZYMnesBw%3D%3D&trackingId=q8Dhi1pu8p86XLWc4YGDvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 21:51:12",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4294144511?position=16&pageNum=0&refId=OA2ZlxiXI%2BB65KZYMnesBw%3D%3D&trackingId=jEit0aTVjiH%2FB9FlKgIk0w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-01 21:51:12",
         "email_sent": false
     }
 ]
