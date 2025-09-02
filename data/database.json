@@ -1,165 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Aditi Consulting",
-        "location": "Bellevue, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-aditi-consulting-4294660476?position=5&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=bW7N1zHY9c483ZSENer%2BBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Python/Linux)",
-        "company": "OSI Engineering",
-        "location": "San Diego, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-python-linux-at-osi-engineering-4294257711?position=8&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=6Y%2B5%2FwW9vJf4JHLT8IDUuA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Data Analyst",
-        "company": "Massachusetts Institute of Technology",
-        "location": "Cambridge, MA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-at-massachusetts-institute-of-technology-4294261404?position=11&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=TZHUgRV3O9LB12%2B%2BTW8jGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "Hedge Fund Data Implementation/ Integration Analyst (SQL/ Python)",
-        "company": "NYLON Search - Recruitment and Executive Search",
-        "location": "Philadelphia, PA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/hedge-fund-data-implementation-integration-analyst-sql-python-at-nylon-search-recruitment-and-executive-search-4286504785?position=15&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=Wl2OJJLpYR9KcYQW4aNhpQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "System Application Engineer I",
-        "company": "Schneider Electric",
-        "location": "New York, NY",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-application-engineer-i-at-schneider-electric-4294268127?position=17&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=wygIOKJdyPyWjmHJd0LnGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "Client Support Data Integration Analyst \u2013 FINTECH",
-        "company": "NYLON Search - Recruitment and Executive Search",
-        "location": "Philadelphia, PA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/client-support-data-integration-analyst-%E2%80%93-fintech-at-nylon-search-recruitment-and-executive-search-4277952603?position=26&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=kEgs5Q8ipR7GWGwmHQgxIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Embedded Software Engineer",
-        "company": "Ford Motor Company",
-        "location": "Palo Alto, CA",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-embedded-software-engineer-at-ford-motor-company-4294663624?position=31&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=tzujGz8ez6zmv2JOg0lqmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Software Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-best-job-tool-4294664301?position=33&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=0DuqsA9HtQYtL2E%2F%2FsIxGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "Eridan",
-        "location": "Sunnyvale, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-eridan-4294251866?position=34&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=pV7iAWhc%2BeDhDRDA73xVkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "Product Development Engineer",
-        "company": "Ford Motor Company",
-        "location": "Allen Park, MI",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/product-development-engineer-at-ford-motor-company-4294665558?position=36&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=PQywTyW6e4VlQ4dksktzWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer I (Onsite)",
-        "company": "Collins Aerospace",
-        "location": "Cedar Rapids, IA",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-i-onsite-at-collins-aerospace-4294663654?position=37&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=lkKFdOBmbwQvIo8zpKmJ0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "Package Handler",
-        "company": "Ascendion",
-        "location": "San Antonio, Texas Metropolitan Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/package-handler-at-ascendion-4294259107?position=38&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=15PxMTTpWMBgOUjLrP2tPQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "Information Technology Project Analyst",
-        "company": "Meet Life Sciences",
-        "location": "Indianapolis, IN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/information-technology-project-analyst-at-meet-life-sciences-4293127323?position=41&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=EGTZcvGVNATD1nACO22ZzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Category",
-        "company": "SpartanNash",
-        "location": "Byron Center, MI",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-category-at-spartannash-4294264199?position=49&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=fUn1ZPvhCTzMHpHBatwWiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Human Resources & Data Analyst (Mandarin or Cantonese Speaking)",
-        "company": "Social Capital Resources",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-human-resources-data-analyst-mandarin-or-cantonese-speaking-at-social-capital-resources-4294255760?position=54&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=TUmjOYwsmDkohKbpZED9Lg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
-        "title": "Commissioning and Qualification Project Engineer (Pharmaceutical Manufacturing)",
-        "company": "SRG",
-        "location": "Lebanon, IN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/commissioning-and-qualification-project-engineer-pharmaceutical-manufacturing-at-srg-4294249992?position=55&pageNum=0&refId=UXvB%2FcC2UTGo8oAe%2FoQFhg%3D%3D&trackingId=1Vw4oqFVYvnHUgGWRTy8AA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-02 22:47:30",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New Jersey, United States",
@@ -757,6 +597,126 @@
         "url": "https://www.linkedin.com/jobs/view/research-assistant-at-inside-higher-ed-4294654953?position=10&pageNum=5&refId=d9UQm8o3ESIiJ2mFuX%2Fdog%3D%3D&trackingId=e3L9eS7SQH1yaQLfpanZ7g%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-02 23:42:16",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Data Platform (Back End, Data, and AI)",
+        "company": "Altruist",
+        "location": "San Francisco, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-platform-back-end-data-and-ai-at-altruist-4294669073?position=14&pageNum=0&refId=sWmlTG%2FtUE4hDsksDOa0%2Bg%3D%3D&trackingId=o4i1RDddsnKmSX9x8L4nCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-02 23:50:58",
+        "email_sent": false
+    },
+    {
+        "title": "AI Software Engineer",
+        "company": "GE Aerospace",
+        "location": "Cincinnati, OH",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-software-engineer-at-ge-aerospace-4294686060?position=22&pageNum=0&refId=sWmlTG%2FtUE4hDsksDOa0%2Bg%3D%3D&trackingId=elfaiAmOlBVk5VuqFsG3pQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-02 23:50:58",
+        "email_sent": false
+    },
+    {
+        "title": "Software Test Engineer",
+        "company": "Lockheed Martin",
+        "location": "Herndon, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-at-lockheed-martin-4294661689?position=36&pageNum=0&refId=sWmlTG%2FtUE4hDsksDOa0%2Bg%3D%3D&trackingId=FcL%2FyR1SH8k1o6LE0gd0hA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-02 23:50:58",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Baselayer",
+        "location": "San Francisco, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-baselayer-4294666407?position=37&pageNum=0&refId=sWmlTG%2FtUE4hDsksDOa0%2Bg%3D%3D&trackingId=Q%2FylxnoHl1fQE01HsVtYZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-02 23:50:58",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Retail Analytics (Ref: 189864)",
+        "company": "Forsyth Barnes",
+        "location": "Edison, NJ",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-retail-analytics-ref-189864-at-forsyth-barnes-4294655809?position=43&pageNum=0&refId=sWmlTG%2FtUE4hDsksDOa0%2Bg%3D%3D&trackingId=aQMlC7fm%2FG9lfJtrTgsElQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-02 23:50:58",
+        "email_sent": false
+    },
+    {
+        "title": "Flight Training Data Analyst",
+        "company": "Atlas Air",
+        "location": "Miami, FL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/flight-training-data-analyst-at-atlas-air-4294264161?position=44&pageNum=0&refId=sWmlTG%2FtUE4hDsksDOa0%2Bg%3D%3D&trackingId=ti%2FUyPevbjJ1KF5MJT2huQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-02 23:50:58",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Bucknell University",
+        "location": "Lewisburg, PA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-bucknell-university-4294680355?position=55&pageNum=0&refId=sWmlTG%2FtUE4hDsksDOa0%2Bg%3D%3D&trackingId=js2NXZPEXVByimu03%2BjQ3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-02 23:50:58",
+        "email_sent": false
+    },
+    {
+        "title": "Evidence Operations Associate Analyst",
+        "company": "Epiq",
+        "location": "Greater Phoenix Area",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/evidence-operations-associate-analyst-at-epiq-4294263202?position=59&pageNum=0&refId=sWmlTG%2FtUE4hDsksDOa0%2Bg%3D%3D&trackingId=gj%2F4PhkZ9ol4u73FI4PaqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-02 23:50:58",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Bucknell University",
+        "location": "Lewisburg, PA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-bucknell-university-4294680355?position=5&pageNum=5&refId=3Ko4B77H65f0zvmHb%2Fleag%3D%3D&trackingId=P%2B0OC3zQk1OimJWEzJmm1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-02 23:50:58",
+        "email_sent": false
+    },
+    {
+        "title": "Evidence Operations Associate Analyst",
+        "company": "Epiq",
+        "location": "Greater Phoenix Area",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/evidence-operations-associate-analyst-at-epiq-4294263202?position=9&pageNum=5&refId=3Ko4B77H65f0zvmHb%2Fleag%3D%3D&trackingId=56DTpShOYRH0i8Co1HZjGg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-02 23:50:58",
+        "email_sent": false
+    },
+    {
+        "title": "Technical Writer",
+        "company": "Ascendion",
+        "location": "Sacramento, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/technical-writer-at-ascendion-4294258868?position=1&pageNum=7&refId=ZbajWQaF60B%2FbVJuxzO%2Btg%3D%3D&trackingId=kS4ETJZ7n8V%2B25%2B%2Bk2vtKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-02 23:50:58",
+        "email_sent": false
+    },
+    {
+        "title": "Package Design and Development Quality Assurance (DDQA) Data Analytics Engineer",
+        "company": "Micron Technology",
+        "location": "Boise, ID",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/package-design-and-development-quality-assurance-ddqa-data-analytics-engineer-at-micron-technology-4294272147?position=3&pageNum=7&refId=ZbajWQaF60B%2FbVJuxzO%2Btg%3D%3D&trackingId=OL85yLFoZsWn9z4eDfUnBA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-02 23:50:58",
         "email_sent": false
     }
 ]
