@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Rose International",
-        "location": "San Diego, CA",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-rose-international-4293149361?position=2&pageNum=0&refId=KxzEBQBBuZTM7pkiz5Vc7g%3D%3D&trackingId=ZGmCW1bgkkxI5BG%2FgSjTnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-03 03:21:02",
-        "email_sent": false
-    },
-    {
         "title": "Front End Engineer",
         "company": "Best Job Tool",
         "location": "United States",
@@ -57,6 +47,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-architect-at-best-job-tool-4294943200?position=13&pageNum=0&refId=vqA5pd4W%2FebWNSdrunIWpA%3D%3D&trackingId=mCJl1wVVhTJYkQKoNSjvWA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-03 03:43:50",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Top Secret)",
+        "company": "Lockheed Martin",
+        "location": "King of Prussia, PA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-top-secret-at-lockheed-martin-4294943302?position=1&pageNum=0&refId=a0ctKSaPUyTWB%2Fsl0sn07g%3D%3D&trackingId=5tKNvkfMwFUEBpVw3AWWKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-03 04:22:41",
         "email_sent": false
     }
 ]
