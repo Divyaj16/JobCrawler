@@ -1,235 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4292218137?position=2&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=3V13RGtEroFTotmAM7r8BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4292223044?position=11&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=7GesW%2F3aQ%2B71CMNQrHPhFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Scientist",
-        "company": "Kforce Inc",
-        "location": "Palm Beach Gardens, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-kforce-inc-4284516007?position=15&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=sN2Ne6019Uwj%2Fn%2BponMEHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Washington, United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4295320798?position=17&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=A7ertW0oVQO%2B7cbhjEWN7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Texas, United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4295323335?position=18&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=DB%2BRX6%2Bd3XW2AmkEJ1W9aA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Massachusetts, United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4295323297?position=19&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=K4bRfKt2kFRQcxwzsQ2GfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "California, United States",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4295321488?position=20&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=ObeREjltrUyaIbI%2BHJk32Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Virginia, United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4295320711?position=22&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=T3QIJrvPKnCdlMXP%2BaVMUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Fullstack Software Engineer - Product Experiences",
-        "company": "Snowflake",
-        "location": "Menlo Park, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-product-experiences-at-snowflake-4192502576?position=26&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=XbAf%2BaR2k9duNWL6EtOAVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Java Full Stack Software Engineer",
-        "company": "Ford Motor Company",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/java-full-stack-software-engineer-at-ford-motor-company-4275239349?position=30&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=sstkTFN1INStxacJVcyf1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Network Administrator III",
-        "company": "Kforce Inc",
-        "location": "San Antonio, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/network-administrator-iii-at-kforce-inc-4282199785?position=34&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=Y5SRfEW4%2BLQ7662eQrYykA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Enterprise Readiness",
-        "company": "Cloudflare",
-        "location": "Austin, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-enterprise-readiness-at-cloudflare-4269264096?position=35&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=jZzjCpnppCPyRKrgWIMydg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Systems/Software Engineer",
-        "company": "Talentify.io",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-systems-software-engineer-at-talentify-io-4295320725?position=36&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=gj9cgdb4tgrwmE8M5COTLw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Systems/Software Engineer",
-        "company": "Talentify.io",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-systems-software-engineer-at-talentify-io-4295319760?position=37&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=73yjkpBO1%2Bau9nMloa6e%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Data Transformation Analyst (US, remote)",
-        "company": "Talentify.io",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-transformation-analyst-us-remote-at-talentify-io-4295323348?position=38&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=nrJkfs0eNnG7BscoT57AJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Aerospace Software Engineer/SDET (Remote)",
-        "company": "Talentify.io",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/aerospace-software-engineer-sdet-remote-at-talentify-io-4295322560?position=39&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=mA%2Bim1Y3bH%2BphvYg36Ovtg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer, R2 Storage",
-        "company": "Cloudflare",
-        "location": "Austin, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-r2-storage-at-cloudflare-4256490636?position=42&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=kuzgy0azVpAxo3s9TuPxkQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Commissioning Engineer",
-        "company": "Metric Geo",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/commissioning-engineer-at-metric-geo-4295669985?position=44&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=1T55HrUWCzynD919rxjSUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Clinical Operations Data Analyst - Enterprise Data and Analytics - FT - Day - Remote",
-        "company": "Talentify.io",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/clinical-operations-data-analyst-enterprise-data-and-analytics-ft-day-remote-at-talentify-io-4295318867?position=52&pageNum=0&refId=ID27gH6Eonb2WWk0sKW52A%3D%3D&trackingId=oK%2BB69t4JqCdQTtrMwEOTQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Fullstack Software Engineer - Product Experiences",
-        "company": "Snowflake",
-        "location": "Menlo Park, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-product-experiences-at-snowflake-4192502576?position=2&pageNum=2&refId=CcZzyS%2B5pZum%2FJuNe%2FJI0g%3D%3D&trackingId=k2AQH2LJpsGfdIZNuNIzqw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Java Full Stack Software Engineer",
-        "company": "Ford Motor Company",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/java-full-stack-software-engineer-at-ford-motor-company-4275239349?position=6&pageNum=2&refId=CcZzyS%2B5pZum%2FJuNe%2FJI0g%3D%3D&trackingId=t0OFsMYrgdeK0KLFfPkagw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Network Administrator III",
-        "company": "Kforce Inc",
-        "location": "San Antonio, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/network-administrator-iii-at-kforce-inc-4282199785?position=10&pageNum=2&refId=CcZzyS%2B5pZum%2FJuNe%2FJI0g%3D%3D&trackingId=4ku3yd7Et0WBpWI5SC58Nw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
-        "title": "Clinical Operations Data Analyst - Enterprise Data and Analytics - FT - Day - Remote",
-        "company": "Talentify.io",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/clinical-operations-data-analyst-enterprise-data-and-analytics-ft-day-remote-at-talentify-io-4295318867?position=3&pageNum=5&refId=VOEzzzoHdef1XW%2BoE%2FsEZA%3D%3D&trackingId=BVJ9r9sQVcMcrfxy2JER5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 10:58:13",
-        "email_sent": false
-    },
-    {
         "title": "AWS Data Engineer",
         "company": "Tata Consultancy Services",
         "location": "Seattle, WA",
@@ -757,6 +527,66 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-verisk-4284416167?position=4&pageNum=2&refId=bD2hERjaH9hxkjp8QuvBwA%3D%3D&trackingId=699ESm1suZ3XmCSRIln3%2FQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-04 11:51:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "New York, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4295328067?position=16&pageNum=0&refId=nXvV2PSLWH7os09SMV31Ag%3D%3D&trackingId=LjqtYlHnBTItqQs5w9qRzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 12:01:15",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Backend",
+        "company": "Pave",
+        "location": "San Francisco Bay Area",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-pave-4274100625?position=21&pageNum=0&refId=nXvV2PSLWH7os09SMV31Ag%3D%3D&trackingId=SYNJpfaXrnH4ULrpC56nwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 12:01:15",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 2 Outdoor",
+        "company": "Garmin",
+        "location": "Olathe, KS",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-2-outdoor-at-garmin-4203549336?position=29&pageNum=0&refId=nXvV2PSLWH7os09SMV31Ag%3D%3D&trackingId=CGeJqvL8INzTN1EqI2elZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 12:01:15",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Tactical Command and Control",
+        "company": "Anduril Industries",
+        "location": "Atlanta, GA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-tactical-command-and-control-at-anduril-industries-4284456478?position=37&pageNum=0&refId=nXvV2PSLWH7os09SMV31Ag%3D%3D&trackingId=0mIhHd60jn%2FVz0KffgkyEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 12:01:15",
+        "email_sent": false
+    },
+    {
+        "title": "Technical Operations Engineer - Connected Warfare Systems",
+        "company": "Anduril Industries",
+        "location": "Costa Mesa, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/technical-operations-engineer-connected-warfare-systems-at-anduril-industries-4248360539?position=50&pageNum=0&refId=nXvV2PSLWH7os09SMV31Ag%3D%3D&trackingId=kJIvExP%2B%2B70SOi0EUiGIWQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 12:01:15",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 2 Outdoor",
+        "company": "Garmin",
+        "location": "Olathe, KS",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-2-outdoor-at-garmin-4203549336?position=4&pageNum=2&refId=fHIZgjCDt7QBC3rIMMVv4w%3D%3D&trackingId=bIg%2FPZFkurOR0%2F1VA5i1iw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 12:01:15",
         "email_sent": false
     }
 ]
