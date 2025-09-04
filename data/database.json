@@ -1,506 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Jack",
-        "location": "United States",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jack-4291911923?position=1&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=6VE3pXptG81a2Lzi45SQ0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Fraud Data Analyst (Fraud Analytics)",
-        "company": "Morgan Stanley",
-        "location": "Jersey City, NJ",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/fraud-data-analyst-fraud-analytics-at-morgan-stanley-4285411276?position=6&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=3ad6VNwBWVu%2F8KhNdQ9b9g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Database Team",
-        "company": "Pinecone",
-        "location": "New York, NY",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-database-team-at-pinecone-4274506333?position=7&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=CtRjrkJ7cCZ3n7uvQ14sRA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Software Engineer",
-        "company": "Tines",
-        "location": "Greater Boston",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-tines-4267761708?position=10&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=2LTmO%2FWLpqPaE8HKoo0Cbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Full Stack Software Engineer, Constellation Tools (Starlink)",
-        "company": "SpaceX",
-        "location": "Redmond, WA",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-constellation-tools-starlink-at-spacex-4261075040?position=12&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=dAcQdbF3R%2FJglPbqRg6YGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "NPAworldwide",
-        "location": "San Francisco, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-npaworldwide-4294861733?position=14&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=FOuJjAx8BTjPBD43BuZlQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Forward Deployed",
-        "company": "Invisible Technologies",
-        "location": "San Francisco Bay Area",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-forward-deployed-at-invisible-technologies-4270767806?position=15&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=MAwCNMhOFobXkwx4o8J1%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "AI/ML Software Engineer",
-        "company": "NPAworldwide",
-        "location": "Sarasota, FL",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-ml-software-engineer-at-npaworldwide-4294858795?position=17&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=ixMrc%2BXWXnNFGmK64s1L4g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "C.H. Robinson",
-        "location": "Eden Prairie, MN",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-c-h-robinson-4271604914?position=19&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=nxCm5XJkkGo5mWegQZuXlw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Equity Analyst",
-        "company": "Fund for Public Health in NYC",
-        "location": "New York, NY",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-equity-analyst-at-fund-for-public-health-in-nyc-4232504038?position=24&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=M%2Bs9BxrYlGDNbUXipx7Wig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Support Engineer",
-        "company": "AMCS Group",
-        "location": "Florida, United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-support-engineer-at-amcs-group-4293901858?position=27&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=RazcjVjIugYjBnM0Y4pFzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Quantum Software Engineer",
-        "company": "QubitSolve",
-        "location": "Morgantown, WV",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/quantum-software-engineer-at-qubitsolve-4295913392?position=30&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=E4ABu7LpMEnz8yy0j5zbcA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "TQIP Data Abstractor: Part-Time",
-        "company": "Carta Healthcare",
-        "location": "United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/tqip-data-abstractor-part-time-at-carta-healthcare-4247486930?position=31&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=ypzLWANd3VC1gbenDzzUjA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Clinical Data Abstractor - GWTG - Part Time",
-        "company": "Carta Healthcare",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/clinical-data-abstractor-gwtg-part-time-at-carta-healthcare-4261000609?position=32&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=8KxMJy4%2BTOLtP5S2U6fRAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "NSQIP Data Abstractor: Part-Time",
-        "company": "Carta Healthcare",
-        "location": "United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/nsqip-data-abstractor-part-time-at-carta-healthcare-4247492127?position=33&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=Kd8feGD4TzijDiMKjXFpMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Test Engineer (Strata Cloud Manager)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-test-engineer-strata-cloud-manager-at-palo-alto-networks-4284435985?position=35&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=InltYQn%2B9CM98IFzUiUxWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "DSP Software Engineer",
-        "company": "NPAworldwide",
-        "location": "Monterey, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/dsp-software-engineer-at-npaworldwide-4294866295?position=37&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=3hg4h%2Fmc0tVvZpYYpfkV5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Casual Technical Professional (Cyber Software Test Engineer) - R10206267",
-        "company": "Northrop Grumman",
-        "location": "Fairfax, VA",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/casual-technical-professional-cyber-software-test-engineer-r10206267-at-northrop-grumman-4295910343?position=38&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=lTl9kUyXBzE9H4b0Hf%2BMDw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Guidance and Control Engineer",
-        "company": "Penn State University",
-        "location": "University Park, PA",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/guidance-and-control-engineer-at-penn-state-university-4295340753?position=40&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=yu33%2BxSXz0VuNKr9PKB2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Product Support Specialist",
-        "company": "Action Technology",
-        "location": "Denver, CO",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/product-support-specialist-at-action-technology-4290923049?position=42&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=RQFJkk2KJcRwwlzTyvXZUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "QA Specialist II, Quality Systems/Data Integrity (On-Site in College Station, TX)",
-        "company": "FUJIFILM Biotechnologies",
-        "location": "United States",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/qa-specialist-ii-quality-systems-data-integrity-on-site-in-college-station-tx-at-fujifilm-biotechnologies-4286534102?position=43&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=bBPjhWYhWZs%2F8GvVGTF3Jg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "GWTG-Heart Failure Data Abstractor: Part-Time",
-        "company": "Carta Healthcare",
-        "location": "United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/gwtg-heart-failure-data-abstractor-part-time-at-carta-healthcare-4247493036?position=44&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=cX5Yvbi09VKyp29MyRVoPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Science Analyst I-Geriatric and Palliative Care-PT",
-        "company": "Mount Sinai Morningside",
-        "location": "New York, NY",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-science-analyst-i-geriatric-and-palliative-care-pt-at-mount-sinai-morningside-4295914438?position=45&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=BRDqx6ru5cqfM2DcWiVDVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Sales Engineer, Seattle (Strategic)",
-        "company": "Cribl",
-        "location": "Seattle, WA",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sales-engineer-seattle-strategic-at-cribl-4256951636?position=46&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=MbOFBw5pMptZHSoyMIMyIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Research Consultant",
-        "company": "GAC Solutions",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/research-consultant-at-gac-solutions-4295347641?position=47&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=QpprnqIR%2BSfKizzf4YSKHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Civil/Environmental Engineer, Los Alamos, NM",
-        "company": "Tetra Tech",
-        "location": "Los Alamos, NM",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/civil-environmental-engineer-los-alamos-nm-at-tetra-tech-4295910097?position=50&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=C5UkSrV2C96FV5zAt3pbhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Analyst",
-        "company": "Knowesis Inc.",
-        "location": "Fort Detrick, MD",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/operations-analyst-at-knowesis-inc-4271362729?position=51&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=EW24Utbrr8y1QudizAYtxg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Eng, Quality",
-        "company": "Magna International",
-        "location": "Birmingham, AL",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/eng-quality-at-magna-international-4275222894?position=52&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=bTbwSM8NSNql4qLKuzp%2Bng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Analyst",
-        "company": "Knowesis Inc.",
-        "location": "Florida, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/operations-analyst-at-knowesis-inc-4271321011?position=53&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=du9%2BFvDOa%2BkRFSrHfKL0ZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative Outside Sales",
-        "company": "Builders FirstSource",
-        "location": "Auburn, AL",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-outside-sales-at-builders-firstsource-4258763145?position=54&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=3%2BV1%2BvRTV91h11UqwWMoWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative",
-        "company": "Builders FirstSource",
-        "location": "Billings, MT",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-at-builders-firstsource-4245391482?position=55&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=ajyprYG3kuKb%2F85jzIALtQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative Outside Sales",
-        "company": "Builders FirstSource",
-        "location": "Dana Point, CA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-outside-sales-at-builders-firstsource-4092310886?position=56&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=spZRkMBnD3P7Qjg5TBDUcA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative",
-        "company": "Builders FirstSource",
-        "location": "Madison, WI",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-at-builders-firstsource-4245639845?position=57&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=Laz0nu79%2FHflwwRJUfwIpw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative",
-        "company": "Builders FirstSource",
-        "location": "New Richmond, WI",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-at-builders-firstsource-4092309867?position=58&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=dJcC9mivZIU3z9Jsb22qaA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Worldwide Specialist Solutions Architect - Q Developer, .NET MOD, Data & AI GTM",
-        "company": "Amazon Web Services (AWS)",
-        "location": "San Francisco, CA",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/worldwide-specialist-solutions-architect-q-developer-net-mod-data-ai-gtm-at-amazon-web-services-aws-4285600932?position=59&pageNum=0&refId=YtiUP3RpGaOn%2B1mSKFtB2w%3D%3D&trackingId=zPL7DIglhEwPMcl%2BiTVxtg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Support Engineer",
-        "company": "AMCS Group",
-        "location": "Florida, United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-support-engineer-at-amcs-group-4293901858?position=3&pageNum=2&refId=gcuy2JcLwQs4R9lbbYAx4Q%3D%3D&trackingId=B%2BmmeaBcLkM8lRw8rUf9dQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Quantum Software Engineer",
-        "company": "QubitSolve",
-        "location": "Morgantown, WV",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/quantum-software-engineer-at-qubitsolve-4295913392?position=6&pageNum=2&refId=gcuy2JcLwQs4R9lbbYAx4Q%3D%3D&trackingId=xuAqI8uSTjkBgoONnMYkgA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "TQIP Data Abstractor: Part-Time",
-        "company": "Carta Healthcare",
-        "location": "United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/tqip-data-abstractor-part-time-at-carta-healthcare-4247486930?position=7&pageNum=2&refId=gcuy2JcLwQs4R9lbbYAx4Q%3D%3D&trackingId=GQcwWmyTSRNuIPn2h3%2Fv8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Clinical Data Abstractor - GWTG - Part Time",
-        "company": "Carta Healthcare",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/clinical-data-abstractor-gwtg-part-time-at-carta-healthcare-4261000609?position=8&pageNum=2&refId=gcuy2JcLwQs4R9lbbYAx4Q%3D%3D&trackingId=oYVTdwMDJt5%2ByMWEDfi%2BmQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "NSQIP Data Abstractor: Part-Time",
-        "company": "Carta Healthcare",
-        "location": "United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/nsqip-data-abstractor-part-time-at-carta-healthcare-4247492127?position=9&pageNum=2&refId=gcuy2JcLwQs4R9lbbYAx4Q%3D%3D&trackingId=vo1PsIbqm4qr%2BPgosPKr7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Civil/Environmental Engineer, Los Alamos, NM",
-        "company": "Tetra Tech",
-        "location": "Los Alamos, NM",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/civil-environmental-engineer-los-alamos-nm-at-tetra-tech-4295910097?position=1&pageNum=5&refId=ixIAXmJankxwXCmO97qjSw%3D%3D&trackingId=jKWZAtJEq1we7wnXNg8sfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Analyst",
-        "company": "Knowesis Inc.",
-        "location": "Fort Detrick, MD",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/operations-analyst-at-knowesis-inc-4271362729?position=2&pageNum=5&refId=ixIAXmJankxwXCmO97qjSw%3D%3D&trackingId=NLwtfiknd9TTVsVRsDuy5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Eng, Quality",
-        "company": "Magna International",
-        "location": "Birmingham, AL",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/eng-quality-at-magna-international-4275222894?position=3&pageNum=5&refId=ixIAXmJankxwXCmO97qjSw%3D%3D&trackingId=KAx13jAhvXFDB0eTOIxkQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Analyst",
-        "company": "Knowesis Inc.",
-        "location": "Florida, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/operations-analyst-at-knowesis-inc-4271321011?position=4&pageNum=5&refId=ixIAXmJankxwXCmO97qjSw%3D%3D&trackingId=WdM2KuCqh3BqBx2enkhLGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative Outside Sales",
-        "company": "Builders FirstSource",
-        "location": "Auburn, AL",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-outside-sales-at-builders-firstsource-4258763145?position=5&pageNum=5&refId=ixIAXmJankxwXCmO97qjSw%3D%3D&trackingId=fKpHOW4l8hRvp28aQ1jPiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative",
-        "company": "Builders FirstSource",
-        "location": "Billings, MT",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-at-builders-firstsource-4245391482?position=6&pageNum=5&refId=ixIAXmJankxwXCmO97qjSw%3D%3D&trackingId=xHxMRwFpA0B81esvnnakZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative Outside Sales",
-        "company": "Builders FirstSource",
-        "location": "Dana Point, CA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-outside-sales-at-builders-firstsource-4092310886?position=7&pageNum=5&refId=ixIAXmJankxwXCmO97qjSw%3D%3D&trackingId=Ck62NoGaic3dRyJsfE6UpQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative",
-        "company": "Builders FirstSource",
-        "location": "Madison, WI",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-at-builders-firstsource-4245639845?position=8&pageNum=5&refId=ixIAXmJankxwXCmO97qjSw%3D%3D&trackingId=NAj0Knp%2BE5OfWdE3gaRLqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative",
-        "company": "Builders FirstSource",
-        "location": "New Richmond, WI",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-at-builders-firstsource-4092309867?position=9&pageNum=5&refId=ixIAXmJankxwXCmO97qjSw%3D%3D&trackingId=B2WZqjdxr7gzwoqS7tYKdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Worldwide Specialist Solutions Architect - Q Developer, .NET MOD, Data & AI GTM",
-        "company": "Amazon Web Services (AWS)",
-        "location": "San Francisco, CA",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/worldwide-specialist-solutions-architect-q-developer-net-mod-data-ai-gtm-at-amazon-web-services-aws-4285600932?position=10&pageNum=5&refId=ixIAXmJankxwXCmO97qjSw%3D%3D&trackingId=cvx7HSPktGUqu1GOemnjwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-04 13:17:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Synechron",
         "location": "Jersey City, NJ",
         "date_posted": "19 minutes ago",
@@ -1687,6 +1187,346 @@
         "url": "https://www.linkedin.com/jobs/view/worldwide-specialist-solutions-architect-q-developer-net-mod-data-ai-gtm-at-amazon-web-services-aws-4285607402?position=3&pageNum=15&refId=1yIAEfhgzu9ocHGZmvT1YQ%3D%3D&trackingId=dNfmomC3zRWizdXrQWuYHg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-04 14:00:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "Los Angeles, CA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4295356356?position=1&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=6uYCK%2Bd%2BzRCXg%2FgAMDHlQg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "Austin, TX",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4295361054?position=5&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=AHuCB9hRoiIKyJFHS7kk7w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "California, United States",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4295353729?position=6&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=QbLV2irXL7%2B%2BP%2Bnh7nQxZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "Chicago, IL",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4295357340?position=7&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=uzeCHNAvNC9jHqYB7c52og%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "Texas, United States",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4295353718?position=8&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=WaZISmvr%2FEbdhJ8fQtaH1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Cloud Data Engineer",
+        "company": "Bentley University",
+        "location": "Waltham, MA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/cloud-data-engineer-at-bentley-university-4284544600?position=15&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=z7bGpzh1b863d45yb%2FrCvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Big Data Developer",
+        "company": "HirePower Staffing Solution",
+        "location": "Atlanta, GA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/big-data-developer-at-hirepower-staffing-solution-4295352805?position=19&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=2TrqZSolH5%2FpukOIaKIaGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Steampunk, Inc.",
+        "location": "Fort Bliss, TX",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-steampunk-inc-4295355476?position=22&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=g7HvJEgCpDzqm52WMq5E9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst III",
+        "company": "Creospan Inc.",
+        "location": "Sunnyvale, CA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-iii-at-creospan-inc-4295358277?position=30&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=cEPSCi9Dh8Y3AAkZKkwj6Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4295918981?position=32&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=zbSRQy7LiMqR66hmXu7%2FyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Engineering - API Platform - Software Engineer - Analyst - Dallas",
+        "company": "Goldman Sachs",
+        "location": "Dallas, TX",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineering-api-platform-software-engineer-analyst-dallas-at-goldman-sachs-4247159526?position=33&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=BQ%2Brpf%2BndUC7rmZll0QtVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "ConstructConnect",
+        "location": "Cincinnati, OH",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-constructconnect-4293918101?position=35&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=F%2Be%2B10L5zA51sswgITIoew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Workday Day Data Analyst",
+        "company": "Harvey Nash",
+        "location": "United States",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/workday-day-data-analyst-at-harvey-nash-4295361022?position=37&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=NCnAXeuYy87IUh6LwCvfHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Software Quality Engineer",
+        "company": "ServiceNow",
+        "location": "San Diego, CA",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-quality-engineer-at-servicenow-4284481579?position=39&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=xC7CLP0i6hpxiSKJWL%2Bqjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Commodities Team - Global Banking & Markets - Associate or Vice President - New York",
+        "company": "Goldman Sachs",
+        "location": "New York, NY",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-commodities-team-global-banking-markets-associate-or-vice-president-new-york-at-goldman-sachs-3937118461?position=44&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=oZo19Q5s8%2B02dtje4xfPkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "SourcerLabs",
+        "location": "San Francisco, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-sourcerlabs-4295355518?position=47&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=rTTf70ICCoMps0yZbU%2F8gg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "ArcBest",
+        "location": "Fort Smith, AR",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-arcbest-4275189700?position=48&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=JEHt4yy5f3wtVI3oNpP8kw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Salesforce Data Analyst",
+        "company": "Addison Group",
+        "location": "United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/salesforce-data-analyst-at-addison-group-4295353762?position=52&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=L6YpO%2BgkLCeviliHRTfTGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Salesforce Data Analyst",
+        "company": "Addison Group",
+        "location": "United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/salesforce-data-analyst-at-addison-group-4295356447?position=58&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=CmsAbYdfOLVljEGGedMb7g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Jr. Data Scientist, Machine Learning - Remote",
+        "company": "ConsultNet Technology Services and Solutions",
+        "location": "South Jordan, UT",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/jr-data-scientist-machine-learning-remote-at-consultnet-technology-services-and-solutions-4295923776?position=60&pageNum=0&refId=JoL3Tqr%2BFYlubuP21HBc1Q%3D%3D&trackingId=Sxj6HWgwYYwj8hPvx1Hd5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst III",
+        "company": "Creospan Inc.",
+        "location": "Sunnyvale, CA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-iii-at-creospan-inc-4295358277?position=5&pageNum=2&refId=OOvh%2BfC%2BeYRPRGMYr8DYJg%3D%3D&trackingId=Hs9KpIw1y5Ej5TY6HbKPEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4295918981?position=7&pageNum=2&refId=OOvh%2BfC%2BeYRPRGMYr8DYJg%3D%3D&trackingId=M0iED95G1Us%2FtizB0vTBaQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Engineering - API Platform - Software Engineer - Analyst - Dallas",
+        "company": "Goldman Sachs",
+        "location": "Dallas, TX",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineering-api-platform-software-engineer-analyst-dallas-at-goldman-sachs-4247159526?position=8&pageNum=2&refId=OOvh%2BfC%2BeYRPRGMYr8DYJg%3D%3D&trackingId=k3%2BU43xJWuIKeVY8%2BBLCrw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "ConstructConnect",
+        "location": "Cincinnati, OH",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-constructconnect-4293918101?position=10&pageNum=2&refId=OOvh%2BfC%2BeYRPRGMYr8DYJg%3D%3D&trackingId=HJO%2BjPWIBVVXizypG7DfmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Salesforce Data Analyst",
+        "company": "Addison Group",
+        "location": "United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/salesforce-data-analyst-at-addison-group-4295353762?position=2&pageNum=5&refId=CyGhsE9k96beJrtE5WQH8A%3D%3D&trackingId=anDd%2F8IWKPYSKyTVb8KHyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Salesforce Data Analyst",
+        "company": "Addison Group",
+        "location": "United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/salesforce-data-analyst-at-addison-group-4295356447?position=8&pageNum=5&refId=CyGhsE9k96beJrtE5WQH8A%3D%3D&trackingId=l0xZeRm35CmV2yg5ccAjZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Jr. Data Scientist, Machine Learning - Remote",
+        "company": "ConsultNet Technology Services and Solutions",
+        "location": "South Jordan, UT",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/jr-data-scientist-machine-learning-remote-at-consultnet-technology-services-and-solutions-4295923776?position=10&pageNum=5&refId=CyGhsE9k96beJrtE5WQH8A%3D%3D&trackingId=8LkIf0wuilfPT71Tatc0hw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "SoTalent",
+        "location": "Plano, TX",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-sotalent-4295359126?position=3&pageNum=7&refId=KVP1h7HimOtMRYyQv1hC4Q%3D%3D&trackingId=ADZqtIlorkZLTYxOB6deOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer  - Lawton, OK",
+        "company": "SAIC",
+        "location": "Fort Riley, KS",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-lawton-ok-at-saic-4281761546?position=9&pageNum=7&refId=KVP1h7HimOtMRYyQv1hC4Q%3D%3D&trackingId=ikJR0hWQzfkR4b9y9QQ36A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Charlotte, NC",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4295352399?position=10&pageNum=7&refId=KVP1h7HimOtMRYyQv1hC4Q%3D%3D&trackingId=7VmPcl9ZEHSfXaMAackDew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Open Text -Analytics Consultant",
+        "company": "Raas Infotek",
+        "location": "United States",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/open-text-analytics-consultant-at-raas-infotek-4295098771?position=7&pageNum=10&refId=9HjQIx%2BmDT6Up3Dg%2F1k7%2FQ%3D%3D&trackingId=KPjNshj4cl3ig12snrjsnQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Project Engineer",
+        "company": "BOWA Construction",
+        "location": "Dallas, TX",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-bowa-construction-4295354567?position=9&pageNum=10&refId=9HjQIx%2BmDT6Up3Dg%2F1k7%2FQ%3D%3D&trackingId=sH81vlxUoQHjFpYZlVa8SQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Mechanical Commissioning Engineer (Data Centers)",
+        "company": "CAI Mission Critical",
+        "location": "Des Moines, IA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mechanical-commissioning-engineer-data-centers-at-cai-mission-critical-4260294960?position=3&pageNum=12&refId=69Gd1riuiZ1Y5Ae4r%2Fl3XQ%3D%3D&trackingId=eFmVJfrB23bXdMvN%2BoYN%2FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
+        "email_sent": false
+    },
+    {
+        "title": "Cable Fabrication Technician",
+        "company": "SAIC",
+        "location": "North Charleston, SC",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/cable-fabrication-technician-at-saic-4285399995?position=6&pageNum=12&refId=69Gd1riuiZ1Y5Ae4r%2Fl3XQ%3D%3D&trackingId=op5U7sCS42hHwdT1IihFTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-04 14:23:41",
         "email_sent": false
     }
 ]
