@@ -1,75 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4296691782?position=1&pageNum=0&refId=3OKrWinOncq955cqXp3QZA%3D%3D&trackingId=F%2B8yUBs57VLcfhNdoWqpMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-06 03:27:40",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-best-job-tool-4296908152?position=2&pageNum=0&refId=3OKrWinOncq955cqXp3QZA%3D%3D&trackingId=eYNQ078ngCIo7sqbbEmzkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-06 03:27:40",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-best-job-tool-4296696704?position=3&pageNum=0&refId=3OKrWinOncq955cqXp3QZA%3D%3D&trackingId=I6suhtmCp6VB8mqQZ0%2F1bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-06 03:27:40",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-at-best-job-tool-4296698613?position=5&pageNum=0&refId=3OKrWinOncq955cqXp3QZA%3D%3D&trackingId=QzxajwUAfM%2Bk5r0WdRSj%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-06 03:27:40",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-best-job-tool-4296699575?position=6&pageNum=0&refId=3OKrWinOncq955cqXp3QZA%3D%3D&trackingId=EThPyRsy7roPsqDhzqcmGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-06 03:27:40",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist With Marcom",
-        "company": "W3Global",
-        "location": "Sunnyvale, CA",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-with-marcom-at-w3global-3952551440?position=8&pageNum=0&refId=3OKrWinOncq955cqXp3QZA%3D%3D&trackingId=P70QiwkSb%2F%2BaJxEXj9Y7SA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-06 03:27:40",
-        "email_sent": false
-    },
-    {
-        "title": "Ambulatory Quality Analyst",
-        "company": "Trinity Health",
-        "location": "Minot, ND",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ambulatory-quality-analyst-at-trinity-health-4296398417?position=9&pageNum=0&refId=3OKrWinOncq955cqXp3QZA%3D%3D&trackingId=kgoCGM2sZxBUuUD6ThpDNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-06 03:27:40",
-        "email_sent": false
-    },
-    {
         "title": "AI Developer",
         "company": "JPS Tech Solutions",
         "location": "Woburn, MA",
@@ -97,6 +27,26 @@
         "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-best-job-tool-4296694745?position=8&pageNum=0&refId=7q85rXmpfuE08cpec1s9HQ%3D%3D&trackingId=SE3nBWrbjSoInTKNzfpcqw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-06 03:46:11",
+        "email_sent": false
+    },
+    {
+        "title": "ENGINEER SOFTWARE 4",
+        "company": "HII",
+        "location": "Newport News, VA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-software-4-at-hii-4296395487?position=7&pageNum=0&refId=Q83Au7QaGpCLQwACR0toGg%3D%3D&trackingId=BTNQVizm96L53XIp6bJRtw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-06 04:38:53",
+        "email_sent": false
+    },
+    {
+        "title": "Eagle Pace/ Eagle Star BSA",
+        "company": "Steneral Consulting",
+        "location": "Boston, MA",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/eagle-pace-eagle-star-bsa-at-steneral-consulting-4292581974?position=10&pageNum=0&refId=Q83Au7QaGpCLQwACR0toGg%3D%3D&trackingId=dYK%2Fn%2BzDFMiAb%2FgqbmSraQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-06 04:38:53",
         "email_sent": false
     }
 ]
