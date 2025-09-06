@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Cardinal Health",
-        "location": "United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-cardinal-health-4295222025?position=1&pageNum=0&refId=laHfW0hZ%2FXzKPoN9wDe9SA%3D%3D&trackingId=5gP27uCeqQzFPdmHu99jBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-06 16:58:33",
-        "email_sent": false
-    },
-    {
-        "title": "Databricks Engineers",
-        "company": "Triangle Cyber, LLC",
-        "location": "Arlington, VA",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/databricks-engineers-at-triangle-cyber-llc-4296557644?position=2&pageNum=0&refId=laHfW0hZ%2FXzKPoN9wDe9SA%3D%3D&trackingId=PONIFNrYkoKHIzhxr%2Bznww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-06 16:58:33",
-        "email_sent": false
-    },
-    {
         "title": "Service Data Analyst",
         "company": "Tesla",
         "location": "Hayward, CA",
@@ -197,6 +177,36 @@
         "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4296964364?position=17&pageNum=0&refId=Oi%2BxtruVbKqKpLJZ6mPQlA%3D%3D&trackingId=LkDEVCPOXjMSDpZZYj9ldA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-06 17:50:45",
+        "email_sent": false
+    },
+    {
+        "title": "DevOps Engineer (Data)",
+        "company": "Versa Networks",
+        "location": "United States",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/devops-engineer-data-at-versa-networks-4296968297?position=2&pageNum=0&refId=4JxUA5cHfFh5jxJHMmjx5Q%3D%3D&trackingId=tUpseeUSpqnAF%2B5BTGiadQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-06 18:00:09",
+        "email_sent": false
+    },
+    {
+        "title": "SBA Data Scientist",
+        "company": "First Bank of the Lake",
+        "location": "Osage Beach, MO",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sba-data-scientist-at-first-bank-of-the-lake-4296966371?position=14&pageNum=0&refId=4JxUA5cHfFh5jxJHMmjx5Q%3D%3D&trackingId=4C%2FgcMnqZf9Y9fLXjbVZZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-06 18:00:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Anthropic",
+        "location": "United States",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-anthropic-4296964364?position=16&pageNum=0&refId=4JxUA5cHfFh5jxJHMmjx5Q%3D%3D&trackingId=JNKrLZ%2FOzhQfH%2BLG7LVacA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-06 18:00:09",
         "email_sent": false
     }
 ]
