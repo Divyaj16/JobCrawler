@@ -1,46 +1,6 @@
 [
     {
         "title": "Data Analyst",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-best-job-tool-4296949825?position=1&pageNum=0&refId=c5RJlJKFNyphJvKQ2R57EQ%3D%3D&trackingId=PDSKUzZScxiOXiciitIMGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-06 16:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "James Search Group",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-james-search-group-4296951624?position=3&pageNum=0&refId=c5RJlJKFNyphJvKQ2R57EQ%3D%3D&trackingId=OtJBQOkiz0VqaEc%2Fx1AhNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-06 16:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Sr. Software Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-best-job-tool-4296957529?position=6&pageNum=0&refId=c5RJlJKFNyphJvKQ2R57EQ%3D%3D&trackingId=ZT%2FwuZsuBqhdJhEgE1MhtA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-06 16:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Performance and Operations Strategist",
-        "company": "City of Oak Point",
-        "location": "Dallas-Fort Worth Metroplex",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/performance-and-operations-strategist-at-city-of-oak-point-4296561494?position=12&pageNum=0&refId=c5RJlJKFNyphJvKQ2R57EQ%3D%3D&trackingId=AnIA%2FE%2FpL%2FJ7HFYmTwTlgA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-06 16:47:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
         "company": "Cardinal Health",
         "location": "United States",
         "date_posted": "7 minutes ago",
@@ -187,6 +147,56 @@
         "url": "https://www.linkedin.com/jobs/view/community-corrections-program-analyst-at-dakota-county-4295206378?position=16&pageNum=0&refId=qj435lKLw%2Bq8orz3qLbiLg%3D%3D&trackingId=It7j1E8lIE1rJ3UAT%2FluIQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-06 17:40:58",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4296968294?position=2&pageNum=0&refId=Oi%2BxtruVbKqKpLJZ6mPQlA%3D%3D&trackingId=1ON1FXdInzxzc3oNjL%2Fxlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-06 17:50:45",
+        "email_sent": false
+    },
+    {
+        "title": "DevOps Engineer (Data)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/devops-engineer-data-at-wiraa-4296968297?position=3&pageNum=0&refId=Oi%2BxtruVbKqKpLJZ6mPQlA%3D%3D&trackingId=JIBA3lrsHXHFz%2BqwBoOO6g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-06 17:50:45",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Evan Lewis, Attorney",
+        "location": "United States",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-evan-lewis-attorney-4296967282?position=5&pageNum=0&refId=Oi%2BxtruVbKqKpLJZ6mPQlA%3D%3D&trackingId=96HmYCpL8OXFzjWZIJ2FpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-06 17:50:45",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst I",
+        "company": "Dignity Health",
+        "location": "Phoenix, AZ",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-dignity-health-4295210243?position=7&pageNum=0&refId=Oi%2BxtruVbKqKpLJZ6mPQlA%3D%3D&trackingId=nJvX9fKW9A0Cs8iPmI9mog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-06 17:50:45",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4296964364?position=17&pageNum=0&refId=Oi%2BxtruVbKqKpLJZ6mPQlA%3D%3D&trackingId=LkDEVCPOXjMSDpZZYj9ldA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-06 17:50:45",
         "email_sent": false
     }
 ]
