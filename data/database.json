@@ -1,95 +1,5 @@
 [
     {
-        "title": "Sr Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-hirenza-4297278371?position=1&pageNum=0&refId=dFPRq3fBmJdl1wChcLnH7Q%3D%3D&trackingId=CubpJn89uxrTpJxN7CAk1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-08 03:06:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-best-job-tool-4297256792?position=2&pageNum=0&refId=dFPRq3fBmJdl1wChcLnH7Q%3D%3D&trackingId=WeoWAEGty1JymMx9cu2PRg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-08 03:06:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "CDL PowerSuite\u2122",
-        "location": "Spokane, WA",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cdl-powersuite%E2%84%A2-4295524385?position=3&pageNum=0&refId=dFPRq3fBmJdl1wChcLnH7Q%3D%3D&trackingId=oNNwDMEdpc3g1EZ10Fn1jQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-08 03:06:39",
-        "email_sent": false
-    },
-    {
-        "title": "Marketing Data Analyst",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/marketing-data-analyst-at-hirenza-4297271606?position=4&pageNum=0&refId=dFPRq3fBmJdl1wChcLnH7Q%3D%3D&trackingId=V5d%2Bf3G3Asb%2FPGL4bH2GEw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-08 03:06:39",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Data Analyst",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-data-analyst-at-hirenza-4297274518?position=5&pageNum=0&refId=dFPRq3fBmJdl1wChcLnH7Q%3D%3D&trackingId=2vM6560WuIyAxUwLLgbSbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-08 03:06:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4297271605?position=6&pageNum=0&refId=dFPRq3fBmJdl1wChcLnH7Q%3D%3D&trackingId=IetltfhBMVIYPlfONfbAyg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-08 03:06:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Code Review (Rust)",
-        "company": "Talnova",
-        "location": "United States",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-code-review-rust-at-talnova-4296871776?position=7&pageNum=0&refId=dFPRq3fBmJdl1wChcLnH7Q%3D%3D&trackingId=3DqHO1t9xk8Aro0YdfnPiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-08 03:06:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-hirenza-4297285152?position=8&pageNum=0&refId=dFPRq3fBmJdl1wChcLnH7Q%3D%3D&trackingId=6dz2ShHkqFd4A1M8pSAS4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-08 03:06:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Danta Technologies",
-        "location": "Irving, TX",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-danta-technologies-4295539304?position=9&pageNum=0&refId=dFPRq3fBmJdl1wChcLnH7Q%3D%3D&trackingId=NiMkvjVdQir%2BTBzvca68kg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-08 03:06:39",
-        "email_sent": false
-    },
-    {
         "title": "Modeler",
         "company": "Essex Lake Group",
         "location": "Delaware, United States",
@@ -107,6 +17,66 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-gigaml-4295537361?position=3&pageNum=0&refId=4lbxBvEaCP2FCQoEsz0i5g%3D%3D&trackingId=gZx9XMRS2dlAjvDUChLM1g%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-08 04:00:14",
+        "email_sent": false
+    },
+    {
+        "title": "Atmospheric Data Analyst",
+        "company": "Rainmaker Technology Corporation",
+        "location": "El Segundo, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/atmospheric-data-analyst-at-rainmaker-technology-corporation-4289988692?position=2&pageNum=0&refId=Jr80s08ivYul%2BpZbM8N3ZQ%3D%3D&trackingId=8PNzjxVu%2FMe9l%2F6L0w7YjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-08 04:29:31",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level System Integration/Test Engineer",
+        "company": "Lockheed Martin",
+        "location": "Courtland, AL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-system-integration-test-engineer-at-lockheed-martin-4297278984?position=3&pageNum=0&refId=Jr80s08ivYul%2BpZbM8N3ZQ%3D%3D&trackingId=qaKJWxZkvUh2LkAEIh9kpg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-08 04:29:31",
+        "email_sent": false
+    },
+    {
+        "title": "Sightline Software Engineer",
+        "company": "Inside Higher Ed",
+        "location": "Baltimore, MD",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sightline-software-engineer-at-inside-higher-ed-4297285743?position=4&pageNum=0&refId=Jr80s08ivYul%2BpZbM8N3ZQ%3D%3D&trackingId=QHb1Dd9zez7x18440xlkvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-08 04:29:31",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Staff",
+        "company": "Lockheed Martin",
+        "location": "Huntsville, AL",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-staff-at-lockheed-martin-4297284761?position=5&pageNum=0&refId=Jr80s08ivYul%2BpZbM8N3ZQ%3D%3D&trackingId=KmBoR5GOX1oa4w19YDLDAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-08 04:29:31",
+        "email_sent": false
+    },
+    {
+        "title": "Research Assistant",
+        "company": "Inside Higher Ed",
+        "location": "Baltimore, MD",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/research-assistant-at-inside-higher-ed-4297500038?position=7&pageNum=0&refId=Jr80s08ivYul%2BpZbM8N3ZQ%3D%3D&trackingId=b8U3IaxVly1HLnZb65h6eQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-08 04:29:31",
+        "email_sent": false
+    },
+    {
+        "title": "Research Assistant",
+        "company": "Inside Higher Ed",
+        "location": "Baltimore, MD",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/research-assistant-at-inside-higher-ed-4297295151?position=8&pageNum=0&refId=Jr80s08ivYul%2BpZbM8N3ZQ%3D%3D&trackingId=mzEdQp2waWFpaHcmg1%2FiPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-08 04:29:31",
         "email_sent": false
     }
 ]
