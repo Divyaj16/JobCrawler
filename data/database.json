@@ -1,95 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Entegee",
-        "location": "St. Louis City County, MO",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-entegee-4299056825?position=7&pageNum=0&refId=FAjIaUr6cSAL%2FsGDCJSjuQ%3D%3D&trackingId=jLfh9vBNJpLDCSo8kUURog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 21:59:48",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "Miller Kaplan",
-        "location": "Burbank, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-miller-kaplan-4299443699?position=9&pageNum=0&refId=FAjIaUr6cSAL%2FsGDCJSjuQ%3D%3D&trackingId=nnhqT4aj67Rru6RGMUm7Lg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 21:59:48",
-        "email_sent": false
-    },
-    {
-        "title": "Data Transformation Engineer",
-        "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
-        "location": "Horsham, PA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-transformation-engineer-at-caresignal%C2%AE-%E2%80%93-lightbeam-s-deviceless-remote-patient-monitoring-4299469459?position=11&pageNum=0&refId=FAjIaUr6cSAL%2FsGDCJSjuQ%3D%3D&trackingId=Loczg3T4Ei%2BOCwRU1V1%2F3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 21:59:48",
-        "email_sent": false
-    },
-    {
-        "title": "Data Transformation Engineer",
-        "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
-        "location": "Dallas, TX",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-transformation-engineer-at-caresignal%C2%AE-%E2%80%93-lightbeam-s-deviceless-remote-patient-monitoring-4299471439?position=12&pageNum=0&refId=FAjIaUr6cSAL%2FsGDCJSjuQ%3D%3D&trackingId=V2Zr3sLYiPooILN41Ld%2F7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 21:59:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Amtec Staffing",
-        "location": "Irvine, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-amtec-staffing-4299053559?position=20&pageNum=0&refId=FAjIaUr6cSAL%2FsGDCJSjuQ%3D%3D&trackingId=COsCerA2wE60x287X7%2F%2Bmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 21:59:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Full Stack)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-wiraa-4299037352?position=26&pageNum=0&refId=FAjIaUr6cSAL%2FsGDCJSjuQ%3D%3D&trackingId=fbXTjGJzPzVEcXMVRAA%2Blg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 21:59:48",
-        "email_sent": false
-    },
-    {
-        "title": "Payroll Analyst",
-        "company": "Ascendion",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/payroll-analyst-at-ascendion-4299050600?position=53&pageNum=0&refId=FAjIaUr6cSAL%2FsGDCJSjuQ%3D%3D&trackingId=9lhyXQbQX8DgvFIuud7HRA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 21:59:48",
-        "email_sent": false
-    },
-    {
-        "title": "Research Specialist",
-        "company": "Academia Sinica, Taiwan",
-        "location": "Center, IN",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/research-specialist-at-academia-sinica-taiwan-4299458984?position=59&pageNum=0&refId=FAjIaUr6cSAL%2FsGDCJSjuQ%3D%3D&trackingId=KFFaBse1O8t5mTJkrV1FZw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 21:59:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Full Stack)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-wiraa-4299037352?position=1&pageNum=2&refId=tckhltTjoEI7KA0kH8X6Kg%3D%3D&trackingId=NuyCC6L%2BTCoRA3RE6pAHIw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-11 21:59:48",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "SugarCRM",
         "location": "Denver, CO",
@@ -897,6 +807,116 @@
         "url": "https://www.linkedin.com/jobs/view/event-manager-at-ascendion-4299056878?position=5&pageNum=7&refId=KY2deTzngTDlzhOeqvBFkQ%3D%3D&trackingId=kl6l24nWf26ZTamSsZm6nQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-11 22:58:30",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer, Software",
+        "company": "Corning Incorporated",
+        "location": "Painted Post, NY",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-software-at-corning-incorporated-4297704366?position=14&pageNum=0&refId=Ze%2BWuZfafOFPAn%2BzCy0CGA%3D%3D&trackingId=0hAxLlMODPK6Wqc71QFe3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 23:17:38",
+        "email_sent": false
+    },
+    {
+        "title": "Pharmacy Data & AI Analyst",
+        "company": "Vizient, Inc",
+        "location": "United States",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/pharmacy-data-ai-analyst-at-vizient-inc-4299084028?position=15&pageNum=0&refId=Ze%2BWuZfafOFPAn%2BzCy0CGA%3D%3D&trackingId=PsfYMPV2BC6e%2BmyUdemZxg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 23:17:38",
+        "email_sent": false
+    },
+    {
+        "title": "Pharmacy Data & AI Analyst",
+        "company": "Vizient, Inc",
+        "location": "Centennial, CO",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/pharmacy-data-ai-analyst-at-vizient-inc-4299084029?position=20&pageNum=0&refId=Ze%2BWuZfafOFPAn%2BzCy0CGA%3D%3D&trackingId=QxMZgGJpXMXgvt8whGppQg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 23:17:38",
+        "email_sent": false
+    },
+    {
+        "title": "Pharmacy Data & AI Analyst",
+        "company": "Vizient, Inc",
+        "location": "Irving, TX",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/pharmacy-data-ai-analyst-at-vizient-inc-4299064886?position=21&pageNum=0&refId=Ze%2BWuZfafOFPAn%2BzCy0CGA%3D%3D&trackingId=uaIrrcQ0oVWjXcafIRomGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 23:17:38",
+        "email_sent": false
+    },
+    {
+        "title": "Oracle Developer - Salesforce Data Cloud project",
+        "company": "Stott and May",
+        "location": "San Francisco, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/oracle-developer-salesforce-data-cloud-project-at-stott-and-may-4268110751?position=27&pageNum=0&refId=Ze%2BWuZfafOFPAn%2BzCy0CGA%3D%3D&trackingId=Dl0ME%2F8aWV%2BRTBHBeR9tDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 23:17:38",
+        "email_sent": false
+    },
+    {
+        "title": "Pharmacy Data & AI Analyst",
+        "company": "Vizient, Inc",
+        "location": "Chicago, IL",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/pharmacy-data-ai-analyst-at-vizient-inc-4299081067?position=28&pageNum=0&refId=Ze%2BWuZfafOFPAn%2BzCy0CGA%3D%3D&trackingId=G06rYtYXdHAv4qq48DW3mg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 23:17:38",
+        "email_sent": false
+    },
+    {
+        "title": "System Design Integration Engineer",
+        "company": "Rolls-Royce",
+        "location": "Indianapolis, IN",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-design-integration-engineer-at-rolls-royce-4297621102?position=30&pageNum=0&refId=Ze%2BWuZfafOFPAn%2BzCy0CGA%3D%3D&trackingId=2KyA%2FUX1g1SXKme%2BP8r7xA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 23:17:38",
+        "email_sent": false
+    },
+    {
+        "title": "Controls Software Engineer",
+        "company": "Ascent Aerospace",
+        "location": "Macomb, MI",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/controls-software-engineer-at-ascent-aerospace-4297498388?position=44&pageNum=0&refId=Ze%2BWuZfafOFPAn%2BzCy0CGA%3D%3D&trackingId=y8ZB7pT5Fnz1aDUmAnJ%2Fsw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 23:17:38",
+        "email_sent": false
+    },
+    {
+        "title": "Quality Assurance Engineer",
+        "company": "Axalta",
+        "location": "High Point, NC",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/quality-assurance-engineer-at-axalta-4299063883?position=47&pageNum=0&refId=Ze%2BWuZfafOFPAn%2BzCy0CGA%3D%3D&trackingId=bbNbbPncF8M2uzq22ZrxAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 23:17:38",
+        "email_sent": false
+    },
+    {
+        "title": "Qliksense BI Analyst",
+        "company": "Talent Groups",
+        "location": "Tallahassee, FL",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/qliksense-bi-analyst-at-talent-groups-4297080916?position=48&pageNum=0&refId=Ze%2BWuZfafOFPAn%2BzCy0CGA%3D%3D&trackingId=exDe60pOoQDTs7S364fT4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 23:17:38",
+        "email_sent": false
+    },
+    {
+        "title": "Program Services Manager - Standardization",
+        "company": "Vizient, Inc",
+        "location": "Irving, TX",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/program-services-manager-standardization-at-vizient-inc-4299080086?position=52&pageNum=0&refId=Ze%2BWuZfafOFPAn%2BzCy0CGA%3D%3D&trackingId=Exkyp8%2Fn%2BicJi%2FU2okawNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-11 23:17:38",
         "email_sent": false
     }
 ]
