@@ -1,65 +1,5 @@
 [
     {
-        "title": "Data Engineer II",
-        "company": "Horizon Media",
-        "location": "New York, NY",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-horizon-media-4262546882?position=1&pageNum=0&refId=20ThLUOcI2LxFNulKzii6Q%3D%3D&trackingId=rjEtH4qpq33DS3pENQAaTQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 14:15:54",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer I",
-        "company": "GM Financial",
-        "location": "Arlington, TX",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-i-at-gm-financial-4253772596?position=4&pageNum=0&refId=20ThLUOcI2LxFNulKzii6Q%3D%3D&trackingId=9FS%2FWlVGCclkXV64xwRCmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 14:15:54",
-        "email_sent": false
-    },
-    {
-        "title": "Solution Engineer - Public Sector",
-        "company": "AvePoint",
-        "location": "Greater Chicago Area",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/solution-engineer-public-sector-at-avepoint-4149414853?position=8&pageNum=0&refId=20ThLUOcI2LxFNulKzii6Q%3D%3D&trackingId=1uvkJqoap1SnSPBstNdK7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 14:15:54",
-        "email_sent": false
-    },
-    {
-        "title": "Sr. Software Engineer (Full Stack)",
-        "company": "Crowley",
-        "location": "Jacksonville, FL",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-full-stack-at-crowley-4277964265?position=16&pageNum=0&refId=20ThLUOcI2LxFNulKzii6Q%3D%3D&trackingId=%2BSzvSxrPrLO93GWVjYjroA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 14:15:54",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Product Management",
-        "company": "Horizon Next",
-        "location": "New York, NY",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-product-management-at-horizon-next-4278923727?position=25&pageNum=0&refId=20ThLUOcI2LxFNulKzii6Q%3D%3D&trackingId=%2BvEoHzhdJRypeNgiLOUWiQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 14:15:54",
-        "email_sent": false
-    },
-    {
-        "title": "Mechanical Commissioning Engineer (Data Centers)",
-        "company": "CAI Mission Critical",
-        "location": "Reno, NV",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/mechanical-commissioning-engineer-data-centers-at-cai-mission-critical-3842982125?position=26&pageNum=0&refId=20ThLUOcI2LxFNulKzii6Q%3D%3D&trackingId=XcOD7kIxoJVGh5EDRRaINw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 14:15:54",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer, Sr.",
         "company": "Calix",
         "location": "United States",
@@ -287,6 +227,46 @@
         "url": "https://www.linkedin.com/jobs/view/civil-designer-at-jedson-engineering-4174927170?position=53&pageNum=0&refId=Uwiix42jEoJSQar3gaXg%2FA%3D%3D&trackingId=LGdC3kGRMQ1zwZLMhJXJSg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-14 15:01:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst I",
+        "company": "Terracon",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-terracon-4300557672?position=3&pageNum=0&refId=IzGjaPqK2IQn8mg7fRANNQ%3D%3D&trackingId=BbgzMUdpjnnAPRnq9DIRJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-14 15:22:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst I",
+        "company": "Terracon",
+        "location": "Olathe, KS",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-terracon-4300571150?position=5&pageNum=0&refId=IzGjaPqK2IQn8mg7fRANNQ%3D%3D&trackingId=WX25rNyJZ8jfBjXWcOVfZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-14 15:22:47",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Engineer",
+        "company": "Terracon",
+        "location": "Carson, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-terracon-4300553869?position=36&pageNum=0&refId=IzGjaPqK2IQn8mg7fRANNQ%3D%3D&trackingId=R8AdzrlrZiaW09DAJEt1Uw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-14 15:22:47",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Engineer",
+        "company": "Terracon",
+        "location": "Colton, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-terracon-4300557671?position=38&pageNum=0&refId=IzGjaPqK2IQn8mg7fRANNQ%3D%3D&trackingId=zOvOqeL3cMwUxxRU6UftBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-14 15:22:47",
         "email_sent": false
     }
 ]
