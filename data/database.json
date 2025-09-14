@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-best-job-tool-4300523471?position=2&pageNum=0&refId=Hn%2Fd%2BQuuWbqnrVmTL6faSg%3D%3D&trackingId=k3DekMipIIqYH80u1nDxwA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 04:49:48",
-        "email_sent": false
-    },
-    {
-        "title": "Cloud Software Engineer, FinOps",
-        "company": "TP-Link",
-        "location": "Irvine, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/cloud-software-engineer-finops-at-tp-link-4298525278?position=3&pageNum=0&refId=Hn%2Fd%2BQuuWbqnrVmTL6faSg%3D%3D&trackingId=WAVaJkpFuUV0IYXxnaRsbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-14 04:49:48",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer - Java with Security Clearance",
         "company": "ClearanceJobs",
         "location": "San Diego, CA",
@@ -57,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/business-intelligence-reporting-analyst-at-personnel-board-of-jefferson-county-4300542373?position=3&pageNum=0&refId=YGlbFy24OpVrd7MBEga6IQ%3D%3D&trackingId=q9lgYkaXO82mT0LF8rQOuw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-14 05:48:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Java)",
+        "company": "OPENLANE",
+        "location": "Carmel, IN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-at-openlane-4300255204?position=1&pageNum=0&refId=D8zB1dHRa6ook%2BE8av9Q0w%3D%3D&trackingId=9J5roUXlZh%2FzxxRmm1M%2B1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-14 05:58:27",
         "email_sent": false
     }
 ]
