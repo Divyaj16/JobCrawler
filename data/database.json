@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4300802644?position=1&pageNum=0&refId=rVroBSRnlPoYX6%2Bhm8TH6w%3D%3D&trackingId=UrmIB7tsVFU5vOrmYg%2Bamg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 04:57:05",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Systems Software Engineer (Networking Enterprise)",
-        "company": "TP-Link",
-        "location": "Irvine, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-systems-software-engineer-networking-enterprise-at-tp-link-4298572761?position=4&pageNum=0&refId=rVroBSRnlPoYX6%2Bhm8TH6w%3D%3D&trackingId=yDW2GRubUtZklePVf0%2FEGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 04:57:05",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Analyst - Suitability",
-        "company": "Spectrum Comm Inc",
-        "location": "Edwards, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/operations-analyst-suitability-at-spectrum-comm-inc-4298567773?position=12&pageNum=0&refId=rVroBSRnlPoYX6%2Bhm8TH6w%3D%3D&trackingId=PMh1sHW6w5JqeMFMhnw59g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 04:57:05",
-        "email_sent": false
-    },
-    {
         "title": "Junior Data Analyst / Engineer (Microsoft Fabric + Power BI)",
         "company": "XP3R",
         "location": "Santa Ana, CA",
@@ -107,6 +77,26 @@
         "url": "https://www.linkedin.com/jobs/view/design-engineer-electrical-engineering-at-ware-malcomb-4300806734?position=6&pageNum=0&refId=HI6HakfvbqVlEt83%2Btj60A%3D%3D&trackingId=PIADWECHgVO6PKXRTOWW1w%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-15 05:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "ENGINEER TEST OPERATIONS 1",
+        "company": "HII",
+        "location": "Newport News, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-test-operations-1-at-hii-4300438520?position=7&pageNum=0&refId=lgr05heqOlOfBWYJyc0Wiw%3D%3D&trackingId=qC339aTWysat8kAcpDbCjQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 05:57:05",
+        "email_sent": false
+    },
+    {
+        "title": "ENGINEER TEST OPERATIONS 1",
+        "company": "HII",
+        "location": "Newport News, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-test-operations-1-at-hii-4300430529?position=8&pageNum=0&refId=lgr05heqOlOfBWYJyc0Wiw%3D%3D&trackingId=hpPJOQsqT6f%2BHDvyIPE4Gg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 05:57:05",
         "email_sent": false
     }
 ]
