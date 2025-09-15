@@ -1,255 +1,5 @@
 [
     {
-        "title": "Data Engineer (Ad Serving)",
-        "company": "Best Buy",
-        "location": "United States",
-        "date_posted": "51 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ad-serving-at-best-buy-4300857813?position=1&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=%2B8drRwK515oL3Gq1cnKJdA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "51 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4300876027?position=2&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=UPFJ9QQQfkCdmkLv33wghg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Healthcare)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "51 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-at-wiraa-4300866437?position=3&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=4sOVwTVfqTAvg9NHrFgeWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Science Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "51 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-science-engineer-at-wiraa-4300866436?position=4&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=BLc48a8yoFenMcz3KX76Ew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "51 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4300870221?position=5&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=e2QLt43tABxYxksCqHnbkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (various levels open)",
-        "company": "HRCap, Inc.",
-        "location": "United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-various-levels-open-at-hrcap-inc-4299207404?position=7&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=lr%2BYUIQ74J2xNMd86pkmRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "HHAeXchange",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hhaexchange-4253871719?position=10&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=TDKxciovBr4vu5soiZplNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "X4 Life Sciences",
-        "location": "United States",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-x4-life-sciences-4299216362?position=11&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=utotghdvU%2FdY3AhZQ%2FgMXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Content Data Analyst",
-        "company": "TERREPOWER (formerly BBB Industries)",
-        "location": "United States",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/content-data-analyst-at-terrepower-formerly-bbb-industries-4073781297?position=14&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=HHZ%2BQAVlmjLFj%2B40jImCtw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "DevOps Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "51 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-wiraa-4300867257?position=15&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=D%2BxUgCPaB%2BKUx5gb37B0Iw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst 1 (1 Year Fixed Term)",
-        "company": "iHire",
-        "location": "San Jose, CA",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-1-1-year-fixed-term-at-ihire-4300495421?position=16&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=ZbOne1%2FdZnF6gHSMcpr9cQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst 1 (1 Year Fixed Term)",
-        "company": "iHire",
-        "location": "Sunnyvale, CA",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-1-1-year-fixed-term-at-ihire-4300495412?position=17&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=x6oM90ivKhBk%2BO6V35iXKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst 1 (1 Year Fixed Term)",
-        "company": "iHire",
-        "location": "East Palo Alto, CA",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-1-1-year-fixed-term-at-ihire-4300493416?position=18&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=jkWV7UIwnOO7PPOi9%2FOong%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Data - Top Secret Clearance",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-top-secret-clearance-at-spacex-4150832086?position=19&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=RQtQd%2B6IIbaVHj6pTTWFZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Clinical Data Analyst with General Nursing Specialty",
-        "company": "Talent Groups",
-        "location": "United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/clinical-data-analyst-with-general-nursing-specialty-at-talent-groups-4300864913?position=20&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=FnByZUOOdYyFLPbKEUl0xw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (TS/SCI FS Poly \u2013 NSA Cleared)",
-        "company": "Argo Recruiting",
-        "location": "Annapolis Junction, MD",
-        "date_posted": "57 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ts-sci-fs-poly-%E2%80%93-nsa-cleared-at-argo-recruiting-4300854875?position=21&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=s1OnM74BkaKri33ONFSpBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Pinterest",
-        "location": "United States",
-        "date_posted": "51 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-pinterest-4300859785?position=22&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=%2FdrrtfTEhffRUd%2FNqS8Rrw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "WANT YOUR WORK TO MEAN SOMETHING?",
-        "company": "Driven Insights",
-        "location": "Gardner, MA",
-        "date_posted": "53 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/want-your-work-to-mean-something%3F-at-driven-insights-4300873199?position=23&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=DZT05cPkySJMUHkWvuFzeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Quality Engineer - Payment Solutions",
-        "company": "Elo Touch Solutions",
-        "location": "Milpitas, CA",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-quality-engineer-payment-solutions-at-elo-touch-solutions-4288920541?position=25&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=1cM8bf%2Bh48N26uPlY3rYAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Bioinformatician/Research Data Analyst 1",
-        "company": "iHire",
-        "location": "Castro Valley, CA",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/bioinformatician-research-data-analyst-1-at-ihire-4300701349?position=26&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=J%2F9xMi7DGRKhqcwnWkDy9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Bioinformatician/Research Data Analyst 1",
-        "company": "iHire",
-        "location": "Atherton, CA",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/bioinformatician-research-data-analyst-1-at-ihire-4300708277?position=27&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=p1%2FKe5FxBUi7pCp69V425Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Bioinformatician/Research Data Analyst 1",
-        "company": "iHire",
-        "location": "Saratoga, CA",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/bioinformatician-research-data-analyst-1-at-ihire-4300495410?position=28&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=ohqCvBuC8Xfdb1Q%2BEi2cNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Revenue Cycle Insights Management Associate, Healthcare",
-        "company": "Huron",
-        "location": "Chicago, IL",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/revenue-cycle-insights-management-associate-healthcare-at-huron-4299213372?position=30&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=mMPVM94NFqzoIWELk2HWzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Fire Protection Consultant - Remote, US",
-        "company": "Bowman Consulting",
-        "location": "United States",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/fire-protection-consultant-remote-us-at-bowman-consulting-4253817841?position=31&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=NDHpADun6eOX86zeoJpykg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative Outside Sales",
-        "company": "Builders FirstSource",
-        "location": "Baltimore, MD",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-outside-sales-at-builders-firstsource-4211114723?position=34&pageNum=0&refId=QFDuwWIrKVUVkmSaMbOP6w%3D%3D&trackingId=jeMqnCXWBFHSDmifIMBwvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-15 12:57:18",
-        "email_sent": false
-    },
-    {
         "title": "Junior Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New Jersey, United States",
@@ -737,6 +487,106 @@
         "url": "https://www.linkedin.com/jobs/view/data-scientist-4289498528?position=57&pageNum=0&refId=oEgn3y1S19p%2Fedh2iTbpaA%3D%3D&trackingId=pg4f8HTY17JtBQbXkpBDOQ%3D%3D&trk=public_jobs_jserp-result_search-card",
         "source": "LinkedIn",
         "scraped_date": "2025-09-15 13:44:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "SoTalent",
+        "location": "Portland, Oregon Metropolitan Area",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sotalent-4300494896?position=5&pageNum=0&refId=4bnYymX4YRsGZ8vAui3FpA%3D%3D&trackingId=rVYFL0Mq%2BvAkUzH1eQetCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 13:58:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "SoTalent",
+        "location": "Camas, WA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sotalent-4300495833?position=6&pageNum=0&refId=4bnYymX4YRsGZ8vAui3FpA%3D%3D&trackingId=9Lfx7wZMbvRXnMtgLKVzog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 13:58:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend (Consumer - Stablecoin)",
+        "company": "Coinbase",
+        "location": "United States",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-stablecoin-at-coinbase-4241035729?position=24&pageNum=0&refId=4bnYymX4YRsGZ8vAui3FpA%3D%3D&trackingId=pQBlGjanQYLb4EHyVsDlzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 13:58:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "MESO SCALE DIAGNOSTICS, LLC.",
+        "location": "Gaithersburg, MD",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-meso-scale-diagnostics-llc-4299210621?position=25&pageNum=0&refId=4bnYymX4YRsGZ8vAui3FpA%3D%3D&trackingId=IktOlcA9KV3ulLDojerp6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 13:58:01",
+        "email_sent": false
+    },
+    {
+        "title": "Real Estate Data & Analytics Analyst",
+        "company": "FirstKey Mortgage, LLC",
+        "location": "New York, NY",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/real-estate-data-analytics-analyst-at-firstkey-mortgage-llc-4300499763?position=36&pageNum=0&refId=4bnYymX4YRsGZ8vAui3FpA%3D%3D&trackingId=Yi1fPvyG%2BUvmZg0HkztJJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 13:58:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Engineer Chicago/Aurora",
+        "company": "Huxley",
+        "location": "Chicago, IL",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-chicago-aurora-at-huxley-4300887348?position=40&pageNum=0&refId=4bnYymX4YRsGZ8vAui3FpA%3D%3D&trackingId=8Sg71E3tbFoWFruXOSwCEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 13:58:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Entegee",
+        "location": "Tucson, AZ",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-entegee-4300702767?position=43&pageNum=0&refId=4bnYymX4YRsGZ8vAui3FpA%3D%3D&trackingId=ej%2Bwl9GdMma%2BRm7Am8Ckiw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 13:58:01",
+        "email_sent": false
+    },
+    {
+        "title": "Firmware Engineer",
+        "company": "Molex",
+        "location": "Bridgewater, NJ",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/firmware-engineer-at-molex-4277379071?position=51&pageNum=0&refId=4bnYymX4YRsGZ8vAui3FpA%3D%3D&trackingId=YYEun%2FZfw2m60JjySHceLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 13:58:01",
+        "email_sent": false
+    },
+    {
+        "title": "BI Consultant",
+        "company": "AMEND Consulting",
+        "location": "Cincinnati, OH",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/bi-consultant-at-amend-consulting-4299224520?position=52&pageNum=0&refId=4bnYymX4YRsGZ8vAui3FpA%3D%3D&trackingId=aSEvrLOi46eJSgsY64I3kg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 13:58:01",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Lynwood, CA",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4300712649?position=56&pageNum=0&refId=4bnYymX4YRsGZ8vAui3FpA%3D%3D&trackingId=l6Fesz8%2Bfm1eoC61BUMfbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-15 13:58:01",
         "email_sent": false
     }
 ]
