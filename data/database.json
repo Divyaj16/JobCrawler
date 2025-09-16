@@ -1,215 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4297445461?position=1&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=lXrX7GWqUEjwok3evSgdeA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Founding Data Engineer",
-        "company": "Axon Solutions",
-        "location": "Los Angeles, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/founding-data-engineer-at-axon-solutions-4301352847?position=2&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=xtArk0ZENcL44bo2XF5Rqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Python)",
-        "company": "Strategic Employment Partners (SEP)",
-        "location": "Irvine, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-python-at-strategic-employment-partners-sep-4301366725?position=7&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=nBn7IAdmjh3amV7EF8OJ%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "ServiceNow",
-        "location": "Santa Clara, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-servicenow-4301567926?position=11&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=RV4iAVa6QrncoKIAcA4Xvw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Leidos",
-        "location": "Tewksbury, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-leidos-4301364866?position=12&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=SDV2lPips%2F5oMvJHPsMg1w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "ServiceNow",
-        "location": "Santa Clara, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-servicenow-4301567925?position=13&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=6h7JNb2ZF14qkxIoGgTkDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Engineer",
-        "company": "Insight Global",
-        "location": "Elk Grove Village, IL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-at-insight-global-4301358772?position=14&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=%2FZ0bsUmBKpKK6npPzfa1ww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Developer",
-        "company": "Apex Systems",
-        "location": "Denver, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-developer-at-apex-systems-4301580003?position=17&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=Tmo5eJKoofPsh4vqi2uGKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Tesla",
-        "location": "Palo Alto, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-tesla-4301598404?position=20&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=e4hxzph9kIU3Ifg%2Bz9hz5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Insight Global",
-        "location": "Georgia, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-insight-global-4301358729?position=21&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=M6lASIZPDSnvd3IUvj1F%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Visualization Engineer",
-        "company": "Apex Systems",
-        "location": "Birmingham, AL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-visualization-engineer-at-apex-systems-4301563881?position=30&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=0GsqC9IVAEq1bb3XwZHNSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Marketing Data Analyst",
-        "company": "Orange County's Credit Union",
-        "location": "Santa Ana, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/marketing-data-analyst-at-orange-county-s-credit-union-4301368662?position=33&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=39wLrWg5G1i9LSLxA2O3jA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data scientist",
-        "company": "CVS Health",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-cvs-health-4301576405?position=44&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=Rl8wqBfRpJPkpSYGDcXzng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Apex Systems",
-        "location": "Greenwood Village, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-apex-systems-4301573481?position=47&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=c6X%2BdeLEbgX1TYkSQLjuCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "DataOps Engineer",
-        "company": "Apex Systems",
-        "location": "Orlando, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/dataops-engineer-at-apex-systems-4301558946?position=48&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=JXfVLDAQLKNUmu2KdqbyiQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "System Development and Support Engineer II",
-        "company": "ManpowerGroup",
-        "location": "San Jose, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/system-development-and-support-engineer-ii-at-manpowergroup-4301577286?position=52&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=dr5jVNJlC591PjSwM6C7ow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Software QA Engineer, Inventory Management Applications",
-        "company": "Tesla",
-        "location": "Fremont, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-qa-engineer-inventory-management-applications-at-tesla-4301587831?position=60&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=DCMoLAPeiQbggo6KrbUTtA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Visualization Engineer",
-        "company": "Apex Systems",
-        "location": "Birmingham, AL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-visualization-engineer-at-apex-systems-4301563881?position=5&pageNum=2&refId=dg%2F1BAv%2FgozdVoPSQ5nrNw%3D%3D&trackingId=UZGz8CwgGXxyBtN1boLQ5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Marketing Data Analyst",
-        "company": "Orange County's Credit Union",
-        "location": "Santa Ana, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/marketing-data-analyst-at-orange-county-s-credit-union-4301368662?position=8&pageNum=2&refId=dg%2F1BAv%2FgozdVoPSQ5nrNw%3D%3D&trackingId=AsoAIOPN0SUdOVzh23rvTg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Business & Data Analyst",
-        "company": "Insurance Company",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-4299905181?position=31&pageNum=0&refId=OM987cnWblwPa8rWz2Kwvw%3D%3D&trackingId=Bc8ZXibP9U8XzuB8lPkdfg%3D%3D&trk=public_jobs_jserp-result_search-card",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Business & Data Analyst",
-        "company": "Insurance Company",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-4299905181?position=6&pageNum=2&refId=dg%2F1BAv%2FgozdVoPSQ5nrNw%3D%3D&trackingId=%2Bx27pwThqCQuJMJPxiT1jA%3D%3D&trk=public_jobs_jserp-result_search-card",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-16 21:56:58",
-        "email_sent": false
-    },
-    {
         "title": "Analytics Engineer",
         "company": "Alpine Solutions Group",
         "location": "United States",
@@ -1047,6 +837,166 @@
         "url": "https://www.linkedin.com/jobs/view/system-application-engineer-i-at-schneider-electric-4301394191?position=8&pageNum=2&refId=TPTl5uHLJWLc%2Be5eVt%2B5cg%3D%3D&trackingId=d5K9%2FCbXxzbueTsyaCwxtg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-16 22:50:36",
+        "email_sent": false
+    },
+    {
+        "title": "Trading Data Analyst (Las Vegas)",
+        "company": "Harrah's Cherokee Valley River",
+        "location": "Las Vegas, NV",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/trading-data-analyst-las-vegas-at-harrah-s-cherokee-valley-river-4299921141?position=2&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=liUzKXt1%2FKWclsF8SufnuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "Safety Data Analyst",
+        "company": "SkyWest Airlines",
+        "location": "Salt Lake City Metropolitan Area",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/safety-data-analyst-at-skywest-airlines-4301714112?position=10&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=oC%2BH91z3cF245qXw5fX3SQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Aequor",
+        "location": "Thousand Oaks, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-aequor-4301383198?position=14&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=zle5Khcw5RQWPla42XAHww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "AI Engineer",
+        "company": "Travel + Leisure Co.",
+        "location": "Orlando, FL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-travel-%2B-leisure-co-4301582844?position=15&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=fSE0OL5z9yv7kWXO%2FIijZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "(USA) Software Engineer, Backend",
+        "company": "Walmart",
+        "location": "Bentonville, AR",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/usa-software-engineer-backend-at-walmart-4299910297?position=25&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=pQDJax1X6qodCnpAZjVsOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer Associate",
+        "company": "University of Michigan",
+        "location": "Ann Arbor, MI",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-associate-at-university-of-michigan-4301713143?position=26&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=Cc%2BD1zLGays%2F97xeSSIDIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - II",
+        "company": "Medtronic",
+        "location": "Lafayette, CO",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-medtronic-4296979364?position=28&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=H6Bszq6cOs0y6mMWGBHgFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Quality Assurance Analyst",
+        "company": "Quest Analytics\u00ae,LLC",
+        "location": "Overland Park, KS",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-quality-assurance-analyst-at-quest-analytics%C2%AE-llc-4297769976?position=30&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=Ntfdk7dIlG9vQBb8QzjNPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-hirenza-4301585727?position=38&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=SWnqXCuzYmigTiooby2tIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "SRE, Data Management and Applications - USDS",
+        "company": "TikTok",
+        "location": "San Jose, CA",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sre-data-management-and-applications-usds-at-tiktok-4301382432?position=44&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=0Zj6ZHt5ImLIsfK1gHtNbg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Verification Engineer",
+        "company": "Akkodis",
+        "location": "St Paul, MN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-verification-engineer-at-akkodis-4301377558?position=47&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=opEa5YGY8%2BAchqwtYR%2BbvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "Automotive Embedded Software Engineer",
+        "company": "TOOGANN TECHNOLOGIES",
+        "location": "Mountain View, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/automotive-embedded-software-engineer-at-toogann-technologies-4301700122?position=54&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=%2FzsZTS8KccPbWgMuv0tfeQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "RBA Warranty and Data Analyst",
+        "company": "Rosenbauer America",
+        "location": "Wyoming, MN",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/rba-warranty-and-data-analyst-at-rosenbauer-america-4299902345?position=57&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=ATh7%2FDazyKpI5dCExURPag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "Electrical Engineer",
+        "company": "Hyper Solutions",
+        "location": "Henrico, VA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/electrical-engineer-at-hyper-solutions-4301592944?position=58&pageNum=0&refId=MMGF1P6WHHuP9J2DGKSJPA%3D%3D&trackingId=9BGDz1oe8rkqMem0mwwHoQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - II",
+        "company": "Medtronic",
+        "location": "Lafayette, CO",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-medtronic-4296979364?position=2&pageNum=2&refId=%2FZ513JQszFlzXKUSdnb3HQ%3D%3D&trackingId=Joy2unl0CpeIOTYv%2BUQfkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Quality Assurance Analyst",
+        "company": "Quest Analytics\u00ae,LLC",
+        "location": "Overland Park, KS",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-quality-assurance-analyst-at-quest-analytics%C2%AE-llc-4297769976?position=4&pageNum=2&refId=%2FZ513JQszFlzXKUSdnb3HQ%3D%3D&trackingId=%2BPkN1SrvXfLM1drEGaquPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-16 22:59:56",
         "email_sent": false
     }
 ]
