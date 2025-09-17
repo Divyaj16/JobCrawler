@@ -1,125 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Planet Pharma",
-        "location": "California, United States",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-planet-pharma-4301944696?position=9&pageNum=0&refId=MBxyh05LXRHvvNRGy8T3nQ%3D%3D&trackingId=BG0cpiMXObMI3wr7ghxaDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-17 17:58:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "US Tech Solutions",
-        "location": "Charlotte, NC",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-us-tech-solutions-4300331988?position=14&pageNum=0&refId=MBxyh05LXRHvvNRGy8T3nQ%3D%3D&trackingId=RUiXWMArmVPZH9f%2BvsKLFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-17 17:58:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "UFA, Inc.",
-        "location": "Woburn, MA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ufa-inc-4299169316?position=15&pageNum=0&refId=MBxyh05LXRHvvNRGy8T3nQ%3D%3D&trackingId=riygkRO4XRZCpyUd%2B7Ohmg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-17 17:58:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Harris County",
-        "location": "Houston, TX",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-harris-county-4298955147?position=21&pageNum=0&refId=MBxyh05LXRHvvNRGy8T3nQ%3D%3D&trackingId=8JRj385lSsDpLFNAZoR%2B0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-17 17:58:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Engineer",
-        "company": "Piper Companies",
-        "location": "Annapolis Junction, MD",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-at-piper-companies-4299615599?position=22&pageNum=0&refId=MBxyh05LXRHvvNRGy8T3nQ%3D%3D&trackingId=VeSsCyex2qpI5%2BQG1AUDCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-17 17:58:08",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wiraa-4301786339?position=29&pageNum=0&refId=MBxyh05LXRHvvNRGy8T3nQ%3D%3D&trackingId=BQITJcJdP3y0miEo0hKFnA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-17 17:58:08",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Software Engineer",
-        "company": "Anduril Industries",
-        "location": "Lexington, MA",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-software-engineer-at-anduril-industries-4302035736?position=30&pageNum=0&refId=MBxyh05LXRHvvNRGy8T3nQ%3D%3D&trackingId=LA60PyXvBlQPrYva4byUog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-17 17:58:08",
-        "email_sent": false
-    },
-    {
-        "title": "Statistical Engineer",
-        "company": "MetaMetrics, Inc.",
-        "location": "Durham, NC",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/statistical-engineer-at-metametrics-inc-4302038681?position=35&pageNum=0&refId=MBxyh05LXRHvvNRGy8T3nQ%3D%3D&trackingId=Htjsnf%2Fz1IIGXCn5htwMfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-17 17:58:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist (AI)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ai-at-wiraa-4301783468?position=54&pageNum=0&refId=MBxyh05LXRHvvNRGy8T3nQ%3D%3D&trackingId=oCSUYeV3ufENmQAvoDHMqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-17 17:58:08",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer (Full Stack) - Evisort AI",
-        "company": "TalentAlly",
-        "location": "Greater Seattle Area",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-full-stack-evisort-ai-at-talentally-4302042490?position=57&pageNum=0&refId=MBxyh05LXRHvvNRGy8T3nQ%3D%3D&trackingId=WJsjeKrCcmmNIBla4BVjTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-17 17:58:08",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wiraa-4301786339?position=5&pageNum=2&refId=hB%2FqA7OeAeVyfBDKq7yeqQ%3D%3D&trackingId=BYDTTDc%2B%2BXakMuv790s%2FrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-17 17:58:08",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Software Engineer",
-        "company": "Anduril Industries",
-        "location": "Lexington, MA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-software-engineer-at-anduril-industries-4302035736?position=6&pageNum=2&refId=hB%2FqA7OeAeVyfBDKq7yeqQ%3D%3D&trackingId=7UNI7k1DN1Ind8280iuOSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-17 17:58:08",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Haksama Prima Sejahtera",
         "location": "Idaho, United States",
@@ -347,6 +227,36 @@
         "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-wiraa-4301772878?position=23&pageNum=0&refId=idmSlk2iJjOZ6MRPZ%2BCa5A%3D%3D&trackingId=lnqUvR1dnWtobmMjQ1etHg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-17 18:57:50",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Marketing)",
+        "company": "Ethos",
+        "location": "United States",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-marketing-at-ethos-4302051217?position=6&pageNum=0&refId=r8tPo2QfUpvr5a57oeNLRw%3D%3D&trackingId=Q7snWj%2FdC1flSVVSimi1kg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-17 19:15:12",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Visa",
+        "location": "Austin, TX",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-visa-4301949775?position=15&pageNum=0&refId=r8tPo2QfUpvr5a57oeNLRw%3D%3D&trackingId=mHk%2BgZvt5ql56gMeQ033AA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-17 19:15:12",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4301954449?position=16&pageNum=0&refId=r8tPo2QfUpvr5a57oeNLRw%3D%3D&trackingId=%2FwUWbi%2BrdBjFPMs01%2FQIjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-17 19:15:12",
         "email_sent": false
     }
 ]
