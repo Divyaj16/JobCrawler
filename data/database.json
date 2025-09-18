@@ -1,95 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Insight Global",
-        "location": "Sacramento, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-insight-global-4302435981?position=4&pageNum=0&refId=SSOndSgQvITaQrqrA7HXwQ%3D%3D&trackingId=QsEj2ZluRtDmVz%2B17IuC0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 20:59:21",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Ned's Home",
-        "location": "Fairfield, NJ",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-ned-s-home-4301799367?position=5&pageNum=0&refId=SSOndSgQvITaQrqrA7HXwQ%3D%3D&trackingId=xD%2Be2CJn0CbD8KGFJXeGtg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 20:59:21",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst I",
-        "company": "Brigham and Women's Hospital",
-        "location": "Boston, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-brigham-and-women-s-hospital-4302810257?position=12&pageNum=0&refId=SSOndSgQvITaQrqrA7HXwQ%3D%3D&trackingId=nVEt9FHi7dRYda9sF4KH5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 20:59:21",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "The Judge Group",
-        "location": "Milwaukee, WI",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-the-judge-group-4302813625?position=19&pageNum=0&refId=SSOndSgQvITaQrqrA7HXwQ%3D%3D&trackingId=e35QoECVUOxBe8bnIIcwoQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 20:59:21",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Analyst",
-        "company": "Serenity Healthcare",
-        "location": "Lehi, UT",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-analyst-at-serenity-healthcare-4302450010?position=22&pageNum=0&refId=SSOndSgQvITaQrqrA7HXwQ%3D%3D&trackingId=hI%2Fx87XvPGMzaPfZ1%2FLwBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 20:59:21",
-        "email_sent": false
-    },
-    {
-        "title": "ML Engineer, Sr.",
-        "company": "Pinterest",
-        "location": "United States",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ml-engineer-sr-at-pinterest-4302531232?position=29&pageNum=0&refId=SSOndSgQvITaQrqrA7HXwQ%3D%3D&trackingId=dZrh53fNNhKKMyS75QuNHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 20:59:21",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Full-Stack",
-        "company": "RealRoots",
-        "location": "San Francisco, CA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-realroots-4302453327?position=33&pageNum=0&refId=SSOndSgQvITaQrqrA7HXwQ%3D%3D&trackingId=4ITGqL1CjBk6NZSL5X0R6g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 20:59:21",
-        "email_sent": false
-    },
-    {
-        "title": "ML Engineer, Sr.",
-        "company": "Pinterest",
-        "location": "United States",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ml-engineer-sr-at-pinterest-4302531232?position=4&pageNum=2&refId=j1xLyWjlUhratAj5to%2B%2FkA%3D%3D&trackingId=6GDQ%2FouFvuyGEgsjuCYGJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 20:59:21",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Full-Stack",
-        "company": "RealRoots",
-        "location": "San Francisco, CA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-realroots-4302453327?position=8&pageNum=2&refId=j1xLyWjlUhratAj5to%2B%2FkA%3D%3D&trackingId=FNFuoSIB%2FxjHwutaeghm5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-18 20:59:21",
-        "email_sent": false
-    },
-    {
         "title": "Associate Software Engineer",
         "company": "Activate Care",
         "location": "Boston, MA",
@@ -577,6 +487,86 @@
         "url": "https://www.linkedin.com/jobs/view/data-scientist-at-hirenza-4302821260?position=43&pageNum=0&refId=hPXGC%2BZHzDoANMzcFnkKdw%3D%3D&trackingId=bKXMqUZQZP8N0DWl%2FC3mog%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-18 21:57:35",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4297434647?position=1&pageNum=0&refId=pebUb%2BR1ywGax3ZSHqeRVQ%3D%3D&trackingId=EZ9RjMMo6FQXAbAr6ZbHtQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-18 22:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4300670661?position=3&pageNum=0&refId=pebUb%2BR1ywGax3ZSHqeRVQ%3D%3D&trackingId=VzDnoF9WayWjxEnMiaUYzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-18 22:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Robotic Software Engineer",
+        "company": "TEKFORTUNE INC",
+        "location": "San Jose, CA",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/robotic-software-engineer-at-tekfortune-inc-4302842091?position=9&pageNum=0&refId=pebUb%2BR1ywGax3ZSHqeRVQ%3D%3D&trackingId=6F2W8YZzK8soKsyrwx5vgw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-18 22:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Associate w/ Poly (SWE0)",
+        "company": "Lockheed Martin",
+        "location": "Annapolis Junction, MD",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-associate-w-poly-swe0-at-lockheed-martin-4302851061?position=12&pageNum=0&refId=pebUb%2BR1ywGax3ZSHqeRVQ%3D%3D&trackingId=TicqqWYmNFRhTfaLvgg9FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-18 22:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "AI and Analytics Specialist",
+        "company": "Ledgent Technology",
+        "location": "Chattanooga, TN",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-and-analytics-specialist-at-ledgent-technology-4302450490?position=18&pageNum=0&refId=pebUb%2BR1ywGax3ZSHqeRVQ%3D%3D&trackingId=1Skm2qZu0CaZfDvNlND%2BLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-18 22:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Quality Engineer (SSQE)",
+        "company": "Lockheed Martin",
+        "location": "Orlando, FL",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-quality-engineer-ssqe-at-lockheed-martin-4302836170?position=19&pageNum=0&refId=pebUb%2BR1ywGax3ZSHqeRVQ%3D%3D&trackingId=V%2FpBaaJJQ%2BouONynJGuLfw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-18 22:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Federal Team",
+        "company": "General Atomics Integrated Intelligence",
+        "location": "Charlottesville, VA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-federal-team-at-general-atomics-integrated-intelligence-4297744297?position=20&pageNum=0&refId=pebUb%2BR1ywGax3ZSHqeRVQ%3D%3D&trackingId=7xJXuTDBp0Mocgi1QdNcnA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-18 22:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Stf - GMD Weapons Systems (GWS)",
+        "company": "Lockheed Martin",
+        "location": "Huntsville, AL",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-stf-gmd-weapons-systems-gws-at-lockheed-martin-4302847083?position=23&pageNum=0&refId=pebUb%2BR1ywGax3ZSHqeRVQ%3D%3D&trackingId=fa20O6Fc1l6HGIMawkVbJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-18 22:17:47",
         "email_sent": false
     }
 ]
