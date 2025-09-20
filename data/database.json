@@ -1,55 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4303522129?position=4&pageNum=0&refId=dHSlIz4HwaZFkRPDo3RNew%3D%3D&trackingId=CqUeHxG%2FaEsMy15A4bSRNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 15:52:03",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Axon",
-        "location": "Seattle, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-axon-4292815350?position=17&pageNum=0&refId=dHSlIz4HwaZFkRPDo3RNew%3D%3D&trackingId=bLPG3596B7PNfqts4eLV%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 15:52:03",
-        "email_sent": false
-    },
-    {
-        "title": "Sr. Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-hirenza-4303524116?position=22&pageNum=0&refId=dHSlIz4HwaZFkRPDo3RNew%3D%3D&trackingId=WV3zekwdopdJO%2FTzSaL8Cg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 15:52:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-hirenza-4303532008?position=26&pageNum=0&refId=dHSlIz4HwaZFkRPDo3RNew%3D%3D&trackingId=o9X6pXKXgcqrNOqcl4ID7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 15:52:03",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, eDiscovery Services",
-        "company": "Norton Rose Fulbright",
-        "location": "Houston, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-ediscovery-services-at-norton-rose-fulbright-4292806795?position=33&pageNum=0&refId=dHSlIz4HwaZFkRPDo3RNew%3D%3D&trackingId=LGDqL%2FUaVHvzoZlsRi7KNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-20 15:52:03",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Wiraa",
         "location": "United States",
@@ -197,6 +147,56 @@
         "url": "https://www.linkedin.com/jobs/view/quality-speech-analyst-call-miner-at-newrez-llc-4064099668?position=19&pageNum=0&refId=nfA5u9ejYh8t38oy3QPP%2Fg%3D%3D&trackingId=rJtNNibTRG2SXEevO8ANpA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-20 16:44:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Spectrum",
+        "location": "Charlotte, NC",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-spectrum-4303518356?position=8&pageNum=0&refId=cigAwSG5iYY5xdJjZJGRZQ%3D%3D&trackingId=pA%2FZc7qlTmy6SAmQulKZSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-20 16:53:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Spectrum",
+        "location": "Greenwood Village, CO",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-spectrum-4303539051?position=9&pageNum=0&refId=cigAwSG5iYY5xdJjZJGRZQ%3D%3D&trackingId=z6wjm30x2ZefzCiORINbdg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-20 16:53:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4303531058?position=12&pageNum=0&refId=cigAwSG5iYY5xdJjZJGRZQ%3D%3D&trackingId=LQlBHacMY7HTswQLWr65Hg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-20 16:53:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Spectrum",
+        "location": "Maryland Heights, MO",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-spectrum-4303535086?position=14&pageNum=0&refId=cigAwSG5iYY5xdJjZJGRZQ%3D%3D&trackingId=Zfo4BQZJCsKUB0aRr3wdTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-20 16:53:36",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Data Scientist",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-best-job-tool-4303522195?position=20&pageNum=0&refId=cigAwSG5iYY5xdJjZJGRZQ%3D%3D&trackingId=G8%2FZJSosbwjWXoczW4vz%2FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-20 16:53:36",
         "email_sent": false
     }
 ]
