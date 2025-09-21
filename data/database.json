@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer I (Machine Learning)",
-        "company": "Eventbrite",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-machine-learning-at-eventbrite-4267789226?position=3&pageNum=0&refId=zSHV1bMAEjrhNm5hAkqczw%3D%3D&trackingId=iA9etHgnscT3j4CL6BG%2Bzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 14:35:29",
-        "email_sent": false
-    },
-    {
-        "title": "Database Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-hirenza-4303583910?position=5&pageNum=0&refId=zSHV1bMAEjrhNm5hAkqczw%3D%3D&trackingId=7qBFXdVaEh6dI7UBr3bK0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 14:35:29",
-        "email_sent": false
-    },
-    {
         "title": "Junior Software Engineer",
         "company": "Remodel Health",
         "location": "Indianapolis, IN",
@@ -207,6 +187,156 @@
         "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-best-job-tool-4303587877?position=15&pageNum=0&refId=eYU%2F2zhsDx1fctk8%2F555ZA%3D%3D&trackingId=URcYdwbSQhqaH3ahMlskvw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-21 15:32:58",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4303583473?position=1&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=Nlk2QqxkXZ5eZ5uMeZeOZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4303579975?position=5&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=LbHPlrg8QKW0JyCIp1o7NQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer,Sr.",
+        "company": "Gusto",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-gusto-4303575634?position=7&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=CHNtXSsA5Hs67KYCxi9Gnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (AI)",
+        "company": "Figma",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-figma-4303577534?position=9&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=d1%2B3jFHCc8yAlKYBiEU%2FGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, C++)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-c%2B%2B-at-wiraa-4303571612?position=10&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=z9DKTqYCT0%2B6w3zuiKZsTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Waymo",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-waymo-4303583475?position=11&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=SL7U7vbY8LyyqPk4rW0I3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Test)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-test-at-wiraa-4303568668?position=12&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=saFta7hRT0TK9Nc2M6OkdA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Cadence",
+        "location": "San Jose, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-cadence-4269082937?position=13&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=lk3ucDL%2BawcG%2FFPnPURsCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (NLP & LLM)",
+        "company": "Norstella",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-nlp-llm-at-norstella-4303574559?position=15&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=V69xh5FHyXREcjwNpkPmUA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Sr.",
+        "company": "Airbnb",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-airbnb-4303569603?position=16&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=5undjaeCGyI2Vx4siMRc%2FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Engineer, Sr.",
+        "company": "CrowdStrike",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-engineer-sr-at-crowdstrike-4303585424?position=17&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=95SvmagQ3Y3zPkbpPsayQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "C++ Software Engineer",
+        "company": "Dassault Syst\u00e8mes",
+        "location": "Waltham, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-at-dassault-syst%C3%A8mes-4269823984?position=20&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=jjP7AIYGH6DE8afWEWXiKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Manager)",
+        "company": "Microsoft",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-manager-at-microsoft-4303577531?position=21&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=MlEMJubSfCiCGpUHLwGiZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Services Mechanical Commissioning Engineer Staff II",
+        "company": "CAI Mission Critical",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-center-services-mechanical-commissioning-engineer-staff-ii-at-cai-mission-critical-3842982155?position=22&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=7adN9Cn%2BXM8A%2FXPzk2Ox4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Engineer",
+        "company": "Terracon",
+        "location": "Myrtle Beach, SC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-terracon-4303294951?position=23&pageNum=0&refId=kVjEwBi5IP2vrv2CSo1WDA%3D%3D&trackingId=cIkfIFSwYcSjgkIcnfeXkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 15:43:34",
         "email_sent": false
     }
 ]
