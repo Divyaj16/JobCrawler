@@ -1,45 +1,5 @@
 [
     {
-        "title": "Software Engineer II",
-        "company": "MANSTRACON",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-manstracon-4303359683?position=9&pageNum=0&refId=2rNssAn2g7jBVQOEivzeHw%3D%3D&trackingId=xoCZyQIgOc1FWf0eHE45JQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 20:48:22",
-        "email_sent": false
-    },
-    {
-        "title": "Production System Engineer - San Jose",
-        "company": "TikTok",
-        "location": "San Jose, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/production-system-engineer-san-jose-at-tiktok-4303346704?position=16&pageNum=0&refId=2rNssAn2g7jBVQOEivzeHw%3D%3D&trackingId=uVCnYkHeU74vN5dXDjD2uA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 20:48:22",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Engineer, Sr.",
-        "company": "CrowdStrike",
-        "location": "United States",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-sr-at-crowdstrike-4303585424?position=23&pageNum=0&refId=2rNssAn2g7jBVQOEivzeHw%3D%3D&trackingId=5x91%2B1xn88vRoUnyTavZXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 20:48:22",
-        "email_sent": false
-    },
-    {
-        "title": "Identity and Access Governance Analyst - Global Security Organization",
-        "company": "TikTok",
-        "location": "New York, United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/identity-and-access-governance-analyst-global-security-organization-at-tiktok-4303360743?position=26&pageNum=0&refId=2rNssAn2g7jBVQOEivzeHw%3D%3D&trackingId=68fChyKn7eMzoV7J4IZfJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 20:48:22",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "DESE Research, Inc.",
         "location": "Huntsville, AL",
@@ -217,6 +177,66 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-manager-at-microsoft-4303577531?position=20&pageNum=0&refId=eNBIKFKHHVj5kwvxYv0DHw%3D%3D&trackingId=xQcVnSz0wVv9GiIep5sKxA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-21 21:42:05",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4303590314?position=3&pageNum=0&refId=gcq8WAhpKy%2F%2F5Ga47yyCew%3D%3D&trackingId=yMVOp4pvjh6%2Bx8QsinT1Ow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 21:51:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4303909325?position=5&pageNum=0&refId=gcq8WAhpKy%2F%2F5Ga47yyCew%3D%3D&trackingId=I75t%2BypCsjcadNQwRwmZqw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 21:51:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer,Sr.",
+        "company": "Gusto",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-gusto-4303575634?position=7&pageNum=0&refId=gcq8WAhpKy%2F%2F5Ga47yyCew%3D%3D&trackingId=mQGNj9w1hsgyhbjb66LwWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 21:51:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4303902470?position=8&pageNum=0&refId=gcq8WAhpKy%2F%2F5Ga47yyCew%3D%3D&trackingId=8hh3TKS09HEC99X%2Bmsc7Mg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 21:51:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Test)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-test-at-wiraa-4303568668?position=15&pageNum=0&refId=gcq8WAhpKy%2F%2F5Ga47yyCew%3D%3D&trackingId=cCZ7%2FbGcdOqbDLlvOPQOfg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 21:51:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-hirenza-4303595490?position=19&pageNum=0&refId=gcq8WAhpKy%2F%2F5Ga47yyCew%3D%3D&trackingId=HhWszAP4IA3oWYep%2B9bFOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 21:51:47",
         "email_sent": false
     }
 ]
