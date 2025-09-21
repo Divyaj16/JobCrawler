@@ -1,65 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4303590314?position=3&pageNum=0&refId=gcq8WAhpKy%2F%2F5Ga47yyCew%3D%3D&trackingId=yMVOp4pvjh6%2Bx8QsinT1Ow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 21:51:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4303909325?position=5&pageNum=0&refId=gcq8WAhpKy%2F%2F5Ga47yyCew%3D%3D&trackingId=I75t%2BypCsjcadNQwRwmZqw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 21:51:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer,Sr.",
-        "company": "Gusto",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-gusto-4303575634?position=7&pageNum=0&refId=gcq8WAhpKy%2F%2F5Ga47yyCew%3D%3D&trackingId=mQGNj9w1hsgyhbjb66LwWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 21:51:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4303902470?position=8&pageNum=0&refId=gcq8WAhpKy%2F%2F5Ga47yyCew%3D%3D&trackingId=8hh3TKS09HEC99X%2Bmsc7Mg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 21:51:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Test)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-test-at-wiraa-4303568668?position=15&pageNum=0&refId=gcq8WAhpKy%2F%2F5Ga47yyCew%3D%3D&trackingId=cCZ7%2FbGcdOqbDLlvOPQOfg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 21:51:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-hirenza-4303595490?position=19&pageNum=0&refId=gcq8WAhpKy%2F%2F5Ga47yyCew%3D%3D&trackingId=HhWszAP4IA3oWYep%2B9bFOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 21:51:47",
-        "email_sent": false
-    },
-    {
         "title": "Production System Engineer - San Jose",
         "company": "TikTok",
         "location": "San Jose, CA",
@@ -137,6 +77,136 @@
         "url": "https://www.linkedin.com/jobs/view/sr-data-analyst-at-best-job-tool-4303593591?position=4&pageNum=0&refId=IG2HVUJnc8anOxVj8Pbfmg%3D%3D&trackingId=c3Jfy858JBAognCyRf3Kdw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-21 22:47:59",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4303583473?position=1&pageNum=0&refId=9gXgIUtnN6uArmBLdLw1iw%3D%3D&trackingId=eDUEz3ZLAdnnz%2FY1zrrqOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 22:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Health)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-health-at-wiraa-4303582492?position=3&pageNum=0&refId=9gXgIUtnN6uArmBLdLw1iw%3D%3D&trackingId=%2F8UGcF8z111gj0gh9p7KAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 22:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (AI)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-wiraa-4303577534?position=5&pageNum=0&refId=9gXgIUtnN6uArmBLdLw1iw%3D%3D&trackingId=t1vNKe74vEIJs6gAloX9jg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 22:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, C++)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-c%2B%2B-at-wiraa-4303571612?position=7&pageNum=0&refId=9gXgIUtnN6uArmBLdLw1iw%3D%3D&trackingId=APHRYbtrFMbwyFloktFAwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 22:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer,Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-wiraa-4303575634?position=8&pageNum=0&refId=9gXgIUtnN6uArmBLdLw1iw%3D%3D&trackingId=QRJBpx9qliakFr8bYTeMaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 22:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst REMOTE",
+        "company": "Talentify.io",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-talentify-io-4303360804?position=9&pageNum=0&refId=9gXgIUtnN6uArmBLdLw1iw%3D%3D&trackingId=v2e1T2nFIb7CSthsJIupjQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 22:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data and Reporting Analyst - Remote (EST)",
+        "company": "Talentify.io",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-and-reporting-analyst-remote-est-at-talentify-io-4303360806?position=12&pageNum=0&refId=9gXgIUtnN6uArmBLdLw1iw%3D%3D&trackingId=KFNl8vRcvazxxNDSRpNDYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 22:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (NLP & LLM)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-nlp-llm-at-wiraa-4303574559?position=13&pageNum=0&refId=9gXgIUtnN6uArmBLdLw1iw%3D%3D&trackingId=trPPioWlV4TPJvKWuiX9ew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 22:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Manager)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-manager-at-wiraa-4303577531?position=14&pageNum=0&refId=9gXgIUtnN6uArmBLdLw1iw%3D%3D&trackingId=WkEK%2BVLYJIX8tFGy6n4Y9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 22:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-wiraa-4303569603?position=15&pageNum=0&refId=9gXgIUtnN6uArmBLdLw1iw%3D%3D&trackingId=2r9%2BgS8KMljpqGmhnKzCVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 22:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Workday BI / Reporting Analyst (Remote Available)",
+        "company": "Talentify.io",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/workday-bi-reporting-analyst-remote-available-at-talentify-io-4303339930?position=16&pageNum=0&refId=9gXgIUtnN6uArmBLdLw1iw%3D%3D&trackingId=wrY6cP4suGJSRaL%2BXnmXgA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 22:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Research Analyst - remote (PA/NJ/DE)",
+        "company": "Talentify.io",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/research-analyst-remote-pa-nj-de-at-talentify-io-4303354737?position=17&pageNum=0&refId=9gXgIUtnN6uArmBLdLw1iw%3D%3D&trackingId=uHzlaXfLOb9FHsA3JrxNEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 22:58:25",
+        "email_sent": false
+    },
+    {
+        "title": "Quality Control Laboratory Technician, I",
+        "company": "Zebra Technologies",
+        "location": "Morris Plains, NJ",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/quality-control-laboratory-technician-i-at-zebra-technologies-4300389284?position=18&pageNum=0&refId=9gXgIUtnN6uArmBLdLw1iw%3D%3D&trackingId=hpwF4Sl6QQjja1TZ0h8hhQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 22:58:25",
         "email_sent": false
     }
 ]
