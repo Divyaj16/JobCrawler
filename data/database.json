@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Morgan State University",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-morgan-state-university-4303599024?position=1&pageNum=0&refId=bJv%2FWhXCyns0GitQrKqLqw%3D%3D&trackingId=0q4xWZ9WuXP%2Fst1BQBFwfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-21 16:44:17",
-        "email_sent": false
-    },
-    {
         "title": "Database Engineer",
         "company": "Best Job Tool",
         "location": "United States",
@@ -87,6 +77,86 @@
         "url": "https://www.linkedin.com/jobs/view/staff-analyst-series-at-metropolitan-transportation-authority-4303594117?position=3&pageNum=0&refId=TPy7LPAYw4blkRRUFTTYig%3D%3D&trackingId=ZPafkJTlbf3OlhLkHfhWWg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-21 17:43:11",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, SQL)",
+        "company": "Waymo",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-sql-at-waymo-4303593248?position=1&pageNum=0&refId=DpXx1y3twVQd4lb8fAyiOg%3D%3D&trackingId=dOC44DtXQIYyKXpSrLNpkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 17:53:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4303583473?position=2&pageNum=0&refId=DpXx1y3twVQd4lb8fAyiOg%3D%3D&trackingId=MKZ22YpIVqtx04O01yccXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 17:53:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Health)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-health-at-wiraa-4303582492?position=3&pageNum=0&refId=DpXx1y3twVQd4lb8fAyiOg%3D%3D&trackingId=r4%2FTuor8BYB5QJTKUcUcDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 17:53:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (AI)",
+        "company": "Figma",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-figma-4303577534?position=4&pageNum=0&refId=DpXx1y3twVQd4lb8fAyiOg%3D%3D&trackingId=wnK0tAGdqEq3LN03fgo2Rg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 17:53:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, C++)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-c%2B%2B-at-wiraa-4303571612?position=5&pageNum=0&refId=DpXx1y3twVQd4lb8fAyiOg%3D%3D&trackingId=nzbABFjF2BVz7g4V3BA8Wg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 17:53:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Waymo",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-waymo-4303583475?position=6&pageNum=0&refId=DpXx1y3twVQd4lb8fAyiOg%3D%3D&trackingId=%2Bg%2B%2F39Oabbd9x8UAaWMJ%2FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 17:53:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Sr.",
+        "company": "Airbnb",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-airbnb-4303569603?position=7&pageNum=0&refId=DpXx1y3twVQd4lb8fAyiOg%3D%3D&trackingId=nLG0hZkjuRgMF1Dy7PSeuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 17:53:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Manager)",
+        "company": "Microsoft",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-manager-at-microsoft-4303577531?position=8&pageNum=0&refId=DpXx1y3twVQd4lb8fAyiOg%3D%3D&trackingId=llqf%2BAWtUy%2Fejbe0jHlcIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-21 17:53:21",
         "email_sent": false
     }
 ]
