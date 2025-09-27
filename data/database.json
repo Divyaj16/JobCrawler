@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer, Back End",
-        "company": "Capital One",
-        "location": "Chicago, IL",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-back-end-at-capital-one-4306866657?position=7&pageNum=0&refId=XzZXX6Wla5hRjB4jM%2B51UQ%3D%3D&trackingId=HHhBT7ih3VClciHWv0gZag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 05:48:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Orbit AI",
-        "location": "San Francisco, CA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-orbit-ai-4306000975?position=4&pageNum=0&refId=6gtxWJ06VnzqNYwJK136TA%3D%3D&trackingId=b%2BjtdGRFfXRsIHPxqr3nSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 05:56:40",
-        "email_sent": false
-    },
-    {
         "title": "Junior Software Development Engineer",
         "company": "WEX",
         "location": "Maine, United States",
@@ -127,6 +107,26 @@
         "url": "https://www.linkedin.com/jobs/view/volunteer-stakeholder-research-at-creshendo-4304753859?position=14&pageNum=0&refId=4ZTks2yaX2eO9G7BkbSETg%3D%3D&trackingId=yO7qVQheUb2GaVmb0qqFPw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-27 06:47:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "MNR Consulting Services",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-mnr-consulting-services-4306005878?position=3&pageNum=0&refId=79%2BjbqXvqd2RrmPDzCaRiw%3D%3D&trackingId=0XsmvvBDJGlxwGC2DOAUxg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 06:56:55",
+        "email_sent": false
+    },
+    {
+        "title": "Detections Engineer",
+        "company": "Shift5",
+        "location": "Arlington, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/detections-engineer-at-shift5-4306879262?position=8&pageNum=0&refId=79%2BjbqXvqd2RrmPDzCaRiw%3D%3D&trackingId=ZpjhaptflYpJsrI566LdFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 06:56:55",
         "email_sent": false
     }
 ]
