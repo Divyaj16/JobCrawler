@@ -1,75 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "TetraScience",
-        "location": "United States",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tetrascience-4306042628?position=1&pageNum=0&refId=gEGyZ%2BpcVk7sLzljzXUtGA%3D%3D&trackingId=V3LdExTw59SL7AXUgwqNLA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:50:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "eHealth, Inc.",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ehealth-inc-4304775823?position=3&pageNum=0&refId=gEGyZ%2BpcVk7sLzljzXUtGA%3D%3D&trackingId=T2waaqYTM%2FzmUfLdO5eGnA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:50:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Sr.",
-        "company": "CoreWeave",
-        "location": "United States",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-coreweave-4306062176?position=8&pageNum=0&refId=gEGyZ%2BpcVk7sLzljzXUtGA%3D%3D&trackingId=grTuqILS46iJkBViR0uejw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:50:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "J5 Consulting",
-        "location": "McLean, VA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-j5-consulting-4305009665?position=12&pageNum=0&refId=gEGyZ%2BpcVk7sLzljzXUtGA%3D%3D&trackingId=F0KjOUzeAggZzqQ7GuAIoQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:50:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, Agentic AI",
-        "company": "T-Mobile",
-        "location": "Bellevue, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-agentic-ai-at-t-mobile-4306043469?position=22&pageNum=0&refId=gEGyZ%2BpcVk7sLzljzXUtGA%3D%3D&trackingId=okTRUoVYnHHs1g6qKSSTOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:50:45",
-        "email_sent": false
-    },
-    {
-        "title": "Business Analyst (Intelligence)",
-        "company": "Johnson & Johnson",
-        "location": "United States",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/business-analyst-intelligence-at-johnson-johnson-4306042620?position=25&pageNum=0&refId=gEGyZ%2BpcVk7sLzljzXUtGA%3D%3D&trackingId=RSrMelusBY65jVbK%2BZkS2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:50:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist II",
-        "company": "Veracyte, Inc.",
-        "location": "United States",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-veracyte-inc-4306043623?position=29&pageNum=0&refId=gEGyZ%2BpcVk7sLzljzXUtGA%3D%3D&trackingId=r9f2DW9HC%2BugAhBQNzXtsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 15:50:45",
-        "email_sent": false
-    },
-    {
         "title": "Junior Software Engineer - AI Platform",
         "company": "Hunter by HiringAgents.ai",
         "location": "San Francisco, CA",
@@ -217,6 +147,46 @@
         "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-becu-4307115261?position=16&pageNum=0&refId=x0UziA2DQItkZasGo2aPIA%3D%3D&trackingId=IRTOp2yAuOIa0Q4p499evA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-27 16:44:52",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer, Sr.",
+        "company": "Waymo",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-sr-at-waymo-4306061291?position=6&pageNum=0&refId=zZ0LkVB6CQ1Jzrq5rzOsMQ%3D%3D&trackingId=HjCOI7R3WlOyF959COBE0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 16:58:11",
+        "email_sent": false
+    },
+    {
+        "title": "Automation Control Engineer",
+        "company": "SMi Engineering",
+        "location": "Greater Chicago Area",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/automation-control-engineer-at-smi-engineering-4305022390?position=11&pageNum=0&refId=zZ0LkVB6CQ1Jzrq5rzOsMQ%3D%3D&trackingId=0nKQIJoCbqL5ScQoblFjEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 16:58:11",
+        "email_sent": false
+    },
+    {
+        "title": "Intelligence Analyst",
+        "company": "City of New York",
+        "location": "Manhattan, NY",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/intelligence-analyst-at-city-of-new-york-4305009776?position=13&pageNum=0&refId=zZ0LkVB6CQ1Jzrq5rzOsMQ%3D%3D&trackingId=6LYT5CK9XEGnFusjeC19Ww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 16:58:11",
+        "email_sent": false
+    },
+    {
+        "title": "Mechanical Engineer",
+        "company": "NPAworldwide",
+        "location": "Tulsa, OK",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-at-npaworldwide-4304395069?position=20&pageNum=0&refId=zZ0LkVB6CQ1Jzrq5rzOsMQ%3D%3D&trackingId=sxvB%2Bsok0guy93rkCTow2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 16:58:11",
         "email_sent": false
     }
 ]
