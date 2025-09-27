@@ -1,85 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "Omaha, NE",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4306044611?position=2&pageNum=0&refId=x0UziA2DQItkZasGo2aPIA%3D%3D&trackingId=JXR8DQOJq2Fq%2FbQoyVyyEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 16:44:52",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4306046602?position=3&pageNum=0&refId=x0UziA2DQItkZasGo2aPIA%3D%3D&trackingId=tuQEt6buCTNZMYPmAM2B0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 16:44:52",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "SNP Impact",
-        "location": "Jacksonville, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-snp-impact-4306893918?position=4&pageNum=0&refId=x0UziA2DQItkZasGo2aPIA%3D%3D&trackingId=ww4CZA8h6K4HWqJo2p7dJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 16:44:52",
-        "email_sent": false
-    },
-    {
-        "title": "Boeing, Systems Safety & Software Safety Engineer (Entry Level, Associate, or Mid-Level) - Application via WayUp",
-        "company": "WayUp",
-        "location": "Hazelwood, MO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/boeing-systems-safety-software-safety-engineer-entry-level-associate-or-mid-level-application-via-wayup-at-wayup-4296600149?position=11&pageNum=0&refId=x0UziA2DQItkZasGo2aPIA%3D%3D&trackingId=MfT6gmbR6JsgB6RbXKqK2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 16:44:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Data Annotation Specialist \u2013 Global Freelance Role, Flexible Hours",
-        "company": "TELUS Digital",
-        "location": "Ohio, United States",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-data-annotation-specialist-%E2%80%93-global-freelance-role-flexible-hours-at-telus-digital-4307105913?position=12&pageNum=0&refId=x0UziA2DQItkZasGo2aPIA%3D%3D&trackingId=RaBi1zILXGwPLEIiFM5Y2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 16:44:52",
-        "email_sent": false
-    },
-    {
-        "title": "Boeing, Systems Safety & Software Safety Engineer (Entry Level, Associate, or Mid-Level) - Application via WayUp",
-        "company": "WayUp",
-        "location": "Berkeley, MO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/boeing-systems-safety-software-safety-engineer-entry-level-associate-or-mid-level-application-via-wayup-at-wayup-4296498384?position=13&pageNum=0&refId=x0UziA2DQItkZasGo2aPIA%3D%3D&trackingId=lQJS1Lzt326dTwsb3H4Lbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 16:44:52",
-        "email_sent": false
-    },
-    {
-        "title": "AI Data Annotation Specialist \u2013 Global Freelance Role, Flexible Hours",
-        "company": "TELUS Digital",
-        "location": "Pennsylvania, United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-data-annotation-specialist-%E2%80%93-global-freelance-role-flexible-hours-at-telus-digital-4307110677?position=15&pageNum=0&refId=x0UziA2DQItkZasGo2aPIA%3D%3D&trackingId=G9NMoLCYzhItscYmqZQvpw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 16:44:52",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, Sr.",
-        "company": "BECU",
-        "location": "United States",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-becu-4307115261?position=16&pageNum=0&refId=x0UziA2DQItkZasGo2aPIA%3D%3D&trackingId=IRTOp2yAuOIa0Q4p499evA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 16:44:52",
-        "email_sent": false
-    },
-    {
         "title": "Machine Learning Engineer, Sr.",
         "company": "Waymo",
         "location": "United States",
@@ -157,6 +77,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-privacy-at-gusto-4307113380?position=2&pageNum=0&refId=7imJnXOaQQoslXA3pRXsZw%3D%3D&trackingId=0mz0wjbelwSGNOK1f2jB2Q%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-27 17:42:10",
+        "email_sent": false
+    },
+    {
+        "title": "Associate, Software Engineer (Tulsa, OK)",
+        "company": "L3Harris Technologies",
+        "location": "Tulsa, OK",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-tulsa-ok-at-l3harris-technologies-4306044923?position=5&pageNum=0&refId=5aqFR%2FqObA5GsGZqOvocUw%3D%3D&trackingId=6hovqZKUk%2FzbB0yNA6j0tQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 17:51:15",
         "email_sent": false
     }
 ]
