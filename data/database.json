@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "CBRE",
-        "location": "Redmond, WA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-cbre-4307116444?position=1&pageNum=0&refId=iNaXIH7ad2lCsQQg0tFrwA%3D%3D&trackingId=CAWFo6AQx3VeRsCitLkgyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 17:31:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Manager (UI)",
-        "company": "Red Hat",
-        "location": "United States",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-manager-ui-at-red-hat-4307111517?position=3&pageNum=0&refId=iNaXIH7ad2lCsQQg0tFrwA%3D%3D&trackingId=3IJ%2FX9Fk1rk77R6v3qFnRA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 17:31:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Privacy)",
-        "company": "Gusto",
-        "location": "United States",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-privacy-at-gusto-4307113380?position=2&pageNum=0&refId=7imJnXOaQQoslXA3pRXsZw%3D%3D&trackingId=0mz0wjbelwSGNOK1f2jB2Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 17:42:10",
-        "email_sent": false
-    },
-    {
         "title": "Associate, Software Engineer (Tulsa, OK)",
         "company": "L3Harris Technologies",
         "location": "Tulsa, OK",
@@ -77,6 +47,56 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-1-with-aws-python-chicago-il-or-reston-va-at-comcast-4306063427?position=3&pageNum=0&refId=hRBXC0jsBljRGRKw8TyXOg%3D%3D&trackingId=jg5LF6n8ZHZBEg70vi20Jg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-27 18:29:29",
+        "email_sent": false
+    },
+    {
+        "title": "Azure Data Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-hirenza-4307129077?position=1&pageNum=0&refId=HfWm9SNVLkPLevZOrvz3Tg%3D%3D&trackingId=hbh%2BpYUijHELYQYsn8Wj%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 18:46:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Digital Investment Group",
+        "location": "United States",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-digital-investment-group-4307119415?position=2&pageNum=0&refId=HfWm9SNVLkPLevZOrvz3Tg%3D%3D&trackingId=U7y9177P5mXdnmX70AVmOA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 18:46:13",
+        "email_sent": false
+    },
+    {
+        "title": "IT Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/it-software-engineer-at-hirenza-4307121390?position=6&pageNum=0&refId=HfWm9SNVLkPLevZOrvz3Tg%3D%3D&trackingId=N5gG2A3NbiWP48%2FIy%2B13%2FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 18:46:13",
+        "email_sent": false
+    },
+    {
+        "title": "Client Insights Analyst",
+        "company": "AffirmedRx, a Public Benefit Corporation",
+        "location": "Louisville, KY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/client-insights-analyst-at-affirmedrx-a-public-benefit-corporation-4307110722?position=9&pageNum=0&refId=HfWm9SNVLkPLevZOrvz3Tg%3D%3D&trackingId=aOptC2%2BB8p3A862b5BSczQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 18:46:13",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Java Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-java-software-engineer-at-hirenza-4307117495?position=10&pageNum=0&refId=HfWm9SNVLkPLevZOrvz3Tg%3D%3D&trackingId=IyXnwmyYTCUZdwobs0NzBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 18:46:13",
         "email_sent": false
     }
 ]
