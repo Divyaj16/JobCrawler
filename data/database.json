@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "CBRE",
-        "location": "Redmond, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-cbre-4307116444?position=4&pageNum=0&refId=crXuPL%2BSyzgHOSPT26zO1g%3D%3D&trackingId=RIHzVW3tdn%2BV4efUVRjM8w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 18:58:03",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Privacy)",
-        "company": "Gusto",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-privacy-at-gusto-4307113380?position=5&pageNum=0&refId=crXuPL%2BSyzgHOSPT26zO1g%3D%3D&trackingId=ONzzRMDPE%2FboOCPUOGVt7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 18:58:03",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Manager (UI)",
-        "company": "Red Hat",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-manager-ui-at-red-hat-4307111517?position=7&pageNum=0&refId=crXuPL%2BSyzgHOSPT26zO1g%3D%3D&trackingId=P5OdBd6rCg%2F05xLjnqXkBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-27 18:58:03",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer, Backend",
         "company": "Robinhood",
         "location": "Menlo Park, CA",
@@ -487,6 +457,56 @@
         "url": "https://www.linkedin.com/jobs/view/hybrid-w2-only-data-scientist-associate-fraud-strategy-san-jose-ca-6-12-months-contract-at-js-consulting-4307121603?position=41&pageNum=0&refId=sZnjhHWjmyojMDVjK7t4rQ%3D%3D&trackingId=3IhfFDPzJm5j5y6rBhgvSQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-27 19:49:38",
+        "email_sent": false
+    },
+    {
+        "title": "Azure Data Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "51 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-hirenza-4307129077?position=4&pageNum=0&refId=JpfrtQBYnSLn9YGQXWE7Vg%3D%3D&trackingId=t2FLpZhf2l%2FJmVLK2E5z7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 19:59:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Atlantic Medical Management, LLC",
+        "location": "Jacksonville, NC",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atlantic-medical-management-llc-4307131289?position=7&pageNum=0&refId=JpfrtQBYnSLn9YGQXWE7Vg%3D%3D&trackingId=j2Skxn7IOtnVUpcZfCCKRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 19:59:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Quality Engineer - Microsoft PowerBI",
+        "company": "Inherent Technologies",
+        "location": "Bolingbrook, IL",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-quality-engineer-microsoft-powerbi-at-inherent-technologies-4307119696?position=11&pageNum=0&refId=JpfrtQBYnSLn9YGQXWE7Vg%3D%3D&trackingId=tQLf0ZfA2s%2B%2FRO%2FAiHI%2F0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 19:59:21",
+        "email_sent": false
+    },
+    {
+        "title": "IT Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "51 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/it-software-engineer-at-hirenza-4307121390?position=16&pageNum=0&refId=JpfrtQBYnSLn9YGQXWE7Vg%3D%3D&trackingId=E%2BFOW2UgFZCRJi%2FohZU39Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 19:59:21",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Java Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "51 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-java-software-engineer-at-hirenza-4307117495?position=21&pageNum=0&refId=JpfrtQBYnSLn9YGQXWE7Vg%3D%3D&trackingId=b1SO8IwxV7j7RgQ6gGVHoQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-27 19:59:21",
         "email_sent": false
     }
 ]
