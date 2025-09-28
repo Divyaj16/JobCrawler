@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "HirePower Staffing Solution",
-        "location": "Chicago, IL",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirepower-staffing-solution-4305083270?position=2&pageNum=0&refId=fSPrgHK%2BA5dEuQQZZFXTYA%3D%3D&trackingId=7LItdbzesUouL6Sl7rY80Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-28 15:24:15",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer, Blockchain Platform (Blockchain Enablement)",
         "company": "Coinbase",
         "location": "United States",
@@ -247,6 +237,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-quality-assurance-engineer-at-foxconn-industrial-internet-usa-4307824347?position=10&pageNum=0&refId=CPcjsO9RcplVClvXK8GKdg%3D%3D&trackingId=B6oCWjla0rPb8vR515zKtA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-28 16:21:32",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Chimera Rocket Labs",
+        "location": "United States",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-chimera-rocket-labs-4306306526?position=11&pageNum=0&refId=7sB5kK7ziUhlR0Gm8W3hIw%3D%3D&trackingId=PLt8odICT%2BvM8crWM5teVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-28 16:37:21",
         "email_sent": false
     }
 ]
