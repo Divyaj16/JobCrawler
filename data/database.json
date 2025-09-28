@@ -1,125 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4307159877?position=2&pageNum=0&refId=sxHErsaMdKloM5N9%2BcBbfw%3D%3D&trackingId=nmmm7FMB8%2BUibvPD1CP0GA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-28 10:57:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Healthcare)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-at-wiraa-4307170484?position=3&pageNum=0&refId=sxHErsaMdKloM5N9%2BcBbfw%3D%3D&trackingId=pZASDz2pAdJKVz2ICjj2eg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-28 10:57:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4307162681?position=7&pageNum=0&refId=sxHErsaMdKloM5N9%2BcBbfw%3D%3D&trackingId=o5D8TLl0dJjcrldLSZvBXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-28 10:57:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Data",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-at-wiraa-4307166574?position=9&pageNum=0&refId=sxHErsaMdKloM5N9%2BcBbfw%3D%3D&trackingId=zaaFr6XfEA29rTlz%2FOIcQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-28 10:57:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (AI/ML)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-wiraa-4307167567?position=11&pageNum=0&refId=sxHErsaMdKloM5N9%2BcBbfw%3D%3D&trackingId=VuFQBbakJbqYjrYDwvZF4Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-28 10:57:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "CIS Labs",
-        "location": "Los Angeles, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-cis-labs-4306309074?position=13&pageNum=0&refId=sxHErsaMdKloM5N9%2BcBbfw%3D%3D&trackingId=A%2BqpYTVYBRDAosQNHeAQaA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-28 10:57:59",
-        "email_sent": false
-    },
-    {
-        "title": "Quantitative Developer - AI Implementation",
-        "company": "WorldQuant",
-        "location": "San Francisco, CA",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-developer-ai-implementation-at-worldquant-4249639455?position=14&pageNum=0&refId=sxHErsaMdKloM5N9%2BcBbfw%3D%3D&trackingId=CoAGWburI3V%2BZfGn3A9p9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-28 10:57:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-wiraa-4307157942?position=18&pageNum=0&refId=sxHErsaMdKloM5N9%2BcBbfw%3D%3D&trackingId=gl7vWZgKk%2BtQt3bWmVKudw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-28 10:57:59",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Engineer (C++, API)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-c%2B%2B-api-at-wiraa-4307175302?position=28&pageNum=0&refId=sxHErsaMdKloM5N9%2BcBbfw%3D%3D&trackingId=bTzlAlh1kNTJZ1NekmyVBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-28 10:57:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (C++, Linux)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-linux-at-wiraa-4307170485?position=30&pageNum=0&refId=sxHErsaMdKloM5N9%2BcBbfw%3D%3D&trackingId=MPOvOrMilUtixUBm0F41CA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-28 10:57:59",
-        "email_sent": false
-    },
-    {
-        "title": "Controls Software Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/controls-software-engineer-sr-at-wiraa-4307161750?position=34&pageNum=0&refId=sxHErsaMdKloM5N9%2BcBbfw%3D%3D&trackingId=%2BIKzvR9kjlTVtXNln0oJXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-28 10:57:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-wiraa-4307172450?position=35&pageNum=0&refId=sxHErsaMdKloM5N9%2BcBbfw%3D%3D&trackingId=xcVXRw52w1Dak2DEGugqLw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-28 10:57:59",
-        "email_sent": false
-    },
-    {
         "title": "Quantitative Developer - AI Implementation",
         "company": "WorldQuant",
         "location": "West Palm Beach, FL",
@@ -257,6 +137,26 @@
         "url": "https://www.linkedin.com/jobs/view/robotics-hardware-engineer-at-orchard-4237832742?position=15&pageNum=0&refId=%2BIS9hhsxTFhV4MWeBmUQiw%3D%3D&trackingId=0m1ScZCXFUP5rNY9%2FIajQQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-28 11:50:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - All Levels",
+        "company": "GlossGenius",
+        "location": "San Francisco, CA",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-glossgenius-4286968047?position=11&pageNum=0&refId=ZHpVBiOqoOBGr8QUjJ7THg%3D%3D&trackingId=pLcAH0eT45q7Vh321s6mQQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-28 11:59:12",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - All Levels",
+        "company": "GlossGenius",
+        "location": "New York, NY",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-glossgenius-4286961888?position=18&pageNum=0&refId=ZHpVBiOqoOBGr8QUjJ7THg%3D%3D&trackingId=xalcETdUhpPpIxLZbNPXpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-28 11:59:12",
         "email_sent": false
     }
 ]
