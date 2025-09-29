@@ -1,135 +1,5 @@
 [
     {
-        "title": "Analytics Engineer",
-        "company": "GEICO",
-        "location": "Chicago, IL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-geico-4306635714?position=2&pageNum=0&refId=TKXsp6CaNzwEMIU81grw3w%3D%3D&trackingId=143BgtGMn7aIBUB2790ssA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 20:01:31",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer - C1 Gov",
-        "company": "C1",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-c1-gov-at-c1-4308065819?position=8&pageNum=0&refId=TKXsp6CaNzwEMIU81grw3w%3D%3D&trackingId=FMzq46a8TXhYf15pobeaPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 20:01:31",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Alfa Wave Agency",
-        "location": "Boston, MA",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-alfa-wave-agency-4308096257?position=10&pageNum=0&refId=TKXsp6CaNzwEMIU81grw3w%3D%3D&trackingId=9%2B4zEqrropHpHtfR%2FG1%2BBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 20:01:31",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Margaritaville at Sea",
-        "location": "Orlando, FL",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-margaritaville-at-sea-4308093386?position=13&pageNum=0&refId=TKXsp6CaNzwEMIU81grw3w%3D%3D&trackingId=4fXFpmhUzkUxv75mqlqrRg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 20:01:31",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, Golang)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "54 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-golang-at-wiraa-4307895369?position=18&pageNum=0&refId=TKXsp6CaNzwEMIU81grw3w%3D%3D&trackingId=lUZP3e8jQVh9qy0TKtBoHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 20:01:31",
-        "email_sent": false
-    },
-    {
-        "title": "SQL Database Analyst",
-        "company": "Robert Half",
-        "location": "Parsippany, NJ",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sql-database-analyst-at-robert-half-4294809663?position=19&pageNum=0&refId=TKXsp6CaNzwEMIU81grw3w%3D%3D&trackingId=aNHRzZG0O662OCPaZI2mcA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 20:01:31",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "HirePower Staffing Solution",
-        "location": "Florida, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirepower-staffing-solution-4305385540?position=28&pageNum=0&refId=TKXsp6CaNzwEMIU81grw3w%3D%3D&trackingId=EzIazJkYI1XJTdohD%2BO4Nw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 20:01:31",
-        "email_sent": false
-    },
-    {
-        "title": "CRM Data Analyst",
-        "company": "LS Power",
-        "location": "Oakland, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/crm-data-analyst-at-ls-power-4305378595?position=41&pageNum=0&refId=TKXsp6CaNzwEMIU81grw3w%3D%3D&trackingId=xtzmylCtF8Hx2tmLUF%2FJiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 20:01:31",
-        "email_sent": false
-    },
-    {
-        "title": "IT Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/it-software-engineer-at-hirenza-4308070701?position=47&pageNum=0&refId=TKXsp6CaNzwEMIU81grw3w%3D%3D&trackingId=jgEHNXDBZmdyOKX7jMHdBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 20:01:31",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (UX, Platform)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "54 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ux-platform-at-wiraa-4307884500?position=54&pageNum=0&refId=TKXsp6CaNzwEMIU81grw3w%3D%3D&trackingId=y9Q4pHwdYgTIF83m8JHr7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 20:01:31",
-        "email_sent": false
-    },
-    {
-        "title": "Laboratory Data Analyst-Laboratory Express",
-        "company": "Laboratory Express",
-        "location": "Birmingham, AL",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/laboratory-data-analyst-laboratory-express-at-laboratory-express-4308081569?position=58&pageNum=0&refId=TKXsp6CaNzwEMIU81grw3w%3D%3D&trackingId=MDe78oLO33Tpxu8AIrgjgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 20:01:31",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Remote",
-        "company": "Talentify.io",
-        "location": "United States",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-remote-at-talentify-io-4306651600?position=59&pageNum=0&refId=TKXsp6CaNzwEMIU81grw3w%3D%3D&trackingId=FJl1H5covmHDvL9oHKdxeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 20:01:31",
-        "email_sent": false
-    },
-    {
-        "title": "Full Stack Developer",
-        "company": "Two Six Technologies",
-        "location": "Arlington, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-developer-at-two-six-technologies-4308061895?position=60&pageNum=0&refId=TKXsp6CaNzwEMIU81grw3w%3D%3D&trackingId=FAQrRHgeIFjXGieTBnADgg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 20:01:31",
-        "email_sent": false
-    },
-    {
         "title": "ASSOCIATE DATA ENGINEER",
         "company": "TriHealth",
         "location": "Cincinnati, OH",
@@ -817,6 +687,526 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-general-motors-4307888410?position=10&pageNum=2&refId=M%2BXty4qs9rJnguZxeGRKRg%3D%3D&trackingId=h5wVnCmOvpH84YWNDQ%2Fy5w%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-29 21:01:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Kforce Inc",
+        "location": "Smithfield, RI",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4308080880?position=1&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=xinseF0QoaDW60WGqZ1GBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Data Layer Developer",
+        "company": "Kforce Inc",
+        "location": "Tampa, FL",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-layer-developer-at-kforce-inc-4308085789?position=5&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=e%2B7%2FSbbHczF%2BP8kWNA7rww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "Kforce Inc",
+        "location": "Charlotte, NC",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-kforce-inc-4308084804?position=8&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=93bxhuGXfWhE9DnSLnVvQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "INSPYR Solutions",
+        "location": "Menlo Park, CA",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-inspyr-solutions-4308101052?position=12&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=jTRzpVduGzqfiinUmSB4cQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Kforce Inc",
+        "location": "Mountain View, CA",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-kforce-inc-4308091677?position=21&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=S5lpXJGjQRXcSIhAaTR%2FxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "Indotronix Avani Group",
+        "location": "Indianapolis, IN",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-indotronix-avani-group-4308095812?position=23&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=VeeEj%2FvmrzJf3XaKwJHbHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist Level 3",
+        "company": "Kforce Inc",
+        "location": "Columbus, OH",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-level-3-at-kforce-inc-4308081813?position=24&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=Xg2Hmf68VxErSQvM9pobLg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Scientist",
+        "company": "CoventBridge Group",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-coventbridge-group-4305802237?position=25&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=e0LHVm8kKkqhDuSYt7mMzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Noyes Lab Data Scientist I",
+        "company": "University of Pittsburgh",
+        "location": "Pittsburgh, PA",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/noyes-lab-data-scientist-i-at-university-of-pittsburgh-4305392813?position=26&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=fTWMrFiiQZlhY3o9AkoKDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Revere, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306668044?position=27&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=Pt9VqC1tuC7d8d%2FR8RVrPg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Weymouth, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306662175?position=28&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=tzmD2jMa2XukBYHlW8id%2FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Power System Operations Engineer I",
+        "company": "Midcontinent Independent System Operator (MISO)",
+        "location": "Little Rock, AR",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/power-system-operations-engineer-i-at-midcontinent-independent-system-operator-miso-4305394710?position=29&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=alLQvPNv2JEISQykGhzZ1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Methuen, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306657579?position=30&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=YQLB9FsUg7P3RY%2BGdeqvaQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Arlington, MA",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306667083?position=31&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=sxXm%2FJVYr7UcNoy3HfZ8JQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Medford, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306663088?position=32&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=4HLS361qH3%2BYMS9HgVml0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Brookline, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306655760?position=33&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=g4fBJEJUuGxtxOL9vrVuww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Leominster, MA",
+        "date_posted": "57 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306648995?position=34&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=HHcmFfEoml9ByNXVDWRRdg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Peabody, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306658359?position=35&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=PrLADsslK51eWS6t3AsdIg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Taunton, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306665075?position=36&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=naVq%2FhtOncmBp%2Fi0OQlpZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Everett, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306666095?position=37&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=pMFmzIkTemIZexcIQV6tnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Text AI 4653",
+        "company": "Tier4 Group",
+        "location": "United States",
+        "date_posted": "51 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-text-ai-4653-at-tier4-group-4305396484?position=38&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=mBV5MDki5hPV4YsSXgej%2Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Salem, MA",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306665114?position=39&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=ck5usBdZcQRFrPAOjNkQ1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Pittsfield, MA",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306649967?position=40&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=GPRJOdfcWlZbXmFq3rvCTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Chicopee, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306666084?position=41&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=9J13jxxUBgpimmQ05Mg%2FiA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Attleboro, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306652821?position=42&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=z5V7q1fcxbAoS7HHr%2Baeew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Plymouth, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306660204?position=43&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=vge455iFF1tygb3GQN%2FDIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Barnstable County, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306670051?position=44&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=yl%2BZ5oETCZIoFhpNLWNS9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Graduate Software Engineer with Security Clearance",
+        "company": "ClearanceJobs",
+        "location": "San Francisco, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/graduate-software-engineer-with-security-clearance-at-clearancejobs-4305390917?position=45&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=nW5TWQ8rjlh9gQGkzZmMVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Traffic Engineer (PE License)",
+        "company": "J.S. Held LLC",
+        "location": "Vancouver, WA",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/traffic-engineer-pe-license-at-j-s-held-llc-4305810352?position=46&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=fKGTAhl8vzMjEB51OiK5kg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Traffic Engineer (PE License)",
+        "company": "J.S. Held LLC",
+        "location": "Los Angeles, CA",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/traffic-engineer-pe-license-at-j-s-held-llc-4305393589?position=47&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=QHI26QLSoR85nxD5Xl59TQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Program Analyst",
+        "company": "DC Department of Human Resources",
+        "location": "Washington, DC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/program-analyst-at-dc-department-of-human-resources-4308084558?position=48&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=YqcsUUJz3jWqCNmHAE%2Bvpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Data Governance Analyst, Insurance - Remote",
+        "company": "RGP",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-governance-analyst-insurance-remote-at-rgp-4305806181?position=49&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=ihMi8CygiM1f%2BdaesWRoXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Mission Systems Engineer, Networking",
+        "company": "Anduril Industries",
+        "location": "Seattle, WA",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mission-systems-engineer-networking-at-anduril-industries-4305807462?position=50&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=HnyHxgym2SHTQ5ao07ibaw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Mission Systems Engineer, Networking",
+        "company": "Anduril Industries",
+        "location": "Washington, DC",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mission-systems-engineer-networking-at-anduril-industries-4305399551?position=51&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=z5Xu%2BaGNBOaihXANc9iiyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Operating Engineer (Day Shift)",
+        "company": "JLL",
+        "location": "Mesa, AZ",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-center-operating-engineer-day-shift-at-jll-4305806480?position=52&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=bxY3alZ856QtpDyobtsW1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (Jersey City)",
+        "company": "Experis",
+        "location": "Jersey City, NJ",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-jersey-city-at-experis-4306671030?position=53&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=RRNXQyoEKpHDIFiaDjzmWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Operating Engineer (Day Shift)",
+        "company": "JLL",
+        "location": "Atlanta, GA",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-center-operating-engineer-day-shift-at-jll-4305812293?position=54&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=7m9CvHc7JzvJjQScbUy70g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Secret) {S} with Security Clearance",
+        "company": "ClearanceJobs",
+        "location": "Colorado Springs, CO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-secret-s-with-security-clearance-at-clearancejobs-4305395355?position=55&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=BI60BFby8fJ3DVV2%2BVJIyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Epic Caboodle Support Analyst",
+        "company": "Engage Partners Inc.",
+        "location": "Florida, United States",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/epic-caboodle-support-analyst-at-engage-partners-inc-4295023952?position=56&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=ydSQyoo2PzxBkLVRyRVymA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Operating Engineer (Night Shift)",
+        "company": "JLL",
+        "location": "Mesa, AZ",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-center-operating-engineer-night-shift-at-jll-4305810495?position=57&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=pw8Tuv3yX4Of3m9n%2BvyAHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Client Setup Analyst",
+        "company": "UST HealthProof",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/client-setup-analyst-at-ust-healthproof-4305398289?position=58&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=vieXtqsEaVIyXjVDHMLohQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Quantitative Researcher",
+        "company": "BlueWalker Capital",
+        "location": "San Francisco Bay Area",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-at-bluewalker-capital-4305800391?position=59&pageNum=0&refId=rMakwGK3OSpYKcllToJ8cg%3D%3D&trackingId=adMvjShZilSZAXnKRopxFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist Level 3",
+        "company": "Kforce Inc",
+        "location": "Columbus, OH",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-level-3-at-kforce-inc-4308081813?position=1&pageNum=2&refId=r51ArK3h9Ac9CDoR2wiqag%3D%3D&trackingId=MyJoZzoDtU5JjKthlpkKyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Scientist",
+        "company": "CoventBridge Group",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-coventbridge-group-4305802237?position=2&pageNum=2&refId=r51ArK3h9Ac9CDoR2wiqag%3D%3D&trackingId=KwVIUrz6s1f4MmPs0lIoLw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Noyes Lab Data Scientist I",
+        "company": "University of Pittsburgh",
+        "location": "Pittsburgh, PA",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/noyes-lab-data-scientist-i-at-university-of-pittsburgh-4305392813?position=3&pageNum=2&refId=r51ArK3h9Ac9CDoR2wiqag%3D%3D&trackingId=D09L9zMd7P%2FF9FCGVRWATg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Revere, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306668044?position=4&pageNum=2&refId=r51ArK3h9Ac9CDoR2wiqag%3D%3D&trackingId=f2N4%2FoOxjayo2mAkcjMg6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Weymouth, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306662175?position=5&pageNum=2&refId=r51ArK3h9Ac9CDoR2wiqag%3D%3D&trackingId=yBv3bGDFPTPocMsuBRpYkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Power System Operations Engineer I",
+        "company": "Midcontinent Independent System Operator (MISO)",
+        "location": "Little Rock, AR",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/power-system-operations-engineer-i-at-midcontinent-independent-system-operator-miso-4305394710?position=6&pageNum=2&refId=r51ArK3h9Ac9CDoR2wiqag%3D%3D&trackingId=jcPR2JJ4yekkSj8MdoG99Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Methuen, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306657579?position=7&pageNum=2&refId=r51ArK3h9Ac9CDoR2wiqag%3D%3D&trackingId=61w1E58oWMZ87suFQ0toXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Arlington, MA",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306667083?position=8&pageNum=2&refId=r51ArK3h9Ac9CDoR2wiqag%3D%3D&trackingId=RBeCZRakGh8zHDORNpDDrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Medford, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306663088?position=9&pageNum=2&refId=r51ArK3h9Ac9CDoR2wiqag%3D%3D&trackingId=4Vud3sB%2F%2Fa4HaALdBkqP9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Brookline, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4306655760?position=10&pageNum=2&refId=r51ArK3h9Ac9CDoR2wiqag%3D%3D&trackingId=YQ7kp1dxUT6UK0A%2FqC4gTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 21:20:29",
         "email_sent": false
     }
 ]
