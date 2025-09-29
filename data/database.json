@@ -1,185 +1,5 @@
 [
     {
-        "title": "Software Engineer (Python, Golang)",
-        "company": "OpenAI",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-golang-at-openai-4307895369?position=2&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=PqcXq7fxIz6QjMk3KlH7JA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4307890427?position=3&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=5Zsn9a4O8XxXbT9oJKOcKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4307878579?position=4&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=jDZtdApLaSbTprHXfl4vjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4307886529?position=5&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=1tsZaSaVf%2FW6vWiX4eS%2FwA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Testing Data Engineer, Remote EST",
-        "company": "Open Systems Technologies",
-        "location": "Philadelphia, PA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/testing-data-engineer-remote-est-at-open-systems-technologies-4117069187?position=7&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=ISygVhCUYYkujoAb5H6KKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Engineer (API, SQL)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-api-sql-at-wiraa-4307881527?position=8&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=30quxTo2wEVnHWKVjLBoYA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (UX, Platform)",
-        "company": "Airbnb",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ux-platform-at-airbnb-4307884500?position=10&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=%2BrdiYqIcW3CLc7Ln58I%2FMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Full Stack",
-        "company": "OpenAI",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-openai-4307880547?position=12&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=ALjG3zR0GeJ8%2FGK0cvYwTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Insight Global",
-        "location": "New York, NY",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-insight-global-4306628449?position=16&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=OS8ysig0wuxFROtnTMdKeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Sr.",
-        "company": "General Motors",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-general-motors-4307888410?position=17&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=aiQnaDdPrdgHsQjaxkWxsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "TalentAlly",
-        "location": "Columbus, Ohio Metropolitan Area",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-talentally-4308050022?position=23&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=v4dZNrPoEk3nQG0tz5iSwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Basketball Data Scientist",
-        "company": "Sacramento Kings",
-        "location": "Sacramento, CA",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-basketball-data-scientist-at-sacramento-kings-4301409231?position=30&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=Fz3YaeAy0RJPwUJfumjGCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, API)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-api-at-wiraa-4307890426?position=36&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=Y%2FE0wkob48qJGKYANFapJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, Sr.",
-        "company": "The Walt Disney Company",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-the-walt-disney-company-4307893365?position=37&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=rr%2BSREyHw7CIY2HHnHqkVw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Cloud IAM Technician \u2013 GCP",
-        "company": "TechDemocracy",
-        "location": "United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/cloud-iam-technician-%E2%80%93-gcp-at-techdemocracy-4306624613?position=38&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=P3KWxR1T7JUF2pAiRp%2BNkQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "KellyMitchell Group",
-        "location": "Irving, TX",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-kellymitchell-group-4305087910?position=44&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=qhO8W0DvwlAibh7%2BQ%2B9vMg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Crunchbase",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-crunchbase-4307899293?position=59&pageNum=0&refId=IeXvRQBsZ2WoHsVjtrsXmA%3D%3D&trackingId=gXGHjFS%2B6CAt1BjWlVtalg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Basketball Data Scientist",
-        "company": "Sacramento Kings",
-        "location": "Sacramento, CA",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-basketball-data-scientist-at-sacramento-kings-4301409231?position=5&pageNum=2&refId=AI%2F5z4vz0UpqSSq9wRQDGQ%3D%3D&trackingId=ixfgP3NRYok%2Bua0Ov8TqgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 15:43:00",
-        "email_sent": false
-    },
-    {
         "title": "Data Visualization Analyst",
         "company": "Oscar",
         "location": "North Richland Hills, TX",
@@ -637,6 +457,256 @@
         "url": "https://www.linkedin.com/jobs/view/data-center-engineer-chicago-aurora-at-huxley-4308052381?position=8&pageNum=2&refId=IxnvB1d8eBtx%2FKcJOkf0xw%3D%3D&trackingId=PDQffla4aymZoTaTuEUWwg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-29 16:36:16",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Brooksource",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-brooksource-4306632273?position=7&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=fx9%2Fq9XhA0XAOSLz2nx%2Bxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Back End Developer",
+        "company": "AppCard, Inc.",
+        "location": "New York, NY",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/back-end-developer-at-appcard-inc-4302375878?position=14&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=9cbLqb2cYYzMgHbQPTFfFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Applied AI (Seattle)",
+        "company": "Evertune AI",
+        "location": "Seattle, WA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-applied-ai-seattle-at-evertune-ai-4285247999?position=16&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=hiqY%2BCJPnQdziPllsT24tQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Analyst, Clinical Informatics",
+        "company": "TalentAlly",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-clinical-informatics-at-talentally-4308063163?position=17&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=UhaDP5jVRn6%2FO%2BGKcZDWEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Systems Engineer",
+        "company": "Akkodis",
+        "location": "Santa Clarita, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-systems-engineer-at-akkodis-4306616723?position=20&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=hDrlzOA39eClFB5dFwJnJQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Microsoft 365 Engineer",
+        "company": "National Association of REALTORS\u00ae",
+        "location": "Chicago, IL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/microsoft-365-engineer-at-national-association-of-realtors%C2%AE-4306297386?position=21&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=APwNEqUGwjMTahoIrT2TZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Analyst, Clinical Informatics",
+        "company": "TalentAlly",
+        "location": "San Antonio, Texas Metropolitan Area",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-clinical-informatics-at-talentally-4308068121?position=22&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=4n%2Fdijf3ZDG%2BVwFpifNbpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Analyst, Clinical Informatics",
+        "company": "TalentAlly",
+        "location": "San Antonio, Texas Metropolitan Area",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-clinical-informatics-at-talentally-4308059189?position=23&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=ntz1%2BuWZlXQfCMyv0a56xQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Analyst, Clinical Informatics",
+        "company": "TalentAlly",
+        "location": "Greater Houston",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-clinical-informatics-at-talentally-4308071033?position=24&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=h%2BEkWljrK5U55pXmpJC3Tg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Analyst, Clinical Informatics",
+        "company": "TalentAlly",
+        "location": "Greater Houston",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-clinical-informatics-at-talentally-4308069078?position=25&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=t3maoI%2BRfqVqpNsJFonRKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Analyst, Clinical Informatics",
+        "company": "TalentAlly",
+        "location": "Greater Phoenix Area",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-clinical-informatics-at-talentally-4308062191?position=28&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=QuS7KqYqeG0kC1oLoDRq3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Compass",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-compass-4305354850?position=29&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=TRy2rqjWIKSbqqVGfr6%2BSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Compass",
+        "location": "Seattle, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-compass-4305367167?position=30&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=XG6IqQ4bHCN4T%2BXw5fLAkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst III",
+        "company": "Intelliswift - An LTTS Company",
+        "location": "Bellevue, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-iii-at-intelliswift-an-ltts-company-4308030778?position=31&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=5pm9KHoMJH5f6QHI9wnCNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "LTIMindtree",
+        "location": "Bellevue, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-ltimindtree-4306616670?position=35&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=6QzmgC7yRZbxAToDz60Fmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Compass",
+        "location": "Boston, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-compass-4305355823?position=36&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=rpx%2Fq8ikra8fX7jzBjJ%2FRA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "HR Data Analyst",
+        "company": "DivIHN Integration Inc",
+        "location": "Huntsville, AL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/hr-data-analyst-at-divihn-integration-inc-4306619597?position=40&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=%2BmiUNZIsunaHusH%2FvOn2AA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "CACI International Inc",
+        "location": "Lisle, IL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-caci-international-inc-4306249634?position=41&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=%2Bp97spmvyqXe8VQs2ikDNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (.NET) with Snowflake or Data Warehouse Experience",
+        "company": "Stratfield Consulting",
+        "location": "Atlanta Metropolitan Area",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-net-with-snowflake-or-data-warehouse-experience-at-stratfield-consulting-4286748353?position=49&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=8XxFX8Jo%2Bqku7WsDSJLYLw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Business Intelligence Analyst",
+        "company": "MBTA",
+        "location": "Boston, MA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-mbta-4302554296?position=50&pageNum=0&refId=i337EcwF%2FkTzypkaMEcZ%2Fw%3D%3D&trackingId=I%2BLWHzhwxTNwph0Z%2FS7tRA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Analyst, Clinical Informatics",
+        "company": "TalentAlly",
+        "location": "Greater Phoenix Area",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-clinical-informatics-at-talentally-4308062191?position=3&pageNum=2&refId=ddCXmOvDTiPftfyhDtbkJg%3D%3D&trackingId=bZ0Dzve5aqLuNLT6YCtUrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Compass",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-compass-4305354850?position=5&pageNum=2&refId=ddCXmOvDTiPftfyhDtbkJg%3D%3D&trackingId=15RChdzzTl4hMtBuWl02GQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Compass",
+        "location": "Seattle, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-compass-4305367167?position=6&pageNum=2&refId=ddCXmOvDTiPftfyhDtbkJg%3D%3D&trackingId=d14UjppBPro7lm%2Bsdfh6%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst III",
+        "company": "Intelliswift - An LTTS Company",
+        "location": "Bellevue, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-iii-at-intelliswift-an-ltts-company-4308030778?position=7&pageNum=2&refId=ddCXmOvDTiPftfyhDtbkJg%3D%3D&trackingId=Nlhzmubo7upUzSXnqNDFEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "LTIMindtree",
+        "location": "Bellevue, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-ltimindtree-4306616670?position=10&pageNum=2&refId=ddCXmOvDTiPftfyhDtbkJg%3D%3D&trackingId=sjV1fhXTxHoceBb7mluFrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 16:48:32",
         "email_sent": false
     }
 ]
