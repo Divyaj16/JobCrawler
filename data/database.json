@@ -1,116 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4307890427?position=3&pageNum=0&refId=QYXXRbkS1v1m3Z3jX8Ltrw%3D%3D&trackingId=diKUniIJAaXHqrrE2BZyAQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 21:01:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer (Direct To Cell)",
-        "company": "SpaceX",
-        "location": "Redmond, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-direct-to-cell-at-spacex-4308086326?position=4&pageNum=0&refId=QYXXRbkS1v1m3Z3jX8Ltrw%3D%3D&trackingId=Uqxt3zugW%2FEdygzoXW27sw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 21:01:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4307878579?position=5&pageNum=0&refId=QYXXRbkS1v1m3Z3jX8Ltrw%3D%3D&trackingId=PQAYwCoIW7HVmx0YowaOog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 21:01:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Datavant",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-datavant-4305812207?position=18&pageNum=0&refId=QYXXRbkS1v1m3Z3jX8Ltrw%3D%3D&trackingId=wfqpwfRVr96P02F21yti3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 21:01:01",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Engineer (API, SQL)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-api-sql-at-wiraa-4307881527?position=25&pageNum=0&refId=QYXXRbkS1v1m3Z3jX8Ltrw%3D%3D&trackingId=9IvAzBPssVw2iqDhdFlmiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 21:01:01",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Mount Indie",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-mount-indie-4305805447?position=32&pageNum=0&refId=QYXXRbkS1v1m3Z3jX8Ltrw%3D%3D&trackingId=J2r%2Bt3mNjEC2V5kOczk5pg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 21:01:01",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Sr.",
-        "company": "General Motors",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-general-motors-4307888410?position=34&pageNum=0&refId=QYXXRbkS1v1m3Z3jX8Ltrw%3D%3D&trackingId=EA3RBy6gLGWLbiviuFMqHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 21:01:01",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, High Performance Computing",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-high-performance-computing-at-spacex-4308085320?position=56&pageNum=0&refId=QYXXRbkS1v1m3Z3jX8Ltrw%3D%3D&trackingId=ETSjrFISNbbMEAcFJA3B7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 21:01:01",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Engineer (API, SQL)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-api-sql-at-wiraa-4307881527?position=1&pageNum=2&refId=M%2BXty4qs9rJnguZxeGRKRg%3D%3D&trackingId=un7ZVXQaphxgHNVy9bSSRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 21:01:01",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Mount Indie",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-mount-indie-4305805447?position=9&pageNum=2&refId=M%2BXty4qs9rJnguZxeGRKRg%3D%3D&trackingId=BwhAAfCjbLbNpgup78je0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 21:01:01",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Sr.",
-        "company": "General Motors",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-general-motors-4307888410?position=10&pageNum=2&refId=M%2BXty4qs9rJnguZxeGRKRg%3D%3D&trackingId=h5wVnCmOvpH84YWNDQ%2Fy5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-09-29 21:01:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Kforce Inc",
         "location": "Smithfield, RI",
         "date_posted": "17 minutes ago",
@@ -857,6 +747,136 @@
         "url": "https://www.linkedin.com/jobs/view/gps-system-engineer-at-cutting-edge-communications-llc-4306650933?position=2&pageNum=2&refId=BymAq2EdgrTE%2BeI5eC9aiw%3D%3D&trackingId=VPut80oCFptNMCykPmEazQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-09-29 21:52:19",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Aditi Consulting",
+        "location": "Bellevue, WA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-aditi-consulting-4294660476?position=5&pageNum=0&refId=Q9TKWAZvj64mnWLTj%2BDPMQ%3D%3D&trackingId=06fjXATfeFeCHmcNg6qyDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 22:02:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "East West Bank",
+        "location": "Pasadena, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-east-west-bank-4305814537?position=11&pageNum=0&refId=Q9TKWAZvj64mnWLTj%2BDPMQ%3D%3D&trackingId=QywFQaEdtAud%2F4%2FEfoqn3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 22:02:22",
+        "email_sent": false
+    },
+    {
+        "title": "Research Engineer, Media Integrity",
+        "company": "Google DeepMind",
+        "location": "Mountain View, CA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/research-engineer-media-integrity-at-google-deepmind-4308110331?position=14&pageNum=0&refId=Q9TKWAZvj64mnWLTj%2BDPMQ%3D%3D&trackingId=JCFNQ0Bed%2BLeNnXW2EYDlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 22:02:22",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Marketing Data Analyst",
+        "company": "WorldLink US",
+        "location": "Englewood Cliffs, NJ",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-marketing-data-analyst-at-worldlink-us-4305809986?position=22&pageNum=0&refId=Q9TKWAZvj64mnWLTj%2BDPMQ%3D%3D&trackingId=cck3YsvJ0OzkxE5b8m5RdA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 22:02:22",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer, Digital Supply Chain",
+        "company": "Crunchyroll",
+        "location": "Dallas, TX",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-digital-supply-chain-at-crunchyroll-4266891323?position=25&pageNum=0&refId=Q9TKWAZvj64mnWLTj%2BDPMQ%3D%3D&trackingId=VqsnKz6069VJIMfV%2ByGqvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 22:02:22",
+        "email_sent": false
+    },
+    {
+        "title": "Fraud Strategy Data Scientist",
+        "company": "Cypress HCM",
+        "location": "San Jose, CA",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/fraud-strategy-data-scientist-at-cypress-hcm-4305811456?position=29&pageNum=0&refId=Q9TKWAZvj64mnWLTj%2BDPMQ%3D%3D&trackingId=5OyHauxyayMQzN492dvU8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 22:02:22",
+        "email_sent": false
+    },
+    {
+        "title": "Design Engineer I",
+        "company": "Stratus\u00ae",
+        "location": "Wilkesboro, NC",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/design-engineer-i-at-stratus%C2%AE-4305807500?position=30&pageNum=0&refId=Q9TKWAZvj64mnWLTj%2BDPMQ%3D%3D&trackingId=6NPpJn2k6EWBaUPeBwBq4A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 22:02:22",
+        "email_sent": false
+    },
+    {
+        "title": "Research Analyst I (XW)",
+        "company": "Verisk",
+        "location": "Lehi, UT",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/research-analyst-i-xw-at-verisk-4305397826?position=31&pageNum=0&refId=Q9TKWAZvj64mnWLTj%2BDPMQ%3D%3D&trackingId=b7oYVNU5j1j%2FfaMGHrOQsw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 22:02:22",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Manager - Analytics - Product Innovation",
+        "company": "Channel Factory",
+        "location": "United States",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-manager-analytics-product-innovation-at-channel-factory-4305811473?position=32&pageNum=0&refId=Q9TKWAZvj64mnWLTj%2BDPMQ%3D%3D&trackingId=IdSxF4d83YlDCWNgWKtghg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 22:02:22",
+        "email_sent": false
+    },
+    {
+        "title": "Conflicts Analyst",
+        "company": "Katten Muchin Rosenman LLP",
+        "location": "Chicago, IL",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/conflicts-analyst-at-katten-muchin-rosenman-llp-4308111044?position=34&pageNum=0&refId=Q9TKWAZvj64mnWLTj%2BDPMQ%3D%3D&trackingId=HzJuMShvWnII2HcCwNhy1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 22:02:22",
+        "email_sent": false
+    },
+    {
+        "title": "Coordinator, Ops Training - 1st Shift",
+        "company": "GXO Logistics, Inc.",
+        "location": "Summerville, SC",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/coordinator-ops-training-1st-shift-at-gxo-logistics-inc-4308104280?position=35&pageNum=0&refId=Q9TKWAZvj64mnWLTj%2BDPMQ%3D%3D&trackingId=lOrSiF0ue3s00egvhWueeA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 22:02:22",
+        "email_sent": false
+    },
+    {
+        "title": "Technical Marketing Manager",
+        "company": "Amphenol Communications Solutions",
+        "location": "Nashua, NH",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/technical-marketing-manager-at-amphenol-communications-solutions-4308095685?position=36&pageNum=0&refId=Q9TKWAZvj64mnWLTj%2BDPMQ%3D%3D&trackingId=iCQOCyL9gyhYl1N7%2BCYq8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 22:02:22",
+        "email_sent": false
+    },
+    {
+        "title": "Technical Marketing Manager",
+        "company": "Amphenol Communications Solutions",
+        "location": "Yocumtown, PA",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/technical-marketing-manager-at-amphenol-communications-solutions-4308084835?position=37&pageNum=0&refId=Q9TKWAZvj64mnWLTj%2BDPMQ%3D%3D&trackingId=voRBEfegD5zQyhibVPloYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-09-29 22:02:22",
         "email_sent": false
     }
 ]
