@@ -1,395 +1,5 @@
 [
     {
-        "title": "Junior Data Analyst",
-        "company": "React Digital",
-        "location": "Pittsburgh, PA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-react-digital-4310448346?position=4&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=pbeIIVywwI8rDaU%2FV%2B8gzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Talent Groups",
-        "location": "Beaverton, OR",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talent-groups-4310430644?position=5&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=wZOlJWN7hSZ3ZJk61n1I%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Oakland, CA",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986112648?position=9&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=H5QpSBqEpol96IHvw1rfJw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (AI)",
-        "company": "Gusto",
-        "location": "United States",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-gusto-4310157417?position=10&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=PpY6x06HMNudFGhTcmXGOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Rockville, MD",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986112658?position=12&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=C%2Bq%2B9itvSWNJJddyA1EYiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Hialeah, FL",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116431?position=13&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=2Lx9p%2F3IZPD9bzv4DzGakQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Business Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-wiraa-4310171162?position=14&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=395de8TYPs7KG0wZBQqa0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "AI/ML DevOps Engineer",
-        "company": "Humana",
-        "location": "United States",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/ai-ml-devops-engineer-at-humana-4310425592?position=15&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=CFnx%2BAHChouPwZUdhGDugA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Back End Developer",
-        "company": "AppCard, Inc.",
-        "location": "New York, NY",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/back-end-developer-at-appcard-inc-4305894812?position=17&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=qeiPFTLCUmYE0KzMT%2BbP2Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Cape Coral, FL",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117172?position=22&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=TdmjLV7PHyY7XxJYibpdkw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Bakersfield, CA",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986113611?position=25&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=fdBTe1Oa1sltSzN%2FPLvcpQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Killeen, TX",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116407?position=27&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=x6eJtbQZf9y0iFXHpH7gnw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "NOX METALS (YC S25)",
-        "location": "Detroit Metropolitan Area",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-nox-metals-yc-s25-4308808721?position=28&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=jiMmCtRZG1cDQrC%2BH2tbwQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Raleigh, NC",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117165?position=29&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=Fn5koasnlp3k%2F%2BvWEtTrhA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Tech Consulting",
-        "location": "Raleigh, NC",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-tech-consulting-4308829724?position=30&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=E75CLio7YoF6UAoQWzd1xg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Newark, NJ",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116436?position=31&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=NC%2FsdGgapKMukMhAAyP9Aw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Backend",
-        "company": "Clipboard",
-        "location": "San Francisco, CA",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-clipboard-4307561611?position=32&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=AW2AHumcX8Iq1W5f%2FKGptg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Hampton, VA",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986118099?position=33&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=2W3mPDea0sfiW1OBEFfNQg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Pawtucket, RI",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116445?position=35&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=lu8S6VkuchuJ%2FwC8IwTj2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Newport News, VA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117147?position=39&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=l22i2E8yS%2Bi4IuCnUOwLQg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Frontend",
-        "company": "Clipboard",
-        "location": "San Francisco, CA",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-clipboard-4307568560?position=40&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=sCNwwKPCtBBJoJHKzVJQIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Salt Lake City, UT",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986114532?position=43&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=5FGZeT50dwp5W4Rxvq64Gw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Platform",
-        "company": "Clipboard",
-        "location": "San Francisco, CA",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-platform-at-clipboard-4307567560?position=46&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=uzPrRrmy9fhuJr6cjCIe5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Greensboro, NC",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116419?position=48&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=LHGJWbrNoyGANVkGgn%2BEPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Smyrna, DE",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986111810?position=50&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=hRbJIAqaTFd6U%2FjOuBCR0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Joliet, IL",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986111809?position=51&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=cE5rqjnmKfUGKKvFZogH1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Columbus, GA",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986111768?position=53&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=ANUjcX0XYycozYxH0llU%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Minneapolis, MN",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986115531?position=54&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=OYwLYbsN18nP3g%2BTWdk36A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Kansas City, KS",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986111788?position=55&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=UEYGuI4QNWnVobCdkQNGRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Harrisburg, PA",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986118119?position=57&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=qsRRqgkAUVIu5KGqvNuDhA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Fort Smith, AR",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986113578?position=59&pageNum=0&refId=84oKLte47F4alThjpehYNg%3D%3D&trackingId=SbQU1H11bXzBx1dF3d5Kkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Killeen, TX",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116407?position=2&pageNum=2&refId=Yl5giZcG9wdiSPKX%2BeeNMQ%3D%3D&trackingId=SpH%2FChzW0bpdN3HoJWaPUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "NOX METALS (YC S25)",
-        "location": "Detroit Metropolitan Area",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-nox-metals-yc-s25-4308808721?position=3&pageNum=2&refId=Yl5giZcG9wdiSPKX%2BeeNMQ%3D%3D&trackingId=N3WC2Mhd%2F0eHt6rgtiBapw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Raleigh, NC",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117165?position=4&pageNum=2&refId=Yl5giZcG9wdiSPKX%2BeeNMQ%3D%3D&trackingId=PjnJLI0Gh%2Fz2kX5zVIgE7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Tech Consulting",
-        "location": "Raleigh, NC",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-tech-consulting-4308829724?position=5&pageNum=2&refId=Yl5giZcG9wdiSPKX%2BeeNMQ%3D%3D&trackingId=kHpG5sznp35ZRREARQhHTg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Newark, NJ",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116436?position=6&pageNum=2&refId=Yl5giZcG9wdiSPKX%2BeeNMQ%3D%3D&trackingId=BlebmGegmgh%2FTQtcGYYibQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Backend",
-        "company": "Clipboard",
-        "location": "San Francisco, CA",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-clipboard-4307561611?position=7&pageNum=2&refId=Yl5giZcG9wdiSPKX%2BeeNMQ%3D%3D&trackingId=vIOeAiBCw0z%2BedArSRDvfg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Hampton, VA",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986118099?position=8&pageNum=2&refId=Yl5giZcG9wdiSPKX%2BeeNMQ%3D%3D&trackingId=o3t6osy%2B4cY0r07ppxHNRQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Pawtucket, RI",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116445?position=10&pageNum=2&refId=Yl5giZcG9wdiSPKX%2BeeNMQ%3D%3D&trackingId=8VIMcmKE948KYdc%2FNackaQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-03 18:26:48",
-        "email_sent": false
-    },
-    {
         "title": "Modern Data Engineer",
         "company": "AnswerRocket",
         "location": "Atlanta, GA",
@@ -937,6 +547,126 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-ios-at-mcdonald-s-4310159108?position=4&pageNum=2&refId=AwkTSepceG9YGMh%2FoMfUqA%3D%3D&trackingId=JPusesrCOIUpSiwye1YjKQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-03 19:15:53",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Datafied",
+        "location": "Texas, United States",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-datafied-4310434945?position=5&pageNum=0&refId=QfEIyX8fY17dezOf4Tp3FQ%3D%3D&trackingId=h3zX9A1FYSWNkngPRtQDCQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-03 19:28:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Platform Engineer",
+        "company": "Vinsys Information Technology Inc",
+        "location": "Charlotte, NC",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-platform-engineer-at-vinsys-information-technology-inc-4310429948?position=6&pageNum=0&refId=QfEIyX8fY17dezOf4Tp3FQ%3D%3D&trackingId=jWddJURoVAZkslPpWh8qvw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-03 19:28:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Robert Half",
+        "location": "Costa Mesa, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-robert-half-4300165614?position=17&pageNum=0&refId=QfEIyX8fY17dezOf4Tp3FQ%3D%3D&trackingId=y1JavtieL%2Fwmx9632B9zpg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-03 19:28:44",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "Dragos, Inc.",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-dragos-inc-4308849285?position=26&pageNum=0&refId=QfEIyX8fY17dezOf4Tp3FQ%3D%3D&trackingId=dHXOzwMcOhKwPEEsP%2FCsXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-03 19:28:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software & Systems Engineer",
+        "company": "Diamond Foundry",
+        "location": "San Francisco Bay Area",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-systems-engineer-at-diamond-foundry-4310447640?position=30&pageNum=0&refId=QfEIyX8fY17dezOf4Tp3FQ%3D%3D&trackingId=hf5ZvEu2qtwUtItC9PuO8A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-03 19:28:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Nirmata",
+        "location": "Santa Clara, CA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-nirmata-4310439910?position=33&pageNum=0&refId=QfEIyX8fY17dezOf4Tp3FQ%3D%3D&trackingId=YAT8WpsVRo6O2xCRzGhOYg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-03 19:28:44",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "Lockheed Martin",
+        "location": "Sunnyvale, CA",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-lockheed-martin-4310441799?position=40&pageNum=0&refId=QfEIyX8fY17dezOf4Tp3FQ%3D%3D&trackingId=CHyaTBoyRF5RQW1%2BP%2FzDSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-03 19:28:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - Healthcare",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-healthcare-at-jobs-via-dice-4308837773?position=48&pageNum=0&refId=QfEIyX8fY17dezOf4Tp3FQ%3D%3D&trackingId=Hnl47jjUCLLtFwKWUCBcsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-03 19:28:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst II - CGS (Nashville)",
+        "company": "BlueCross BlueShield of South Carolina",
+        "location": "Nashville, TN",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-cgs-nashville-at-bluecross-blueshield-of-south-carolina-4310428998?position=54&pageNum=0&refId=QfEIyX8fY17dezOf4Tp3FQ%3D%3D&trackingId=rkFLN2cx0ultEXBzb6JG0w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-03 19:28:44",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "Dragos, Inc.",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-dragos-inc-4308849285?position=1&pageNum=2&refId=X9NLm%2F%2B2gXzu30EK5IMPvg%3D%3D&trackingId=rDccc35OeQKasp4W%2FtihtA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-03 19:28:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software & Systems Engineer",
+        "company": "Diamond Foundry",
+        "location": "San Francisco Bay Area",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-systems-engineer-at-diamond-foundry-4310447640?position=5&pageNum=2&refId=X9NLm%2F%2B2gXzu30EK5IMPvg%3D%3D&trackingId=tDbdQZ0vzOBC7hsWfxBZRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-03 19:28:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Nirmata",
+        "location": "Santa Clara, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-nirmata-4310439910?position=8&pageNum=2&refId=X9NLm%2F%2B2gXzu30EK5IMPvg%3D%3D&trackingId=M%2BU1TR9BGhL1pkzaFCpGqw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-03 19:28:44",
         "email_sent": false
     }
 ]
