@@ -1,195 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Jack",
-        "location": "United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jack-4305703879?position=2&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=TiMt1z1Jlgy1YvUxiC3M0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4311509223?position=3&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=Mw%2FE%2FpxqtrWyruRVJ5eCxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4311506622?position=4&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=zm2rzyAbyiQeu7dw5sZCnA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Skyflow",
-        "location": "United States",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-skyflow-4300941751?position=5&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=a2tiXnT%2FRmhzEGazExH20g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Jack",
-        "location": "United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jack-4306044347?position=6&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=8jT%2BYpu3BGwI5lMmdMm9qA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II - G&A",
-        "company": "Ironclad",
-        "location": "San Francisco, CA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-g-a-at-ironclad-4301250389?position=7&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=lJSQ25OIDCyRBfVrCiPVCQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4311519033?position=8&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=2YHKOdAxxdUTf5XQ25nOzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4311513380?position=10&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=aYUHvH%2FMfecQ5zFbXzAwbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "CNH",
-        "location": "Sioux Falls, SD",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-cnh-4304605240?position=11&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=v%2BgBxphimaqJ5ADGpwhicA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Jr. Software Development Engineer - Tempe, AZ, Jr. Developer Program",
-        "company": "Amazon",
-        "location": "Tempe, AZ",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/jr-software-development-engineer-tempe-az-jr-developer-program-at-amazon-4300983114?position=12&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=h%2F2r4Ks4q%2BI7H4MQgId5Pg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Scientist",
-        "company": "Tech Consulting",
-        "location": "Connecticut, United States",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-tech-consulting-4310338411?position=16&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=40a2c%2F2OoTHw9kNuhlxkzg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Baxter International Inc.",
-        "location": "Raleigh, NC",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-baxter-international-inc-4309262340?position=17&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=8P%2B9bQ8NpG%2F8VIVf9bHAHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "C, C++, C#, Java Software Engineer II (ONSITE)",
-        "company": "Raytheon",
-        "location": "Indianapolis, IN",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-c%23-java-software-engineer-ii-onsite-at-raytheon-4300970460?position=20&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=YoKm0tDJLLiWVerpVrSK0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II with Test Equipment",
-        "company": "Raytheon",
-        "location": "Tucson, AZ",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-with-test-equipment-at-raytheon-4290868735?position=21&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=A1t3Sj92Sp4Ea4oVL83vYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Java/C++ Software Engineer II (Onsite)",
-        "company": "Raytheon",
-        "location": "State College, PA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/java-c%2B%2B-software-engineer-ii-onsite-at-raytheon-4301229820?position=22&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=Kzph5EzIrhKv6PFlA%2B9wTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Airborne Platform Automation Test Engineer",
-        "company": "Gogo",
-        "location": "Denver Metropolitan Area",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/airborne-platform-automation-test-engineer-at-gogo-4288571731?position=23&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=dMaG%2Fn8Pz2ojOfVm6ml5lA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Biostatistician",
-        "company": "Artivion, Inc.",
-        "location": "Kennesaw, GA",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/biostatistician-at-artivion-inc-4290873725?position=25&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=DK4zaJ9Kcoxg%2F008TDCPlg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Electrical Engineer",
-        "company": "Santee Cooper",
-        "location": "Myrtle Beach, SC",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/electrical-engineer-at-santee-cooper-4300947164?position=26&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=GRo5Q2YZ4kxmJjTTJqcEdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
-        "title": "Java/Python AI/ML Data Science Software Engineer (Onsite)",
-        "company": "Raytheon",
-        "location": "State College, PA",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/java-python-ai-ml-data-science-software-engineer-onsite-at-raytheon-4290868732?position=29&pageNum=0&refId=DUVFydnkcq%2Bv1BHkqJgDbQ%3D%3D&trackingId=OMAyNVae8xxDW7B242Ck5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-07 13:10:51",
-        "email_sent": false
-    },
-    {
         "title": "Business Data Analyst",
         "company": "Associa",
         "location": "Richardson, TX",
@@ -777,6 +587,86 @@
         "url": "https://www.linkedin.com/jobs/view/staff-backend-engineer-platform-engineering-network-data-at-kentik-4096334253?position=6&pageNum=2&refId=%2F4nY3XFzBMdSf7FWzQ29PQ%3D%3D&trackingId=u8JQRjti6vzAh1ugQg%2Btzg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-07 13:54:07",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "Symbotic",
+        "location": "Lathrop, CA",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-symbotic-4288812520?position=12&pageNum=0&refId=eEfbfMbtNoxZI3T0%2B7whBg%3D%3D&trackingId=4oDf9%2Fgk5uDfOVoMhsmhLw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 14:20:14",
+        "email_sent": false
+    },
+    {
+        "title": "NEW IN| Data Engineer | High visibility and be a part of a global expansion| Data transformation | Multiple locations \u2013Onsite | Up to $165k total package",
+        "company": "Data Revolution",
+        "location": "Jacksonville, FL",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/new-in-data-engineer-high-visibility-and-be-a-part-of-a-global-expansion-data-transformation-multiple-locations-%E2%80%93onsite-up-to-%24165k-total-package-at-data-revolution-4309211118?position=15&pageNum=0&refId=eEfbfMbtNoxZI3T0%2B7whBg%3D%3D&trackingId=YCUBmejRJCULRCuu5%2F9Kcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 14:20:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Transaction Banking, Analyst/Associate",
+        "company": "Goldman Sachs",
+        "location": "Dallas, TX",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-transaction-banking-analyst-associate-at-goldman-sachs-4272461449?position=19&pageNum=0&refId=eEfbfMbtNoxZI3T0%2B7whBg%3D%3D&trackingId=41sDouCYjsinSCe6MY%2F64A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 14:20:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (CSS/Node.JS/Java) - IPCW Migrations",
+        "company": "American Express",
+        "location": "Phoenix, AZ",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-css-node-js-java-ipcw-migrations-at-american-express-4298124252?position=20&pageNum=0&refId=eEfbfMbtNoxZI3T0%2B7whBg%3D%3D&trackingId=allofBvG3HagZezhRyJUsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 14:20:14",
+        "email_sent": false
+    },
+    {
+        "title": "Demographic Data Analyst",
+        "company": "Mitchell Martin Inc.",
+        "location": "Kansas City, MO",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/demographic-data-analyst-at-mitchell-martin-inc-4289606226?position=44&pageNum=0&refId=eEfbfMbtNoxZI3T0%2B7whBg%3D%3D&trackingId=3%2Bj6oIlgI817UDhoxefAmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 14:20:14",
+        "email_sent": false
+    },
+    {
+        "title": "Business Intelligence Analyst",
+        "company": "OLI Systems, Inc.",
+        "location": "Parsippany, NJ",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-oli-systems-inc-4309251798?position=51&pageNum=0&refId=eEfbfMbtNoxZI3T0%2B7whBg%3D%3D&trackingId=KdEQq%2Bf2e3RxaT90E%2BGF2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 14:20:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Xlent IT service",
+        "location": "Dublin, OH",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-xlent-it-service-4310392568?position=8&pageNum=2&refId=Gr6ALKYLxSZAc8dz36Mtug%3D%3D&trackingId=eYYw9yNQmv8bfHG9JLpGbQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 14:20:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (CSS/Node.JS/Java) - IPCW Migrations",
+        "company": "American Express",
+        "location": "Phoenix, AZ",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-css-node-js-java-ipcw-migrations-at-american-express-4298124252?position=10&pageNum=2&refId=Gr6ALKYLxSZAc8dz36Mtug%3D%3D&trackingId=LL34zC8XPy8CpeZADSOQVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-07 14:20:14",
         "email_sent": false
     }
 ]
