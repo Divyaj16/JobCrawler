@@ -1,135 +1,5 @@
 [
     {
-        "title": "Data Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-wiraa-4313607471?position=1&pageNum=0&refId=urG6HwaJ9liPNQlCpapkZA%3D%3D&trackingId=ss0075c1LoBXsWnshjtzkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-11 17:43:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4313604526?position=2&pageNum=0&refId=urG6HwaJ9liPNQlCpapkZA%3D%3D&trackingId=EiWsEAeVUrRw5ywSoXUyHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-11 17:43:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4313612271?position=3&pageNum=0&refId=urG6HwaJ9liPNQlCpapkZA%3D%3D&trackingId=TfYJsZBA%2B62oe4Y0SF%2B2%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-11 17:43:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Marketing)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-marketing-at-wiraa-4313617083?position=6&pageNum=0&refId=urG6HwaJ9liPNQlCpapkZA%3D%3D&trackingId=jIEZUXWsKv2Zell19CLxsA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-11 17:43:11",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wiraa-4313608422?position=10&pageNum=0&refId=urG6HwaJ9liPNQlCpapkZA%3D%3D&trackingId=vjlf0bnxkDc5oooiJhwKSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-11 17:43:11",
-        "email_sent": false
-    },
-    {
-        "title": "Report Developer",
-        "company": "KellyMitchell Group",
-        "location": "Minneapolis, MN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/report-developer-at-kellymitchell-group-4296849957?position=12&pageNum=0&refId=urG6HwaJ9liPNQlCpapkZA%3D%3D&trackingId=RaJJBT6k%2BOjfLQR7kzlEVw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-11 17:43:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (API, Typescript)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-typescript-at-wiraa-4313614212?position=13&pageNum=0&refId=urG6HwaJ9liPNQlCpapkZA%3D%3D&trackingId=qjGN1m2oSELo0thPhf%2BL%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-11 17:43:11",
-        "email_sent": false
-    },
-    {
-        "title": "Bilingual Data Analyst",
-        "company": "KellyMitchell Group",
-        "location": "Englewood, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/bilingual-data-analyst-at-kellymitchell-group-4296809425?position=17&pageNum=0&refId=urG6HwaJ9liPNQlCpapkZA%3D%3D&trackingId=dZUfBwRdFfy0E5yqzuO7WA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-11 17:43:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4313611314?position=18&pageNum=0&refId=urG6HwaJ9liPNQlCpapkZA%3D%3D&trackingId=dBpIn7%2BbRcv8Cj5jIyw%2BMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-11 17:43:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Back End",
-        "company": "Capital One",
-        "location": "McLean, VA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-back-end-at-capital-one-4313645496?position=19&pageNum=0&refId=urG6HwaJ9liPNQlCpapkZA%3D%3D&trackingId=tNQsO9CKiWRQyn0NB3Lihg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-11 17:43:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4313616092?position=20&pageNum=0&refId=urG6HwaJ9liPNQlCpapkZA%3D%3D&trackingId=pbtecvqfcosavPXPwgjCyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-11 17:43:11",
-        "email_sent": false
-    },
-    {
-        "title": "Electrical Engineer I",
-        "company": "Laser Thermal",
-        "location": "Charlottesville, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/electrical-engineer-i-at-laser-thermal-4313504859?position=21&pageNum=0&refId=urG6HwaJ9liPNQlCpapkZA%3D%3D&trackingId=YdpW2ZtOJHWKxuA%2FtHDaYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-11 17:43:11",
-        "email_sent": false
-    },
-    {
-        "title": "OSINT Investigative Researcher - Missing Persons Analysis",
-        "company": "Night Owl Reconnaissance",
-        "location": "St. Louis County, MO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/osint-investigative-researcher-missing-persons-analysis-at-night-owl-reconnaissance-4313635739?position=22&pageNum=0&refId=urG6HwaJ9liPNQlCpapkZA%3D%3D&trackingId=zLLgeD1ZwJhB6Rd3kumXjA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-11 17:43:11",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "Picept",
         "location": "United States",
@@ -217,6 +87,66 @@
         "url": "https://www.linkedin.com/jobs/view/d365-ce-f-o-report-developer-at-long-building-technologies-4313654046?position=37&pageNum=0&refId=b%2F8sgs6NMIsyCoHADDbMRQ%3D%3D&trackingId=1x%2FHXbZ9%2B5PtFEDRP68C%2BA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-11 18:31:27",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Mass General Brigham",
+        "location": "Somerville, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-mass-general-brigham-4313293427?position=1&pageNum=0&refId=eQk1Bd%2BVB8PAGzte7KGz4g%3D%3D&trackingId=pYpqEhZKkvzEFS8I75RgWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-11 18:45:27",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst I Bioinformatician Rheumatology",
+        "company": "Brigham and Women's Hospital",
+        "location": "Boston, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-bioinformatician-rheumatology-at-brigham-and-women-s-hospital-4312742282?position=29&pageNum=0&refId=eQk1Bd%2BVB8PAGzte7KGz4g%3D%3D&trackingId=g4O77GH7IODBvqoDgEp%2BHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-11 18:45:27",
+        "email_sent": false
+    },
+    {
+        "title": "Commercial Insights Analyst",
+        "company": "Women of the Vine & Spirits",
+        "location": "New York, NY",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/commercial-insights-analyst-at-women-of-the-vine-spirits-4313643669?position=33&pageNum=0&refId=eQk1Bd%2BVB8PAGzte7KGz4g%3D%3D&trackingId=TRzyspH4TPRu31gac94fMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-11 18:45:27",
+        "email_sent": false
+    },
+    {
+        "title": "Resource Modeling Analyst WL",
+        "company": "NextEra Energy, Inc.",
+        "location": "Juno Beach, FL",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/resource-modeling-analyst-wl-at-nextera-energy-inc-4306956334?position=53&pageNum=0&refId=eQk1Bd%2BVB8PAGzte7KGz4g%3D%3D&trackingId=vByvFMdJAT0b2kD7gIQNtg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-11 18:45:27",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst I Bioinformatician Rheumatology",
+        "company": "Brigham and Women's Hospital",
+        "location": "Boston, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-bioinformatician-rheumatology-at-brigham-and-women-s-hospital-4312742282?position=4&pageNum=2&refId=H4g%2FQ9x65kCoh96cyuuYKA%3D%3D&trackingId=9eiKS1E1ti0hK%2FV%2FzGDLPg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-11 18:45:27",
+        "email_sent": false
+    },
+    {
+        "title": "Commercial Insights Analyst",
+        "company": "Women of the Vine & Spirits",
+        "location": "New York, NY",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/commercial-insights-analyst-at-women-of-the-vine-spirits-4313643669?position=8&pageNum=2&refId=H4g%2FQ9x65kCoh96cyuuYKA%3D%3D&trackingId=7crGtVCSRpmvamCnGigBXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-11 18:45:27",
         "email_sent": false
     }
 ]
