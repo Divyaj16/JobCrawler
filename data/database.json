@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Scientist",
-        "company": "Gameer",
-        "location": "San Francisco, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-gameer-4313719737?position=15&pageNum=0&refId=ivHSXD93g%2BXnYQj269ZYDw%3D%3D&trackingId=Jb%2FI%2BLsutnNjL6sTbWQLqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-13 06:30:34",
-        "email_sent": false
-    },
-    {
-        "title": "OI System Engineer",
-        "company": "Micron Technology",
-        "location": "Manassas, VA",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/oi-system-engineer-at-micron-technology-4313736545?position=17&pageNum=0&refId=ivHSXD93g%2BXnYQj269ZYDw%3D%3D&trackingId=rPy1M2ooUyDZ77WcgQ9d7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-13 06:30:34",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Tech Consulting",
         "location": "Boston, MA",
@@ -127,6 +107,36 @@
         "url": "https://www.linkedin.com/jobs/view/production-planning-data-analyst-at-oil-dri-corporation-of-america-4311409682?position=6&pageNum=0&refId=IsFyv%2FJgQPxVJaWiVcy2IQ%3D%3D&trackingId=EV4vlVld107ft%2F8nE6NlBw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-13 07:21:21",
+        "email_sent": false
+    },
+    {
+        "title": "Marketing SQL Tester - Strong SQL",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/marketing-sql-tester-strong-sql-at-jobs-via-dice-4313728820?position=7&pageNum=0&refId=3zGul3UZM5uxgALIM32EFQ%3D%3D&trackingId=x6COkhJ99qM6LlAeR2TvUg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-13 07:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Digital Consulting Analyst, Oracle EPM",
+        "company": "Huron",
+        "location": "Chicago, IL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/digital-consulting-analyst-oracle-epm-at-huron-4311421772?position=8&pageNum=0&refId=3zGul3UZM5uxgALIM32EFQ%3D%3D&trackingId=MEOzfBx6FhC8c20tp%2FD9Hw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-13 07:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Huntsville, AL",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4313731753?position=9&pageNum=0&refId=3zGul3UZM5uxgALIM32EFQ%3D%3D&trackingId=SSpIWktqpqzBy5OW7VuxSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-13 07:34:54",
         "email_sent": false
     }
 ]
