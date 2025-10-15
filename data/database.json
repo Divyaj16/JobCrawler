@@ -1,36 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "World Wide Technology",
-        "location": "United States",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-world-wide-technology-4315164039?position=14&pageNum=0&refId=Y10udRIC1icwLTVkELjeuw%3D%3D&trackingId=wS4wK2AQb1%2BBwyw8IXoz0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-15 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Integration Analyst",
-        "company": "Stellar Innovations & Solutions Inc.",
-        "location": "Dayton, OH",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-integration-analyst-at-stellar-innovations-solutions-inc-4315367577?position=38&pageNum=0&refId=Y10udRIC1icwLTVkELjeuw%3D%3D&trackingId=EkSatcsGZ5r6daqymQM36A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-15 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Apex Systems",
-        "location": "Plano, TX",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-apex-systems-4315355830?position=43&pageNum=0&refId=Y10udRIC1icwLTVkELjeuw%3D%3D&trackingId=cw5epTNzocaicjX8WLe3fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-15 21:56:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Wiraa",
         "location": "United States",
         "date_posted": "14 minutes ago",
@@ -567,6 +537,576 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-android-at-hygiena-4315041829?position=10&pageNum=2&refId=nAER0n%2FeB7T23BbuKTDSMA%3D%3D&trackingId=Pwf8NsoA%2BbrSyCg3PFNhMw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-15 22:47:17",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "nbkc bank",
+        "location": "Kansas City, MO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nbkc-bank-4312425917?position=2&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=Cf6Er1K5t%2BwXsiZI%2Fje8uA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer- All Levels",
+        "company": "Season Health",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-season-health-4315047401?position=3&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=mWrXqTtdxicsRt6jPVQSHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4315315142?position=10&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=O0MedyOEMQ159FXBgTZ5vg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Business Intelligence",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-business-intelligence-at-wiraa-4315158264?position=13&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=ZY9uLy6NZiVLQiM9C%2F5KNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst II",
+        "company": "Constellis",
+        "location": "Denver, CO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-constellis-4310998196?position=14&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=ashx0gDJdD81D5JfejsAPg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Business Data Analyst",
+        "company": "Robert Half",
+        "location": "Dallas, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-robert-half-4315039888?position=15&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=yiKqBr0J2z%2Fi3mM9ig1FIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Software Automation Test Engineer (Strata Logging Service)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-automation-test-engineer-strata-logging-service-at-palo-alto-networks-4315358701?position=17&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=BMT5Px3r1dFGlrLobgNOUA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (C++, Python)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%2B%2B-python-at-wiraa-4315145924?position=18&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=Yp89%2FISABGC6c2iVlAIE%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer | $80-$100/hr",
+        "company": "HelixRecruit",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-%2480-%24100-hr-at-helixrecruit-4312430916?position=19&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=ypREsdGEvpwqpdKem1ZVHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Web Development Software Engineer II",
+        "company": "DigitalOcean",
+        "location": "Austin, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/web-development-software-engineer-ii-at-digitalocean-4315373413?position=22&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=aQ%2BCd6YJsZRu1I5HvNYJ2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Web Development Software Engineer II",
+        "company": "DigitalOcean",
+        "location": "Seattle, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/web-development-software-engineer-ii-at-digitalocean-4315360660?position=23&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=3T7b1HB7UOFNa1eWPl%2BIug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Web Development Software Engineer II",
+        "company": "DigitalOcean",
+        "location": "Boston, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/web-development-software-engineer-ii-at-digitalocean-4315367543?position=24&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=GaoliuO2Df3oio1n14nSeQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "ML Engineer/Data Scientist",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ml-engineer-data-scientist-at-wiraa-4315154785?position=25&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=mwU%2BU2YRAKLId4UhL8KzdQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Web Development Software Engineer II",
+        "company": "DigitalOcean",
+        "location": "Denver, CO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/web-development-software-engineer-ii-at-digitalocean-4315361648?position=29&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=SAWaEWCvgLL56tSoA5kUYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Web Development Software Engineer II",
+        "company": "DigitalOcean",
+        "location": "San Francisco, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/web-development-software-engineer-ii-at-digitalocean-4315376001?position=32&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=5ZIFruOZNr12Roxm1Laiyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Boeing, Entry Level Software Engineer - Test & Verification - Application via WayUp",
+        "company": "WayUp",
+        "location": "Oklahoma City, OK",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/boeing-entry-level-software-engineer-test-verification-application-via-wayup-at-wayup-4315359523?position=41&pageNum=0&refId=badN7xq6lv2P9A1WIzJpnA%3D%3D&trackingId=A26XyAwQoiBF7TJYTOifOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Web Development Software Engineer II",
+        "company": "DigitalOcean",
+        "location": "Denver, CO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/web-development-software-engineer-ii-at-digitalocean-4315361648?position=4&pageNum=2&refId=GRxLRPY7TUqlqcRjsntmgg%3D%3D&trackingId=ETz4rLeZnkoKgJ2btWq6mg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Web Development Software Engineer II",
+        "company": "DigitalOcean",
+        "location": "San Francisco, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/web-development-software-engineer-ii-at-digitalocean-4315376001?position=7&pageNum=2&refId=GRxLRPY7TUqlqcRjsntmgg%3D%3D&trackingId=FZ7ufIJIEwrYK86f9hpZ5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Greater Minneapolis-St. Paul Area",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4304899141?position=1&pageNum=7&refId=3HAobrlpbLl3tyOuoyKmIQ%3D%3D&trackingId=%2BeInViiBP4S5znkdENlRsg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Kansas City Metropolitan Area",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4305201094?position=2&pageNum=7&refId=3HAobrlpbLl3tyOuoyKmIQ%3D%3D&trackingId=aDrCaK8m2ZIiwUyTu1BgUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Kansas City Metropolitan Area",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4305200160?position=3&pageNum=7&refId=3HAobrlpbLl3tyOuoyKmIQ%3D%3D&trackingId=o9qbkxgvqQnCNmYyg2W7ZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "KellyMitchell Group",
+        "location": "Irving, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-kellymitchell-group-4305087910?position=4&pageNum=7&refId=3HAobrlpbLl3tyOuoyKmIQ%3D%3D&trackingId=O8qLXrnFurJ15lK%2BXH%2BrkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Sandwich, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4315061062?position=5&pageNum=7&refId=3HAobrlpbLl3tyOuoyKmIQ%3D%3D&trackingId=HbeqoKjgs74gGwiVszN1Cw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Bourne, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4315062003?position=6&pageNum=7&refId=3HAobrlpbLl3tyOuoyKmIQ%3D%3D&trackingId=PQOerhM45Z%2FSEEshpBBZ0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Yarmouth Port, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4315060057?position=7&pageNum=7&refId=3HAobrlpbLl3tyOuoyKmIQ%3D%3D&trackingId=IVRGuStcJB3weWtTKvFukA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "RUST Embedded Software Engineer (cleared)",
+        "company": "General Dynamics Mission Systems",
+        "location": "Dedham, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/rust-embedded-software-engineer-cleared-at-general-dynamics-mission-systems-4314082466?position=8&pageNum=7&refId=3HAobrlpbLl3tyOuoyKmIQ%3D%3D&trackingId=CMKoRbeGxUmFriuF12fOkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "HPC Software Engineer - C++ - Trading - Fourier Ltd",
+        "company": "Jobs via eFinancialCareers",
+        "location": "Chicago, IL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/hpc-software-engineer-c%2B%2B-trading-fourier-ltd-at-jobs-via-efinancialcareers-4225653010?position=9&pageNum=7&refId=3HAobrlpbLl3tyOuoyKmIQ%3D%3D&trackingId=A9HANub21VWWLrgY0AQQ%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Toledo, Ohio Metropolitan Area",
+        "date_posted": "57 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4302459481?position=10&pageNum=7&refId=3HAobrlpbLl3tyOuoyKmIQ%3D%3D&trackingId=kbLgDhur8m71Ivnr9LHbsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Olathe, KS",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4304325178?position=1&pageNum=10&refId=g%2B6dixAn1kudJFIPDLoRfQ%3D%3D&trackingId=YpsfEIW5r6pDKNaxg9SMXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Detroit, MI",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4302445897?position=2&pageNum=10&refId=g%2B6dixAn1kudJFIPDLoRfQ%3D%3D&trackingId=%2FdOkrYVO6WbbpLZrR448Lg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Springfield, MO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4304327070?position=3&pageNum=10&refId=g%2B6dixAn1kudJFIPDLoRfQ%3D%3D&trackingId=M51fOCu%2FsKHAIuyStvhLPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Elyria, OH",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4305762831?position=4&pageNum=10&refId=g%2B6dixAn1kudJFIPDLoRfQ%3D%3D&trackingId=dW8%2Fo0MIuR%2BkCoiHQo8ZUA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Box Elder, SD",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4301308949?position=5&pageNum=10&refId=g%2B6dixAn1kudJFIPDLoRfQ%3D%3D&trackingId=Pjr0IQ6zVHn36FurSRu59g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Minneapolis, MN",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4302458530?position=6&pageNum=10&refId=g%2B6dixAn1kudJFIPDLoRfQ%3D%3D&trackingId=b3N5m1mwqKw3ijR5qCaLUA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "University City, MO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4301309790?position=7&pageNum=10&refId=g%2B6dixAn1kudJFIPDLoRfQ%3D%3D&trackingId=mF%2FaVY%2F8iSf02we%2BTA9Z0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Akron, OH",
+        "date_posted": "57 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4303115141?position=8&pageNum=10&refId=g%2B6dixAn1kudJFIPDLoRfQ%3D%3D&trackingId=4N8d1U3Zlwwe%2BhqJalYnVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Dayton, OH",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4303106738?position=9&pageNum=10&refId=g%2B6dixAn1kudJFIPDLoRfQ%3D%3D&trackingId=Oig9cFzHjP7hDLBZOk6GOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Brooklyn Park, MN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4303806149?position=10&pageNum=10&refId=g%2B6dixAn1kudJFIPDLoRfQ%3D%3D&trackingId=N2Tusiqr%2BaQ9dqxfzdkVJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Madison, WI",
+        "date_posted": "57 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4303805694?position=1&pageNum=12&refId=p62wgXyiIvtVoKKZGFt00g%3D%3D&trackingId=J9y9ZeEUlAXsLcShs6Cggw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "C++ Software Engineer - Options Execution / Delta One - Fourier Ltd",
+        "company": "Jobs via eFinancialCareers",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-options-execution-delta-one-fourier-ltd-at-jobs-via-efinancialcareers-4280731608?position=2&pageNum=12&refId=p62wgXyiIvtVoKKZGFt00g%3D%3D&trackingId=xDleGQdtlrQPnOT1zklIMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Tax, Business and Data Intelligence, Analyst, Jersey City",
+        "company": "Goldman Sachs",
+        "location": "Jersey City, NJ",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/tax-business-and-data-intelligence-analyst-jersey-city-at-goldman-sachs-4315051343?position=3&pageNum=12&refId=p62wgXyiIvtVoKKZGFt00g%3D%3D&trackingId=iJL7tS2n763k8ltxKgLviA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "West Des Moines, IA",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4301985075?position=4&pageNum=12&refId=p62wgXyiIvtVoKKZGFt00g%3D%3D&trackingId=K6UMG9SfWOTTh%2FMTZBIwCw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "West Fargo, ND",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4301317622?position=5&pageNum=12&refId=p62wgXyiIvtVoKKZGFt00g%3D%3D&trackingId=%2FbtQHv982BMZNfmpWDucOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Mathematician / Statistician",
+        "company": "Siemens Energy",
+        "location": "Raleigh, NC",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mathematician-statistician-at-siemens-energy-4315046500?position=6&pageNum=12&refId=p62wgXyiIvtVoKKZGFt00g%3D%3D&trackingId=y3TNjk3vmGcD9iAc2%2FpI2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Lansing, MI",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4303806145?position=7&pageNum=12&refId=p62wgXyiIvtVoKKZGFt00g%3D%3D&trackingId=CrTe3tenZJA2pjvDEDxTvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Dickinson, ND",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4301970517?position=8&pageNum=12&refId=p62wgXyiIvtVoKKZGFt00g%3D%3D&trackingId=T6Q6HScL0hQahSixcv1Q%2Bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Des Moines, IA",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4303808029?position=9&pageNum=12&refId=p62wgXyiIvtVoKKZGFt00g%3D%3D&trackingId=7JMIog3WFaxy3%2BWELBOVxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "La Vista, NE",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4301976299?position=10&pageNum=12&refId=p62wgXyiIvtVoKKZGFt00g%3D%3D&trackingId=0j%2B7IpedOTHgub5lLTPw2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Electrical Engineer - Substation - Houston",
+        "company": "Black & Veatch",
+        "location": "Houston, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-electrical-engineer-substation-houston-at-black-veatch-4315351767?position=1&pageNum=15&refId=k8C60Hjlvs88jw%2FWQJ4DOw%3D%3D&trackingId=GBR8hsMGBPHfDMsXAXEJGw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Electrical Engineer - Substation",
+        "company": "Black & Veatch",
+        "location": "Overland Park, KS",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-electrical-engineer-substation-at-black-veatch-4315374147?position=2&pageNum=15&refId=k8C60Hjlvs88jw%2FWQJ4DOw%3D%3D&trackingId=%2FouOMmJ3n3Y1tkJW0hBLWQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Testing Technician",
+        "company": "Levare International Limited",
+        "location": "Midland, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/testing-technician-at-levare-international-limited-4315362656?position=3&pageNum=15&refId=k8C60Hjlvs88jw%2FWQJ4DOw%3D%3D&trackingId=Rd1IzrBfi7ibr8v84vztzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Environmental Engineer",
+        "company": "Terracon",
+        "location": "Lufkin, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-environmental-engineer-at-terracon-4313260068?position=4&pageNum=15&refId=k8C60Hjlvs88jw%2FWQJ4DOw%3D%3D&trackingId=LCj95QbDKt%2FOTCCP1fT%2FgQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Quality Engineer",
+        "company": "Universal Consulting Network",
+        "location": "Bowling Green, KY",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/quality-engineer-at-universal-consulting-network-4315365773?position=5&pageNum=15&refId=k8C60Hjlvs88jw%2FWQJ4DOw%3D%3D&trackingId=cBJCjFZ0M1P7YXhRpPRCyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Roadway Engineering Designer",
+        "company": "CONSOR Engineers",
+        "location": "Knoxville, TN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/roadway-engineering-designer-at-consor-engineers-4312419925?position=6&pageNum=15&refId=k8C60Hjlvs88jw%2FWQJ4DOw%3D%3D&trackingId=ySJkfevuMTKJd4Mxs6L5FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Estimator \u2013 Heavy Civil Construction",
+        "company": "iLocatum",
+        "location": "Topeka, KS",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-estimator-%E2%80%93-heavy-civil-construction-at-ilocatum-4315065028?position=7&pageNum=15&refId=k8C60Hjlvs88jw%2FWQJ4DOw%3D%3D&trackingId=QYpp9jdoA%2BpTs7AoanihdA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Boiler Operator/1st Grade Stationary Engineer",
+        "company": "W3Global",
+        "location": "Finksburg, MD",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/boiler-operator-1st-grade-stationary-engineer-at-w3global-4283437044?position=8&pageNum=15&refId=k8C60Hjlvs88jw%2FWQJ4DOw%3D%3D&trackingId=damGXBYnoWoklC9NN9MXOA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
+        "email_sent": false
+    },
+    {
+        "title": "Outside Sales Representative Outside Sales",
+        "company": "Builders FirstSource",
+        "location": "Dana Point, CA",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-outside-sales-at-builders-firstsource-4315059197?position=9&pageNum=15&refId=k8C60Hjlvs88jw%2FWQJ4DOw%3D%3D&trackingId=uSEjHcvXINO28R9w1goHRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-15 22:57:26",
         "email_sent": false
     }
 ]
