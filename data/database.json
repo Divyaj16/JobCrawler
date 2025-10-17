@@ -1,15 +1,5 @@
 [
     {
-        "title": "Software Engineer, Ruby on Rails",
-        "company": "Mudflap",
-        "location": "Palo Alto, CA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ruby-on-rails-at-mudflap-4316054703?position=4&pageNum=0&refId=lItixdm3bFA7Jk1wZkup5w%3D%3D&trackingId=ckQ8tn4o30BR4ycnnaAh0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-17 05:20:57",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "TEKsystems",
         "location": "Indianapolis, IN",
@@ -117,6 +107,46 @@
         "url": "https://www.linkedin.com/jobs/view/cad-designer-at-npaworldwide-4315548516?position=14&pageNum=0&refId=4iwCPTsG1g%2Fw0Aig7Z1i5g%3D%3D&trackingId=zq4eQaSJWGYdfg%2FZblxKww%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-17 05:56:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Hired by Matrix, Inc",
+        "location": "Columbia, SC",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hired-by-matrix-inc-4315558270?position=2&pageNum=0&refId=kp2L1%2BBzXzm4cgBdEbXyKg%3D%3D&trackingId=yud1%2BQJKXje%2FcPiP22YNww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-17 06:28:46",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Leidos",
+        "location": "Tewksbury, MA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-leidos-4316051975?position=3&pageNum=0&refId=kp2L1%2BBzXzm4cgBdEbXyKg%3D%3D&trackingId=1O9u20w3R4S5qqAfQHVmeA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-17 06:28:46",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer I (W-2)",
+        "company": "SMX Services & Consulting, Inc.",
+        "location": "Brooklyn, NY",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-i-w-2-at-smx-services-consulting-inc-4316057692?position=5&pageNum=0&refId=kp2L1%2BBzXzm4cgBdEbXyKg%3D%3D&trackingId=EHeoMPWJfZLwmGBwbLeeJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-17 06:28:46",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Crisis24",
+        "location": "Annapolis, MD",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-crisis24-4316058440?position=8&pageNum=0&refId=kp2L1%2BBzXzm4cgBdEbXyKg%3D%3D&trackingId=Yd3w4j6ttg%2FtDkvYrx%2B64A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-17 06:28:46",
         "email_sent": false
     }
 ]
