@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Scientist",
-        "company": "Valley Bank",
-        "location": "Morristown, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-valley-bank-4316567282?position=4&pageNum=0&refId=9MaPMugAvnZ4dwrm35xovw%3D%3D&trackingId=20EOtxKILrbaNVSj1Je1vQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 05:46:27",
-        "email_sent": false
-    },
-    {
-        "title": "Business Intelligence Analyst I",
-        "company": "Guardian Credit Union",
-        "location": "Prattville, AL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-i-at-guardian-credit-union-4315792996?position=6&pageNum=0&refId=9MaPMugAvnZ4dwrm35xovw%3D%3D&trackingId=KlltLFeRBqTRy5GgqBiNsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 05:46:27",
-        "email_sent": false
-    },
-    {
         "title": "Analyst - Data Operations DIG",
         "company": "BlackRock",
         "location": "Wilmington, DE",
@@ -87,6 +67,46 @@
         "url": "https://www.linkedin.com/jobs/view/validation-specialist-at-addepar-4316557999?position=7&pageNum=0&refId=dkD5xI%2B7j9zxIZJrcAn6Bg%3D%3D&trackingId=%2FZRYnr2Rz0E8voMyMnwXkA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-18 06:24:58",
+        "email_sent": false
+    },
+    {
+        "title": "ETL Data Engineer",
+        "company": "Intellibee Inc",
+        "location": "Jackson, MS",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/etl-data-engineer-at-intellibee-inc-4316563724?position=1&pageNum=0&refId=pUWOoNT302iY2lHn3zthqg%3D%3D&trackingId=4zCeusQ7ygl2XrGKZo2CCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 06:46:50",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer : 25-06636",
+        "company": "Akraya, Inc.",
+        "location": "Mountain View, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-25-06636-at-akraya-inc-4313321391?position=2&pageNum=0&refId=pUWOoNT302iY2lHn3zthqg%3D%3D&trackingId=tXFNo9GZ2qkEJSbIPinojQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 06:46:50",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Amivero",
+        "location": "Reston, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-amivero-4315798712?position=3&pageNum=0&refId=pUWOoNT302iY2lHn3zthqg%3D%3D&trackingId=acFqOJNKW%2BegquZ4kbg2QA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 06:46:50",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Global Commercial Services",
+        "company": "American Express",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-global-commercial-services-at-american-express-4316574110?position=5&pageNum=0&refId=pUWOoNT302iY2lHn3zthqg%3D%3D&trackingId=MZeEX2JYDDdlfJ%2BZQpwKBA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 06:46:50",
         "email_sent": false
     }
 ]
