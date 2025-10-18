@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Randstad Digital Americas",
-        "location": "Denver, CO",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-randstad-digital-americas-4312683014?position=5&pageNum=0&refId=7BNcs4JMkkJf%2BbzPzks36A%3D%3D&trackingId=rc8LnqZTzvqBcdsNTHuzyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 18:47:59",
-        "email_sent": false
-    },
-    {
-        "title": "AI Engineer",
-        "company": "Quintess AI",
-        "location": "San Francisco, CA",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-quintess-ai-4316176056?position=6&pageNum=0&refId=7BNcs4JMkkJf%2BbzPzks36A%3D%3D&trackingId=Pe0MHbSwZ9m3NyrCKQYCqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 18:47:59",
-        "email_sent": false
-    },
-    {
         "title": "Data Scientist",
         "company": "Block",
         "location": "United States",
@@ -177,6 +157,56 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-api-linux-at-wiraa-4316585406?position=15&pageNum=0&refId=zimlRnVm6snLfgP%2FfQAddA%3D%3D&trackingId=dB6N%2B6H%2FkxS34MJnm89FyA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-18 19:47:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Owego, NY",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4312196749?position=2&pageNum=0&refId=BR9n7qxpDQJFhyA1L74ulQ%3D%3D&trackingId=ad%2Bm603hsvKwNKP9CWWiXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 19:59:16",
+        "email_sent": false
+    },
+    {
+        "title": "DevSecOps Software Engineer - Early Career",
+        "company": "Jobs via Dice",
+        "location": "Mt. Laurel, NJ",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/devsecops-software-engineer-early-career-at-jobs-via-dice-4313440636?position=12&pageNum=0&refId=BR9n7qxpDQJFhyA1L74ulQ%3D%3D&trackingId=e12uDFq%2FJKXokuFNpqOrxg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 19:59:16",
+        "email_sent": false
+    },
+    {
+        "title": "Cyber AI/ML Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Denver, CO",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/cyber-ai-ml-software-engineer-at-jobs-via-dice-4313435764?position=43&pageNum=0&refId=BR9n7qxpDQJFhyA1L74ulQ%3D%3D&trackingId=w08pptdSlIVQqCV5AFIDzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 19:59:16",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Jobs via Dice",
+        "location": "Washington, DC",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-jobs-via-dice-4313193942?position=53&pageNum=0&refId=BR9n7qxpDQJFhyA1L74ulQ%3D%3D&trackingId=hwrnraw8ul2CneHhKzESzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 19:59:16",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Jobs via Dice",
+        "location": "Denver, CO",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4312197613?position=59&pageNum=0&refId=BR9n7qxpDQJFhyA1L74ulQ%3D%3D&trackingId=gj4XFfkPcuMl%2BxNvH%2BPbLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 19:59:16",
         "email_sent": false
     }
 ]
