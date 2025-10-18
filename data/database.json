@@ -1,65 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4316587404?position=1&pageNum=0&refId=tKAU4RwuZXhwRS8SYuDrqg%3D%3D&trackingId=1McsxiiwxpJwigjdgamzeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 18:34:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4316578819?position=2&pageNum=0&refId=tKAU4RwuZXhwRS8SYuDrqg%3D%3D&trackingId=A9%2BCvtFcJpHfqdtaPmAylg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 18:34:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Advisor)",
-        "company": "Gainwell Technologies",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-advisor-at-gainwell-technologies-4316584555?position=3&pageNum=0&refId=tKAU4RwuZXhwRS8SYuDrqg%3D%3D&trackingId=tnyAWege%2BMVjOoOaQ67PmQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 18:34:01",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (SQL, Java)",
-        "company": "Block",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-java-at-block-4316583532?position=4&pageNum=0&refId=tKAU4RwuZXhwRS8SYuDrqg%3D%3D&trackingId=Y32uj%2FvfKd2MoRXz2zWLnw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 18:34:01",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Full Stack)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-wiraa-4316575886?position=5&pageNum=0&refId=tKAU4RwuZXhwRS8SYuDrqg%3D%3D&trackingId=hoWTzQYpcEdjMW2QTUzfNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 18:34:01",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (API, Linux)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-linux-at-wiraa-4316585406?position=6&pageNum=0&refId=tKAU4RwuZXhwRS8SYuDrqg%3D%3D&trackingId=laD%2FZN2fvR8z7i9x43WwMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 18:34:01",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Randstad Digital Americas",
         "location": "Denver, CO",
@@ -147,6 +87,36 @@
         "url": "https://www.linkedin.com/jobs/view/sql-data-analyst-at-jobs-via-dice-4312868354?position=53&pageNum=0&refId=8ugmiBb7RyJLWH9ycDaO%2Bg%3D%3D&trackingId=Clnz%2FzPBoVGbKGdwLqB3Jw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-18 19:27:21",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Delta Solutions and Strategies",
+        "location": "Colorado Springs, CO",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-delta-solutions-and-strategies-4316814670?position=8&pageNum=0&refId=oMUdgts0cNLIaFGZD7KJyA%3D%3D&trackingId=AVYR6FFdzg5R3%2FVuYhV%2FzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 19:38:49",
+        "email_sent": false
+    },
+    {
+        "title": "NASA Entry Level Software Engineer/IV&V Analyst",
+        "company": "4M Research",
+        "location": "Huntsville, AL",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/nasa-entry-level-software-engineer-iv-v-analyst-at-4m-research-4316808882?position=12&pageNum=0&refId=oMUdgts0cNLIaFGZD7KJyA%3D%3D&trackingId=Bn0PKAOdPNiZ9wd9Ufakvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 19:38:49",
+        "email_sent": false
+    },
+    {
+        "title": "Growth Hacker",
+        "company": "talentpluto",
+        "location": "New York, NY",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/growth-hacker-at-talentpluto-4316808794?position=16&pageNum=0&refId=oMUdgts0cNLIaFGZD7KJyA%3D%3D&trackingId=6rWenyZBujnAGxCV%2BtlF5A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 19:38:49",
         "email_sent": false
     }
 ]
