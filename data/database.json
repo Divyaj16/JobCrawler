@@ -1,145 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Jack",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jack-4314026765?position=2&pageNum=0&refId=b0bZlEkMnHMtSEUv973RzA%3D%3D&trackingId=%2FX4VMPC2eF%2FIr3XrAlT1Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:32:22",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Jack",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jack-4312143254?position=3&pageNum=0&refId=b0bZlEkMnHMtSEUv973RzA%3D%3D&trackingId=CjhGEJ%2FAwkEyn%2Fmt4nh3ow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:32:22",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Amy's Kitchen",
-        "location": "Petaluma, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-amy-s-kitchen-4296687032?position=1&pageNum=0&refId=UO99SLWLeh5YDrTEC1B4nA%3D%3D&trackingId=AvchbMpsT3lzuYy9iVtA2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:42:18",
-        "email_sent": false
-    },
-    {
-        "title": "Associate eCommerce Data Analyst",
-        "company": "Uline",
-        "location": "Glenview, IL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-ecommerce-data-analyst-at-uline-4296392081?position=9&pageNum=0&refId=UO99SLWLeh5YDrTEC1B4nA%3D%3D&trackingId=QTfmYsQhMziVPjakCCRJ8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:42:18",
-        "email_sent": false
-    },
-    {
-        "title": "Associate eCommerce Data Analyst",
-        "company": "Uline",
-        "location": "Milwaukee, WI",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-ecommerce-data-analyst-at-uline-4296396054?position=21&pageNum=0&refId=UO99SLWLeh5YDrTEC1B4nA%3D%3D&trackingId=YC9RK83abyRZhYU2Lpib%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:42:18",
-        "email_sent": false
-    },
-    {
-        "title": "Associate eCommerce Data Analyst",
-        "company": "Uline",
-        "location": "Kenosha, WI",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-ecommerce-data-analyst-at-uline-4296388114?position=29&pageNum=0&refId=UO99SLWLeh5YDrTEC1B4nA%3D%3D&trackingId=Ez9Ukr3V%2BIf1SgX10gerag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:42:18",
-        "email_sent": false
-    },
-    {
-        "title": "Modeller",
-        "company": "Mitchell Martin Inc.",
-        "location": "Jersey City, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/modeller-at-mitchell-martin-inc-4294708081?position=35&pageNum=0&refId=UO99SLWLeh5YDrTEC1B4nA%3D%3D&trackingId=9URYO%2BQrnwRbTBjz7wDFVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:42:18",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer Associate - Engineer Sr",
-        "company": "Public Service Company of Oklahoma",
-        "location": "Roanoke, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-associate-engineer-sr-at-public-service-company-of-oklahoma-4305842335?position=36&pageNum=0&refId=UO99SLWLeh5YDrTEC1B4nA%3D%3D&trackingId=H32lghYD7wu%2BOV%2F2HRA32A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:42:18",
-        "email_sent": false
-    },
-    {
-        "title": "Concrete Engineer, Kiewit Infrastructure Engineer",
-        "company": "Kiewit",
-        "location": "Dallas, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/concrete-engineer-kiewit-infrastructure-engineer-at-kiewit-4296359231?position=38&pageNum=0&refId=UO99SLWLeh5YDrTEC1B4nA%3D%3D&trackingId=CiXGNvWdphh3TceM9V7WBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:42:18",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer I - Wastewater and Stormwater",
-        "company": "State of Delaware",
-        "location": "Delaware, United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-i-wastewater-and-stormwater-at-state-of-delaware-4316159182?position=39&pageNum=0&refId=UO99SLWLeh5YDrTEC1B4nA%3D%3D&trackingId=RKXwISQewUM%2FdLHbHA7B5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:42:18",
-        "email_sent": false
-    },
-    {
-        "title": "Concrete Engineer, Kiewit Infrastructure Engineer",
-        "company": "Kiewit",
-        "location": "Westlake, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/concrete-engineer-kiewit-infrastructure-engineer-at-kiewit-4296343826?position=40&pageNum=0&refId=UO99SLWLeh5YDrTEC1B4nA%3D%3D&trackingId=rZKN6u%2BytSlb7jsgbFw%2FsA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:42:18",
-        "email_sent": false
-    },
-    {
-        "title": "Concrete Engineer, Kiewit Infrastructure Engineer",
-        "company": "Kiewit",
-        "location": "Lone Tree, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/concrete-engineer-kiewit-infrastructure-engineer-at-kiewit-4296360147?position=41&pageNum=0&refId=UO99SLWLeh5YDrTEC1B4nA%3D%3D&trackingId=Je3VibFgyK6Ne6kO1LumCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:42:18",
-        "email_sent": false
-    },
-    {
-        "title": "Lab Automation Operator",
-        "company": "CGI",
-        "location": "West Point, PA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/lab-automation-operator-at-cgi-4306841691?position=46&pageNum=0&refId=UO99SLWLeh5YDrTEC1B4nA%3D%3D&trackingId=XGbpD1X1jWr81XVG%2FFFWhA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:42:18",
-        "email_sent": false
-    },
-    {
-        "title": "Government Finance Subject Matter Expert (SME)",
-        "company": "OpenGov Inc.",
-        "location": "Boston, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/government-finance-subject-matter-expert-sme-at-opengov-inc-4285751594?position=47&pageNum=0&refId=UO99SLWLeh5YDrTEC1B4nA%3D%3D&trackingId=hHcNMn1ZZ0%2FKq85zP4zGxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-18 15:42:18",
-        "email_sent": false
-    },
-    {
         "title": "EDI- Backend Software Engineer II (Remote)",
         "company": "American Specialty Health",
         "location": "United States",
@@ -257,6 +117,26 @@
         "url": "https://www.linkedin.com/jobs/view/hplc-data-analyst-chemist-pt-time-weekends-at-vanguard-laboratory-4316163155?position=29&pageNum=0&refId=SACiDVwb31KZjNcJVW4csA%3D%3D&trackingId=xfC2bttokKoaBF%2FsjUjxqQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-18 16:31:04",
+        "email_sent": false
+    },
+    {
+        "title": "Jr. Targeting Analyst",
+        "company": "Systems Planning & Analysis",
+        "location": "Alexandria, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/jr-targeting-analyst-at-systems-planning-analysis-4275231103?position=28&pageNum=0&refId=SwG2OjMDoLXaL%2BIGIqyj%2Fg%3D%3D&trackingId=RnN7D8SI3SbG%2B%2FB4dT2qxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 16:45:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Lexington 2 school district",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-4316805670?position=3&pageNum=0&refId=SwG2OjMDoLXaL%2BIGIqyj%2Fg%3D%3D&trackingId=pvU9tX5GCBfQfGsvY%2BKaeg%3D%3D&trk=public_jobs_jserp-result_search-card",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-18 16:45:54",
         "email_sent": false
     }
 ]
