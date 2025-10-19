@@ -1,35 +1,5 @@
 [
     {
-        "title": "Software Engineer (SQL, Java)",
-        "company": "Block",
-        "location": "United States",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-java-at-block-4316583532?position=6&pageNum=0&refId=z9O7EWA9UyuqW5tNPjeYsA%3D%3D&trackingId=lFOgvBBZs8%2B6TMXILnJHtw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-19 05:57:07",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Block",
-        "location": "United States",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-block-4316574977?position=10&pageNum=0&refId=z9O7EWA9UyuqW5tNPjeYsA%3D%3D&trackingId=V5V6D9pMI1mcDm4vCCGZvw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-19 05:57:07",
-        "email_sent": false
-    },
-    {
-        "title": "Statistician",
-        "company": "ECLARO",
-        "location": "New Brunswick, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/statistician-at-eclaro-4316400286?position=12&pageNum=0&refId=z9O7EWA9UyuqW5tNPjeYsA%3D%3D&trackingId=sd9WuyMCG6ihzeTV1fTBHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-19 05:57:07",
-        "email_sent": false
-    },
-    {
         "title": "Software Development Engineer",
         "company": "Randstad Digital Americas",
         "location": "Bothell, WA",
@@ -37,6 +7,86 @@
         "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-randstad-digital-americas-4312682053?position=9&pageNum=0&refId=nlmu5GDCL4J3uJ6Oj4wHHA%3D%3D&trackingId=nLfLdeCkx3LrvNBA2Chscg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-19 06:47:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4316587404?position=1&pageNum=0&refId=r11Ma3ZyqwvrqiQKFwGtWg%3D%3D&trackingId=tzUnSFddSbydOFd%2F2mLJ7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 06:57:07",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4316578819?position=2&pageNum=0&refId=r11Ma3ZyqwvrqiQKFwGtWg%3D%3D&trackingId=mSuNE106xbVWwKS1KgF%2FCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 06:57:07",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "CrowdStrike",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-crowdstrike-4316579828?position=3&pageNum=0&refId=r11Ma3ZyqwvrqiQKFwGtWg%3D%3D&trackingId=fgQTmEAxmPLCkrQ1kx1hpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 06:57:07",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Advisor)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-advisor-at-wiraa-4316584555?position=4&pageNum=0&refId=r11Ma3ZyqwvrqiQKFwGtWg%3D%3D&trackingId=iLY0jVTp4%2BXWzg0A5w06tA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 06:57:07",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Duke University School of Medicine",
+        "location": "Durham, NC",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-duke-university-school-of-medicine-4316861277?position=5&pageNum=0&refId=r11Ma3ZyqwvrqiQKFwGtWg%3D%3D&trackingId=89eURIPwYqlpneMBbjIZMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 06:57:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Full Stack)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-wiraa-4316575886?position=8&pageNum=0&refId=r11Ma3ZyqwvrqiQKFwGtWg%3D%3D&trackingId=pOMtH27DKhp8ascRiUgwUg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 06:57:07",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Consumer",
+        "company": "Reddit, Inc.",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-consumer-at-reddit-inc-4316590307?position=11&pageNum=0&refId=r11Ma3ZyqwvrqiQKFwGtWg%3D%3D&trackingId=6eRUfMVKhHjfMLciPd%2FGMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 06:57:07",
+        "email_sent": false
+    },
+    {
+        "title": "Data Science Manager",
+        "company": "Reddit, Inc.",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-science-manager-at-reddit-inc-4316576907?position=12&pageNum=0&refId=r11Ma3ZyqwvrqiQKFwGtWg%3D%3D&trackingId=jPlEIUB5ID7A5TVM7N%2BT5w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-19 06:57:07",
         "email_sent": false
     }
 ]
