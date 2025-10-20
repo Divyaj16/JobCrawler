@@ -1,335 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Saragossa",
-        "location": "Chicago, IL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-saragossa-4314917161?position=1&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=L20pldqTcGZcm3zjW578jw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Kforce Inc",
-        "location": "Roswell, GA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4317386395?position=4&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=hneB6fCGHRF%2FRjFnx1gsGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I (entry)",
-        "company": "Jerry",
-        "location": "Palo Alto, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-entry-at-jerry-4314915163?position=7&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=KrmyEeRapt3ZKXrvTq9ocg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "IT Data Engineer",
-        "company": "TalentAlly",
-        "location": "Louisville Metropolitan Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/it-data-engineer-at-talentally-4317368776?position=10&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=W92RGI8dmDbphKj23r9ddg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Boom Supersonic",
-        "location": "Centennial, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-boom-supersonic-4317367662?position=14&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=jJi14MP1wb5jwOt3wg95nw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - US East Coast, Remote",
-        "company": "Vista",
-        "location": "Boston, MA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-us-east-coast-remote-at-vista-4317378693?position=18&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=dAvwD9VCCOvXpSqosMcO8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Lockheed Martin",
-        "location": "Littleton, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lockheed-martin-4317355827?position=19&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=GSKq%2FvhK7xYaGKR5wVUVjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Menlo Park, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4316625941?position=20&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=%2BC3yuIDBFg7a9EpT3Lh3rQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Junior ML Ops Engineer",
-        "company": "Kforce Inc",
-        "location": "Charlotte, NC",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-ml-ops-engineer-at-kforce-inc-4317372662?position=24&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=ql6OQcDVyfsq9BL%2BIhr%2Fpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Kforce Inc",
-        "location": "Alpharetta, GA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-kforce-inc-4317380516?position=25&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=H9e9aAdd1tImp9gOzCurEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Business Data Analyst",
-        "company": "Zelis",
-        "location": "Hillsborough County, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-zelis-4317364787?position=26&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=yVB1Fn989Yw2V8PlqNFXhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Business Data Analyst",
-        "company": "Zelis",
-        "location": "Middlesex County, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-zelis-4317363788?position=29&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=yIkFGGB7euKT7oBu%2BU0PYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Lab Data Analyst I",
-        "company": "ICON plc",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/lab-data-analyst-i-at-icon-plc-4316628736?position=30&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=ng5iZHvq6Xz3OxDM%2B5RxNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Business Data Analyst",
-        "company": "Zelis",
-        "location": "Jackson County, MO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-zelis-4317352979?position=32&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=pxYKQllRU3eKySCaVap31A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Automation Test Engineer (Strata Logging Service)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-automation-test-engineer-strata-logging-service-at-palo-alto-networks-4317351795?position=33&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=18hK%2F35%2FkBfRS6O2lS2AXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Dev Engineer",
-        "company": "Kforce Inc",
-        "location": "Seattle, WA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-dev-engineer-at-kforce-inc-4317378564?position=34&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=ihwENP53rm04DUU%2FeXl4wQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Business Intelligence Analyst",
-        "company": "Kforce Inc",
-        "location": "Redmond, WA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-kforce-inc-4317383448?position=38&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=O7A05BcKuZobBGIHnX6Dbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Systems Ratings Data Analyst",
-        "company": "Halker",
-        "location": "West, TX",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/systems-ratings-data-analyst-at-halker-4317373781?position=40&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=ySuarhOyUIAc6eA9rVg%2F1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "CACI International Inc",
-        "location": "Florham Park, NJ",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-caci-international-inc-4315888399?position=41&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=Z%2F%2BrbC%2BmNR8DOghTIvFGww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "TalentAlly",
-        "location": "Boulder, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-talentally-4317366731?position=44&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=iwq1lBsHCPYp%2FmQHEs1kKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Fullstack Developer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/fullstack-developer-at-best-job-tool-4317367543?position=51&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=ZaH35XDowo2g6t2RVSydUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Quality Assurance Engineer",
-        "company": "Brightstar Lottery",
-        "location": "Tallahassee, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-quality-assurance-engineer-at-brightstar-lottery-4302410922?position=52&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=KOD4e01BEPjH2AmlHtUc%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "CCaaS Engineer",
-        "company": "TAG - The Aspen Group",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/ccaas-engineer-at-tag-the-aspen-group-4316647144?position=55&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=53N2b7K0eeGF0ZjrReNB7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Data Governance Analyst",
-        "company": "Primary Talent Partners",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-data-governance-analyst-at-primary-talent-partners-4317367732?position=56&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=H7oLOHmb22QQ3JXt3OO6cQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer (C#)",
-        "company": "Kforce Inc",
-        "location": "Rochester, MI",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c%23-at-kforce-inc-4317377528?position=59&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=%2Bu94obj49TyI7jSplN1TIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Scientist (4755)",
-        "company": "SMX",
-        "location": "Patuxent River, MD",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-4755-at-smx-4317375828?position=60&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=IX3sW1%2FTSwIlMomxjp68PQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Business Data Analyst",
-        "company": "Zelis",
-        "location": "Hillsborough County, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-zelis-4317364787?position=1&pageNum=2&refId=9Lt%2Bl%2B9ViOLsSSRVsWEZRw%3D%3D&trackingId=lyPxa3xcM0tzGsHRuVIUBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Business Data Analyst",
-        "company": "Zelis",
-        "location": "Middlesex County, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-zelis-4317363788?position=4&pageNum=2&refId=9Lt%2Bl%2B9ViOLsSSRVsWEZRw%3D%3D&trackingId=ov9LExIh6FjenAEB3oxsbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Lab Data Analyst I",
-        "company": "ICON plc",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/lab-data-analyst-i-at-icon-plc-4316628736?position=5&pageNum=2&refId=9Lt%2Bl%2B9ViOLsSSRVsWEZRw%3D%3D&trackingId=2%2BHEmdxZ%2BmAOC8aHUs0jBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Business Data Analyst",
-        "company": "Zelis",
-        "location": "Jackson County, MO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/business-data-analyst-at-zelis-4317352979?position=7&pageNum=2&refId=9Lt%2Bl%2B9ViOLsSSRVsWEZRw%3D%3D&trackingId=QCIZJOEMbYa7umsF3%2BTGUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Automation Test Engineer (Strata Logging Service)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-automation-test-engineer-strata-logging-service-at-palo-alto-networks-4317351795?position=8&pageNum=2&refId=9Lt%2Bl%2B9ViOLsSSRVsWEZRw%3D%3D&trackingId=L6E%2FNOqiUI6g3MF%2FlfqG4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Dev Engineer",
-        "company": "Kforce Inc",
-        "location": "Seattle, WA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-dev-engineer-at-kforce-inc-4317378564?position=9&pageNum=2&refId=9Lt%2Bl%2B9ViOLsSSRVsWEZRw%3D%3D&trackingId=sR4FAAabf%2FVpiA6RHSwqUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Nth Technologies",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-4316642743?position=22&pageNum=0&refId=iv8ChdYQL2EXG0BvczTyBw%3D%3D&trackingId=hFalow48bdJW%2Ft1TKYME5A%3D%3D&trk=public_jobs_jserp-result_search-card",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-20 20:46:11",
-        "email_sent": false
-    },
-    {
         "title": "System Engineer (Managed Services | NYC Onsite + Remote Support)",
         "company": "Bowman Williams",
         "location": "New York, NY",
@@ -767,6 +437,226 @@
         "url": "https://www.linkedin.com/jobs/view/data-operations-associate-external-staffing-agency-at-national-football-league-nfl-4314910520?position=10&pageNum=2&refId=K3LNSoQCzYTED9Opna8W6A%3D%3D&trackingId=3uhl7jcJ%2FwGaY14aOYdW9A%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-20 21:33:04",
+        "email_sent": false
+    },
+    {
+        "title": "Model Data Engineer",
+        "company": "Lenovo",
+        "location": "North Carolina, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/model-data-engineer-at-lenovo-4316655146?position=3&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=5KJuu2ykUVUGRwUM5X%2BilA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer - New Graduate",
+        "company": "Aptos Retail",
+        "location": "Atlanta, GA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-new-graduate-at-aptos-retail-4317373572?position=6&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=Hd8FJslgatbCbOY%2FuKgfXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Crew",
+        "location": "Reston, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-crew-4317393081?position=8&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=tSLDb%2FKajUkJswoDlLXLOA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Podium Automation",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-podium-automation-4317382281?position=9&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=55vZNOof9N8EwxMMKLuJog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Python Software Engineer",
+        "company": "Acuity",
+        "location": "Boulder, CO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/python-software-engineer-at-acuity-4316656091?position=10&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=GEsUyYI%2FvmzQdwH5C8hJxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "eHealth, Inc.",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ehealth-inc-4304775823?position=12&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=M5ugcNCQTkt2DHICgncwjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Microsoft 365 Engineer",
+        "company": "National Association of REALTORS\u00ae",
+        "location": "Chicago, IL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/microsoft-365-engineer-at-national-association-of-realtors%C2%AE-4306297386?position=28&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=fzD9sf5PT4xzNWxhZTrN%2FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Core, Data Science",
+        "company": "DEPT\u00ae",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/core-data-science-at-dept%C2%AE-4317393341?position=29&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=XIOCGZNg3Yw7Wdphwu%2B93g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Developer",
+        "company": "Aditi Consulting",
+        "location": "Chicago, IL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/developer-at-aditi-consulting-4317383426?position=30&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=OkGJZ%2BZF%2BmH7Is6SeeJt2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Research Data Analyst",
+        "company": "Vanderbilt University Medical Center",
+        "location": "Nashville Metropolitan Area",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/research-data-analyst-at-vanderbilt-university-medical-center-4314921022?position=31&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=cfbHOrtFYRFBe6cJ0etNPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Research & Data Analyst- Limited",
+        "company": "UC Irvine",
+        "location": "Irvine, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/research-data-analyst-limited-at-uc-irvine-4317393314?position=34&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=cszE3HEOHoPu7Cp0VcmhmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4309990593?position=37&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=rlGmZPoVvg0TkDQuIQQn8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "IT Security Engineer",
+        "company": "A Hiring Company",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/it-security-engineer-at-a-hiring-company-4317378535?position=43&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=LkheE6964rFYMQ0I4c574A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "CACI International Inc",
+        "location": "Lisle, IL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-caci-international-inc-4317395207?position=45&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=GhbT9%2F6E%2FGhz%2F0OdIqAb8A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Autonomous Healthcare",
+        "location": "Santa Clara, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-autonomous-healthcare-4316635967?position=46&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=LAh0oyHUbldB6jIQ5G8YHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Flashbots",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-flashbots-4317388166?position=49&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=SRB8%2FweXBWoW8ghYAII3ng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst / Modeler",
+        "company": "Apex Systems",
+        "location": "Dearborn, MI",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-modeler-at-apex-systems-4317389852?position=54&pageNum=0&refId=0Zj%2BTtbUFF5Ddxn5rF%2F6tQ%3D%3D&trackingId=8Ojr7Z7FwqCoBmMakMYpYQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Microsoft 365 Engineer",
+        "company": "National Association of REALTORS\u00ae",
+        "location": "Chicago, IL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/microsoft-365-engineer-at-national-association-of-realtors%C2%AE-4306297386?position=3&pageNum=2&refId=lOlHuncxYj%2BpgvSQkIjheQ%3D%3D&trackingId=1S4M5EBR0dD1%2Ffvq3vKH9Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Core, Data Science",
+        "company": "DEPT\u00ae",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/core-data-science-at-dept%C2%AE-4317393341?position=4&pageNum=2&refId=lOlHuncxYj%2BpgvSQkIjheQ%3D%3D&trackingId=aBQ%2FZKyzXgGkBtLMCc2eRw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Developer",
+        "company": "Aditi Consulting",
+        "location": "Chicago, IL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/developer-at-aditi-consulting-4317383426?position=5&pageNum=2&refId=lOlHuncxYj%2BpgvSQkIjheQ%3D%3D&trackingId=pr7PiEMnzVEorCp%2BkQjS1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Research Data Analyst",
+        "company": "Vanderbilt University Medical Center",
+        "location": "Nashville Metropolitan Area",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/research-data-analyst-at-vanderbilt-university-medical-center-4314921022?position=6&pageNum=2&refId=lOlHuncxYj%2BpgvSQkIjheQ%3D%3D&trackingId=Df1x26x8Nn1PLcCicG%2BKdQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Research & Data Analyst- Limited",
+        "company": "UC Irvine",
+        "location": "Irvine, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/research-data-analyst-limited-at-uc-irvine-4317393314?position=9&pageNum=2&refId=lOlHuncxYj%2BpgvSQkIjheQ%3D%3D&trackingId=qhyOV%2FmF9O%2BMWrNKO465gg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-20 21:57:02",
         "email_sent": false
     }
 ]
