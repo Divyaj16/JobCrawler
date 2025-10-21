@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "ECLARO",
-        "location": "Texas, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-eclaro-4315422958?position=6&pageNum=0&refId=T5bhGcHCebR6Moqfr5IN%2FQ%3D%3D&trackingId=1l6uFKRHm2v47CSbogPZHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-21 19:39:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II - DevOps",
-        "company": "JPMorganChase",
-        "location": "Austin, TX",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-devops-at-jpmorganchase-4315430914?position=49&pageNum=0&refId=T5bhGcHCebR6Moqfr5IN%2FQ%3D%3D&trackingId=m6uCQpLmMwEAmSOyJ6bIbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-21 19:39:32",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Services for the UnderServed",
         "location": "New York, NY",
@@ -447,6 +427,286 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-canaria-4315460071?position=10&pageNum=2&refId=TpGnfgrPgPzlMq26umtFDg%3D%3D&trackingId=d1BsGWvnx6371UgKdTReAg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-21 20:27:18",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer I",
+        "company": "V-Soft Consulting Group, Inc.",
+        "location": "Cincinnati, OH",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-v-soft-consulting-group-inc-4317888960?position=2&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=Fx1C%2FTyfEbwan3%2BVyoSd7w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4317810451?position=3&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=1bQtrhwGYul8MbjxAdsWfg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-wiraa-4317596742?position=4&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=QD%2FQdd1QoKQie%2BPWYQu8og%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "CapRelo",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-caprelo-4318100718?position=9&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=deYf4HTcoUuU3RA%2Bk5ubAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "The Daily Beast",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-the-daily-beast-4315464064?position=10&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=wwhyITDbTRdaOtvWQgqung%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4317809460?position=13&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=aJ7%2FBFPM72H9Ob79tNKJ%2FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, Golang)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-golang-at-wiraa-4317811386?position=15&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=Sfn%2Fzc3DIv84KfGXNdH62g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer III (Python/ML Systems Engineer)",
+        "company": "Creospan Inc.",
+        "location": "New York, United States",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-python-ml-systems-engineer-at-creospan-inc-4316994558?position=16&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=Tqb0sEyadgN9HYs6j5mFKg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend",
+        "company": "Robinhood",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-robinhood-4315426715?position=17&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=PyzQG%2FBba615sWFGowxmUQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend",
+        "company": "Robinhood",
+        "location": "Menlo Park, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-robinhood-4315424790?position=20&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=ypv18K2MWrn2hKSAvYLLGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-wiraa-4317805547?position=21&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=gXH1Dz5rs%2BF9TsuQJazhKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Prime Controls",
+        "location": "Lewisville, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-prime-controls-4318114329?position=22&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=hEUf5wO8vYYt7BdnvbYZZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Texas City, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-jobs-via-dice-4315437535?position=23&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=Ii%2FM4Ug9qccOiSE%2BBFFWTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Analytics",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-analytics-at-jobs-via-dice-4315424796?position=26&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=pQBDqNDGVXdAW%2BNanpRucA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Data",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-at-wiraa-4317812388?position=27&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=hjsU%2F38FZCTN658XCF3vcg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-best-job-tool-4315430546?position=28&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=G9JysbOVedo1Ep4vIz%2F8qQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Google Cloud Data and AI Engineer (Raleigh, NC)",
+        "company": "Reingold, Inc.",
+        "location": "Raleigh, NC",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/google-cloud-data-and-ai-engineer-raleigh-nc-at-reingold-inc-4318136749?position=29&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=xoT0otZZnEu2G1eEQz1sGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "San Jose, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4315425790?position=32&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=6sOywHuaJlFi1OpUpEoe4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (SQL, WIM)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-wim-at-wiraa-4317802563?position=35&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=3h23DUA2kkH0DfQUQ9zNmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Vanguard Parking Solutions",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-vanguard-parking-solutions-4318135735?position=37&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=fNBjEzdi1ux9l9pVyVJSCQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "A-Line Staffing Solutions",
+        "location": "Charlotte, NC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-a-line-staffing-solutions-4318112347?position=41&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=RRjLZnorL4qOmJIOdnLp2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - Boston",
+        "company": "Jobs via Dice",
+        "location": "Boston, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-boston-at-jobs-via-dice-4315428690?position=45&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=f1zYFG14Yp5BIY1avemhwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Trademark Recruiting/Consulting",
+        "location": "Florida, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-trademark-recruiting-consulting-4315471008?position=48&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=E6sZ4mMLM6Axu4Ofg4Im9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Systems Analysis Engineer/Scientist Support)",
+        "company": "CACI International Inc",
+        "location": "Norco, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-systems-analysis-engineer-scientist-support-at-caci-international-inc-4318136331?position=52&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=L7EPum5uMPkqUHQolqovyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Databricks Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "St Louis, MO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/databricks-data-engineer-at-jobs-via-dice-4315440099?position=54&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=zZlL9TaIJAiC6OmeEtXNWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wiraa-4317805545?position=58&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=gRwX8oxcY%2B9pdUGykmcB4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer( Snowflake-DBT)",
+        "company": "Jobs via Dice",
+        "location": "Dallas, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-snowflake-dbt-at-jobs-via-dice-4315427716?position=59&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=SRiG1mNIHilQV1DolUy7Xg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, EHR Integrations",
+        "company": "Xealth",
+        "location": "Seattle, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ehr-integrations-at-xealth-4315417904?position=60&pageNum=0&refId=6s8qVEQBSYrqsNwid0UgyQ%3D%3D&trackingId=RajI4CCgSpSDh%2FmBrm%2Fr%2Bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-21 20:45:31",
         "email_sent": false
     }
 ]
