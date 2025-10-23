@@ -1,165 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4318791272?position=1&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=zBUMGv3S0zIrWg7Tf1r7Qw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer (AWS, Azure, GCP)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-aws-azure-gcp-at-wiraa-4318796153?position=4&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=Z1mZb9o%2BKY%2FfHlkhHEdoOA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "Exceptional Software Engineer",
-        "company": "xAI",
-        "location": "Palo Alto, CA",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/exceptional-software-engineer-at-xai-4316296785?position=7&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=KJe16dQrIlMqXqkfA0Zezg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-wiraa-4318789431?position=8&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=hF2zG3ta4tjMxspF9I2YCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "AppCard, Inc.",
-        "location": "New York, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-appcard-inc-4314395241?position=10&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=1fQ4u7Y3Vy03P5o4jSA6Cw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "Finance Data Developer",
-        "company": "Physicians Mutual",
-        "location": "Omaha, NE",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/finance-data-developer-at-physicians-mutual-4305738633?position=17&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=yccrXTEy5ZQI3%2BnWP2DqWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "Back End Developer",
-        "company": "AppCard, Inc.",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/back-end-developer-at-appcard-inc-4315402433?position=19&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=%2FxOIVcdFM%2BqRjeI1AqxbIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (SQL, Java)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-java-at-wiraa-4318785698?position=21&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=lg0tH9g3V%2FwipGMbmKROnw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Backend - AI Tools DevX",
-        "company": "Coinbase",
-        "location": "United States",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-ai-tools-devx-at-coinbase-4323909470?position=33&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=esj9RDdew%2BuyellJ32fokw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "Software Design Engineer 2",
-        "company": "Experis",
-        "location": "Redmond, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-design-engineer-2-at-experis-4317975156?position=35&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=R9kXk9zDT3u32xpvbdl%2FAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist 1",
-        "company": "Experis",
-        "location": "Redmond, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-1-at-experis-4317978124?position=38&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=FhP%2FAZ7Uvn5Gv%2BKS%2BIOuQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer",
-        "company": "Amentum",
-        "location": "Dahlgren, VA",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-amentum-4318512554?position=45&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=t%2ByMVoAB0KRkBqWNfFD%2Fsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "Sentinel Associate Software Engineer - 15669 - R10210769-2",
-        "company": "Northrop Grumman",
-        "location": "Colorado Springs, CO",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sentinel-associate-software-engineer-15669-r10210769-2-at-northrop-grumman-4314417410?position=47&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=a8cWeHqT00oA4PEWBfwv2w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "RTOS Embedded Software Engineer 5 - R10208536",
-        "company": "Northrop Grumman",
-        "location": "Los Angeles, CA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/rtos-embedded-software-engineer-5-r10208536-at-northrop-grumman-4306428698?position=59&pageNum=0&refId=rVntbIX1enN0UyjpJwG8Uw%3D%3D&trackingId=CUOfQg7JojiZqCMV4rCyjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Backend - AI Tools DevX",
-        "company": "Coinbase",
-        "location": "United States",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-ai-tools-devx-at-coinbase-4323909470?position=8&pageNum=2&refId=wPYkWrWKi5JrMA2xhoTMpw%3D%3D&trackingId=ccC23LbFWHUweHGPNdfakA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
-        "title": "Software Design Engineer 2",
-        "company": "Experis",
-        "location": "Redmond, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-design-engineer-2-at-experis-4317975156?position=10&pageNum=2&refId=wPYkWrWKi5JrMA2xhoTMpw%3D%3D&trackingId=qVjYuNYyQF7pFTdt89tqCQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 21:59:34",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer II - Member Engagement",
         "company": "Uber",
         "location": "San Francisco, CA",
@@ -787,6 +627,146 @@
         "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4316265363?position=10&pageNum=2&refId=ra6doMXwK5KG84EkQf5XMg%3D%3D&trackingId=YGWEjwsK18Dn3bQLi2S7Qw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-23 22:58:37",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries)",
+        "company": "QuantumBlack, AI by McKinsey",
+        "location": "New York, NY",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-quantumblack-ai-by-mckinsey-critical-industries-at-quantumblack-ai-by-mckinsey-4323930224?position=1&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=TGyrOLK5j1L5ow2dWmz%2BlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - FinLab",
+        "company": "McKinsey & Company",
+        "location": "New York, NY",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-finlab-at-mckinsey-company-4323934178?position=6&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=Zyc%2F7vd%2BGCWWlIkNt7636g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
+        "email_sent": false
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "Dark Wolf Solutions",
+        "location": "Herndon, VA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/cloud-engineer-at-dark-wolf-solutions-4316714190?position=10&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=3h2dySG9xfJNrV9Qcr8Bqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
+        "email_sent": false
+    },
+    {
+        "title": "Power System Engineer",
+        "company": "347 Group, Inc.",
+        "location": "Ontario, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/power-system-engineer-at-347-group-inc-4323921382?position=18&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=jA9MqC1pCZIQyJljT0qkSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Android",
+        "company": "Underdog",
+        "location": "United States",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-android-at-underdog-4323931220?position=24&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=TndVuqegr%2BfWoRLMtWdJhw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - iOS",
+        "company": "Underdog",
+        "location": "United States",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-at-underdog-4323926278?position=25&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=FKkjs%2F%2F5SHX04lxEVqcUWQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
+        "email_sent": false
+    },
+    {
+        "title": "Tulip MES (Manufacturing Execution System) Developer",
+        "company": "SPECTRAFORCE",
+        "location": "Milpitas, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/tulip-mes-manufacturing-execution-system-developer-at-spectraforce-4323901591?position=32&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=zKJGeBt%2Bj8AQecDH%2FVqc%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
+        "email_sent": false
+    },
+    {
+        "title": "Telecommunications Network Engineer - Basic",
+        "company": "TekSynap",
+        "location": "United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/telecommunications-network-engineer-basic-at-teksynap-4316702924?position=33&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=bkwclrNyqAqbmETE2SdYng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Solutions Consultant",
+        "company": "PreSales Collective",
+        "location": "Illinois, United States",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-solutions-consultant-at-presales-collective-4316709141?position=34&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=6JQ1ONeMWm6s7JeQcAFqww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Civil Engineer",
+        "company": "Apex Clean Energy",
+        "location": "Charlottesville, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-civil-engineer-at-apex-clean-energy-4323926077?position=35&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=j665eLeNp1%2BGbgOFRaT34Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Product Analyst",
+        "company": "WCF Insurance",
+        "location": "Sandy, UT",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-product-analyst-at-wcf-insurance-4314425505?position=36&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=n67wGd15zl2nVo2reiXbLw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst Series/ATMA Series - BPR (Buses)",
+        "company": "Metropolitan Transportation Authority",
+        "location": "Brooklyn, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-series-atma-series-bpr-buses-at-metropolitan-transportation-authority-4323910909?position=37&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=k%2Fhmx6rGLpv%2Fpdf5yFpbqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
+        "email_sent": false
+    },
+    {
+        "title": "Traffic Safety Engineer",
+        "company": "AtkinsR\u00e9alis",
+        "location": "Edison, NJ",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/traffic-safety-engineer-at-atkinsr%C3%A9alis-4316723004?position=38&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=QVFfUs55xALXKlgKzzgemQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Analyst Planner Series - Operations Planning",
+        "company": "Metropolitan Transportation Authority",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-analyst-planner-series-operations-planning-at-metropolitan-transportation-authority-4323920092?position=39&pageNum=0&refId=Sdp%2FWnWM3O44G6%2F249Z5Ug%3D%3D&trackingId=XNs5JwZwpiKCgp93REQKhQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 23:17:20",
         "email_sent": false
     }
 ]
