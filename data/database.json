@@ -1,286 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4318791272?position=2&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=wXQ6HKeW217xxmAwZVrvyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer (AWS, Azure, GCP)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-aws-azure-gcp-at-wiraa-4318796153?position=7&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=ztIYX%2Bt3pTohfH05zogcoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4319044758?position=9&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=JZpKqGFIynQwnuncoejuSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Developer",
-        "company": "CGI",
-        "location": "Merrimack, NH",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-developer-at-cgi-4285898453?position=10&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=csg%2B%2BFbcS8oGK9ycNRTPow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Hedge Fund Data Operations Analyst (SQL/ Python)",
-        "company": "NYLON Search - Recruitment and Executive Search",
-        "location": "Philadelphia, PA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/hedge-fund-data-operations-analyst-sql-python-at-nylon-search-recruitment-and-executive-search-4286504785?position=13&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=xd4WDwsUtObXq9qLShCcMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "DevOps Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-wiraa-4318776970?position=15&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=pOBxOqLvIoHdozQN78ctOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "James Search Group",
-        "location": "New York, NY",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-james-search-group-4319069072?position=16&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=KMLXqNR%2FvxVgeBEa017kig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, DevOps",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-devops-at-wiraa-4318781786?position=19&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=nQs34NI1tS1lBUW3Ky78YA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (SQL, Java)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-java-at-wiraa-4318785698?position=20&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=n9ZhWlpiD7KgN%2BBtufkBnw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Jr. Data Integration Analyst",
-        "company": "Risk Strategies Company",
-        "location": "Grapevine, TX",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/jr-data-integration-analyst-at-risk-strategies-company-4319061364?position=22&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=EMINhBK1c1zpsZq7bO4%2BUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Research",
-        "company": "Cambridge Health Alliance",
-        "location": "Cambridge, MA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-research-at-cambridge-health-alliance-4317945087?position=23&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=G0voGn3CAyPw1kHr2dE0%2BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Quality Assurance Engineer",
-        "company": "Grayson Search Partners",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-quality-assurance-engineer-at-grayson-search-partners-4319048558?position=26&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=7E6i1SGlnVmeUeE9gaobGw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst with Medicaid or Claims",
-        "company": "Sligo Software Solutions Inc.",
-        "location": "Tallahassee, FL",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-with-medicaid-or-claims-at-sligo-software-solutions-inc-4319073003?position=27&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=qOlH%2FNO2n4y54pLj2MXKzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New York, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4311448254?position=28&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=1sGTg59uByJ8C2tSjG9Xmg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New York, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4316265363?position=30&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=WUPbVR4QVN%2FAoOF3LOMgPQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New York, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4316277178?position=32&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=ZO0P1L12VJKq3S7S1wy4qg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "California, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4311453219?position=33&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=OY%2BgyN1oEu6CuSoxauJCfg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "California, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4316272257?position=34&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=4eUSPfu4rNx6DPxf59cq5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "AI Engineer",
-        "company": "TalentAlly",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-talentally-4319040864?position=37&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=4J8tOhhRLaAY1vLSVXVe8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Full Stack",
-        "company": "TalentAlly",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-talentally-4319041795?position=39&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=n0SxjZUvxbiaDJvG99fWSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Science Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-science-analyst-at-wiraa-4318791273?position=50&pageNum=0&refId=WYSlvtQew5ktAowxzkyBkw%3D%3D&trackingId=VS6wOq2jA967RM0r%2BUpqNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Quality Assurance Engineer",
-        "company": "Grayson Search Partners",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-quality-assurance-engineer-at-grayson-search-partners-4319048558?position=1&pageNum=2&refId=ZOSeyY4vX8TqESuGDkqEdA%3D%3D&trackingId=EghzmYNKqy11W5w9k4hFAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst with Medicaid or Claims",
-        "company": "Sligo Software Solutions Inc.",
-        "location": "Tallahassee, FL",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-with-medicaid-or-claims-at-sligo-software-solutions-inc-4319073003?position=2&pageNum=2&refId=ZOSeyY4vX8TqESuGDkqEdA%3D%3D&trackingId=suZxw0k%2BND3aDUOIdVV9cQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New York, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4311448254?position=3&pageNum=2&refId=ZOSeyY4vX8TqESuGDkqEdA%3D%3D&trackingId=VyNAb513EXLvVDjTdvRMLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New York, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4316265363?position=5&pageNum=2&refId=ZOSeyY4vX8TqESuGDkqEdA%3D%3D&trackingId=Q9Gfbpunn7g0I5y0zmqkzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New York, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4316277178?position=7&pageNum=2&refId=ZOSeyY4vX8TqESuGDkqEdA%3D%3D&trackingId=bUiKqfa%2Bu6%2BtEWr%2FTdkmOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "California, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4311453219?position=8&pageNum=2&refId=ZOSeyY4vX8TqESuGDkqEdA%3D%3D&trackingId=NbPzL9np97ew2Az5kto84Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "California, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4316272257?position=9&pageNum=2&refId=ZOSeyY4vX8TqESuGDkqEdA%3D%3D&trackingId=mDphj4VAt0TTBm0v%2BAfbsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 16:50:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Niktor Inc",
         "location": "United States",
         "date_posted": "1 hour ago",
@@ -1267,6 +987,46 @@
         "url": "https://www.linkedin.com/jobs/view/marketing-data-analyst-4319080024?position=9&pageNum=2&refId=EurRuJEA4sc0PjgzwYQkxQ%3D%3D&trackingId=9tjICePiiRmUafTMZKikkQ%3D%3D&trk=public_jobs_jserp-result_search-card",
         "source": "LinkedIn",
         "scraped_date": "2025-10-23 17:48:38",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "TEKsystems",
+        "location": "Honolulu, HI",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-teksystems-4319091027?position=12&pageNum=0&refId=Rmr0jiEAeJsiXPsNKIFYjg%3D%3D&trackingId=zMGlxZpevY8fAukZSz%2BOYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 17:58:59",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Apex Systems",
+        "location": "Greenwood Village, CO",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-apex-systems-4291638881?position=26&pageNum=0&refId=Rmr0jiEAeJsiXPsNKIFYjg%3D%3D&trackingId=s4KtSZI9Ho477kdG1g1Q8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 17:58:59",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Apex Systems",
+        "location": "Franklin, WI",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-apex-systems-4308039798?position=39&pageNum=0&refId=Rmr0jiEAeJsiXPsNKIFYjg%3D%3D&trackingId=kZYEoIYAmrKOHZ1KZwiStA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 17:58:59",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Apex Systems",
+        "location": "Greenwood Village, CO",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-apex-systems-4291638881?position=1&pageNum=2&refId=gD418r%2BaCJFji%2B%2B%2BnK8Tiw%3D%3D&trackingId=%2BHmkZeuIWxitkb0ZCnFJtQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 17:58:59",
         "email_sent": false
     }
 ]
