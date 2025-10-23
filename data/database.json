@@ -1,105 +1,5 @@
 [
     {
-        "title": "Fullstack Engineer",
-        "company": "OpenAI",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/fullstack-engineer-at-openai-4318265004?position=7&pageNum=0&refId=I6LML6GbCoxzlireGdQftA%3D%3D&trackingId=6Id%2FTmaG9%2B%2F8QKX42pJiqw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 07:01:38",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, Python)",
-        "company": "Ford Motor Company",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-python-at-ford-motor-company-4318263024?position=8&pageNum=0&refId=I6LML6GbCoxzlireGdQftA%3D%3D&trackingId=F7A8L2vCYN7RAB%2FlJMbwkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 07:01:38",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Developer Experience",
-        "company": "Notion",
-        "location": "San Francisco, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-developer-experience-at-notion-4276096791?position=1&pageNum=0&refId=gpSg0GChcsucxBOUilEcsg%3D%3D&trackingId=JkgXmHoNEeJCmwyAKA6r7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 07:28:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst I",
-        "company": "BlueCross BlueShield of South Carolina",
-        "location": "Columbia, SC",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-bluecross-blueshield-of-south-carolina-4318722102?position=5&pageNum=0&refId=gpSg0GChcsucxBOUilEcsg%3D%3D&trackingId=VvHl0etyASNPb%2BONyt69oA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 07:28:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Palo Alto, CA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4317765517?position=11&pageNum=0&refId=gpSg0GChcsucxBOUilEcsg%3D%3D&trackingId=sWqRTOkjsiJW0u3lznlMjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 07:28:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Tampa, FL",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4317767473?position=12&pageNum=0&refId=gpSg0GChcsucxBOUilEcsg%3D%3D&trackingId=1wNXF1VePOoxUaXl2Df0tA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 07:28:36",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer Associate I/KTC",
-        "company": "Inside Higher Ed",
-        "location": "Lexington, KY",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-associate-i-ktc-at-inside-higher-ed-4318765432?position=17&pageNum=0&refId=gpSg0GChcsucxBOUilEcsg%3D%3D&trackingId=bI6rA2gcZuckDsyI7577mA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 07:28:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II (ONSITE)",
-        "company": "Collins Aerospace",
-        "location": "Fulton, MD",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-onsite-at-collins-aerospace-4318755948?position=18&pageNum=0&refId=gpSg0GChcsucxBOUilEcsg%3D%3D&trackingId=osKUQALV1UtkI1St07T9zA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 07:28:36",
-        "email_sent": false
-    },
-    {
-        "title": "Strategy and Analytics Associate",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/strategy-and-analytics-associate-at-remotehunter-4317750421?position=20&pageNum=0&refId=gpSg0GChcsucxBOUilEcsg%3D%3D&trackingId=6OD0lt%2Fy4HqEiUA6ScJ31w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 07:28:36",
-        "email_sent": false
-    },
-    {
-        "title": "Specialty Software Engineer - Java / UI",
-        "company": "Jobs via Dice",
-        "location": "Woodbridge, NJ",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/specialty-software-engineer-java-ui-at-jobs-via-dice-4317772128?position=21&pageNum=0&refId=gpSg0GChcsucxBOUilEcsg%3D%3D&trackingId=8pT3zt7fZLJBu%2FrpWZAG2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-23 07:28:36",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer, Systems",
         "company": "Lensa",
         "location": "Bismarck, ND",
@@ -247,6 +147,146 @@
         "url": "https://www.linkedin.com/jobs/view/civil-engineer-at-aecom-4316983914?position=33&pageNum=0&refId=A4ArXPpxYbcpYjeI6KzcVA%3D%3D&trackingId=0bHWKuslJHNVxuUTpjMgag%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-23 08:01:05",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer - AI Platform",
+        "company": "Hunter by HiringAgents.ai",
+        "location": "San Francisco, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-ai-platform-at-hunter-by-hiringagents-ai-4270313985?position=3&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=LQ5fo76kQde%2BM2ad4Nmjhw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst II",
+        "company": "Randstad Digital Americas",
+        "location": "Chicago, IL",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-ii-at-randstad-digital-americas-4317763856?position=6&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=NjbvxrNRq0sq6Dwj6yKt2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst II",
+        "company": "Randstad Digital Americas",
+        "location": "Chicago, IL",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-ii-at-randstad-digital-americas-4317774315?position=7&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=AkvZ1yOEhVEKKh9ZvrAOGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "iOS Software Engineer",
+        "company": "Wing",
+        "location": "Palo Alto, CA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ios-software-engineer-at-wing-4318771687?position=10&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=HcER8sfV12Bc95F%2FIZnthg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "BrainDo",
+        "location": "Philadelphia, PA",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-braindo-4316215724?position=11&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=NBOM73WHfOBb%2Fs1YX9LPsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist for SEO",
+        "company": "White Light Digital Marketing",
+        "location": "San Marino, CA",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-for-seo-at-white-light-digital-marketing-4318768597?position=16&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=SrYV%2FD3MCz0JnCdlTh6Now%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Network Engineer",
+        "company": "Lensa",
+        "location": "United States",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/network-engineer-at-lensa-4318763565?position=17&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=e0trdrAos%2BAAlK2zwUVBzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist for SEO",
+        "company": "White Light Digital Marketing",
+        "location": "Guernsey, WY",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-for-seo-at-white-light-digital-marketing-4318764897?position=19&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=HEg6JuydGDlyTPaFcqS3aw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Conceptual Data Modeler",
+        "company": "CGI",
+        "location": "Arlington, VA",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/conceptual-data-modeler-at-cgi-4318726295?position=20&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=%2FAW8EotZdHk0gxjvMCj1tQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Yield Data Scientist- Ad Tech experience required!",
+        "company": "Freestar",
+        "location": "United States",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/yield-data-scientist-ad-tech-experience-required%21-at-freestar-4310058797?position=24&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=0LWSmBcZEy%2FEIKNYSQSlaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Baseball Operations Analyst",
+        "company": "San Francisco Giants",
+        "location": "San Francisco, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/baseball-operations-analyst-at-san-francisco-giants-4318787032?position=27&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=sqLoEvyCqSZBMGRDk35whw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Research Analyst",
+        "company": "Woodstock Institute",
+        "location": "Chicago, IL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/research-analyst-at-woodstock-institute-4317778250?position=32&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=ZzPlKr54zHVDAmFD9aEY%2Bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Survey Technician",
+        "company": "Tetra Tech",
+        "location": "Brighton, MI",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/survey-technician-at-tetra-tech-4310452756?position=33&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=EmO04R3epq1SZbsfV7sHAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
+        "email_sent": false
+    },
+    {
+        "title": "Assistant Professor/Meteorological Data Scientist",
+        "company": "NMSU Conference Services",
+        "location": "Las Cruces, NM",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/assistant-professor-meteorological-data-scientist-at-nmsu-conference-services-4318776361?position=35&pageNum=0&refId=l24McfkRgXZHoI6tVqoSeQ%3D%3D&trackingId=IcfcjjFiKbJYqiuHZY%2BLKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-23 08:34:54",
         "email_sent": false
     }
 ]
