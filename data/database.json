@@ -1,35 +1,5 @@
 [
     {
-        "title": "Salesforce Developer",
-        "company": "Cisco",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/salesforce-developer-at-cisco-4318813629?position=9&pageNum=0&refId=6hVnvTjdQloYf1iRwPwQZw%3D%3D&trackingId=gsttzrsWD2JxyHMDiaTqsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-25 19:39:31",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Sandhills Community College",
-        "location": "Pinehurst, NC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-sandhills-community-college-4331687006?position=10&pageNum=0&refId=6hVnvTjdQloYf1iRwPwQZw%3D%3D&trackingId=u56BxkEoxdOjvrDB%2BkgRnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-25 19:39:31",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4331632784?position=22&pageNum=0&refId=6hVnvTjdQloYf1iRwPwQZw%3D%3D&trackingId=ViFqXUqWsYnkKF9YapJ9uw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-25 19:39:31",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "Hirenza",
         "location": "United States",
@@ -197,6 +167,526 @@
         "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-at-best-job-tool-4331693057?position=7&pageNum=2&refId=EpBZDzdalNfu2JoCC4KwDw%3D%3D&trackingId=TiE%2Bz283wFWKNZ2eyiH25A%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-25 20:36:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4331650189?position=1&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=Qsqd%2FtZ1faeQ9FthmXtwlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, AI",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ai-at-wiraa-4331632786?position=3&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=KH3LBa9yfvgd6OggK%2Ft68w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4331644213?position=6&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=nUty7Rgz2t4Ry%2FmHKHG1qQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Menlo Park, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4316625941?position=8&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=3URu8CfN04alN1AELsmTyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Rochester, MN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4316438319?position=10&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=CXWdR3Qx8cpvRbbsAWyL0w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, Js)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-js-at-wiraa-4331633420?position=11&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=5HyYXshm6%2FBYqwJWKFvcmg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "a2z Radiology AI",
+        "location": "Boston, MA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-a2z-radiology-ai-4317626114?position=12&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=HUwby27HqJg5XdTipCsxOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-wiraa-4331651142?position=13&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=TljYoYc2nU1JD3GKOPXisA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4331648188?position=16&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=5EEJNgvnxbfwIzpSFzPmpg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Web, Cloud, Mobile)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-web-cloud-mobile-at-wiraa-4331649201?position=17&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=8hyP9CB5POslm%2BnClAk5Vw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Jobs via Dice",
+        "location": "Tewksbury, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-jobs-via-dice-4316441014?position=19&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=Ikp%2B5YvbqqiEzPyutplj2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Engineer/Sr Associate Engineer, IT Data",
+        "company": "Jobs via Dice",
+        "location": "Dallas, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-engineer-sr-associate-engineer-it-data-at-jobs-via-dice-4315775795?position=22&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=HQ4%2BQWqF6coYqk3CXoSZ0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4316630751?position=24&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=b7gnruUmpTVIcfrovMMhzQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Cambridge, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4316180715?position=27&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=VfZvsc9m%2BaS7RybSJXxk8A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4316647090?position=28&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=E%2BF42PsKDSUCEM7UYhy7xg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Infrastructure Engineer (Starlink)",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-infrastructure-engineer-starlink-at-jobs-via-dice-4316424826?position=29&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=DTOcGDqcLZFLtd%2B9Prx%2Fog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Digital Thread) - Early Career",
+        "company": "Jobs via Dice",
+        "location": "Mt. Laurel, NJ",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-digital-thread-early-career-at-jobs-via-dice-4316432385?position=31&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=xyBVvN2mtoHwUEiuFFpSlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Backend Engineer (Cortex)",
+        "company": "Jobs via Dice",
+        "location": "Santa Clara, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-backend-engineer-cortex-at-jobs-via-dice-4315786547?position=32&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=6qFLUZpMJrEIHnoEm%2B5tMg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Components)",
+        "company": "Jobs via Dice",
+        "location": "Hawthorne, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-components-at-jobs-via-dice-4316419928?position=33&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=Mwg9L6OdyCZE%2F%2FICZrTpxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Jobs via Dice",
+        "location": "Sunnyvale, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-jobs-via-dice-4316178788?position=35&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=HWv94LMVH%2Bm41SiOD7rl0w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer - Azure App Service",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-azure-app-service-at-jobs-via-dice-4316434337?position=37&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=8BR8tP%2FfzueX9iLt7grUdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 1 (UI/React Developer - Payment Systems)",
+        "company": "Jobs via Dice",
+        "location": "Minneapolis, MN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-ui-react-developer-payment-systems-at-jobs-via-dice-4316175873?position=38&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=FQZ7q1OFx9SorjwVY9nnmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Jobs via Dice",
+        "location": "Seattle, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-jobs-via-dice-4316119615?position=39&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=Rlwn%2B3bV7EK392nbuE%2BTZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Menlo Park, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4316626850?position=40&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=OFx1N9Z8r0%2FQeFlVLO4pTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Backend Engineer (Cortex Cloud)",
+        "company": "Jobs via Dice",
+        "location": "Santa Clara, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-backend-engineer-cortex-cloud-at-jobs-via-dice-4315789292?position=41&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=fjUR5WvrDJjSEWabl3NgvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Menlo Park, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4316631659?position=42&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=D%2BfN2NpcTANPcSL52fbDsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "SOFTWARE ENGINEER II",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-jobs-via-dice-4316455335?position=43&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=Dpp4PdZk1SdlUq7Iis8ggA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "El Segundo, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4316113813?position=44&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=ZHEM%2FP77UTYECAeO6ZXtIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Flight Software (Starship)",
+        "company": "Jobs via Dice",
+        "location": "Texas, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-flight-software-starship-at-jobs-via-dice-4316422907?position=45&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=G4KETKeAGopbXdDM9BP04Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Level 2",
+        "company": "Jobs via Dice",
+        "location": "Fort Worth, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-at-jobs-via-dice-4316414073?position=46&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=sKTMgZ05tee6FH8OTtS7oA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Menlo Park, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4316645117?position=47&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=ltZuOQxOZzo5Pj7CQbpWDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Application Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Hawthorne, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/application-software-engineer-at-jobs-via-dice-4316423812?position=48&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=JpEGEkSegAao%2B7DnWtl0Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Android)",
+        "company": "Jobs via Dice",
+        "location": "Menlo Park, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-android-at-jobs-via-dice-4316643157?position=49&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=VhCmjCuBIKkLqXu9Y%2FTxbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Level 2",
+        "company": "Jobs via Dice",
+        "location": "Fort Worth, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-at-jobs-via-dice-4316180711?position=50&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=ify8x3hsP8ByBpHvSc64nQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Flight Software (Starship)",
+        "company": "Jobs via Dice",
+        "location": "Hawthorne, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-flight-software-starship-at-jobs-via-dice-4316429716?position=51&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=%2FNqfdwp9khSAHh71RuRImQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Systems",
+        "company": "Jobs via Dice",
+        "location": "Menlo Park, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-systems-at-jobs-via-dice-4316642224?position=52&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=0Hfy48LYQE3chwo4FHFY7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Application Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Bastrop, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/application-software-engineer-at-jobs-via-dice-4316429713?position=53&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=9p29dZJyg8%2BxB4TfShhOZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Systems",
+        "company": "Jobs via Dice",
+        "location": "Menlo Park, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-systems-at-jobs-via-dice-4316628802?position=54&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=PEqGSU98q9263xDT65USUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer-Test & Verification",
+        "company": "Jobs via Dice",
+        "location": "Oklahoma City, OK",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-test-verification-at-jobs-via-dice-4315776778?position=55&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=xKmSUzC3DpfpQfGbr2gmzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Product",
+        "company": "Jobs via Dice",
+        "location": "Menlo Park, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-product-at-jobs-via-dice-4316635552?position=56&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=4F%2FlG4%2F7G3KwWulLgGPYYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Product",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-product-at-jobs-via-dice-4316636484?position=57&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=HxyaV0GGA4zPjybXJ33nRA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer (Starlink Ground Network)",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-starlink-ground-network-at-jobs-via-dice-4316176826?position=58&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=TiY%2FIo8W9Ba%2BYnzxK7%2BLnA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Android",
+        "company": "Jobs via Dice",
+        "location": "Menlo Park, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-android-at-jobs-via-dice-4316645118?position=59&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=PddBMPZUnr7eZp8nxrHZ2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Product",
+        "company": "Jobs via Dice",
+        "location": "Menlo Park, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-product-at-jobs-via-dice-4316644153?position=60&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=UKCJwiZuWH9Jfkqot4R7AQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Cambridge, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4316180715?position=2&pageNum=2&refId=xpRmdwJR0%2FFJS6gNNJ1EdA%3D%3D&trackingId=ypHtZ%2FB5pAZi%2FzzXhk1yHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4316647090?position=3&pageNum=2&refId=xpRmdwJR0%2FFJS6gNNJ1EdA%3D%3D&trackingId=VIXLvO%2FFe0oFcFva7qaPIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Infrastructure Engineer (Starlink)",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-infrastructure-engineer-starlink-at-jobs-via-dice-4316424826?position=4&pageNum=2&refId=xpRmdwJR0%2FFJS6gNNJ1EdA%3D%3D&trackingId=1Nu62xqQQ%2B6r8jv6afqiqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Digital Thread) - Early Career",
+        "company": "Jobs via Dice",
+        "location": "Mt. Laurel, NJ",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-digital-thread-early-career-at-jobs-via-dice-4316432385?position=6&pageNum=2&refId=xpRmdwJR0%2FFJS6gNNJ1EdA%3D%3D&trackingId=XiCSo%2BCkxu4YTa3CUyT%2BZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Backend Engineer (Cortex)",
+        "company": "Jobs via Dice",
+        "location": "Santa Clara, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-backend-engineer-cortex-at-jobs-via-dice-4315786547?position=7&pageNum=2&refId=xpRmdwJR0%2FFJS6gNNJ1EdA%3D%3D&trackingId=Y3qbyY9wRua1ecEpVVcUgw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Components)",
+        "company": "Jobs via Dice",
+        "location": "Hawthorne, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-components-at-jobs-via-dice-4316419928?position=8&pageNum=2&refId=xpRmdwJR0%2FFJS6gNNJ1EdA%3D%3D&trackingId=iuiR%2BJd4vx9EOGJtJfMT0g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Jobs via Dice",
+        "location": "Sunnyvale, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-jobs-via-dice-4316178788?position=10&pageNum=2&refId=xpRmdwJR0%2FFJS6gNNJ1EdA%3D%3D&trackingId=ObymvLBRPDvPWyDPQgsvqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Self-employed",
+        "location": "Beaumont, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-4318814800?position=15&pageNum=0&refId=WW9Zot%2BJsKxD4YH2DJ48ew%3D%3D&trackingId=EMkqfGJCSq05uu01QNZmCw%3D%3D&trk=public_jobs_jserp-result_search-card",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-25 20:48:54",
         "email_sent": false
     }
 ]
