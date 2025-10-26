@@ -1,35 +1,5 @@
 [
     {
-        "title": "Software Engineer, Java",
-        "company": "LoopMe",
-        "location": "San Francisco, CA",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-at-loopme-4318883257?position=4&pageNum=0&refId=JiwCP%2BfHrcqoltChcLx72w%3D%3D&trackingId=8HmWd2ygH31Ml1aMkF0ubA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-26 22:52:19",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Payor)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-payor-at-wiraa-4331844127?position=5&pageNum=0&refId=JiwCP%2BfHrcqoltChcLx72w%3D%3D&trackingId=93XHNdJUiMM28wsEiMMang%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-26 22:52:19",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-wiraa-4331846077?position=7&pageNum=0&refId=JiwCP%2BfHrcqoltChcLx72w%3D%3D&trackingId=af%2BKlyaPEp5h2nzTndRmYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-26 22:52:19",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer (GCP)",
         "company": "Wiraa",
         "location": "United States",
@@ -57,6 +27,56 @@
         "url": "https://www.linkedin.com/jobs/view/data-transformation-engineer-at-caresignal%C2%AE-%E2%80%93-lightbeam-s-deviceless-remote-patient-monitoring-4331865498?position=2&pageNum=0&refId=uX2Gt5ZMGyzys%2FBagkI1aw%3D%3D&trackingId=ID3IAcNTlzJUEcjqmQd5Lg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-26 23:48:58",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4331822995?position=2&pageNum=0&refId=5K%2FTdisOV%2FMpA008Y6HJ2Q%3D%3D&trackingId=HuWstXG1V%2B7%2BxcH0TwljSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-26 23:59:59",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4331834265?position=4&pageNum=0&refId=5K%2FTdisOV%2FMpA008Y6HJ2Q%3D%3D&trackingId=nZGjmYqKxdoK2M3Ucvb24g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-26 23:59:59",
+        "email_sent": false
+    },
+    {
+        "title": "Data Transformation Engineer",
+        "company": "CareSignal\u00ae \u2013 Lightbeam's Deviceless Remote Patient Monitoring",
+        "location": "Horsham, PA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-transformation-engineer-at-caresignal%C2%AE-%E2%80%93-lightbeam-s-deviceless-remote-patient-monitoring-4331863549?position=5&pageNum=0&refId=5K%2FTdisOV%2FMpA008Y6HJ2Q%3D%3D&trackingId=caXl47TuMkOt4gLsV8TuRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-26 23:59:59",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Infrastructure",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-at-wiraa-4331839201?position=8&pageNum=0&refId=5K%2FTdisOV%2FMpA008Y6HJ2Q%3D%3D&trackingId=7owv6v%2FzA8R2kdqTMjgh8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-26 23:59:59",
+        "email_sent": false
+    },
+    {
+        "title": "IT Data Analyst",
+        "company": "GAT Airline Ground Support",
+        "location": "Peachtree City, GA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/it-data-analyst-at-gat-airline-ground-support-4331864636?position=10&pageNum=0&refId=5K%2FTdisOV%2FMpA008Y6HJ2Q%3D%3D&trackingId=dRx85FZ0hqaRW43it96%2BKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-26 23:59:59",
         "email_sent": false
     }
 ]
