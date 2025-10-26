@@ -1,75 +1,5 @@
 [
     {
-        "title": "Data Engineer, Sr.",
-        "company": "Block",
-        "location": "United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-block-4331822995?position=1&pageNum=0&refId=cWi5BDvPF6KGAcmgx5ZMyQ%3D%3D&trackingId=Ve9KYdBlglqivGqrM1JBng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-26 17:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer (GCP)",
-        "company": "Cognizant",
-        "location": "United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-gcp-at-cognizant-4331837255?position=2&pageNum=0&refId=cWi5BDvPF6KGAcmgx5ZMyQ%3D%3D&trackingId=dzvXiirkpFJ24KCurpaYHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-26 17:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Sr.",
-        "company": "Instacart",
-        "location": "United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-instacart-4331838258?position=3&pageNum=0&refId=cWi5BDvPF6KGAcmgx5ZMyQ%3D%3D&trackingId=32qvQZ969xvCLyUlFQaChA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-26 17:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (Payor)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-payor-at-wiraa-4331844127?position=5&pageNum=0&refId=cWi5BDvPF6KGAcmgx5ZMyQ%3D%3D&trackingId=CqadwIea1TJXngm6LoLiHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-26 17:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-wiraa-4331846077?position=11&pageNum=0&refId=cWi5BDvPF6KGAcmgx5ZMyQ%3D%3D&trackingId=QrSJClews3%2B4mymnuZbygQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-26 17:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Project Manager",
-        "company": "Accelirate Inc.",
-        "location": "Fort Lauderdale, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/project-manager-at-accelirate-inc-4318868663?position=12&pageNum=0&refId=cWi5BDvPF6KGAcmgx5ZMyQ%3D%3D&trackingId=bjcBt7I%2FSeOwO3K%2FlFpC1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-26 17:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Project Manager",
-        "company": "Accelirate Inc.",
-        "location": "Fort Lauderdale, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/project-manager-at-accelirate-inc-4318871667?position=13&pageNum=0&refId=cWi5BDvPF6KGAcmgx5ZMyQ%3D%3D&trackingId=A0SYEsYQhn9aJ5UEhgx%2B%2BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-26 17:47:54",
-        "email_sent": false
-    },
-    {
         "title": "Graduate Software Engineer",
         "company": "OMW Consulting",
         "location": "San Francisco Bay Area",
@@ -167,6 +97,36 @@
         "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4331842191?position=8&pageNum=0&refId=3G8ZEmog8ycYKzi8SYxXnA%3D%3D&trackingId=VVWnGogiySSjShtIj60EPQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-26 18:24:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4331865078?position=2&pageNum=0&refId=ZReAlZEscR7quOc0Olju4A%3D%3D&trackingId=JfyvUth9jqfuJ7FLvs86jQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-26 18:49:03",
+        "email_sent": false
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/cloud-engineer-at-hirenza-4331850865?position=3&pageNum=0&refId=ZReAlZEscR7quOc0Olju4A%3D%3D&trackingId=3eB8bkXCesnEQRq%2BkUMoYQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-26 18:49:03",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4331852779?position=4&pageNum=0&refId=ZReAlZEscR7quOc0Olju4A%3D%3D&trackingId=n34ml6HQHEn6p4i32sAwEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-26 18:49:03",
         "email_sent": false
     }
 ]
