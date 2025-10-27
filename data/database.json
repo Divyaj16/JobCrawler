@@ -1,265 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Russell Tobin",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-russell-tobin-4318054233?position=11&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=QTXHq5hAcn8o4uH4UG2UOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116442?position=13&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=O55mNM3zLIhrED7Gj4xMJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "AI Engineer",
-        "company": "DataGOL",
-        "location": "Princeton, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-datagol-4319302728?position=16&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=O49SreEpkQGh2Rf5hcepDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Lancaster, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117177?position=19&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=qcTUbK%2F7Tt1PZmjPgcxtIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Fort Lauderdale, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986114509?position=20&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=zwFUsnb7ql0eTs6i%2Fj9nCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Atlanta, GA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986112625?position=23&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=sYdNinXIySxsWB%2BspQpoDA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Oceanside, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986112653?position=24&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=tOJA2yUOfBK3MoVITEg9Qg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "AI Engineer",
-        "company": "Echelon Services, LLC",
-        "location": "Manassas, VA",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-echelon-services-llc-4318052608?position=27&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=e8tIvU1hSl%2FCldawfQ0GVw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Aurora, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116456?position=29&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=pn%2BbtE%2BA5UipzpqnPW0J6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer -- W2 Only",
-        "company": "Hatch Pros",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-w2-only-at-hatch-pros-4318055491?position=31&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=6mqt%2BBMW%2FtFQjFkbRXnRwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Level III Software Engineer",
-        "company": "Velorona",
-        "location": "United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/level-iii-software-engineer-at-velorona-4319323122?position=32&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=%2FIOTiFxOolqKsXabFdgejA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Information Technology Engineer",
-        "company": "3DEO, Inc.",
-        "location": "Norwood, MA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/information-technology-engineer-at-3deo-inc-4319123863?position=33&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=IPFwsgoHQMaKlAnWMpJ8oQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Gilbert, AZ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116444?position=34&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=F1cWiPVBG7Yf%2FpbAfDONiQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Honolulu, HI",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116461?position=35&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=gni8xxouVjcJdGN3bTTrIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Columbia, SC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117154?position=46&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=PH7fI9CzLqScOIx3MAUwdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Urbana, IL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986113602?position=49&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=DYRtsJOKYTwFDBLP7BN1Rg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Rock Springs, WY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986117194?position=53&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=cQCmGWCWhUmpJ%2BX13%2FTGVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Syracuse, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986118109?position=57&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=T7B7FYqdolowicldeH%2Brxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Tulsa, OK",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986113587?position=60&pageNum=0&refId=Ww3h6%2BJjYQhy3cdEv1ax9Q%3D%3D&trackingId=kMJkktxnQqhPvgvzOeP7fQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "AI Engineer",
-        "company": "Echelon Services, LLC",
-        "location": "Manassas, VA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-echelon-services-llc-4318052608?position=2&pageNum=2&refId=GDDZDCYiWmbRLF7ulKUmUw%3D%3D&trackingId=lqmB6mDR8olKsCVuZdntyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Aurora, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116456?position=4&pageNum=2&refId=GDDZDCYiWmbRLF7ulKUmUw%3D%3D&trackingId=FqDuV0GvetW0GTdo0xNK%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer -- W2 Only",
-        "company": "Hatch Pros",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-w2-only-at-hatch-pros-4318055491?position=5&pageNum=2&refId=GDDZDCYiWmbRLF7ulKUmUw%3D%3D&trackingId=oNcyoTTaXCIWuQJEuHMFog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Level III Software Engineer",
-        "company": "Velorona",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/level-iii-software-engineer-at-velorona-4319323122?position=7&pageNum=2&refId=GDDZDCYiWmbRLF7ulKUmUw%3D%3D&trackingId=s5Er%2B0St5bo6WHQW1uFqbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Information Technology Engineer",
-        "company": "3DEO, Inc.",
-        "location": "Norwood, MA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/information-technology-engineer-at-3deo-inc-4319123863?position=8&pageNum=2&refId=GDDZDCYiWmbRLF7ulKUmUw%3D%3D&trackingId=a6A9%2F0qfAiICvdcho6yUMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Honolulu, HI",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116461?position=9&pageNum=2&refId=GDDZDCYiWmbRLF7ulKUmUw%3D%3D&trackingId=qPj32lw7RcQrsdDnUmUqSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Epic",
-        "location": "Gilbert, AZ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116444?position=10&pageNum=2&refId=GDDZDCYiWmbRLF7ulKUmUw%3D%3D&trackingId=2kCP7solLQSb80xzdJBY6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-27 16:00:18",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "INSPYR Solutions",
         "location": "Spring, TX",
@@ -987,6 +727,196 @@
         "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4318050916?position=10&pageNum=2&refId=hOshEA%2FlyVl%2F%2BYZ5lh6Uog%3D%3D&trackingId=MvJy%2FdqQA%2BVX%2FUVAgXpgPA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-27 16:52:38",
+        "email_sent": false
+    },
+    {
+        "title": "Azure Data Engineer",
+        "company": "Maganti IT Resources, LLC",
+        "location": "Florida, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-maganti-it-resources-llc-4318058953?position=5&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=G9Crh74S8rKYETzd%2BmhhsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Survey)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-survey-at-wiraa-4332026088?position=8&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=02CUNpds047dnJupZqPuTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst I",
+        "company": "University of Rochester",
+        "location": "Rochester, New York Metropolitan Area",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-university-of-rochester-4319104362?position=11&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=ks%2Bn%2FmaVxgmW%2F%2B4M8x2HgA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Entry-Level Data & BI Consultant",
+        "company": "PCS Global Tech",
+        "location": "California, United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-bi-consultant-at-pcs-global-tech-4318074018?position=12&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=uX85n0s01RrLCkXZdgSYSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Sr. (Product)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-product-at-wiraa-4332018794?position=24&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=y0tLhjy9raFitE9rPBCpBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Engineer",
+        "company": "Ballast Markets",
+        "location": "San Francisco Bay Area",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-ballast-markets-4319313395?position=26&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=PpvH0ohvn5NMkWp9AQoSog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst / Curator",
+        "company": "Liaison",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-curator-at-liaison-4319253447?position=27&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=QyuLdDH75ftTVFhulkdzuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Science",
+        "company": "HirePower Staffing Solution",
+        "location": "Lawrence, KS",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-science-at-hirepower-staffing-solution-4318061911?position=33&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=ZkjFuJbXHGNJ8AfHy3cEOA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Controls Engineer",
+        "company": "Kelly Science, Engineering, Technology & Telecom",
+        "location": "Waterloo, IA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-controls-engineer-at-kelly-science-engineering-technology-telecom-4319303408?position=36&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=nZtQzPposBmaiDuEUYmM8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Category Insights Analyst",
+        "company": "ForceBrands",
+        "location": "Phoenix, AZ",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/category-insights-analyst-at-forcebrands-4319343099?position=37&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=3yG2GJnePkoEZG44aRFnlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Controls Engineer",
+        "company": "Kelly Science, Engineering, Technology & Telecom",
+        "location": "Waterloo, IA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-controls-engineer-at-kelly-science-engineering-technology-telecom-4319333420?position=39&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=lCvp%2F1ZXVlepA5ptHstQ9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "TalentAlly",
+        "location": "Greater Seattle Area",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-talentally-4318069013?position=41&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=QMVROEb3H8lcg2w%2BShxruA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "TalentAlly",
+        "location": "United States",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-talentally-4318051984?position=42&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=oad8HR8%2BF4%2BdEOWVqrkT7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data and Engagement Facilitator",
+        "company": "Bi-State Primary Care Association",
+        "location": "Montpelier, VT",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-and-engagement-facilitator-at-bi-state-primary-care-association-4318055744?position=43&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=DzPh5zUptnt9UYbzlBnZeQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Payer Analytics Consultant",
+        "company": "Central California Alliance for Health",
+        "location": "California, United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/payer-analytics-consultant-at-central-california-alliance-for-health-4319233322?position=44&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=UiowzBmLwCUrJe5JAss5wg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Business Operations Specialist",
+        "company": "Ascendion",
+        "location": "United States",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/business-operations-specialist-at-ascendion-4319154345?position=45&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=qDneBV6Vjy39BrtLTcP95w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Quality Associate",
+        "company": "Zenith LifeScience",
+        "location": "Raleigh, NC",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/quality-associate-at-zenith-lifescience-4305147313?position=46&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=OoZq5nXBSaHkQy%2BYcQLu8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Revenue Operations Analyst",
+        "company": "Smart Circle International",
+        "location": "Newport Beach, CA",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/revenue-operations-analyst-at-smart-circle-international-4318070094?position=47&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=YKgCCYlyfwhuLX%2F%2BvGfA9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
+        "email_sent": false
+    },
+    {
+        "title": "Outside Sales Representative Sales - Outside Sales",
+        "company": "Builders FirstSource",
+        "location": "Chesapeake, VA",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-sales-outside-sales-at-builders-firstsource-4319134201?position=48&pageNum=0&refId=fmQ%2FvveDGkjQ6t%2BoA3MJQA%3D%3D&trackingId=IJnqppumO%2Fd3WjOWqXfKbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-27 17:02:42",
         "email_sent": false
     }
 ]
