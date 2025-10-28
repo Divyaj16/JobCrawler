@@ -308,5 +308,45 @@
         "source": "LinkedIn",
         "scraped_date": "2025-10-28 04:00:57",
         "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Prism Data Consulting",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-prism-data-consulting-4318416990?position=2&pageNum=0&refId=x%2F9WtOmXTC0XKT4dtCHQkA%3D%3D&trackingId=MY12n3q8Hp55bAB5IxNnjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-28 04:25:59",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I - Customer Experience",
+        "company": "Qualtrics",
+        "location": "Seattle, WA",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-customer-experience-at-qualtrics-4332395790?position=4&pageNum=0&refId=x%2F9WtOmXTC0XKT4dtCHQkA%3D%3D&trackingId=jzfE6jSXEqUwOmftRjpAjw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-28 04:25:59",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Computer Vision",
+        "company": "Socure",
+        "location": "United States",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-computer-vision-at-socure-4332312853?position=7&pageNum=0&refId=x%2F9WtOmXTC0XKT4dtCHQkA%3D%3D&trackingId=w9cq8XdQTt0NNAGIopsQiA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-28 04:25:59",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Burlingame, CA",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4317477825?position=8&pageNum=0&refId=x%2F9WtOmXTC0XKT4dtCHQkA%3D%3D&trackingId=WR0QZw7RB1S0uDkapqp%2FmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-28 04:25:59",
+        "email_sent": false
     }
 ]
