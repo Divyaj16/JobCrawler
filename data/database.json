@@ -1,415 +1,5 @@
 [
     {
-        "title": "Data Engineer II, Fandango (AWS/Redshift/PySpark)",
-        "company": "Fandango",
-        "location": "Orlando, FL",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-fandango-aws-redshift-pyspark-at-fandango-4309929074?position=1&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=FL8ruCDA71FdUoO0L%2BO3kw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Atlanta, GA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310978918?position=6&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=N0yb68yR8A7Kk52CXFTbMQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, X Chat",
-        "company": "xAI",
-        "location": "Palo Alto, CA",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-x-chat-at-xai-4280475218?position=10&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=YdZ06IoRBfn9eSW8jTgugw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Tempe, AZ",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310990054?position=11&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=3Tf9Zniz7u1eYvABhfDUxg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Columbus, OH",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310978920?position=13&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=UG6S0B3XD0uUSsw4%2BH%2BBeA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Lincoln, NE",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310985157?position=15&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=2q%2FDI%2FrFdutGceM6naBKvw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Philadelphia, PA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310981830?position=16&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=uODD40ScfuvoF1axYEaeGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Salt Lake City, UT",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310976970?position=19&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=9wupeHZvf19tVTZ3O8Mziw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Providence, RI",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310985161?position=20&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=9Fm74iX47eJOb6R%2F0IcsJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Detroit, MI",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310984163?position=21&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=2cJ3ck0%2BIimddJW7GS76XQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Minneapolis, MN",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310988062?position=22&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=NlqZC0dJ6QsSHs6WKpeM5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Knoxville, TN",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310983185?position=23&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=mfq6PnV13OJUnB%2Fm%2FzYWrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Cincinnati, OH",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310986120?position=28&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=hgwrqtYjEUfDYVdWYcguNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Ashburn, VA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310993025?position=29&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=6CESHRmT60KbUAeMI0xsQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "McLean, VA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310994022?position=31&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=PXYAH4sDsfatrMjWYwVVPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Grand Rapids, MI",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310974902?position=32&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=WBBMV1G%2Bz6mKSOA6jnK1Qw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Kansas City, MO",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310980825?position=35&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=5%2BEqGAsm40Z2xZBLDymasQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "San Antonio, TX",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310975984?position=37&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=2vuO4hqkhVZh7c69IsIgyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Bentonville, AR",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310986117?position=38&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=illC0YVD9JP6AsSSab65vA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Birmingham, AL",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310991041?position=41&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=5%2F8u64103yoJoNulmfOuMQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Raleigh, NC",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310976972?position=42&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=tpbTB%2FLX%2BvqA8qVahZ2nyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "St Louis, MO",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310987104?position=43&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=lDFOzu04WBxwDembBaBZ7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Virginia Beach, VA",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310973947?position=44&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=gxJdiTOf8bFzZwtG6FmZIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Melville, NY",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310993028?position=45&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=XmghB7Z537OMDqyKMEm4nA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Pittsburgh, PA",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310981828?position=46&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=DfCBA2%2B8ygY2Pyo9cVpkXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Miami, FL",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310972997?position=47&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=zZddYMTSJXAxzxiVucwR5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Cleveland, OH",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310967996?position=48&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=Q9xRstAIAh%2FQUH%2BEP3RBfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Greenville, SC",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310982183?position=50&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=W9eefEtRZm4jIqexD3AHkQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Fort Lauderdale, FL",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310983187?position=51&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=7vzSh%2FcJUJoiTJRKTKyKPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Tallahassee, FL",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310975986?position=52&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=XiWHtMUZ4I2xk3dBjP8ngg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Rochester, NY",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310975985?position=53&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=bMLbRhYjDLUTYT%2F6TgDbNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Fort Worth, TX",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310972999?position=54&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=Zg2F6c4Dkjmls2bKepm6qw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Harrisburg, PA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310975983?position=55&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=YleGqjkSRrABo56q2r9BSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Boise, ID",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310984162?position=58&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=%2B%2Blbw6Cr5owteEC9mbE0Gg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "New Orleans, LA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310978921?position=59&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=S4ufelkoU6cDhL9kNsUb8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer - Remote",
-        "company": "ExecutivePlacements.com",
-        "location": "Secaucus, NJ",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-remote-at-executiveplacements-com-4333035673?position=60&pageNum=0&refId=A1lb%2BZdGvwgtxiSG%2FRbCfg%3D%3D&trackingId=ZL9NUgtAYA8mZpeaKN25wg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Cincinnati, OH",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310986120?position=3&pageNum=2&refId=REpSVXWfXpHkJ83yeDt1Lw%3D%3D&trackingId=j9s049XeCxtnhjznEPov8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Ashburn, VA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310993025?position=4&pageNum=2&refId=REpSVXWfXpHkJ83yeDt1Lw%3D%3D&trackingId=s7GHk8YTwgpaQvdNYP02PA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "McLean, VA",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310994022?position=6&pageNum=2&refId=REpSVXWfXpHkJ83yeDt1Lw%3D%3D&trackingId=a2zOKiS9u8TgCy3FlLQjog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Grand Rapids, MI",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310974902?position=7&pageNum=2&refId=REpSVXWfXpHkJ83yeDt1Lw%3D%3D&trackingId=WuvHvyWM60BLuQTLInrMWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer, Data Visualization and Business Intelligence",
-        "company": "KPMG US",
-        "location": "Kansas City, MO",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310980825?position=10&pageNum=2&refId=REpSVXWfXpHkJ83yeDt1Lw%3D%3D&trackingId=DkocjMah%2Fwj4CE5xvykF6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 10:22:27",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst (Healthcare Preferred) - Remote",
         "company": "Lensa",
         "location": "Houston, TX",
@@ -917,6 +507,96 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-custom-business-solutions-inc-4315187973?position=60&pageNum=0&refId=Aw%2B3qgKHHfDakebmgAVr5g%3D%3D&trackingId=nrdD04YyUDODXptIqf4KdA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-30 11:17:15",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-wiraa-4333005734?position=11&pageNum=0&refId=4d4k%2FZlL9rB13v%2B5wsr7MQ%3D%3D&trackingId=ES01ly2Xwo4UUVHxCmxd3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 11:38:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "DMI",
+        "location": "Washington, DC",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-dmi-4308643191?position=50&pageNum=0&refId=4d4k%2FZlL9rB13v%2B5wsr7MQ%3D%3D&trackingId=UXl3g5HO6oJWepW0URqboA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 11:38:14",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4333055691?position=52&pageNum=0&refId=4d4k%2FZlL9rB13v%2B5wsr7MQ%3D%3D&trackingId=2pOtjJyla9gVn0h76s1Edg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 11:38:14",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-wiraa-4333015650?position=53&pageNum=0&refId=4d4k%2FZlL9rB13v%2B5wsr7MQ%3D%3D&trackingId=%2FscoY8YUx%2BL0u1gvtrRPxg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 11:38:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (API, SQL)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-wiraa-4333055690?position=54&pageNum=0&refId=4d4k%2FZlL9rB13v%2B5wsr7MQ%3D%3D&trackingId=Lg%2Fzznpm2lbGP%2FsxFqK7zQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 11:38:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Strategic Deployment",
+        "company": "OpenAI",
+        "location": "San Francisco, CA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-strategic-deployment-at-openai-4299586802?position=55&pageNum=0&refId=4d4k%2FZlL9rB13v%2B5wsr7MQ%3D%3D&trackingId=YQPAtGL5vWJ4bEdBgWMX1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 11:38:14",
+        "email_sent": false
+    },
+    {
+        "title": "Business Intelligence Data Analyst",
+        "company": "Evolv Technology",
+        "location": "Waltham, MA",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/business-intelligence-data-analyst-at-evolv-technology-4291621580?position=56&pageNum=0&refId=4d4k%2FZlL9rB13v%2B5wsr7MQ%3D%3D&trackingId=lSxynMIJ0Kxqhk33CkmWng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 11:38:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Public Sector",
+        "company": "Scale AI",
+        "location": "San Francisco Bay Area",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-public-sector-at-scale-ai-4196125615?position=58&pageNum=0&refId=4d4k%2FZlL9rB13v%2B5wsr7MQ%3D%3D&trackingId=YEN2loAHB8MQhgSOgbqo7g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 11:38:14",
+        "email_sent": false
+    },
+    {
+        "title": "Applied AI Engineer, Enterprise GenAI",
+        "company": "Scale AI",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-enterprise-genai-at-scale-ai-4196118958?position=59&pageNum=0&refId=4d4k%2FZlL9rB13v%2B5wsr7MQ%3D%3D&trackingId=dsAlSRuesarVuL6tz0BvfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 11:38:14",
         "email_sent": false
     }
 ]
