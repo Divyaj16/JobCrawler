@@ -1,545 +1,5 @@
 [
     {
-        "title": "Junior Data Engineer",
-        "company": "Lensa",
-        "location": "Fairfax, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-lensa-4333182572?position=1&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=u1KqLPhX%2BU6e2wNZBJ7rdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:27",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "PlanIT Group, LLC",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-planit-group-llc-4333094872?position=2&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=rPNxVQMbk0Z2DmUPoWa98g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Developer Experience",
-        "company": "Notion",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-developer-experience-at-notion-4276096791?position=3&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=Hwp5j5Nm5IspW3PJQcAmhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:27",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Lensa",
-        "location": "Boca Raton, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4333133707?position=4&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=x3u0yk2zGdXzVGlLnc7LZg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:27",
-        "email_sent": false
-    },
-    {
-        "title": "Jr Data Analyst",
-        "company": "Lensa",
-        "location": "College Park, MD",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/jr-data-analyst-at-lensa-4333094100?position=5&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=0RFeUwivMUPqCojk6wz6YQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I- SAS Programmer",
-        "company": "Lensa",
-        "location": "Atlanta, GA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-sas-programmer-at-lensa-4333163662?position=7&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=5r4ia0O9gY%2BSkpnGXBdUbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Lockheed Martin",
-        "location": "Huntsville, AL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lockheed-martin-4333163680?position=8&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=rLAJ8Lq9f41y9B%2BVDBSBew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Sport Science Data Engineer",
-        "company": "Inside Higher Ed",
-        "location": "Columbus, OH",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sport-science-data-engineer-at-inside-higher-ed-4333094074?position=9&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=qsM2jf6ev8YM0G0DCBibSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Rochester, MN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4320050073?position=10&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=tdOHkxahZlCBtfkBqnvfTg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Lockheed Martin",
-        "location": "Huntsville, AL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lockheed-martin-4333034614?position=11&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=bO2tHhbMl2MFy6EOODQZ9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Lockheed Martin",
-        "location": "Huntsville, AL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lockheed-martin-4333143811?position=12&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=xzJ4ud5Wj8tdcxx7Zy2kLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Kastle Systems",
-        "location": "Falls Church, VA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-kastle-systems-4242600754?position=13&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=eZ4eH5lM6g4G%2B4fWKKpvug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Katalyst CRO",
-        "location": "San Diego, CA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-katalyst-cro-4333094856?position=16&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=C8FWHFNv7Aw%2By0pODnxLSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Customer Success Data Analyst",
-        "company": "Robert Half",
-        "location": "New Orleans, LA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/customer-success-data-analyst-at-robert-half-4332964473?position=17&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=0dIiyIMXb9Uq4KhmWP9xoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Reporting Analyst - Entry Level",
-        "company": "Lensa",
-        "location": "Miami, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/reporting-analyst-entry-level-at-lensa-4333054465?position=18&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=2e%2Fs%2FXGGHoclJh%2Fxpejp8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (DevOps)",
-        "company": "Jobs via Dice",
-        "location": "Beaverton, OR",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-devops-at-jobs-via-dice-4320050076?position=19&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=JPBS1839xqUznio2OxXRPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "New Grad Engineer I - Summer 2026",
-        "company": "Lensa",
-        "location": "Milwaukee, WI",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/new-grad-engineer-i-summer-2026-at-lensa-4332984589?position=22&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=GPwVfq3F8Lu7Z5Cosmg3og%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Redmond, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4320020087?position=23&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=Xwuu2rea78AFN%2Fcsflziyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Time Series Analyst",
-        "company": "Lensa",
-        "location": "Jersey City, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/time-series-analyst-at-lensa-4333094106?position=24&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=LCW28K0GjfGlu%2FuXgQrA6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Austin, TX",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296804669?position=25&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=ZvWmSA70jUXqUGL5v%2Fs2CA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "SOFTWARE DEVELOPMENT ENGINEER IN TEST (SDET)",
-        "company": "Jobs via Dice",
-        "location": "Minneapolis, MN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-jobs-via-dice-4319980224?position=26&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=5ln9VXfVnrcvRo2EbNATyg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Boston, MA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296591778?position=27&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=Z%2FvZW0yx%2BuOpcZyHd2Ok%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Falls Church, VA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296591777?position=28&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=1bnqs20MGT6PtMae787GNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Raleigh, NC",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296589914?position=30&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=2qbij1K8dE4WZp84EGI3ZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Charlotte, NC",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296804668?position=31&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=oH7wgiL4qsvriBsNPXBbfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Dallas, TX",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296595788?position=32&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=cJCv1DlBMvkaIuVaEZPi1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Wisconsin, United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296811061?position=33&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=yb2NLSVW8XZPA6MWvnjpWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Phoenix, AZ",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296808613?position=34&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=jJjloXj0P0zlG3MmDY%2Fg%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Houston, TX",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296594757?position=35&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=3auRY0nw%2FaYW%2B%2FS6nnp6VA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Pennsylvania, United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296810506?position=36&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=gOYB16h3h%2BWcsmyZGEj0LQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Pennsylvania, United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296802719?position=37&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=7Pp0706rLeBv2H7iPn5HKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Nashville, TN",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296590883?position=38&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=trR2U3Z4Wy8Vl3Qx%2BuEkKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "South Carolina, United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296589915?position=39&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=KhfTP2Y8sG%2BQc8%2FsGz%2BKRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Miami, FL",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296808611?position=40&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=z%2FYzvvF3EJkc77fxG9K%2BQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Detroit, MI",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296811060?position=41&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=fZasaOTC8I4apjAjrAAzHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "CRO Analyst, Experimentation",
-        "company": "Lensa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/cro-analyst-experimentation-at-lensa-4332994511?position=44&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=N5UKJEkJ8CoJGYYqk2YDPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Strategy and Analytics Associate",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/strategy-and-analytics-associate-at-remotehunter-4320040096?position=45&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=P9zCBMJCs2tpGwJTxr1VGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Fort Worth, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4319870314?position=46&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=Hz%2BE%2FKnjC18gSflSAJoIgA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Plain City, OH",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296592784?position=47&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=TYXovNgX5nQVHpEfjENz9g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer",
-        "company": "Kastle Systems",
-        "location": "Falls Church, VA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-at-kastle-systems-4242604508?position=48&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=WAO4ufRlvlaVNFSPaFyM8w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Mt. Laurel, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4319900314?position=49&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=A8TBhckNPkoJa3okdpaLng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Carlsbad, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-jobs-via-dice-4319970213?position=50&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=9%2BLxViERvTYMviKJVJs85w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Clinical Quality Analyst - Remote Nationwide",
-        "company": "Lensa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/clinical-quality-analyst-remote-nationwide-at-lensa-4332944556?position=51&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=kkpoTPFMwDYRgSVEDJG65Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Program Analyst (7398) Job 82113 - Berkeley Institute for Data Science (BIDS)",
-        "company": "Inside Higher Ed",
-        "location": "Berkeley, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/program-analyst-7398-job-82113-berkeley-institute-for-data-science-bids-at-inside-higher-ed-4332984573?position=52&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=Anu3%2BH7gm8qbr2fCdfPdKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Pension Risk Transfer Implementation Analyst",
-        "company": "TalentAlly",
-        "location": "Jersey City, NJ",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/pension-risk-transfer-implementation-analyst-at-talentally-4319860661?position=58&pageNum=0&refId=BrraLa4CQicafhaMdvGvzw%3D%3D&trackingId=gzlHTaNUOsoXCi%2BKp1pG9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "SOFTWARE DEVELOPMENT ENGINEER IN TEST (SDET)",
-        "company": "Jobs via Dice",
-        "location": "Minneapolis, MN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-jobs-via-dice-4319980224?position=1&pageNum=2&refId=8J%2FxcZsW9r6jncn07Gg5Lg%3D%3D&trackingId=ehzwVyMjmdd9%2B2w3NP4zmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Boston, MA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296591778?position=2&pageNum=2&refId=8J%2FxcZsW9r6jncn07Gg5Lg%3D%3D&trackingId=hvpVcbuly6YmHiAZM4Ubbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Falls Church, VA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296591777?position=3&pageNum=2&refId=8J%2FxcZsW9r6jncn07Gg5Lg%3D%3D&trackingId=%2Fy2KnnyqWtXl1b4YwDdpBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Raleigh, NC",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296589914?position=5&pageNum=2&refId=8J%2FxcZsW9r6jncn07Gg5Lg%3D%3D&trackingId=77s%2FFlZBc56Bdbkbl%2FIAdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Charlotte, NC",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296804668?position=6&pageNum=2&refId=8J%2FxcZsW9r6jncn07Gg5Lg%3D%3D&trackingId=tLQK0TFhczj5zztrfaggIw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Dallas, TX",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296595788?position=7&pageNum=2&refId=8J%2FxcZsW9r6jncn07Gg5Lg%3D%3D&trackingId=SkB79%2BLqS9nyVyTXirM8bQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Wisconsin, United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296811061?position=8&pageNum=2&refId=8J%2FxcZsW9r6jncn07Gg5Lg%3D%3D&trackingId=ZtuNAI6ELEn%2BPzBtTemrbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Phoenix, AZ",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296808613?position=9&pageNum=2&refId=8J%2FxcZsW9r6jncn07Gg5Lg%3D%3D&trackingId=6X0avuTt5C4sbtJr0TSzSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Software Engineer - Remote",
-        "company": "Kastle Systems",
-        "location": "Houston, TX",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-kastle-systems-4296594757?position=10&pageNum=2&refId=8J%2FxcZsW9r6jncn07Gg5Lg%3D%3D&trackingId=GDk9Gc3HP%2FoIyt%2Bv8%2BHyQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-30 08:50:28",
-        "email_sent": false
-    },
-    {
         "title": "Researcher with English plus Arabic, Russian and Ukrainian, Korean, Romanian, Chinese, Vietnamese, Japanese or Dutch",
         "company": "Updata One",
         "location": "United States",
@@ -1387,6 +847,176 @@
         "url": "https://www.linkedin.com/jobs/view/materials-engineering-technician-ocu-technical-1st-shift-at-cummins-inc-4311698402?position=3&pageNum=10&refId=GgMM1TtMLdYlVdk1I%2Bom1w%3D%3D&trackingId=Io0J0srU8P2dZmvHgtI3VA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-30 09:44:28",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer, Data Visualization and Business Intelligence",
+        "company": "KPMG US",
+        "location": "Denver, CO",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310993026?position=5&pageNum=0&refId=LJ%2FffjLIAeJ24%2FyTv5gmdQ%3D%3D&trackingId=vra9Wat%2FPbWtTd2zwpCSTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer, Data Visualization and Business Intelligence",
+        "company": "KPMG US",
+        "location": "Houston, TX",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310979869?position=8&pageNum=0&refId=LJ%2FffjLIAeJ24%2FyTv5gmdQ%3D%3D&trackingId=Ml%2BsHJCvDzziuKb3TbLQNw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DC Department of Human Resources",
+        "location": "Washington, DC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dc-department-of-human-resources-4332984905?position=23&pageNum=0&refId=LJ%2FffjLIAeJ24%2FyTv5gmdQ%3D%3D&trackingId=k58B4kZsHzjdL8ZTzRvG3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer, Data Visualization and Business Intelligence",
+        "company": "KPMG US",
+        "location": "Winston-Salem, NC",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310977949?position=28&pageNum=0&refId=LJ%2FffjLIAeJ24%2FyTv5gmdQ%3D%3D&trackingId=08HG%2FlSwRppsh8B3%2FUc%2BbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer, Data Visualization and Business Intelligence",
+        "company": "KPMG US",
+        "location": "Huntsville, AL",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310974903?position=30&pageNum=0&refId=LJ%2FffjLIAeJ24%2FyTv5gmdQ%3D%3D&trackingId=yl%2BR6Cjzf5RaE24CkZCcSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer, Data Visualization and Business Intelligence",
+        "company": "KPMG US",
+        "location": "Des Moines, IA",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310993027?position=32&pageNum=0&refId=LJ%2FffjLIAeJ24%2FyTv5gmdQ%3D%3D&trackingId=Vg3NAhkgKMgwhO46QUbRsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer, Data Visualization and Business Intelligence",
+        "company": "KPMG US",
+        "location": "Short Hills, NJ",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310990050?position=33&pageNum=0&refId=LJ%2FffjLIAeJ24%2FyTv5gmdQ%3D%3D&trackingId=JaI8ClmqUnjb5Z%2BAPywRXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer, Data Visualization and Business Intelligence",
+        "company": "KPMG US",
+        "location": "Omaha, NE",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310988063?position=35&pageNum=0&refId=LJ%2FffjLIAeJ24%2FyTv5gmdQ%3D%3D&trackingId=c06HgvEnPuQLLUBow1E37g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "Edison, NJ",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4318940003?position=38&pageNum=0&refId=LJ%2FffjLIAeJ24%2FyTv5gmdQ%3D%3D&trackingId=W2bWixXPvcd1LlFI5XTvug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Front End Software Engineer",
+        "company": "Saronic Technologies",
+        "location": "Austin, TX",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-saronic-technologies-4280447655?position=41&pageNum=0&refId=LJ%2FffjLIAeJ24%2FyTv5gmdQ%3D%3D&trackingId=CW8YTUlUzf3OjPoqSV3pcQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Fullstack Software Engineer - Product Experiences",
+        "company": "Snowflake",
+        "location": "Menlo Park, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-product-experiences-at-snowflake-4333004989?position=43&pageNum=0&refId=LJ%2FffjLIAeJ24%2FyTv5gmdQ%3D%3D&trackingId=5j5LwOeLOs4xt%2FLBDoJlsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Software Test Engineer",
+        "company": "AMETEK",
+        "location": "Huntsville, AL",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-at-ametek-4312313584?position=58&pageNum=0&refId=LJ%2FffjLIAeJ24%2FyTv5gmdQ%3D%3D&trackingId=W1LGmpj0vYDGrEX3gMnB5A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer, Data Visualization and Business Intelligence",
+        "company": "KPMG US",
+        "location": "Winston-Salem, NC",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310977949?position=3&pageNum=2&refId=T6gLvw%2F8bGVrHMlFz7UyBg%3D%3D&trackingId=UviynBCEfYkI%2FoalQ6ZL8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer, Data Visualization and Business Intelligence",
+        "company": "KPMG US",
+        "location": "Huntsville, AL",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310974903?position=5&pageNum=2&refId=T6gLvw%2F8bGVrHMlFz7UyBg%3D%3D&trackingId=Tzh2IuTsXgByfMIfBonO3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer, Data Visualization and Business Intelligence",
+        "company": "KPMG US",
+        "location": "Des Moines, IA",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310993027?position=7&pageNum=2&refId=T6gLvw%2F8bGVrHMlFz7UyBg%3D%3D&trackingId=XfOe92yaXtJB9UH3dVVjBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer, Data Visualization and Business Intelligence",
+        "company": "KPMG US",
+        "location": "Short Hills, NJ",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310990050?position=8&pageNum=2&refId=T6gLvw%2F8bGVrHMlFz7UyBg%3D%3D&trackingId=gRVQE7ZuPOMVcZhIozgBCw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer, Data Visualization and Business Intelligence",
+        "company": "KPMG US",
+        "location": "Omaha, NE",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-data-visualization-and-business-intelligence-at-kpmg-us-4310988063?position=10&pageNum=2&refId=T6gLvw%2F8bGVrHMlFz7UyBg%3D%3D&trackingId=JFLX0gXnchxT4f56ytz1kg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-30 09:57:06",
         "email_sent": false
     }
 ]
