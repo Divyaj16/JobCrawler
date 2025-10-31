@@ -1,315 +1,5 @@
 [
     {
-        "title": "API Data Engineer",
-        "company": "Compunnel Inc.",
-        "location": "New York, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/api-data-engineer-at-compunnel-inc-4333367712?position=4&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=vsBpyFMyG9ZYoby4SAQNVQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist / Engineer",
-        "company": "Shift Technology",
-        "location": "Boston, MA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-engineer-at-shift-technology-4333199560?position=5&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=T91be3200p%2B6tLFKnS1qxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Developer Experience",
-        "company": "Notion",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-developer-experience-at-notion-4276096791?position=6&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=e1nnpqy2q48LjsKLEEdaOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4333384175?position=8&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=VXg5uYsFJ6yY0HZJ6PbCRg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "AI-Native Data Engineer - TrueMeter",
-        "company": "Pear VC",
-        "location": "Palo Alto, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-native-data-engineer-truemeter-at-pear-vc-4333258167?position=9&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=t2XQkKyf48eylIclmPyMvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Facilities Operations",
-        "company": "Tesla",
-        "location": "San Jose, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-facilities-operations-at-tesla-4333228435?position=12&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=uAXAA1v0QMKiEOmLxUZSzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "Kavyos Consulting",
-        "location": "Richmond, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-kavyos-consulting-4320112485?position=13&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=UAT4osIaqfxUTa%2Fs%2BAnJyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - San Jose",
-        "company": "Larrys Legacy",
-        "location": "San Jose, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-san-jose-at-larrys-legacy-4333397568?position=16&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=Vce1TSFpiWOQuuRsiXNYcQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Edison, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4318940003?position=18&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=eFiSTEt2niVuirHmuoDdYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Sullivan Steel Service",
-        "location": "Pennington, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-sullivan-steel-service-4333296438?position=19&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=XlhdN4df4Bk1%2FVNe5%2FnyLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer III",
-        "company": "Beacon Hill",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-beacon-hill-4333418120?position=23&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=sSyS%2FXSGTxaBCU2ebrcqpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Plex Consulting, LLC",
-        "location": "Phoenix, AZ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-plex-consulting-llc-4333238290?position=24&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=ZyHV%2FxHpqnW1dc3OYJ%2B2EA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Inherent Technologies",
-        "location": "Houston, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-inherent-technologies-4333248121?position=27&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=fYIJYn%2FrCDYzR7f4alq6Ng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Cincinnati, OH",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4318855263?position=31&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=fWRYhL4mrHF7T5IvSt6a8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Cloud Engineer",
-        "company": "Dark Wolf Solutions",
-        "location": "Herndon, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/cloud-engineer-at-dark-wolf-solutions-4333357669?position=32&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=GyjgX5x6BfW3sOAL%2FJNG3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst/Data Entry Clerk",
-        "company": "Larrys Legacy",
-        "location": "Fort Worth, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-data-entry-clerk-at-larrys-legacy-4333328156?position=34&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=7E0EKE3Yv5IX1C5eiJNqiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Bellevue, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4320112445?position=37&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=jXittBuAAqCkARCgazi73Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "LabXchange360",
-        "location": "New Bedford, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-labxchange360-4320302021?position=39&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=uC%2FezM8uelo69gsgmx8qTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Orlando, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4320292022?position=41&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=fiT29KLWFks6mQjuxQ8Npw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (React, Python)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-react-python-at-wiraa-4333403929?position=43&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=Hqp9lDlxvwF8ntQZ0%2F6xjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Dallas, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4320312099?position=44&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=Z5ecmaDeCMY3hLTn06WnuQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, Java)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-java-at-wiraa-4333354324?position=46&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=MGNTEF%2ByACNAIEQ1Adw2bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Data",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-at-wiraa-4333403927?position=47&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=4KkdKpL5zvMxJlTQvaRETg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, DevSecOps",
-        "company": "Moveworks",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-devsecops-at-moveworks-4289378909?position=48&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=QXQOLOnUQFplC86vN7HxQw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Engineer - AJ",
-        "company": "Piper Companies",
-        "location": "Annapolis Junction, MD",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-aj-at-piper-companies-4320192109?position=49&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=eeGnHkz%2BoYn21h9p0ho09g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Richmond, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4320182237?position=52&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=K%2F%2FlwCKb%2BX2ePkyK6ZQvhA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II-Xbox",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-xbox-at-wiraa-4333413700?position=58&pageNum=0&refId=EAENkaUsFghky8ntTl8iow%3D%3D&trackingId=nTJ9Ky918dgsRHa7XgvXLw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Inherent Technologies",
-        "location": "Houston, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-inherent-technologies-4333248121?position=2&pageNum=2&refId=k0N1p8yvJK8AvYprXKz22Q%3D%3D&trackingId=%2FW7wCjJWUCVCcHqWjWh0uA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Cincinnati, OH",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4318855263?position=6&pageNum=2&refId=k0N1p8yvJK8AvYprXKz22Q%3D%3D&trackingId=jWd16Th6vK3ZDb6WvF6eHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Cloud Engineer",
-        "company": "Dark Wolf Solutions",
-        "location": "Herndon, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/cloud-engineer-at-dark-wolf-solutions-4333357669?position=7&pageNum=2&refId=k0N1p8yvJK8AvYprXKz22Q%3D%3D&trackingId=wQyFhMup%2Fb76aUWq%2Ft3j%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst/Data Entry Clerk",
-        "company": "Larrys Legacy",
-        "location": "Fort Worth, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-data-entry-clerk-at-larrys-legacy-4333328156?position=9&pageNum=2&refId=k0N1p8yvJK8AvYprXKz22Q%3D%3D&trackingId=fSoyGClmBH46c%2B%2FMv331RA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-10-31 20:51:18",
-        "email_sent": false
-    },
-    {
         "title": "Associate Data Engineer",
         "company": "Arvest Bank",
         "location": "United States",
@@ -1027,6 +717,116 @@
         "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4331493842?position=10&pageNum=2&refId=%2Bf0v165wS0ASyzcrsEBMrg%3D%3D&trackingId=bcs5qiuh0f2kyQVYxVpuiA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-10-31 21:45:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Liza Health",
+        "location": "Cambridge, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-liza-health-4333278831?position=2&pageNum=0&refId=eqTyIQt3o0xwpml1Q6KZsA%3D%3D&trackingId=wpSPTlXmUn%2BrvxPeDp6aMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 21:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Python Software Engineer",
+        "company": "Toyota Connected North America",
+        "location": "Plano, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-python-software-engineer-at-toyota-connected-north-america-4331752210?position=12&pageNum=0&refId=eqTyIQt3o0xwpml1Q6KZsA%3D%3D&trackingId=mKULt%2FRJmckTs42%2BPzVP%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 21:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer (Python)",
+        "company": "Scribd, Inc.",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-python-at-scribd-inc-4320212661?position=17&pageNum=0&refId=eqTyIQt3o0xwpml1Q6KZsA%3D%3D&trackingId=vxCpmPVMwFHYNOkFB5jUnQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 21:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4333384172?position=28&pageNum=0&refId=eqTyIQt3o0xwpml1Q6KZsA%3D%3D&trackingId=rRIFMbo2TKdz1JnwTT2Ntw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 21:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II (Backend + Data pipelines)",
+        "company": "Scribd, Inc.",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-backend-%2B-data-pipelines-at-scribd-inc-4320162852?position=31&pageNum=0&refId=eqTyIQt3o0xwpml1Q6KZsA%3D%3D&trackingId=FOvXe%2BhNZSYxkXAIV4%2BTmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 21:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Infrastructure",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-at-wiraa-4333234889?position=33&pageNum=0&refId=eqTyIQt3o0xwpml1Q6KZsA%3D%3D&trackingId=oYhTEvn3sMjjEm8FpbBzzQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 21:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, GeminiApp, Ecosystems",
+        "company": "Google DeepMind",
+        "location": "Buffalo-Niagara Falls Area",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-geminiapp-ecosystems-at-google-deepmind-4333229593?position=46&pageNum=0&refId=eqTyIQt3o0xwpml1Q6KZsA%3D%3D&trackingId=B6kXKOTypEb%2BZzK3ptAlZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 21:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "Materials Software Engineer",
+        "company": "Google DeepMind",
+        "location": "Mountain View, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/materials-software-engineer-at-google-deepmind-4333269399?position=48&pageNum=0&refId=eqTyIQt3o0xwpml1Q6KZsA%3D%3D&trackingId=bcuJJ6Ci0EbSUVJVZyZmkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 21:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4333384172?position=3&pageNum=2&refId=r25U7x%2Fcrh4KlZjnjGTgVg%3D%3D&trackingId=Cy5ED2EZeDJii30Ir6qljw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 21:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II (Backend + Data pipelines)",
+        "company": "Scribd, Inc.",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-backend-%2B-data-pipelines-at-scribd-inc-4320162852?position=7&pageNum=2&refId=r25U7x%2Fcrh4KlZjnjGTgVg%3D%3D&trackingId=cSTjjb%2BxoDxVuBKADiKLDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 21:52:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Infrastructure",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-at-wiraa-4333234889?position=8&pageNum=2&refId=r25U7x%2Fcrh4KlZjnjGTgVg%3D%3D&trackingId=9TWTHJFGBjXa0pylIoE0OA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-10-31 21:52:01",
         "email_sent": false
     }
 ]
