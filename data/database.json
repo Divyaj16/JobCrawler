@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Analyst II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4333565233?position=2&pageNum=0&refId=2cvZD3GLgQiu8MuexpcZOw%3D%3D&trackingId=wFkDNknLUc0edGJ33xqmDA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 21:58:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (TypeScript, Go)",
-        "company": "Block",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-typescript-go-at-block-4333555253?position=5&pageNum=0&refId=2cvZD3GLgQiu8MuexpcZOw%3D%3D&trackingId=4bSu%2BzWB0snZ9aux3sQXjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 21:58:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "CyberGolem",
-        "location": "United States",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-cybergolem-4320285587?position=8&pageNum=0&refId=2cvZD3GLgQiu8MuexpcZOw%3D%3D&trackingId=YG5Nls7UWnnsKfXxpw5DHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 21:58:39",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer (API, SQL)",
         "company": "Wiraa",
         "location": "United States",
@@ -117,6 +87,16 @@
         "url": "https://www.linkedin.com/jobs/view/associate-data-scientist-at-q%C2%B2-solutions-4333568184?position=11&pageNum=0&refId=KeKjR3oDgbcGRHmfTVbSmg%3D%3D&trackingId=ScGH6qf9WTCAy44xGSASLg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-01 22:57:05",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4333565232?position=8&pageNum=0&refId=0YZTvDZHmP9kMamjDFh92w%3D%3D&trackingId=z2ydArK%2BciOmySGZDGykUg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-01 23:16:51",
         "email_sent": false
     }
 ]
