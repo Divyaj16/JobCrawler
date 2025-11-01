@@ -1,15 +1,5 @@
 [
     {
-        "title": "DevOps Engineer",
-        "company": "Ford Motor Company",
-        "location": "United States",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-ford-motor-company-4320275254?position=5&pageNum=0&refId=qHPecilB70Sks0imSzxKsQ%3D%3D&trackingId=%2F35wiVotfLmhkLYwQluXlw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 16:56:57",
-        "email_sent": false
-    },
-    {
         "title": "Intelligence Analyst",
         "company": "City of New York",
         "location": "Brooklyn, NY",
@@ -657,6 +647,36 @@
         "url": "https://www.linkedin.com/jobs/view/ai-gen-ai-data-scientist-experienced-associate-at-pwc-4320255525?position=10&pageNum=2&refId=W15qCLWBbjwlu5vXpmAr1A%3D%3D&trackingId=CDeMaMKWTE5QvO%2Bq%2BSdX9A%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-01 17:51:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4333565233?position=1&pageNum=0&refId=8Ik5iNs1hgWsWt7fr3tG4Q%3D%3D&trackingId=GzHb0MPwtx8GhSnn%2By2U5A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-01 18:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (API, SQL)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-wiraa-4333654335?position=2&pageNum=0&refId=8Ik5iNs1hgWsWt7fr3tG4Q%3D%3D&trackingId=qNxrWj8zMisJgqcDWriV5Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-01 18:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (TypeScript, Go)",
+        "company": "Block",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-typescript-go-at-block-4333555253?position=3&pageNum=0&refId=8Ik5iNs1hgWsWt7fr3tG4Q%3D%3D&trackingId=R%2BNU0ZpyDksoKaDvo1E6Iw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-01 18:01:22",
         "email_sent": false
     }
 ]
