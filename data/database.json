@@ -1,65 +1,5 @@
 [
     {
-        "title": "Software Engineer (API, SQL)",
-        "company": "DigitalOcean",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-digitalocean-4333654335?position=5&pageNum=0&refId=BXhGxqmrBjAwbprwvL9GsQ%3D%3D&trackingId=1X5JJnzwkC7WuQ35zyqfPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4333565233?position=9&pageNum=0&refId=BXhGxqmrBjAwbprwvL9GsQ%3D%3D&trackingId=o95gc46jQrw9l6TN7WyhZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - DevSecOps",
-        "company": "Boeing",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-devsecops-at-boeing-4333585037?position=15&pageNum=0&refId=BXhGxqmrBjAwbprwvL9GsQ%3D%3D&trackingId=BFIsa4cBKD3gFFxog%2BFbHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Quality Engineer \u2013 Data & ETL Testing",
-        "company": "Cognizant",
-        "location": "Louisville, KY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/quality-engineer-%E2%80%93-data-etl-testing-at-cognizant-4312885088?position=20&pageNum=0&refId=BXhGxqmrBjAwbprwvL9GsQ%3D%3D&trackingId=xm5Q%2FM9vZPBNn2Q2x6WcIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, Curation",
-        "company": "Pinterest",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-curation-at-pinterest-4333445905?position=26&pageNum=0&refId=BXhGxqmrBjAwbprwvL9GsQ%3D%3D&trackingId=44AU3%2Bsmt85xIGWW6jQdLw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 16:00:18",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Engineer",
-        "company": "Terracon",
-        "location": "Savannah, GA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-terracon-4331845888?position=30&pageNum=0&refId=BXhGxqmrBjAwbprwvL9GsQ%3D%3D&trackingId=69lGv%2BCViDUqP1hBIpeMWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 16:00:18",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Otter Tail County",
         "location": "Fergus Falls, MN",
@@ -167,6 +107,36 @@
         "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-ford-motor-company-4320275254?position=5&pageNum=0&refId=qHPecilB70Sks0imSzxKsQ%3D%3D&trackingId=%2F35wiVotfLmhkLYwQluXlw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-01 16:56:57",
+        "email_sent": false
+    },
+    {
+        "title": "Intelligence Analyst",
+        "company": "City of New York",
+        "location": "Brooklyn, NY",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/intelligence-analyst-at-city-of-new-york-4332130564?position=9&pageNum=0&refId=vU3o7lz0yFCo66uCPpRgIg%3D%3D&trackingId=LUCte22iKH2SUt5md93YEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-01 17:14:53",
+        "email_sent": false
+    },
+    {
+        "title": "Bioinformatician/Research Data Analyst 1",
+        "company": "CHEManager International",
+        "location": "Stanford, CA",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/bioinformatician-research-data-analyst-1-at-chemanager-international-4320265382?position=10&pageNum=0&refId=vU3o7lz0yFCo66uCPpRgIg%3D%3D&trackingId=9RTzYwLGV70ffWVbSm9mSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-01 17:14:53",
+        "email_sent": false
+    },
+    {
+        "title": "Collector",
+        "company": "Pro Integrate",
+        "location": "Las Vegas, NV",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/collector-at-pro-integrate-4320291314?position=12&pageNum=0&refId=vU3o7lz0yFCo66uCPpRgIg%3D%3D&trackingId=Hvb3wjYw5g%2F2SAp8TgBiSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-01 17:14:53",
         "email_sent": false
     }
 ]
