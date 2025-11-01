@@ -1,95 +1,5 @@
 [
     {
-        "title": "Data Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-wiraa-4333624848?position=1&pageNum=0&refId=yxFx6IVO%2FIinfXKmdUIFFA%3D%3D&trackingId=bXR28lC2jP%2BaTg4P8LOlhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 19:47:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4333495351?position=2&pageNum=0&refId=yxFx6IVO%2FIinfXKmdUIFFA%3D%3D&trackingId=qiwnuZxtANF7nJaXsAi9hA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 19:47:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "AcuityMD",
-        "location": "Boston, MA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-acuitymd-4333647386?position=3&pageNum=0&refId=yxFx6IVO%2FIinfXKmdUIFFA%3D%3D&trackingId=cIcVCPHdUDxvnhYDpHmWGw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 19:47:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - DevSecOps",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-devsecops-at-wiraa-4333585037?position=9&pageNum=0&refId=yxFx6IVO%2FIinfXKmdUIFFA%3D%3D&trackingId=UWh0F7xnO0GyZsnqxgtK1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 19:47:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Infrastructure Security",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-security-at-wiraa-4333495355?position=11&pageNum=0&refId=yxFx6IVO%2FIinfXKmdUIFFA%3D%3D&trackingId=4x5eOxqODGC1vnlcsCLmGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 19:47:57",
-        "email_sent": false
-    },
-    {
-        "title": "Mid-Level Software Engineer",
-        "company": "Smarty",
-        "location": "Orem, UT",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/mid-level-software-engineer-at-smarty-4333547861?position=13&pageNum=0&refId=yxFx6IVO%2FIinfXKmdUIFFA%3D%3D&trackingId=Yf3Ljc8iVKO%2B2p3VyG7R2w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 19:47:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Humana",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-humana-4333565232?position=15&pageNum=0&refId=yxFx6IVO%2FIinfXKmdUIFFA%3D%3D&trackingId=TDBb3HfktlZkOqdAUgF%2Bew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 19:47:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, Curation",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-curation-at-wiraa-4333445905?position=27&pageNum=0&refId=yxFx6IVO%2FIinfXKmdUIFFA%3D%3D&trackingId=ZfBYHGB7nJ6RSRi3DUaKRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 19:47:57",
-        "email_sent": false
-    },
-    {
-        "title": "Remote",
-        "company": "OneCo",
-        "location": "San Mateo, CA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-at-oneco-4333448522?position=40&pageNum=0&refId=yxFx6IVO%2FIinfXKmdUIFFA%3D%3D&trackingId=nG%2BVCa%2FSC%2F6QLR2AH3yA1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-01 19:47:57",
-        "email_sent": false
-    },
-    {
         "title": "iOS Software Engineer - TikTok User Growth",
         "company": "TikTok",
         "location": "San Jose, CA",
@@ -487,6 +397,26 @@
         "url": "https://www.linkedin.com/jobs/view/product-sourcing-engineer-casting-at-jobs-via-dice-4318634852?position=48&pageNum=0&refId=4gbVKzhjZcuZWuIjhvIGTg%3D%3D&trackingId=3FDk7tbzZ%2BZqTCXubzZ%2FiQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-01 20:46:46",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer (DBE3) with Poly Clearance Required",
+        "company": "Jobs via Dice",
+        "location": "Annapolis, MD",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-dbe3-with-poly-clearance-required-at-jobs-via-dice-4318841303?position=29&pageNum=0&refId=CLsNbHIM%2B7XXWJSgDzmTKQ%3D%3D&trackingId=hc9vxNFtj8Acpex90gsJFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-01 20:56:43",
+        "email_sent": false
+    },
+    {
+        "title": "Construction Analyst",
+        "company": "Lidl US",
+        "location": "Arlington, VA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/construction-analyst-at-lidl-us-4314629065?position=42&pageNum=0&refId=CLsNbHIM%2B7XXWJSgDzmTKQ%3D%3D&trackingId=UILbHSOCydhAqBNY%2FwfR6Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-01 20:56:43",
         "email_sent": false
     }
 ]
