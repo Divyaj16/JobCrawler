@@ -1,105 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4333741771?position=3&pageNum=0&refId=gmzbLAhu6mqojL9j3FMIcQ%3D%3D&trackingId=fsF3zTb%2BCUBPnJMSOT8Rig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-02 18:45:02",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Edison, NJ",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4318940003?position=4&pageNum=0&refId=gmzbLAhu6mqojL9j3FMIcQ%3D%3D&trackingId=t0ADJBXx8md96bJkg5J59A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-02 18:45:02",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4333871082?position=5&pageNum=0&refId=gmzbLAhu6mqojL9j3FMIcQ%3D%3D&trackingId=iaBURkchMdxhbJE58eBybg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-02 18:45:02",
-        "email_sent": false
-    },
-    {
-        "title": "AI/ML Software Engineer",
-        "company": "GE Aerospace",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-ml-software-engineer-at-ge-aerospace-4333658747?position=6&pageNum=0&refId=gmzbLAhu6mqojL9j3FMIcQ%3D%3D&trackingId=%2Fdg4%2BCfnVLh409WG9gzMsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-02 18:45:02",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, Spring)",
-        "company": "First Citizens Bank",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-spring-at-first-citizens-bank-4333519897?position=11&pageNum=0&refId=gmzbLAhu6mqojL9j3FMIcQ%3D%3D&trackingId=yve2%2BkzkbKbIcVrhgREmyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-02 18:45:02",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4333811442?position=14&pageNum=0&refId=gmzbLAhu6mqojL9j3FMIcQ%3D%3D&trackingId=vI%2FRhW5OjFXFcUzCeX7V5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-02 18:45:02",
-        "email_sent": false
-    },
-    {
-        "title": "Fullstack Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-at-hirenza-4333851147?position=15&pageNum=0&refId=gmzbLAhu6mqojL9j3FMIcQ%3D%3D&trackingId=tyS2sDw8BNWeECkV%2F8aVhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-02 18:45:02",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (C, C++)",
-        "company": "Lockheed Martin",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-at-lockheed-martin-4333569809?position=16&pageNum=0&refId=gmzbLAhu6mqojL9j3FMIcQ%3D%3D&trackingId=0JWHDgihi2JFGUxejOE%2F2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-02 18:45:02",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist (AI & ML)",
-        "company": "Franklin Templeton",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ai-ml-at-franklin-templeton-4333649240?position=17&pageNum=0&refId=gmzbLAhu6mqojL9j3FMIcQ%3D%3D&trackingId=KMvtglNgKA8dzsR7Qt3nDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-02 18:45:02",
-        "email_sent": false
-    },
-    {
-        "title": "Data Business Analyst",
-        "company": "First American",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-business-analyst-at-first-american-4333710108?position=18&pageNum=0&refId=gmzbLAhu6mqojL9j3FMIcQ%3D%3D&trackingId=BUkuxliZqW49kk2IIBjqPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-02 18:45:02",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer (AI)",
         "company": "Wiraa",
         "location": "United States",
@@ -587,6 +487,266 @@
         "url": "https://www.linkedin.com/jobs/view/quantitative-statistics-tutor-at-varsity-tutors-a-nerdy-company-4332631028?position=46&pageNum=0&refId=Btm3WG6MNkdgq2mCgoFOBA%3D%3D&trackingId=KTRkWzxQ51k%2F%2BNL2q2j7yQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-02 19:38:49",
+        "email_sent": false
+    },
+    {
+        "title": "QE Data Engineer",
+        "company": "Biogensys",
+        "location": "Austin, TX",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/qe-data-engineer-at-biogensys-4333742004?position=3&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=0%2BKXQZusA%2BNrNhuga5ODMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "AI/ML Software Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-ml-software-engineer-at-wiraa-4333658747?position=12&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=Qht8wAX1vcUwwiUQ6g6xwg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "UCLA",
+        "location": "Los Angeles, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-ucla-4333721953?position=15&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=h60JgB1JyQQ9yivhraGn%2FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4333519898?position=16&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=Q1GCLu3afqJBy%2FQvRyrqSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Java, Spring)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-spring-at-wiraa-4333519897?position=24&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=s%2FmcCw0E9%2FHZPfModqq8hQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Flutter)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-flutter-at-wiraa-4333831181?position=26&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=0mKrrCnIIEzmfoKHaTM%2BRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (C, C++)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-at-wiraa-4333569809?position=27&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=zYrFO9kLnr2NJ55hmlzFGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Business Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-business-analyst-at-wiraa-4333710108?position=30&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=kIRaefKm%2FoFvoSDolD%2B5oQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Management Analyst",
+        "company": "City of Charlotte",
+        "location": "Charlotte, NC",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/management-analyst-at-city-of-charlotte-4333741996?position=35&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=CN7MYXwm4FqsDS4hZDFnxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Quincy, MA",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4332635266?position=40&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=m8nBmqRL9ohM1fzJoY5HZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Hempstead, NY",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4332632158?position=41&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=LBXi1fLTtrq%2BP8ir%2F%2BX9mg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Newton, MA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4332628430?position=43&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=d%2Fkmm9%2FCBGtTJvlK07tWGw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Lowell, MA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4332616742?position=44&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=jhUItXRPfKM3o6Ericw1RA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Pflugerville, TX",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4332621552?position=46&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=nb%2Ftm18SmsZksUbopsYiyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Sugar Land, TX",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4332618723?position=48&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=AgNNO5Ny2lb43YJ6shxp%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Tempe, AZ",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4332616905?position=54&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=%2B5SalXGNi44Xc6JmwghXuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Glendale, AZ",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4332638222?position=55&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=UJGUKTJG8UNkskA05dNPXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Gilbert, AZ",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4332630459?position=56&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=w79g0BPWmwFpViDYpXqKRw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Irving, TX",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4332634647?position=57&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=Ox5nN74XQ24i9dche6s15g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Lawrenceville, GA",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4332647092?position=58&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=ZY10aBq1RYk%2BEB0%2BVji2IA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Providence, RI",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4332634129?position=59&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=DuMf%2Fwtc0X7caFRbH79tyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Plano, TX",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4332621931?position=60&pageNum=0&refId=DOQxa6tkcDnunGSMcicGmQ%3D%3D&trackingId=YcE5FC1YYyG2IbO%2BSPdLkg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Flutter)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-flutter-at-wiraa-4333831181?position=1&pageNum=2&refId=e%2FdMNF6Nj7P5Lpu%2F3CsUGQ%3D%3D&trackingId=M29PVzbWXGPd%2FnfHZtWpLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (C, C++)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-c-c%2B%2B-at-wiraa-4333569809?position=2&pageNum=2&refId=e%2FdMNF6Nj7P5Lpu%2F3CsUGQ%3D%3D&trackingId=vsBoct0RnkEsvSkxuTV1Ug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Business Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-business-analyst-at-wiraa-4333710108?position=5&pageNum=2&refId=e%2FdMNF6Nj7P5Lpu%2F3CsUGQ%3D%3D&trackingId=aCGaNoea1mEbTwvNWio%2F8A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
+        "email_sent": false
+    },
+    {
+        "title": "Management Analyst",
+        "company": "City of Charlotte",
+        "location": "Charlotte, NC",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/management-analyst-at-city-of-charlotte-4333741996?position=10&pageNum=2&refId=e%2FdMNF6Nj7P5Lpu%2F3CsUGQ%3D%3D&trackingId=VPGtWBAITdlTPR42Clz4Mg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-02 19:48:08",
         "email_sent": false
     }
 ]
