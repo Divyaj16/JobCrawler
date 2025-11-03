@@ -1,235 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4333739643?position=4&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=njmVoPXSigpIIgbuOO3Zmg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer, Database System",
-        "company": "CelerData",
-        "location": "San Francisco Bay Area",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-database-system-at-celerdata-4333839646?position=6&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=FBXKB8YYwW5hQrd96R1oMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4333705755?position=9&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=kTyFIUh39jCW0WflkZ0MKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Experis",
-        "location": "Redmond, WA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-experis-4320395656?position=10&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=DMQrFcWeAqw6yS%2B%2F0IlkXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Ericsson Telecommunications Inc.",
-        "location": "Houston, TX",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-ericsson-telecommunications-inc-4333732132?position=13&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=upolpyU2fvhWe3i7oV0REg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "7N",
-        "location": "West Chester, PA",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-7n-4333990050?position=18&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=UJW8VH4Dufh3QaxXXvEeww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-wiraa-4333715736?position=21&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=B7N8B0LFaxFKllX0xhNWIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Services Analyst",
-        "company": "Candid",
-        "location": "New York, NY",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-services-analyst-at-candid-4309306563?position=23&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=ypGC4u0SUriD1ELhyAcmHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Experis",
-        "location": "Charlotte, NC",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-experis-4320475508?position=25&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=JHMYSfcQBNeofmDs%2B8wHXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer - DevSecOps",
-        "company": "Greenfix Property Care",
-        "location": "Missouri City, TX",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-devsecops-at-greenfix-property-care-4320564444?position=31&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=RLpoWBBmjoj9vBODeu99jQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wiraa-4333676337?position=32&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=DdvkuUBv0Q%2F9LDclr%2FS7bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Sr. Data Engineer",
-        "company": "NBCUniversal",
-        "location": "Orlando, FL",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-nbcuniversal-4337703267?position=38&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=pd4IoFVyra%2Bh7IQiahYtrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "Greenfix Property Care",
-        "location": "Missouri City, TX",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-greenfix-property-care-4320485232?position=40&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=bve17OOBrADLxmgd%2BqQMBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Engineer, Software (Central Cloud Platform)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-engineer-software-central-cloud-platform-at-palo-alto-networks-4320515245?position=44&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=p7cYYCdIjfQnlwKZQ2rq1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data & Analytics - Consultant",
-        "company": "Avaap",
-        "location": "United States",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-consultant-at-avaap-4334000003?position=46&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=r11b5708XA1o4rYJIEHTVQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Data Intelligence, LLC",
-        "location": "Moorestown, NJ",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-data-intelligence-llc-4320535414?position=48&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=JB6r%2BEx9W6nLHhsMoZYlmg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Adaptation Research Engineer",
-        "company": "Adaption",
-        "location": "San Francisco, CA",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-adaptation-research-engineer-at-adaption-4315952091?position=51&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=4HQ4wG4jEVK%2B1BGHFgdNtQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Sustainability Data Analyst",
-        "company": "MillerKnoll",
-        "location": "Holland, MI",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sustainability-data-analyst-at-millerknoll-4320385802?position=57&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=Cy34PCGUdEzfTTThTfRqNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Solution Development",
-        "company": "Dematic",
-        "location": "Atlanta, GA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-solution-development-at-dematic-4320425599?position=58&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=haiZrELnqtdbLW6hDKDGPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Solution Development",
-        "company": "Dematic",
-        "location": "Plano, TX",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-solution-development-at-dematic-4320355805?position=59&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=hU%2B5z%2FybJGcjCGtQ0ZR1iA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II - Fullstack",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-fullstack-at-wiraa-4333805513?position=60&pageNum=0&refId=pA8iwFH%2FvzT5ddMgx1y9fw%3D%3D&trackingId=SmzowWe5Q5HlWvvtn2KELg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer - DevSecOps",
-        "company": "Greenfix Property Care",
-        "location": "Missouri City, TX",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-devsecops-at-greenfix-property-care-4320564444?position=6&pageNum=2&refId=U%2Bqg2bbKFops6lEkrJmeFA%3D%3D&trackingId=sgjejNoMVxNBb4hvfqs2zA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wiraa-4333676337?position=7&pageNum=2&refId=U%2Bqg2bbKFops6lEkrJmeFA%3D%3D&trackingId=%2FtluwEAm1ihCsykj2%2FJJQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-03 20:30:11",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer I (entry)",
         "company": "Jerry",
         "location": "Palo Alto, CA",
@@ -957,6 +727,76 @@
         "url": "https://www.linkedin.com/jobs/view/water-tower-water-tank-cad-drafter-at-cybercoders-3946214087?position=57&pageNum=0&refId=%2BmIMqVjN2ZMgjYbFj4cXuQ%3D%3D&trackingId=4sPH8LPTfbNeQRME9uOolw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-03 21:18:33",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Gnosis Freight",
+        "location": "Charleston, SC",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-gnosis-freight-4309203240?position=1&pageNum=0&refId=f%2FhYW8rh7XN0MzID1Tx4Eg%3D%3D&trackingId=OK%2BMCKT6ws3oFR5lRYaBXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-03 21:33:24",
+        "email_sent": false
+    },
+    {
+        "title": "AI Engineer",
+        "company": "Vote",
+        "location": "San Francisco Bay Area",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-vote-4320337893?position=10&pageNum=0&refId=f%2FhYW8rh7XN0MzID1Tx4Eg%3D%3D&trackingId=JwIPBAMrob64DCyH099uXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-03 21:33:24",
+        "email_sent": false
+    },
+    {
+        "title": "AI Platform Engineer (Early Career)",
+        "company": "AO Swag",
+        "location": "Dallas-Fort Worth Metroplex",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-platform-engineer-early-career-at-ao-swag-4320495807?position=13&pageNum=0&refId=f%2FhYW8rh7XN0MzID1Tx4Eg%3D%3D&trackingId=Fl4Ivmo%2FHT5F%2FyfqwDhKNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-03 21:33:24",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Ads Data Warehouse",
+        "company": "Moloco",
+        "location": "Seattle, WA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ads-data-warehouse-at-moloco-4333889986?position=17&pageNum=0&refId=f%2FhYW8rh7XN0MzID1Tx4Eg%3D%3D&trackingId=bejmCtFecuVJd%2BN2dhOE6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-03 21:33:24",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "Brooksource",
+        "location": "Illinois, United States",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-brooksource-4320366241?position=19&pageNum=0&refId=f%2FhYW8rh7XN0MzID1Tx4Eg%3D%3D&trackingId=Qanh4BCSK9k9frNqRJPK8A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-03 21:33:24",
+        "email_sent": false
+    },
+    {
+        "title": "Modeller",
+        "company": "Mitchell Martin Inc.",
+        "location": "Jersey City, NJ",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/modeller-at-mitchell-martin-inc-4294708081?position=40&pageNum=0&refId=f%2FhYW8rh7XN0MzID1Tx4Eg%3D%3D&trackingId=QVBOxX8quCardxrd2qa%2BAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-03 21:33:24",
+        "email_sent": false
+    },
+    {
+        "title": "Johnson & Johnson, R&D Software Engineer I - Application via WayUp",
+        "company": "WayUp",
+        "location": "Santa Clara, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/johnson-johnson-r-d-software-engineer-i-application-via-wayup-at-wayup-4334110021?position=41&pageNum=0&refId=f%2FhYW8rh7XN0MzID1Tx4Eg%3D%3D&trackingId=zhr12LgECzRYHfHZvfKqXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-03 21:33:24",
         "email_sent": false
     }
 ]
