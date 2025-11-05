@@ -1,95 +1,5 @@
 [
     {
-        "title": "Data Engineer II",
-        "company": "Walmart",
-        "location": "Bentonville, AR",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-walmart-4337970185?position=1&pageNum=0&refId=cDchLa74DIdQDwJ4OWPgrw%3D%3D&trackingId=VaJUdEjDT53YSYXNonpTPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-05 09:33:02",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer Software - DevOps & Cloud Infrastructure (Melbourne FL) - R10212662",
-        "company": "Northrop Grumman",
-        "location": "Melbourne, FL",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-software-devops-cloud-infrastructure-melbourne-fl-r10212662-at-northrop-grumman-4332888927?position=7&pageNum=0&refId=cDchLa74DIdQDwJ4OWPgrw%3D%3D&trackingId=Amo5lgVZCr41nVWHYF2ptw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-05 09:33:02",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer Level 2 - R10212376",
-        "company": "Northrop Grumman",
-        "location": "Aurora, CO",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-r10212376-at-northrop-grumman-4332796016?position=8&pageNum=0&refId=cDchLa74DIdQDwJ4OWPgrw%3D%3D&trackingId=QZk1uryM5%2Ft3ZfBc460xAw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-05 09:33:02",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer Level 3 - R10212371",
-        "company": "Northrop Grumman",
-        "location": "Aurora, CO",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-3-r10212371-at-northrop-grumman-4332835898?position=9&pageNum=0&refId=cDchLa74DIdQDwJ4OWPgrw%3D%3D&trackingId=o7bqTduuFBhbFHnIUgxaxg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-05 09:33:02",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer Software - Integration & Test Automation (San Diego CA) - R10212658",
-        "company": "Northrop Grumman",
-        "location": "San Diego, CA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-software-integration-test-automation-san-diego-ca-r10212658-at-northrop-grumman-4332809622?position=10&pageNum=0&refId=cDchLa74DIdQDwJ4OWPgrw%3D%3D&trackingId=ao2VTyhJQveg5QPQjFkNgw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-05 09:33:02",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer - Level 5 - R10213116",
-        "company": "Northrop Grumman",
-        "location": "Chandler, AZ",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-level-5-r10213116-at-northrop-grumman-4334166403?position=14&pageNum=0&refId=cDchLa74DIdQDwJ4OWPgrw%3D%3D&trackingId=EbOamEYiPVH3mcyHIAG6Ag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-05 09:33:02",
-        "email_sent": false
-    },
-    {
-        "title": "BAS Application Engineer",
-        "company": "CEJarrell Contracting",
-        "location": "St Louis, MO",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/bas-application-engineer-at-cejarrell-contracting-4334315388?position=18&pageNum=0&refId=cDchLa74DIdQDwJ4OWPgrw%3D%3D&trackingId=6vytX4e5fBtoWsmZJBeG9A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-05 09:33:02",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Temp Services (H) - Technical Assistant",
-        "company": "Walmart",
-        "location": "Bentonville, AR",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-temp-services-h-technical-assistant-at-walmart-4337821093?position=19&pageNum=0&refId=cDchLa74DIdQDwJ4OWPgrw%3D%3D&trackingId=Lvi%2Fzc%2B3iOkPDWOjbr7ZXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-05 09:33:02",
-        "email_sent": false
-    },
-    {
-        "title": "Product Data Scientist",
-        "company": "myGwork - LGBTQ+ Business Community",
-        "location": "Boston, MA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/product-data-scientist-at-mygwork-lgbtq%2B-business-community-4337821396?position=26&pageNum=0&refId=cDchLa74DIdQDwJ4OWPgrw%3D%3D&trackingId=6lSx4tSlU1PTapjOWe5%2Ftg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-05 09:33:02",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "Moody's Corporation",
         "location": "United States",
@@ -1057,6 +967,46 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-storage-at-doordash-4181927444?position=7&pageNum=2&refId=AYWC%2FVsga2pvhTO9U4iQvQ%3D%3D&trackingId=W0KlGmH7iY39ODc9iI6CDA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-05 10:30:27",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4334216200?position=4&pageNum=0&refId=BORnEB64G%2F5RbbF7zDj0vQ%3D%3D&trackingId=PmO6L10EMs%2FiOnm9BIJn8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-05 10:49:16",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer",
+        "company": "XiFin, Inc.",
+        "location": "San Diego, CA",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-xifin-inc-4289674394?position=5&pageNum=0&refId=BORnEB64G%2F5RbbF7zDj0vQ%3D%3D&trackingId=TG%2FXErGVncXXWO6VgcNmOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-05 10:49:16",
+        "email_sent": false
+    },
+    {
+        "title": "Data Enginee, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-enginee-sr-at-wiraa-4334276120?position=12&pageNum=0&refId=BORnEB64G%2F5RbbF7zDj0vQ%3D%3D&trackingId=tfdJf%2FLenAaxx1cJGhdw1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-05 10:49:16",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientists - All Levels",
+        "company": "ModMed",
+        "location": "Boca Raton, FL",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientists-all-levels-at-modmed-4305155658?position=16&pageNum=0&refId=BORnEB64G%2F5RbbF7zDj0vQ%3D%3D&trackingId=w9fWOKREzBmwTeaqwT5hfQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-05 10:49:16",
         "email_sent": false
     }
 ]
