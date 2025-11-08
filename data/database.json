@@ -1,25 +1,5 @@
 [
     {
-        "title": "Web Analyst",
-        "company": "Wise Pirates",
-        "location": "Allen, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/web-analyst-at-wise-pirates-4321703326?position=4&pageNum=0&refId=K9IeObQtf5W9Vdp%2BCjBfIA%3D%3D&trackingId=RbXVuPQtU98ompGriPEQlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-08 22:48:23",
-        "email_sent": false
-    },
-    {
-        "title": "Research Assistant",
-        "company": "Columbia University Irving Medical Center",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/research-assistant-at-columbia-university-irving-medical-center-4338195227?position=5&pageNum=0&refId=K9IeObQtf5W9Vdp%2BCjBfIA%3D%3D&trackingId=x0lqu%2FdpWoDVLDmILN5jVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-08 22:48:23",
-        "email_sent": false
-    },
-    {
         "title": "EHR Data Analyst",
         "company": "Mass General Brigham",
         "location": "Somerville, MA",
@@ -27,6 +7,36 @@
         "url": "https://www.linkedin.com/jobs/view/ehr-data-analyst-at-mass-general-brigham-4334896182?position=2&pageNum=0&refId=T8gXNHYAGlLMobqkFp7UpQ%3D%3D&trackingId=2%2BTX%2F9qSJZ1RZqArxWrO5Q%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-08 23:18:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II",
+        "company": "BBG Ventures",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-bbg-ventures-4321593568?position=1&pageNum=0&refId=%2BHRsDpRkwZUuQbpmsQisNw%3D%3D&trackingId=zuOKkYk2GJRU56h6hrNDtw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 23:57:09",
+        "email_sent": false
+    },
+    {
+        "title": "Voice Data Communication Engineer (Hybrid)",
+        "company": "StratSafe Solutions",
+        "location": "Washington, DC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/voice-data-communication-engineer-hybrid-at-stratsafe-solutions-4334628638?position=3&pageNum=0&refId=%2BHRsDpRkwZUuQbpmsQisNw%3D%3D&trackingId=42Bqk7pC8YsgFRQz8atzuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 23:57:09",
+        "email_sent": false
+    },
+    {
+        "title": "Divisional Plant Engineer",
+        "company": "Atlas Roofing Corporation",
+        "location": "Meridian, MS",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/divisional-plant-engineer-at-atlas-roofing-corporation-4335025241?position=4&pageNum=0&refId=%2BHRsDpRkwZUuQbpmsQisNw%3D%3D&trackingId=vY7yTvF2NHS6BNMVpmLtog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 23:57:09",
         "email_sent": false
     }
 ]
