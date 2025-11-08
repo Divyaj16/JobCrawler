@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "CGI",
-        "location": "Arlington, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cgi-4316386217?position=2&pageNum=0&refId=Gb%2BivCUdJr%2Bn12WhE8MBdw%3D%3D&trackingId=DOJRrZAbVn6yGdMaZfgDVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-08 16:52:53",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst - Data Governance",
-        "company": "Wesco",
-        "location": "Pittsburgh, PA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-data-governance-at-wesco-4316394032?position=18&pageNum=0&refId=Gb%2BivCUdJr%2Bn12WhE8MBdw%3D%3D&trackingId=4s4hf0tBai6XUVqWlOvIpw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-08 16:52:53",
-        "email_sent": false
-    },
-    {
         "title": "Software Development Engineer II (Remote - US)",
         "company": "Jobgether",
         "location": "United States",
@@ -197,6 +177,66 @@
         "url": "https://www.linkedin.com/jobs/view/network-administrator-at-logan-regional-medical-center-4334964953?position=26&pageNum=0&refId=H0QwP8%2FbEbSzgUFzAyH%2FDg%3D%3D&trackingId=JLbdBew8YXUmCgokFS07oQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-08 17:48:37",
+        "email_sent": false
+    },
+    {
+        "title": "EMD Data Engineer",
+        "company": "Pinnaql",
+        "location": "Rockville, MD",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/emd-data-engineer-at-pinnaql-4335074133?position=1&pageNum=0&refId=iVZOjk%2FhNsKMR8mLY6A5HA%3D%3D&trackingId=Y5MVrIVovUKOFQuWjKrIiw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 17:57:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4334994660?position=7&pageNum=0&refId=iVZOjk%2FhNsKMR8mLY6A5HA%3D%3D&trackingId=mtfvgws6PxdPnfyKtPsnpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 17:57:46",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4334944764?position=17&pageNum=0&refId=iVZOjk%2FhNsKMR8mLY6A5HA%3D%3D&trackingId=x3hIkpHMSuWULb9szRrVVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 17:57:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4334885455?position=21&pageNum=0&refId=iVZOjk%2FhNsKMR8mLY6A5HA%3D%3D&trackingId=5DC3fdYxtXz0V5d2pNOI2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 17:57:46",
+        "email_sent": false
+    },
+    {
+        "title": "System Performance Engineer-South Florida",
+        "company": "Communication Technology Services (CTS)",
+        "location": "Pompano Beach, FL",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-performance-engineer-south-florida-at-communication-technology-services-cts-4321773074?position=24&pageNum=0&refId=iVZOjk%2FhNsKMR8mLY6A5HA%3D%3D&trackingId=RYGeQ%2FRBJ%2FHdJyVp0bdKZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 17:57:46",
+        "email_sent": false
+    },
+    {
+        "title": "System Performance Engineer -Nor Cal",
+        "company": "Communication Technology Services (CTS)",
+        "location": "Livermore, CA",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-performance-engineer-nor-cal-at-communication-technology-services-cts-4321583379?position=27&pageNum=0&refId=iVZOjk%2FhNsKMR8mLY6A5HA%3D%3D&trackingId=tBYbnpRBaEpuiptXZUk77A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-08 17:57:46",
         "email_sent": false
     }
 ]
