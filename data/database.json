@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Nourish",
-        "location": "New York, NY",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-nourish-4246782478?position=2&pageNum=0&refId=OLnmjrqcwBhmEzyCvLBpPg%3D%3D&trackingId=8Mc6oIORHAOrLCOzOTvTaQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 10:47:17",
-        "email_sent": false
-    },
-    {
-        "title": "Developer",
-        "company": "TP ICAP",
-        "location": "New York, United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/developer-at-tp-icap-4296374531?position=6&pageNum=0&refId=OLnmjrqcwBhmEzyCvLBpPg%3D%3D&trackingId=jkV8jLtbhWHVdj62ZbJCEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 10:47:17",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer ( Bigdata with AWS & Snowflake)",
         "company": "Tata Consultancy Services",
         "location": "Bethesda, MD",
@@ -247,6 +227,66 @@
         "url": "https://www.linkedin.com/jobs/view/department-of-transportation-technical-expertise-and-support-services-at-uicgs-bowhead-family-of-companies-4183362207?position=33&pageNum=0&refId=UIjZniqseRZ%2BsIbZh9eeBw%3D%3D&trackingId=n6YX8MlKUIVxRuo%2Fnhf0sw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-09 11:39:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4334967974?position=2&pageNum=0&refId=y%2BZgEdpTBTAVbgkstDoxnA%3D%3D&trackingId=FWca1Du%2F9hA6lWx6XrWPYg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-09 11:49:19",
+        "email_sent": false
+    },
+    {
+        "title": "Statistician I",
+        "company": "Taku Health Services, LLC",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/statistician-i-at-taku-health-services-llc-4235579491?position=25&pageNum=0&refId=y%2BZgEdpTBTAVbgkstDoxnA%3D%3D&trackingId=H%2BRqyKWeiceycXP3qJsyoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-09 11:49:19",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist II",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-wiraa-4335077197?position=28&pageNum=0&refId=y%2BZgEdpTBTAVbgkstDoxnA%3D%3D&trackingId=lvRS9SIQ63kAEH%2Bloopv6A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-09 11:49:19",
+        "email_sent": false
+    },
+    {
+        "title": "Data Science Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-science-analyst-at-wiraa-4334967975?position=29&pageNum=0&refId=y%2BZgEdpTBTAVbgkstDoxnA%3D%3D&trackingId=U3eod1cW233kftWy4cSKSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-09 11:49:19",
+        "email_sent": false
+    },
+    {
+        "title": "SELRES Analysts",
+        "company": "Taku Health Services, LLC",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/selres-analysts-at-taku-health-services-llc-4235569912?position=30&pageNum=0&refId=y%2BZgEdpTBTAVbgkstDoxnA%3D%3D&trackingId=WzJRXif6pmgazdBYQzUedA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-09 11:49:19",
+        "email_sent": false
+    },
+    {
+        "title": "Instrumentation Engineering Technician - OCU - Technical -1st Shift",
+        "company": "Cummins Inc.",
+        "location": "Columbus, IN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/instrumentation-engineering-technician-ocu-technical-1st-shift-at-cummins-inc-4216469579?position=32&pageNum=0&refId=y%2BZgEdpTBTAVbgkstDoxnA%3D%3D&trackingId=5edHID81x9q%2FszYFU1041w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-09 11:49:19",
         "email_sent": false
     }
 ]
