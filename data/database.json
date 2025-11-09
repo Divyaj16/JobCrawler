@@ -1,185 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Stefanini Group",
-        "location": "Grand Rapids, MI",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-stefanini-group-4335048942?position=1&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=94m0TLfQWMZ4%2F7UpkNdueQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Huntsville, AL",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-jobs-via-dice-4320130142?position=6&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=2Vwy3PPo3V%2FJ48b55Y5xdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "Lensa",
-        "location": "Raleigh, NC",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-lensa-4335107286?position=12&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=PmAR2KuJVd1in2olcgDM2Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Product",
-        "company": "Lensa",
-        "location": "Carson City, NV",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-product-at-lensa-4335078269?position=20&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=Geipl1%2FyFzvx%2FPjQotRS%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Performance Analyst",
-        "company": "Lensa",
-        "location": "Chicago, IL",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/performance-analyst-at-lensa-4335028751?position=25&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=OrXWV8OnRHVMZWwflIeDHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Maryland Heights, MO",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-jobs-via-dice-4320049894?position=26&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=ScL%2B3q8ULK4YmsxH1jMZrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Linked Post Test2",
-        "company": "OneCo",
-        "location": "Oakland, CA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/linked-post-test2-at-oneco-4334929168?position=27&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=M4grfq7VNoC2qA4sOTautw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Stefanini Group",
-        "location": "Dearborn, MI",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-stefanini-group-4334959047?position=28&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=WG%2F1PdILnW%2BdJg1Ou2f1uw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Jobs via Dice",
-        "location": "Offutt Air Force Base, NE",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4319899820?position=29&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=G4sDJU1DxWAf9DwSbfVDfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Full Stack Engineer - Amari AI",
-        "company": "Pear VC",
-        "location": "Austin, CA",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-amari-ai-at-pear-vc-4334999054?position=30&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=7iEZjKzFCpmnsvFYlEvDtw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Security Software Engineer (Starshield)",
-        "company": "Jobs via Dice",
-        "location": "Washington, DC",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/security-software-engineer-starshield-at-jobs-via-dice-4319899821?position=31&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=XD30S0HKXXM2OOAhKf6Y0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, FBM Mk7, (Level 2)",
-        "company": "Jobs via Dice",
-        "location": "Littleton, CO",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-fbm-mk7-level-2-at-jobs-via-dice-4320180000?position=32&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=BoJ%2FG0fEEKWq0MCpdNS%2FoQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Latest actimg db changes",
-        "company": "OneCo",
-        "location": "San Mateo, CA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/latest-actimg-db-changes-at-oneco-4335038640?position=33&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=Mv03KIpdMSm3eeUnYjCqjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "QC Analytical Data Reviewer, Biopharma - Remote",
-        "company": "Lensa",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/qc-analytical-data-reviewer-biopharma-remote-at-lensa-4287291550?position=35&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=tKlK1idgfkomkmwpAOvu8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Scientific Documentation Specialist",
-        "company": "Lensa",
-        "location": "Dublin, OH",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-scientific-documentation-specialist-at-lensa-4335068553?position=36&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=IDll0S3JCly1oD9asbJV%2BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Customer & Marketing Insights Analyst (Voice of Customer) - Remote",
-        "company": "Lensa",
-        "location": "Phoenix, AZ",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/customer-marketing-insights-analyst-voice-of-customer-remote-at-lensa-4335048900?position=38&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=0cvomlLPx%2Bw%2BhneETw2kCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Process Engineer",
-        "company": "Randstad USA",
-        "location": "Memphis, TN",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/process-engineer-at-randstad-usa-4321625299?position=39&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=I11%2BhlzvX%2BUn3kmPKHXwUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
-        "title": "Air Dominance & Strike - Navigation Engineer",
-        "company": "Jobs via Dice",
-        "location": "Costa Mesa, CA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/air-dominance-strike-navigation-engineer-at-jobs-via-dice-4321575373?position=40&pageNum=0&refId=SVShuk3l3XqFGwdjgEs12Q%3D%3D&trackingId=KF%2FgfY23g%2F4QzgNR3Vdf7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-09 19:27:48",
-        "email_sent": false
-    },
-    {
         "title": "Virtual Data Analyst / Entry Level (Remote)",
         "company": "TUTx",
         "location": "New York, NY",
@@ -777,6 +597,46 @@
         "url": "https://www.linkedin.com/jobs/view/project-analyst-at-transperfect-connect-4335019130?position=57&pageNum=0&refId=X8ayb2rWswW8fYjh6VT99w%3D%3D&trackingId=nI%2BbN53XHkES1ZPEN5SInw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-09 20:21:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-best-job-tool-4334909472?position=23&pageNum=0&refId=L0OvUOzXW0O6GRiXc63vxg%3D%3D&trackingId=S5PMkoO1tQf4paQYtznF8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-09 20:35:38",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "Try Catch IT Systems LLC",
+        "location": "Jersey City, NJ",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-try-catch-it-systems-llc-4321743332?position=40&pageNum=0&refId=L0OvUOzXW0O6GRiXc63vxg%3D%3D&trackingId=qRZTVVmYzpCSum%2FowaUCyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-09 20:35:38",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Software Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-best-job-tool-4335078238?position=41&pageNum=0&refId=L0OvUOzXW0O6GRiXc63vxg%3D%3D&trackingId=x75XFsgutg4oz3oOmqLR%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-09 20:35:38",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-best-job-tool-4334929056?position=42&pageNum=0&refId=L0OvUOzXW0O6GRiXc63vxg%3D%3D&trackingId=Msh0QXMGXxothfZzaRh3Xw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-09 20:35:38",
         "email_sent": false
     }
 ]
