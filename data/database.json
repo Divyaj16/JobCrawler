@@ -1,205 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "JetBlue",
-        "location": "New York, NY",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jetblue-4339770387?position=1&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=9ikTKnprwxFZ1RPYjGuixQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Data Engineer",
-        "company": "AssetMark",
-        "location": "Charlotte, NC",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-assetmark-4335226059?position=3&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=fbgvTZ9WUXbo4gSYI72NXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4335294698?position=11&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=BNCPbOtNXScNBzdaT7QuBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Junior",
-        "company": "LINQ",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-junior-at-linq-4335334062?position=12&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=SLrVR9ynyPFZ%2Bo1ncBEuPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Uphold",
-        "location": "New York, NY",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-uphold-4335215895?position=13&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=3imc6sQUUu0iNZPncpX0BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Solomon Page",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-solomon-page-4321781383?position=14&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=MQu%2BCovuZXEo0kNK7DHYpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "47 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4335115067?position=17&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=dF7TsInMLFG1PVJxnNCwFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Back End Engineer, Data Platform",
-        "company": "Altruist",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/back-end-engineer-data-platform-at-altruist-4335125849?position=21&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=7eD9%2FcjILVhTdZx8OvlYPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Purchasing Power",
-        "location": "Atlanta Metropolitan Area",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-purchasing-power-4321821312?position=22&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=zWBS4dg5Tt4ROsTmdHlTTQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, Js)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "47 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-js-at-wiraa-4335115066?position=27&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=%2Bgh1hjqEpJIidFCEjFEY5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "47 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4335303890?position=28&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=m%2FweZkd%2Fk3qmciFUiOntgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Randstad Digital Americas",
-        "location": "Merrimack, NH",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-randstad-digital-americas-4321851104?position=30&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=YJBcUpJdhqd61HCyw%2FvYHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Computer Vision Engineer",
-        "company": "PlayAction AI",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/computer-vision-engineer-at-playaction-ai-4334990216?position=31&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=ShoASHZxM9PEbZ8OCkNmcg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Staff Engineer Software (Backend Platform Applications Prisma AIRS)",
-        "company": "Palo Alto Networks",
-        "location": "Seattle, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-staff-engineer-software-backend-platform-applications-prisma-airs-at-palo-alto-networks-4335175167?position=41&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=osLxWDPas4ZobrF1jbXaWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "BECU",
-        "location": "California, United States",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-becu-4335136673?position=57&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=beAhS21ziE1WHJO414TM%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II - Pricing (REMOTE)",
-        "company": "DICK'S Sporting Goods",
-        "location": "United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-pricing-remote-at-dick-s-sporting-goods-4340000248?position=59&pageNum=0&refId=IUEpOpQ%2FntoxP88e2EsVgg%3D%3D&trackingId=sFKrrpUwWYRe6VtL6mawOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, Js)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "47 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-js-at-wiraa-4335115066?position=2&pageNum=2&refId=cka4KKdhrmkDjckU5lRM5A%3D%3D&trackingId=H59%2Bgp4PFGq9MPbuhNr5%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "47 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4335303890?position=3&pageNum=2&refId=cka4KKdhrmkDjckU5lRM5A%3D%3D&trackingId=RSCclTtrA%2FQUMyE8VpKjTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Randstad Digital Americas",
-        "location": "Merrimack, NH",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-randstad-digital-americas-4321851104?position=5&pageNum=2&refId=cka4KKdhrmkDjckU5lRM5A%3D%3D&trackingId=f2DyHwQTnBLpNZvrf3dadA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
-        "title": "Computer Vision Engineer",
-        "company": "PlayAction AI",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/computer-vision-engineer-at-playaction-ai-4334990216?position=6&pageNum=2&refId=cka4KKdhrmkDjckU5lRM5A%3D%3D&trackingId=Lxr%2FrEWeBMsJrpfxuD4b%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 20:45:42",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst / BI Developer",
         "company": "TheCorporate",
         "location": "Oakland, CA",
@@ -937,6 +737,96 @@
         "url": "https://www.linkedin.com/jobs/view/draid-cdao-ada-ir-opportunities-at-agile-defense-4338125533?position=58&pageNum=0&refId=crg9Bng4beHJmPW4T51L%2FQ%3D%3D&trackingId=pHboC3%2FqoYdszAh4OqEFDA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-10 21:34:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer-Entry Level",
+        "company": "Emonics LLC",
+        "location": "Houston, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-entry-level-at-emonics-llc-4321821104?position=3&pageNum=0&refId=uzwnoBlNwiqoOvXhSEfiJQ%3D%3D&trackingId=8qkrV77%2F9Rabaz3wlrqBVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 21:47:35",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, AR Recovery",
+        "company": "FinThrive",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ar-recovery-at-finthrive-4335344115?position=7&pageNum=0&refId=uzwnoBlNwiqoOvXhSEfiJQ%3D%3D&trackingId=1a8N%2BbHnx0fA5UL%2B9h3OIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 21:47:35",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Avantor",
+        "location": "Rensselaer, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-avantor-4335255905?position=11&pageNum=0&refId=uzwnoBlNwiqoOvXhSEfiJQ%3D%3D&trackingId=8no7B9aZ9vFnnRspY1N%2BlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 21:47:35",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Alkami Technology",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-alkami-technology-4335265945?position=12&pageNum=0&refId=uzwnoBlNwiqoOvXhSEfiJQ%3D%3D&trackingId=aKXO3CRrDIh5TL388SLP1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 21:47:35",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, Pytest)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-pytest-at-wiraa-4335144678?position=14&pageNum=0&refId=uzwnoBlNwiqoOvXhSEfiJQ%3D%3D&trackingId=CnHMRlsDo6ppS%2BsQ6tCN1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 21:47:35",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "BECU",
+        "location": "Texas, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-becu-4335245647?position=15&pageNum=0&refId=uzwnoBlNwiqoOvXhSEfiJQ%3D%3D&trackingId=ecep3k%2BF1eDndzGEKETKUA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 21:47:35",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "BECU",
+        "location": "Washington, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-becu-4335166194?position=17&pageNum=0&refId=uzwnoBlNwiqoOvXhSEfiJQ%3D%3D&trackingId=yo1cXOKfwg3dKiPn1VKCPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 21:47:35",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Operations Engineer - Virginia",
+        "company": "Lambda",
+        "location": "Ashburn, VA",
+        "date_posted": "49 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-center-operations-engineer-virginia-at-lambda-4339940309?position=29&pageNum=0&refId=uzwnoBlNwiqoOvXhSEfiJQ%3D%3D&trackingId=flQDlBNyQb3taopdrmrePw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 21:47:35",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Operations Engineer - Virginia",
+        "company": "Lambda",
+        "location": "Ashburn, VA",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-center-operations-engineer-virginia-at-lambda-4339940309?position=6&pageNum=2&refId=Vkcbt6p2RgK0wVN7I9rGPg%3D%3D&trackingId=nHUx2EanI7zPANloTedHsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 21:47:35",
         "email_sent": false
     }
 ]
