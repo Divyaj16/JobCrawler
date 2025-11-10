@@ -1,616 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Kikoff",
-        "location": "San Francisco, CA",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kikoff-4248989938?position=1&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=CtfUO5jCG18Ln6cddjNrxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "A-Line Staffing Solutions",
-        "location": "Charlotte, NC",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-a-line-staffing-solutions-4335183458?position=2&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=vwvT8lBK8M6Op9q%2FBcxpxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Pastene y Rojo Administradores",
-        "location": "New York, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-pastene-y-rojo-administradores-4335123915?position=4&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=PKsiZfyX8snxuTrf%2B3e83Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Pastene y Rojo Administradores",
-        "location": "New York, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-pastene-y-rojo-administradores-4335253232?position=5&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=9NVh9152%2BnmqSAmTxAFCyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Trending Topic Comunicaci\u00f3n",
-        "location": "Pennsylvania, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-trending-topic-comunicaci%C3%B3n-4335282931?position=6&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=pDxqU%2FyiyGIh9BpJLkRc5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Trending Topic Comunicaci\u00f3n",
-        "location": "Pennsylvania, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-trending-topic-comunicaci%C3%B3n-4335123891?position=7&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=0k73dTLM6144ogAHIed0uQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "TV Com Inc.",
-        "location": "Pennsylvania, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-tv-com-inc-4335273263?position=8&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=UDraBtLAkVgTJkX3tJB7mQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Nofuentes",
-        "location": "New York, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-nofuentes-4335183373?position=10&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=zdc8J%2B05MsphMZ9QLcPCOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Guesstimate",
-        "location": "Pennsylvania, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-guesstimate-4335341559?position=11&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=JnA%2B2Lup%2BfqM1B0ZC1cHQg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Analytics",
-        "company": "Lensa",
-        "location": "Pierre, SD",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-analytics-at-lensa-4335292713?position=12&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=JhV6XoaaOc37B%2Fiskw2t0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "CIECE M\u00e9xico",
-        "location": "California, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-ciece-m%C3%A9xico-4335223272?position=13&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=3CDSWeEmLe2vy%2BZcIp3iUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Studio Corp.",
-        "location": "Texas, United States",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-studio-corp-4335341599?position=14&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=Cf0Md4dW8w3CAyG%2Bz2L%2Fpw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "CIECE M\u00e9xico",
-        "location": "California, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-ciece-m%C3%A9xico-4335213215?position=15&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=%2BSzaZv3%2F5HREHH0JH0xgRA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "TV Com Inc.",
-        "location": "Pennsylvania, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-tv-com-inc-4335173419?position=16&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=do96SbA2wW%2FTifb12lwVJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "AnalytixIQ",
-        "location": "Florida, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-analytixiq-4335233287?position=17&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=1ypiK1x8atACeZz3tPEsbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "AnalytixIQ",
-        "location": "Florida, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-analytixiq-4335302939?position=18&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=cFqKVelNQc8BVOfyxu3uEA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Nofuentes",
-        "location": "New York, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-nofuentes-4335223296?position=19&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=zssBuaMPky07IdLSWwbI4w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "DDreamSoft",
-        "location": "Florida, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-ddreamsoft-4335332221?position=20&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=WBFTiPXjDlQmkVIdJfvyjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "First4Adoption",
-        "location": "North Carolina, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-first4adoption-4335302989?position=21&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=ZKgCMjNp2vdAovAL0QpHgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Studio Corp.",
-        "location": "Texas, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-studio-corp-4335282928?position=22&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=8jj1kRiKLZYl3ZOcohjDfQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Leggeri S.p.A",
-        "location": "Pennsylvania, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-leggeri-s-p-a-4335341585?position=23&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=Mb%2FddnsAUqLfUmeSeFFJtg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "TrueVision Home Remodeling and Design LLC",
-        "location": "California, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-truevision-home-remodeling-and-design-llc-4335163466?position=24&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=BM0UmMfkDYniEFg08Ibzgg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "DDreamSoft",
-        "location": "Florida, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-ddreamsoft-4335273238?position=25&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=nXum%2FCyw0ShX5vb6fCUvsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Alzheimer's Mississippi, Inc.",
-        "location": "California, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-alzheimer-s-mississippi-inc-4335153660?position=26&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=DOtyKJYlwYAbUhGzuUQX8w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Toolnology Colombia",
-        "location": "Florida, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-toolnology-colombia-4335223323?position=27&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=6v2LtKzzIg338lHKpwrmUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Compliance Periscope blog",
-        "location": "California, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-compliance-periscope-blog-4335282970?position=28&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=qFU3kNxuzBuh9ri335fveg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Billet Car Rental",
-        "location": "Ohio, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-billet-car-rental-4335173444?position=29&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=9iXrqqhjjK30xeF4dQHBPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Toolnology Colombia",
-        "location": "Florida, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-toolnology-colombia-4335183370?position=30&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=VYPwYY1KRW%2BN%2FdMvZvLbmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Billet Car Rental",
-        "location": "Ohio, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-billet-car-rental-4335233264?position=31&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=K%2F%2BmtYYaEpSxkiNuT88Ceg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Gazonga consultants",
-        "location": "Illinois, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-gazonga-consultants-4335223328?position=32&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=QnbqMqNVBTVIJ5Oi%2BVSl3Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Gazonga consultants",
-        "location": "Illinois, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-gazonga-consultants-4335134023?position=33&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=cHO4L7tZ1F04g3jHYvJiBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Alzheimer's Mississippi, Inc.",
-        "location": "California, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-alzheimer-s-mississippi-inc-4335114174?position=34&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=iiK14JNndinLO2oCR9XUNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "TrueVision Home Remodeling and Design LLC",
-        "location": "California, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-truevision-home-remodeling-and-design-llc-4335292854?position=35&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=TEgW7Pyej9p3CF3YRf3Ttw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "ToimintaKonsepti",
-        "location": "Texas, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-toimintakonsepti-4335193412?position=36&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=QUuvSA1F%2BY%2F2Wd8I8jBRpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "ATEC - The Assistive Technology Exhibition and Conference",
-        "location": "Florida, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-atec-the-assistive-technology-exhibition-and-conference-4335223305?position=37&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=sFVQlh3TVzPFL7hSCR%2BObQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "EmailChecker - (Email Verify Ltd)",
-        "location": "Ohio, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-emailchecker-email-verify-ltd-4335332181?position=40&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=Vqei%2BwIB96VpfH2uVigVww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Those Who Can, For Those In Need Inc.",
-        "location": "Texas, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-those-who-can-for-those-in-need-inc-4335322435?position=41&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=T0MXZltuQTU3jDWEv%2FxN9A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Those Who Can, For Those In Need Inc.",
-        "location": "Texas, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-those-who-can-for-those-in-need-inc-4335282930?position=42&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=4iqeqWWsEDYY7TUNwIzBMg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "EmailChecker - (Email Verify Ltd)",
-        "location": "Ohio, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-emailchecker-email-verify-ltd-4335213193?position=43&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=cefsoDSpx6jzFwk4RN7iiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Partners in the Horn of Africa",
-        "location": "Illinois, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-partners-in-the-horn-of-africa-4335312545?position=44&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=COLgql7s50HomtvVg%2FKZag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "I.I.S. CONSULTING",
-        "location": "New York, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-i-i-s-consulting-4335273250?position=45&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=GQkB9hRwrgBT945dZMo1Ow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Compliance Periscope blog",
-        "location": "California, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-compliance-periscope-blog-4335243116?position=46&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=z0fVlO6jw%2FFpFVceMZNECw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "I.I.S. CONSULTING",
-        "location": "New York, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-i-i-s-consulting-4335332202?position=47&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=FTKX7llya%2BDJzWERe%2FCkeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "GFlex Solu\u00e7\u00f5es Inteligentes LTDA",
-        "location": "Pennsylvania, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-gflex-solu%C3%A7%C3%B5es-inteligentes-ltda-4335163495?position=48&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=icD2UgzrvyF2g%2B6c5azURg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "ATEC - The Assistive Technology Exhibition and Conference",
-        "location": "Florida, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-atec-the-assistive-technology-exhibition-and-conference-4335163518?position=49&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=J33uAF0fEfxpN10ZbY5Rwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (Remote)",
-        "company": "Guesstimate",
-        "location": "Pennsylvania, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-remote-at-guesstimate-4335143798?position=50&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=%2BrTVSL%2BRI9JlIc86p6GO%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "American Institute of Construction Management",
-        "location": "Illinois, United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-american-institute-of-construction-management-4335312596?position=53&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=vp%2BrEH3D0DWQ7MdRrvj6bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "American Institute of Construction Management",
-        "location": "Illinois, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-american-institute-of-construction-management-4335123906?position=54&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=pcJrY%2BwazmQyw0LUUo3XvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "ToimintaKonsepti",
-        "location": "Texas, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-toimintakonsepti-4335253230?position=55&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=mK8hShTbVoGU8lLKliQXtw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Saraswati World School",
-        "location": "Georgia, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-saraswati-world-school-4335322480?position=56&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=20aQOifq%2Fll09ygNx2BJMQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Saraswati World School",
-        "location": "Georgia, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-saraswati-world-school-4335114213?position=58&pageNum=0&refId=t5V2yTTjlOA6x749j2p9cQ%3D%3D&trackingId=xVSeKocyYy2YWQnBc43hjA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Alzheimer's Mississippi, Inc.",
-        "location": "California, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-alzheimer-s-mississippi-inc-4335153660?position=1&pageNum=2&refId=bINfA%2Bcrsz9%2FNfE9HkiNVQ%3D%3D&trackingId=ychnyO0Qt59w8uSt%2BeNYww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Toolnology Colombia",
-        "location": "Florida, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-toolnology-colombia-4335223323?position=2&pageNum=2&refId=bINfA%2Bcrsz9%2FNfE9HkiNVQ%3D%3D&trackingId=7eIPqYpwGKkFnbrQwy%2FgJw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Compliance Periscope blog",
-        "location": "California, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-compliance-periscope-blog-4335282970?position=3&pageNum=2&refId=bINfA%2Bcrsz9%2FNfE9HkiNVQ%3D%3D&trackingId=8IMGG9wNExnZmOO0SHm4aQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Billet Car Rental",
-        "location": "Ohio, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-billet-car-rental-4335173444?position=4&pageNum=2&refId=bINfA%2Bcrsz9%2FNfE9HkiNVQ%3D%3D&trackingId=RDWvOAcjFfLvMECRUMulcQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Toolnology Colombia",
-        "location": "Florida, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-toolnology-colombia-4335183370?position=5&pageNum=2&refId=bINfA%2Bcrsz9%2FNfE9HkiNVQ%3D%3D&trackingId=Cc7z4vGZAIvd4CWCOelPTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Billet Car Rental",
-        "location": "Ohio, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-billet-car-rental-4335233264?position=6&pageNum=2&refId=bINfA%2Bcrsz9%2FNfE9HkiNVQ%3D%3D&trackingId=6SB385szxqX2gQQhp5s7Qg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "Gazonga consultants",
-        "location": "Illinois, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-gazonga-consultants-4335223328?position=7&pageNum=2&refId=bINfA%2Bcrsz9%2FNfE9HkiNVQ%3D%3D&trackingId=U0rAB%2BqIF4ls%2BWcGUm6%2Bxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Gazonga consultants",
-        "location": "Illinois, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-gazonga-consultants-4335134023?position=8&pageNum=2&refId=bINfA%2Bcrsz9%2FNfE9HkiNVQ%3D%3D&trackingId=GkV5UOQ%2BwTtEhUMcS4Y8vA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst / Entry Level (Remote)",
-        "company": "Alzheimer's Mississippi, Inc.",
-        "location": "California, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-alzheimer-s-mississippi-inc-4335114174?position=9&pageNum=2&refId=bINfA%2Bcrsz9%2FNfE9HkiNVQ%3D%3D&trackingId=ovmfso9HYgXFfZjMK7Jvhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Virtual Data Analyst Full Time (100% Remote)",
-        "company": "TrueVision Home Remodeling and Design LLC",
-        "location": "California, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-truevision-home-remodeling-and-design-llc-4335292854?position=10&pageNum=2&refId=bINfA%2Bcrsz9%2FNfE9HkiNVQ%3D%3D&trackingId=PaP3Egk3xA%2FhCAH%2FqGHilg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-10 13:47:54",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Strata Clean Energy",
         "location": "Durham, NC",
         "date_posted": "1 hour ago",
@@ -817,6 +207,86 @@
         "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-beaconfire-inc-4338184289?position=58&pageNum=0&refId=%2BXoZPl4qlhnxK1bZYqhuOw%3D%3D&trackingId=4un4sRtW1D4PBSJsinPXAw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-10 14:42:48",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "Greater Boston",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4321708390?position=7&pageNum=0&refId=of9XgHR3UHfzGJntyX7CNw%3D%3D&trackingId=wr5o%2BRhdsHHWsYKMnOKjsg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 14:57:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "Dallas-Fort Worth Metroplex",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4321738188?position=9&pageNum=0&refId=of9XgHR3UHfzGJntyX7CNw%3D%3D&trackingId=vJv7m6Y%2Bhvs7Paq9u1mRUA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 14:57:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - New Grad",
+        "company": "Valon",
+        "location": "San Francisco, CA",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-valon-4335283506?position=18&pageNum=0&refId=of9XgHR3UHfzGJntyX7CNw%3D%3D&trackingId=EhBNsNNMriytU7Blz1Ohxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 14:57:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - New Grad",
+        "company": "Valon",
+        "location": "New York, NY",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-valon-4335164077?position=26&pageNum=0&refId=of9XgHR3UHfzGJntyX7CNw%3D%3D&trackingId=R0bJO%2BDx9ccanSA94pI3kg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 14:57:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst V",
+        "company": "Creospan Inc.",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-v-at-creospan-inc-4321768317?position=46&pageNum=0&refId=of9XgHR3UHfzGJntyX7CNw%3D%3D&trackingId=kmtOEzvHMDT9RiZtpPedFg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 14:57:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - Enabling Technologies",
+        "company": "Enovis",
+        "location": "Austin, TX",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-enabling-technologies-at-enovis-4335322907?position=52&pageNum=0&refId=of9XgHR3UHfzGJntyX7CNw%3D%3D&trackingId=LOlhjqcoHdwwa9Z6k2Zx8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 14:57:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-best-job-tool-4335193061?position=59&pageNum=0&refId=of9XgHR3UHfzGJntyX7CNw%3D%3D&trackingId=mYHoDhv7jSYepFEo2RMOJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 14:57:01",
+        "email_sent": false
+    },
+    {
+        "title": "Cloud Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/cloud-engineer-at-hirenza-4335252697?position=60&pageNum=0&refId=of9XgHR3UHfzGJntyX7CNw%3D%3D&trackingId=YOpd39WVT%2BNtS57BHGyUqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-10 14:57:01",
         "email_sent": false
     }
 ]
