@@ -1,245 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Soni",
-        "location": "Houston, TX",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-soni-4322017579?position=3&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=Pglv1ZUjnQn1SPMxe%2FIohg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Insight Global",
-        "location": "Greenwood Village, CO",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-insight-global-4321798047?position=10&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=DtjRIB%2F42etprNDUDeOB3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Engineer (AI/ML)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-ai-ml-at-wiraa-4335555400?position=15&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=WFwcrNiCaYfR1UgxmiCWBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Full Stack)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-wiraa-4335405692?position=19&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=1ffSOjxfZBCX%2BIxQdEtjBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Founding Robotics Software Engineer",
-        "company": "Reval Recruiting",
-        "location": "New York, NY",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/founding-robotics-software-engineer-at-reval-recruiting-4321787991?position=21&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=POv9CP8gXpruC1u6VUSj8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Android Software Engineer",
-        "company": "Kane Partners LLC",
-        "location": "Baltimore, MD",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/android-software-engineer-at-kane-partners-llc-4335478127?position=24&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=H2oqSCP%2BtUazL18PgsDXJw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Manulife",
-        "location": "Boston, MA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-manulife-4322017485?position=26&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=C2M5l9LXHHEn7RfjXGzhqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Power BI Report Writer",
-        "company": "The Intersect Group",
-        "location": "Greater Phoenix Area",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/power-bi-report-writer-at-the-intersect-group-4321857975?position=28&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=cS5YYIAdLjNt0y2g2umnGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Modeller",
-        "company": "Mitchell Martin Inc.",
-        "location": "Jersey City, NJ",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/modeller-at-mitchell-martin-inc-4294708081?position=30&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=o3QnXwnUbRRmZP6i70%2F7Jw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "eDiscovery Analyst (Pacific Time Zone Required)",
-        "company": "Beacon Hill",
-        "location": "United States",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ediscovery-analyst-pacific-time-zone-required-at-beacon-hill-4321827934?position=35&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=gBi7OJoChinq7b9Pd2%2FJZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "eDiscovery Analyst (Pacific Time Zone Required)",
-        "company": "Beacon Hill",
-        "location": "United States",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ediscovery-analyst-pacific-time-zone-required-at-beacon-hill-4321897685?position=36&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=sfG1xoMYoCpDe7Gk%2BmQDMg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "eDiscovery Analyst (Pacific Time Zone Required)",
-        "company": "Beacon Hill",
-        "location": "United States",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ediscovery-analyst-pacific-time-zone-required-at-beacon-hill-4321947676?position=37&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=SPlPer2rUUp2rKSgyjyrrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "eDiscovery Analyst (Pacific Time Zone Required)",
-        "company": "Beacon Hill",
-        "location": "United States",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ediscovery-analyst-pacific-time-zone-required-at-beacon-hill-4321857916?position=38&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=g9jygoIH1KLE71nbiz%2FfuQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "CAD Engineer I",
-        "company": "Elevanta Partners",
-        "location": "Austin, Texas Metropolitan Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/cad-engineer-i-at-elevanta-partners-4335388129?position=39&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=7daTxoizWdIpP7weZsdY7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Johnson & Johnson, Quality Data Analyst II - Shockwave Medical - Application via WayUp",
-        "company": "WayUp",
-        "location": "Santa Clara, CA",
-        "date_posted": "58 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/johnson-johnson-quality-data-analyst-ii-shockwave-medical-application-via-wayup-at-wayup-4335358362?position=40&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=qCGEW%2Fij2EkLYduH52Flcw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Mechanical Engineer",
-        "company": "Radiance Technologies",
-        "location": "Beavercreek, OH",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-at-radiance-technologies-4335398086?position=41&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=Q5svlOijpOipavrz3O748g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Product Expert",
-        "company": "Hex",
-        "location": "New York, NY",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/product-expert-at-hex-4321897701?position=42&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=SVG9JGu9HvP%2B5eV4sZ0fNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Validation Engineer - ICE Engines",
-        "company": "Bartech Staffing",
-        "location": "Pontiac, MI",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/validation-engineer-ice-engines-at-bartech-staffing-4335358602?position=43&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=kcp8etI0dYOnHDOD%2FxfQNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Product Expert",
-        "company": "Hex",
-        "location": "San Francisco Bay Area",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/product-expert-at-hex-4321867676?position=44&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=b0CYdwysAiP7e69CGPobXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Digital Content Management Analyst",
-        "company": "Lactalis U.S. Yogurt",
-        "location": "Bedford, NH",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/digital-content-management-analyst-at-lactalis-u-s-yogurt-4340065225?position=45&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=1mzCRXarmPG%2BCg78IM7zfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Provider Network Operations Data Analyst",
-        "company": "AmeriHealth Caritas",
-        "location": "Detroit, MI",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/provider-network-operations-data-analyst-at-amerihealth-caritas-4321827941?position=46&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=YEYvtuq%2Bcf1qmlWkyGlMpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Sales Research Coordinator-PT",
-        "company": "Fortis Solutions Group",
-        "location": "Marietta, GA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sales-research-coordinator-pt-at-fortis-solutions-group-4321828029?position=47&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=xoX8iD5QEqQIAy3ovlTzwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Cable Rolling Operator (Internal Candidates Only)",
-        "company": "HUBER+SUHNER",
-        "location": "Warren, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/cable-rolling-operator-internal-candidates-only-at-huber%2Bsuhner-4335477866?position=48&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=XgzhRHeyUSEvItC5vsg0sg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
-        "title": "Mechanical Quality Inspector II",
-        "company": "Kett Tool Company",
-        "location": "Cincinnati, OH",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/mechanical-quality-inspector-ii-at-kett-tool-company-4335537969?position=49&pageNum=0&refId=l8wqfmsrdDQpaHH5xwqScg%3D%3D&trackingId=F9Djcj2cL3GrSdkje7Rb9g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-11 22:24:07",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Wiraa",
         "location": "United States",
@@ -557,6 +317,66 @@
         "url": "https://www.linkedin.com/jobs/view/traffic-management-specialist-at-atkinsr%C3%A9alis-4335092569?position=27&pageNum=0&refId=AJhP4X6tkjeC075kp2EjtQ%3D%3D&trackingId=Kzi67V7O6xCyy2mE0CrXwA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-11 23:18:43",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "Hamilton Porter",
+        "location": "Las Vegas, NV",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-hamilton-porter-4322017868?position=11&pageNum=0&refId=KOco3FFhjCFF3zt1Q3VGpQ%3D%3D&trackingId=JMOXKApRDXNkZol7L2NMEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-11 23:33:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst- Korean",
+        "company": "Tranzeal Incorporated",
+        "location": "Santa Clara, CA",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-korean-at-tranzeal-incorporated-4321877970?position=20&pageNum=0&refId=KOco3FFhjCFF3zt1Q3VGpQ%3D%3D&trackingId=oOXLpSkp5mDpDLjvVefoKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-11 23:33:42",
+        "email_sent": false
+    },
+    {
+        "title": "Clinical Data Specialist",
+        "company": "Intuitive",
+        "location": "Sunnyvale, CA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/clinical-data-specialist-at-intuitive-4335368629?position=23&pageNum=0&refId=KOco3FFhjCFF3zt1Q3VGpQ%3D%3D&trackingId=8mbLhAf0Jbgyc8d0qHzMwg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-11 23:33:42",
+        "email_sent": false
+    },
+    {
+        "title": "Vehicle Dynamics Controls Engineer, Vehicle Software",
+        "company": "Tesla",
+        "location": "Palo Alto, CA",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/vehicle-dynamics-controls-engineer-vehicle-software-at-tesla-4335378640?position=25&pageNum=0&refId=KOco3FFhjCFF3zt1Q3VGpQ%3D%3D&trackingId=Ds61l%2Bm1v9EL%2FHWqXO3qIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-11 23:33:42",
+        "email_sent": false
+    },
+    {
+        "title": "AI Operations Business Analyst",
+        "company": "Commerce",
+        "location": "Austin, TX",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-operations-business-analyst-at-commerce-4340095325?position=30&pageNum=0&refId=KOco3FFhjCFF3zt1Q3VGpQ%3D%3D&trackingId=XN3gmZ9H%2FyHedO3JNX0s8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-11 23:33:42",
+        "email_sent": false
+    },
+    {
+        "title": "Sustainability Analyst/Program Manager",
+        "company": "The Select Group",
+        "location": "Greenwood Village, CO",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sustainability-analyst-program-manager-at-the-select-group-4339985440?position=33&pageNum=0&refId=KOco3FFhjCFF3zt1Q3VGpQ%3D%3D&trackingId=Ta8sMk%2BWJTFeN%2BJwPXJFYg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-11 23:33:42",
         "email_sent": false
     }
 ]
