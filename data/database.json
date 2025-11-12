@@ -1,106 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4340501257?position=1&pageNum=0&refId=L3OlUWpK9S4gUyIFcLQCdw%3D%3D&trackingId=3uFUOeK7MlVKe7kdTQkR4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-12 21:34:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4335734519?position=3&pageNum=0&refId=L3OlUWpK9S4gUyIFcLQCdw%3D%3D&trackingId=moWUzT1fUY4p0xlWWXvH6g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-12 21:34:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-wiraa-4335754440?position=4&pageNum=0&refId=L3OlUWpK9S4gUyIFcLQCdw%3D%3D&trackingId=WKwrfeo8woJ8%2FLrupR8D8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-12 21:34:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4335734523?position=5&pageNum=0&refId=L3OlUWpK9S4gUyIFcLQCdw%3D%3D&trackingId=enBMnpyu4rSPLf867ehueQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-12 21:34:57",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "AppCard, Inc.",
-        "location": "New York, United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-appcard-inc-4340055000?position=9&pageNum=0&refId=L3OlUWpK9S4gUyIFcLQCdw%3D%3D&trackingId=tc2kX9DWo0jsnInQ9c0TBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-12 21:34:57",
-        "email_sent": false
-    },
-    {
-        "title": "DevOps Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-wiraa-4335684376?position=18&pageNum=0&refId=L3OlUWpK9S4gUyIFcLQCdw%3D%3D&trackingId=28LLqcmNBVoaS9VbYUsj0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-12 21:34:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II (Finance)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-finance-at-wiraa-4335644691?position=19&pageNum=0&refId=L3OlUWpK9S4gUyIFcLQCdw%3D%3D&trackingId=xwSlB%2BES%2B8tfgZDj0qnt0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-12 21:34:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II, Data",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-data-at-wiraa-4335594942?position=21&pageNum=0&refId=L3OlUWpK9S4gUyIFcLQCdw%3D%3D&trackingId=YzSWbYBoZJ8dspQIUyPqKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-12 21:34:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Creation Engine)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-creation-engine-at-wiraa-4335784432?position=31&pageNum=0&refId=L3OlUWpK9S4gUyIFcLQCdw%3D%3D&trackingId=ZzABV7nmtXsU8wEFlpVXsA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-12 21:34:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Dev Extension (Distributed Systems/ Python)",
-        "company": "Nutanix",
-        "location": "Durham, NC",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-dev-extension-distributed-systems-python-at-nutanix-4335627293?position=38&pageNum=0&refId=L3OlUWpK9S4gUyIFcLQCdw%3D%3D&trackingId=b8EXpaoeIsLQ0z5%2F3NU%2F7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-12 21:34:57",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Survitec Group Ltd.",
         "location": "Sharon Center, OH",
         "date_posted": "11 minutes ago",
@@ -857,6 +757,66 @@
         "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-%E2%80%93-azure-sql-server-power-bi-healthcare-at-bigrio-4335637266?position=57&pageNum=0&refId=Nk%2FiUoKNwWYoVzq2oWWTJQ%3D%3D&trackingId=Cr2a01v49CQHp6DPf3ILWA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-12 22:19:24",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer/System Administrator",
+        "company": "Azusa Solutions LLC",
+        "location": "Annapolis Junction, MD",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-system-administrator-at-azusa-solutions-llc-4335816842?position=23&pageNum=0&refId=KH7o2MZOcSnpQ8zGZ4KdFQ%3D%3D&trackingId=7Gs4nZ3DBt6FGvdFRLKBRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-12 22:36:04",
+        "email_sent": false
+    },
+    {
+        "title": "Applied Data Scientist",
+        "company": "SimplifyPI.ai",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/applied-data-scientist-at-simplifypi-ai-4322243033?position=32&pageNum=0&refId=KH7o2MZOcSnpQ8zGZ4KdFQ%3D%3D&trackingId=3WojadaIwoEOuvmsMxdYVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-12 22:36:04",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst, Fraud Intelligence",
+        "company": "Extend",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-fraud-intelligence-at-extend-4335607124?position=37&pageNum=0&refId=KH7o2MZOcSnpQ8zGZ4KdFQ%3D%3D&trackingId=EUIlXSgUjhdgv8F9rA5JXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-12 22:36:04",
+        "email_sent": false
+    },
+    {
+        "title": "Controls Software Engineer",
+        "company": "myGwork - LGBTQ+ Business Community",
+        "location": "Indianapolis, IN",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/controls-software-engineer-at-mygwork-lgbtq%2B-business-community-4337498521?position=40&pageNum=0&refId=KH7o2MZOcSnpQ8zGZ4KdFQ%3D%3D&trackingId=0YZLhnDyO7pSSFE7hWinAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-12 22:36:04",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Canterbury, CT",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4322043379?position=42&pageNum=0&refId=KH7o2MZOcSnpQ8zGZ4KdFQ%3D%3D&trackingId=eb5ttAtxyXt2DHCsTzMOrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-12 22:36:04",
+        "email_sent": false
+    },
+    {
+        "title": "Product Data Scientist",
+        "company": "myGwork - LGBTQ+ Business Community",
+        "location": "Boston, MA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/product-data-scientist-at-mygwork-lgbtq%2B-business-community-4337821396?position=53&pageNum=0&refId=KH7o2MZOcSnpQ8zGZ4KdFQ%3D%3D&trackingId=EADi1Vj0NdrJTX1YYfZCyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-12 22:36:04",
         "email_sent": false
     }
 ]
