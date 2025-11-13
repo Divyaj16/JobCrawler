@@ -1,55 +1,5 @@
 [
     {
-        "title": "Entry level Data Engineers",
-        "company": "Revature",
-        "location": "Dallas, TX",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-data-engineers-at-revature-4322075747?position=3&pageNum=0&refId=eVoNUpON376QoKOI93KI9A%3D%3D&trackingId=qIKz17KlEiIGlxDdD0z65Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-13 06:30:24",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst",
-        "company": "Entergy",
-        "location": "Tyler-Jacksonville Area",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-at-entergy-4335789584?position=5&pageNum=0&refId=eVoNUpON376QoKOI93KI9A%3D%3D&trackingId=NSHgLBrSYwJ0Zl6RGe%2Bquw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-13 06:30:24",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "Revature",
-        "location": "Plano, TX",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-revature-4322145554?position=9&pageNum=0&refId=eVoNUpON376QoKOI93KI9A%3D%3D&trackingId=D18CMY9m6vyxxrG9aLwVhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-13 06:30:24",
-        "email_sent": false
-    },
-    {
-        "title": "RF System Test Engineer",
-        "company": "Johns Hopkins Applied Physics Laboratory",
-        "location": "Laurel, MD",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/rf-system-test-engineer-at-johns-hopkins-applied-physics-laboratory-4340502726?position=10&pageNum=0&refId=eVoNUpON376QoKOI93KI9A%3D%3D&trackingId=%2BlXEv5QM1cHD3e3nXDYXuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-13 06:30:24",
-        "email_sent": false
-    },
-    {
-        "title": "Environmental Health Safety Engineer",
-        "company": "First Quality",
-        "location": "Lewistown, PA",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/environmental-health-safety-engineer-at-first-quality-4335739573?position=11&pageNum=0&refId=eVoNUpON376QoKOI93KI9A%3D%3D&trackingId=29lleIr7eZubtG9RziQABA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-13 06:30:24",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer / Developer",
         "company": "Simplicity Group",
         "location": "Summit, NJ",
@@ -107,6 +57,236 @@
         "url": "https://www.linkedin.com/jobs/view/researcher-temporary-at-university-of-washington-4335799502?position=9&pageNum=0&refId=nynUKUdBFAFD4vAPszevSA%3D%3D&trackingId=XvfzNxoBjwBfeuAyHGl4uw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-13 07:19:38",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer (Remote)",
+        "company": "Lensa",
+        "location": "Houston, TX",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-lensa-4335689627?position=2&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=PlGPDtH08f3CQRyjtElBUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer",
+        "company": "Epiq",
+        "location": "Alberta, AL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-epiq-4322076030?position=4&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=O6BpP1p2IDNZvDhM4x7EqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst w/ Python",
+        "company": "Jobs via Dice",
+        "location": "Portland, OR",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-w-python-at-jobs-via-dice-4322035975?position=8&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=nW8j0bVlVjAhQr77hIX3BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Strong Python, SQL) - Onsite",
+        "company": "Jobs via Dice",
+        "location": "Cupertino, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-strong-python-sql-onsite-at-jobs-via-dice-4322026209?position=9&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=fhdK0vNh9EjRQpN3ZWfSSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer (Onsite)",
+        "company": "Raytheon",
+        "location": "Tewksbury, MA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-onsite-at-raytheon-4335840145?position=11&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=%2B2b7guMdWRF7QdlRk4l7UA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Software Verification Engineer",
+        "company": "Actalent",
+        "location": "Grand Rapids, MI",
+        "date_posted": "Just now",
+        "url": "https://www.linkedin.com/jobs/view/software-verification-engineer-at-actalent-4335799644?position=13&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=k1jShqyXmLVeWA7l3KoZBA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Orlando, FL",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4322125662?position=14&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=jKX8xGcs9YmV8Es%2BgE2htw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "C/C++ and Java Software Development Engineer",
+        "company": "Raytheon",
+        "location": "Tewksbury, MA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/c-c%2B%2B-and-java-software-development-engineer-at-raytheon-4335850130?position=15&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=t9XSP8nQj55Ys8wwVAF7pQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Hybrid Advisor Cloud Engineer (Databricks)",
+        "company": "Jobs via Dice",
+        "location": "Dublin, OH",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/hybrid-advisor-cloud-engineer-databricks-at-jobs-via-dice-4322075982?position=16&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=P%2F2FyWYOY58SE4y95zNS7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "KYC Data Analyst I",
+        "company": "Jobs via Dice",
+        "location": "Newark, DE",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/kyc-data-analyst-i-at-jobs-via-dice-4322055944?position=17&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=zc7lhu6QRhRdbdPBULRN2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Process Analyst (Entry Level)",
+        "company": "Gregory Construction",
+        "location": "Columbus, MS",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/process-analyst-entry-level-at-gregory-construction-4335719893?position=18&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=ZS5mHXQJSjkvE1MAQlM8Lw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II - CTJ - Poly",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-ctj-poly-at-jobs-via-dice-4322225721?position=19&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=GoFbR0ULsmlFHMjwNBPB4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Huntsville, AL",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4322065914?position=20&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=6QHcg0GFeqGkSaZMI%2FPh%2FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Level 2)",
+        "company": "Jobs via Dice",
+        "location": "Colorado Springs, CO",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-at-jobs-via-dice-4322165788?position=21&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=fY7R1oyL7Wqs51DY%2BjKxAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Epic Clinical Data Model Certified Developer",
+        "company": "Jobs via Dice",
+        "location": "Terre Haute, IN",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/epic-clinical-data-model-certified-developer-at-jobs-via-dice-4322076008?position=22&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=NabPKUwhrNA31clgDw%2FMSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (LLM)",
+        "company": "Jobs via Dice",
+        "location": "Charlotte, NC",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-llm-at-jobs-via-dice-4322076003?position=24&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=FJoaJ6Wtb5N7yvQdE1YxEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist - music industry",
+        "company": "Jobs via Dice",
+        "location": "San Francisco, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-music-industry-at-jobs-via-dice-4322135801?position=26&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=sg9NRFZ8T%2ByMZzWqiwwXnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Governance Analyst",
+        "company": "Jobs via Dice",
+        "location": "Fairfield, OH",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-governance-analyst-at-jobs-via-dice-4322235671?position=28&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=9%2FejYqKSTUA%2Fehd%2B1jfMqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Governance Analyst",
+        "company": "Jobs via Dice",
+        "location": "Fairfield, OH",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-governance-analyst-at-jobs-via-dice-4322255541?position=29&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=RydzcPvdCTxnKkXHpd%2F4kQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Research Analyst II - Herbert Wertheim College of Medicine",
+        "company": "Florida International University",
+        "location": "Miami, FL",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/research-analyst-ii-herbert-wertheim-college-of-medicine-at-florida-international-university-4322065965?position=30&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=qK4V0dqCjHe7%2BCpF3KdkIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Distribution Engineer",
+        "company": "Jobs via Dice",
+        "location": "Seven Fields, PA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/distribution-engineer-at-jobs-via-dice-4322215803?position=31&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=n2y5gOJnQ86cUTtfyWhwTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "SAS Reporting Analyst - DIRECT FTE POSITION",
+        "company": "Jobs via Dice",
+        "location": "Des Moines, IA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sas-reporting-analyst-direct-fte-position-at-jobs-via-dice-4322135797?position=33&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=QDr0HCr14l5QBCIojHA%2FTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
+        "email_sent": false
+    },
+    {
+        "title": "Distribution Engineer",
+        "company": "Jobs via Dice",
+        "location": "Denver, CO",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/distribution-engineer-at-jobs-via-dice-4322085907?position=34&pageNum=0&refId=3ftOdmlwS%2FGkee048MOd4Q%3D%3D&trackingId=48VR3560lk1rKmuV2J1E4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-13 07:36:02",
         "email_sent": false
     }
 ]
