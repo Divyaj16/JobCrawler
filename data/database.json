@@ -1,145 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "First Citizens Bank",
-        "location": "United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-first-citizens-bank-4336136838?position=2&pageNum=0&refId=9Q90Ty9EYfAECKGwWlhXRA%3D%3D&trackingId=ErRkSk1dyEzHHipzXlS8ig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, React)",
-        "company": "Cloudera",
-        "location": "United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-react-at-cloudera-4336276532?position=5&pageNum=0&refId=9Q90Ty9EYfAECKGwWlhXRA%3D%3D&trackingId=VpXaIfVmgdJt28CZhffYyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4322890655?position=7&pageNum=0&refId=9Q90Ty9EYfAECKGwWlhXRA%3D%3D&trackingId=H9DuCHAPeUdVB94%2FdL7CSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Sr.",
-        "company": "Molina Healthcare",
-        "location": "United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-at-molina-healthcare-4336296495?position=8&pageNum=0&refId=9Q90Ty9EYfAECKGwWlhXRA%3D%3D&trackingId=y6H%2F4l99aa%2FA%2FCZ275AN6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (ML)",
-        "company": "Waymo",
-        "location": "United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ml-at-waymo-4336306362?position=10&pageNum=0&refId=9Q90Ty9EYfAECKGwWlhXRA%3D%3D&trackingId=FYg0ExrRQJue0s3qNKQY9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
-        "title": "Data Software Engineer II",
-        "company": "hackajob",
-        "location": "Jersey City, NJ",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-software-engineer-ii-at-hackajob-4322850549?position=11&pageNum=0&refId=9Q90Ty9EYfAECKGwWlhXRA%3D%3D&trackingId=yTk80634TvqlG7CX%2FqGcbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Data Analytics & Business Intelligence",
-        "company": "hackajob",
-        "location": "New York, NY",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-data-analytics-business-intelligence-at-hackajob-4322940502?position=13&pageNum=0&refId=9Q90Ty9EYfAECKGwWlhXRA%3D%3D&trackingId=AcRp1alIYidFvvZ7UZtemA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Physics",
-        "company": "DataAnnotation",
-        "location": "Pennsylvania, United States",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-physics-at-dataannotation-4309699461?position=16&pageNum=0&refId=9Q90Ty9EYfAECKGwWlhXRA%3D%3D&trackingId=uPXWVfVWC591Ln8Z8cHRvQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (TypeScript, Next.js)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-typescript-next-js-at-wiraa-4336126887?position=29&pageNum=0&refId=9Q90Ty9EYfAECKGwWlhXRA%3D%3D&trackingId=hdVhZzPTAYJZF3uKFk9IYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Symbotic",
-        "location": "Marcy, NY",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-symbotic-4331300473?position=31&pageNum=0&refId=9Q90Ty9EYfAECKGwWlhXRA%3D%3D&trackingId=l84VHLmNCGdQ1T%2FTZ8BYeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer In Test",
-        "company": "TalentAlly",
-        "location": "San Francisco, CA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-at-talentally-4322860638?position=36&pageNum=0&refId=9Q90Ty9EYfAECKGwWlhXRA%3D%3D&trackingId=NYhVL9FtDE1bhSoapXTeEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
-        "title": "Commissions Analyst",
-        "company": "TalentAlly",
-        "location": "Lehi, UT",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/commissions-analyst-at-talentally-4322820682?position=52&pageNum=0&refId=9Q90Ty9EYfAECKGwWlhXRA%3D%3D&trackingId=9I01d8d6Y2ZIPdm2S60cKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (TypeScript, Next.js)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-typescript-next-js-at-wiraa-4336126887?position=4&pageNum=2&refId=EfVf%2BZCtVwzj8yqpeBod3g%3D%3D&trackingId=2SXtjk8kvbKaqvusb72kdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Symbotic",
-        "location": "Marcy, NY",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-symbotic-4331300473?position=6&pageNum=2&refId=EfVf%2BZCtVwzj8yqpeBod3g%3D%3D&trackingId=AjsIg1FNIAk9YioKgL3Lxg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-15 14:47:21",
-        "email_sent": false
-    },
-    {
         "title": "Associate Software Engineer",
         "company": "Morgan Stanley",
         "location": "New York, NY",
@@ -1117,6 +977,76 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986111812?position=54&pageNum=0&refId=GXWY2Fza3ST2Q9F3wF6K%2Bg%3D%3D&trackingId=CTIEZr6CRZMBL7SBSjDuIw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-15 15:47:03",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "GE Aerospace",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-ge-aerospace-4336226594?position=2&pageNum=0&refId=SzNkqygm28XAz4fYUVZYdQ%3D%3D&trackingId=kTq7AJCY2uOmKGLOU7SDDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-15 15:56:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Starlink)",
+        "company": "SpaceX",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-starlink-at-spacex-4310451417?position=26&pageNum=0&refId=SzNkqygm28XAz4fYUVZYdQ%3D%3D&trackingId=FmhDNJuvFEDRJoHK5GxGtw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-15 15:56:44",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Sumo Logic",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-sumo-logic-4331333076?position=44&pageNum=0&refId=SzNkqygm28XAz4fYUVZYdQ%3D%3D&trackingId=UnZ7mT7pRkwjhq3rzydxOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-15 15:56:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "GetWebsite.dev",
+        "location": "San Francisco, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-getwebsite-dev-4322450943?position=47&pageNum=0&refId=SzNkqygm28XAz4fYUVZYdQ%3D%3D&trackingId=8JhJx3X3FUeQ3o%2FFcLudkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-15 15:56:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Node.js, Python)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-node-js-python-at-wiraa-4336176960?position=49&pageNum=0&refId=SzNkqygm28XAz4fYUVZYdQ%3D%3D&trackingId=DAFEJsdRaAuVkSV3q9K6bA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-15 15:56:44",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Engineer Software ( Prisma Access)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-engineer-software-prisma-access-at-palo-alto-networks-4331191317?position=54&pageNum=0&refId=SzNkqygm28XAz4fYUVZYdQ%3D%3D&trackingId=aiMrOquVPAnyelmq%2FIA9wA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-15 15:56:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Starlink)",
+        "company": "SpaceX",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-starlink-at-spacex-4310451417?position=1&pageNum=2&refId=QWS7EmO6qZ%2B6gDdXBzKPew%3D%3D&trackingId=tHr0ojPb%2BzwaGeiQMC%2FJwg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-15 15:56:44",
         "email_sent": false
     }
 ]
