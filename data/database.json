@@ -1,55 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Manulife",
-        "location": "Boston, MA",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-manulife-4320525717?position=2&pageNum=0&refId=yKSpeiHrWt3nFlJ2yRuJYA%3D%3D&trackingId=PWoLehEqpRMT93YGpUWSow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-25 10:49:58",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "Fanatics",
-        "location": "United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-fanatics-4337414514?position=5&pageNum=0&refId=yKSpeiHrWt3nFlJ2yRuJYA%3D%3D&trackingId=vsq6rL1fcC6VaXOwA2oXOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-25 10:49:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4338788547?position=6&pageNum=0&refId=yKSpeiHrWt3nFlJ2yRuJYA%3D%3D&trackingId=Ig5hh8iE3M0FFsVlHVMX6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-25 10:49:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (HR)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-hr-at-wiraa-4338718444?position=12&pageNum=0&refId=yKSpeiHrWt3nFlJ2yRuJYA%3D%3D&trackingId=gyVMDKyA%2B6HgOmqM%2BfJZXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-25 10:49:58",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Remote)",
-        "company": "Taskify AI",
-        "location": "United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-remote-at-taskify-ai-4338818555?position=24&pageNum=0&refId=yKSpeiHrWt3nFlJ2yRuJYA%3D%3D&trackingId=UUMZyVBUm%2FRhWjWHXTIS6g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-25 10:49:58",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer, Automation",
         "company": "Hilton",
         "location": "Memphis, TN",
@@ -137,6 +87,66 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-java-spring-boot-at-lowe-s-companies-inc-4332993968?position=2&pageNum=0&refId=UZBiNPzNaucj11nr7nvJww%3D%3D&trackingId=V%2BhKcE3gNU%2BgI%2FEvdY2GZQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-25 11:40:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer I",
+        "company": "Cox Automotive Inc.",
+        "location": "Austin, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-cox-automotive-inc-4336138071?position=1&pageNum=0&refId=IU8uWz37FiSGceRpAyUCDw%3D%3D&trackingId=ITsh0GxFuor%2F9%2BSw86b7JA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-25 11:50:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4338818381?position=4&pageNum=0&refId=IU8uWz37FiSGceRpAyUCDw%3D%3D&trackingId=75E%2BzQP%2Bk2ZAvagG%2BP4sEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-25 11:50:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Cox Automotive Inc.",
+        "location": "Irvine, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-cox-automotive-inc-4338353862?position=8&pageNum=0&refId=IU8uWz37FiSGceRpAyUCDw%3D%3D&trackingId=uSVa34ytK9zVdGQQJXtxKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-25 11:50:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Finance",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-finance-at-wiraa-4338708510?position=11&pageNum=0&refId=IU8uWz37FiSGceRpAyUCDw%3D%3D&trackingId=pg5nZ18OzxDhwW4IeR831w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-25 11:50:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, Go)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-go-at-wiraa-4338928465?position=13&pageNum=0&refId=IU8uWz37FiSGceRpAyUCDw%3D%3D&trackingId=qyBh%2BgYj1edLcxjfSwhmYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-25 11:50:08",
+        "email_sent": false
+    },
+    {
+        "title": "DevOps Engineer - ML & Data",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/devops-engineer-ml-data-at-wiraa-4338808589?position=14&pageNum=0&refId=IU8uWz37FiSGceRpAyUCDw%3D%3D&trackingId=WMySgUxOt1rsPXTrDESWFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-25 11:50:08",
         "email_sent": false
     }
 ]
