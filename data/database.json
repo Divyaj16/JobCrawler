@@ -1,95 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Dune",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-dune-4324647208?position=1&pageNum=0&refId=de2jdlbtOVK5XShYY7bx%2Bg%3D%3D&trackingId=PLP0rOV0vVnBIg4nERo5kA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-27 21:48:46",
-        "email_sent": false
-    },
-    {
-        "title": "Data Associate",
-        "company": "BayCoast Bank",
-        "location": "Swansea, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-associate-at-baycoast-bank-4339317326?position=6&pageNum=0&refId=de2jdlbtOVK5XShYY7bx%2Bg%3D%3D&trackingId=naWV%2BphKoj3JmUg%2Bo3joSA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-27 21:48:46",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Data Analysis \u2013 Entry Level",
-        "company": "AMEX EXPORT SOLUTION SL",
-        "location": "United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-analysis-%E2%80%93-entry-level-at-amex-export-solution-sl-4339277789?position=12&pageNum=0&refId=de2jdlbtOVK5XShYY7bx%2Bg%3D%3D&trackingId=qGFW5d300Mhh8EzsziBgEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-27 21:48:46",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Software Engineer, Global E-commerce Supply Chain and Logistics",
-        "company": "ByteDance",
-        "location": "San Jose, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-global-e-commerce-supply-chain-and-logistics-at-bytedance-4324657097?position=16&pageNum=0&refId=de2jdlbtOVK5XShYY7bx%2Bg%3D%3D&trackingId=2bSJWKdQ%2FavgHF8dv7le9g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-27 21:48:46",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Software Engineer, Global E-commerce Supply Chain and Logistics",
-        "company": "ByteDance",
-        "location": "Seattle, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-global-e-commerce-supply-chain-and-logistics-at-bytedance-4324687110?position=17&pageNum=0&refId=de2jdlbtOVK5XShYY7bx%2Bg%3D%3D&trackingId=O5P3NMsD6vpzZ2Gzbq4gnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-27 21:48:46",
-        "email_sent": false
-    },
-    {
-        "title": "Automation Support Engineer I or II: San Francisco/Bay Area",
-        "company": "HighRes Biosolutions",
-        "location": "Daly City, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/automation-support-engineer-i-or-ii-san-francisco-bay-area-at-highres-biosolutions-4324696984?position=19&pageNum=0&refId=de2jdlbtOVK5XShYY7bx%2Bg%3D%3D&trackingId=j8W%2BDlytf5V%2FRV3aycHh6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-27 21:48:46",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst",
-        "company": "3P Diversified Ventures",
-        "location": "Charleston, South Carolina Metropolitan Area",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-at-3p-diversified-ventures-4339367708?position=21&pageNum=0&refId=de2jdlbtOVK5XShYY7bx%2Bg%3D%3D&trackingId=G1wOB3Dv%2Fh%2Bw6oTyLyjT7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-27 21:48:46",
-        "email_sent": false
-    },
-    {
-        "title": "TX DIR-Software Engineer 3-26R999999",
-        "company": "Knowledge Builders Inc",
-        "location": "Austin, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/tx-dir-software-engineer-3-26r999999-at-knowledge-builders-inc-4339197360?position=22&pageNum=0&refId=de2jdlbtOVK5XShYY7bx%2Bg%3D%3D&trackingId=dK%2FK5rHIXh9zgp2iXj8wSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-27 21:48:46",
-        "email_sent": false
-    },
-    {
-        "title": "Maritime Environmental Data & Compliance Specialist",
-        "company": "Core Group Resources",
-        "location": "Conroe, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/maritime-environmental-data-compliance-specialist-at-core-group-resources-4321265481?position=25&pageNum=0&refId=de2jdlbtOVK5XShYY7bx%2Bg%3D%3D&trackingId=oQARNB9g5aoNbptDb8u%2Byg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-27 21:48:46",
-        "email_sent": false
-    },
-    {
         "title": "Associate Data Analyst",
         "company": "Internet Brands",
         "location": "El Segundo, CA",
@@ -317,6 +227,16 @@
         "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-entry-level-at-transperfect-4324647381?position=22&pageNum=0&refId=2tSqYcesGLEAc6Bb9i9zyw%3D%3D&trackingId=fDZNxNA4bzLEr4AkK0%2Fifg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-27 22:48:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend  (Apps & Solutions)",
+        "company": "League",
+        "location": "New York, NY",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-apps-solutions-at-league-4339337775?position=1&pageNum=0&refId=OfaKjGs%2FEAcbPPdqQs7X6g%3D%3D&trackingId=uvoaMQ6fOgmXwJObZAaxvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-27 22:57:50",
         "email_sent": false
     }
 ]
