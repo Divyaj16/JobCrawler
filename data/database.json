@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "CGI",
-        "location": "Arlington, VA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cgi-4316386217?position=2&pageNum=0&refId=kK5bvepAK%2BHd4Q8uiaxJIA%3D%3D&trackingId=%2BSs0nKZivW7NtX6Sv2JLeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 18:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Engineer",
-        "company": "Mastercard",
-        "location": "Kansas City, MO",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-at-mastercard-4338017661?position=6&pageNum=0&refId=kK5bvepAK%2BHd4Q8uiaxJIA%3D%3D&trackingId=wQ9EmRL3q8zBBVYQIC5G3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 18:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Centene Corporation",
-        "location": "United States",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-centene-corporation-4339836582?position=14&pageNum=0&refId=kK5bvepAK%2BHd4Q8uiaxJIA%3D%3D&trackingId=rUH6ctFGSJY%2BO%2BvItA5%2FWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-11-29 18:26:27",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "ICF",
         "location": "United States",
@@ -297,6 +267,66 @@
         "url": "https://www.linkedin.com/jobs/view/associate-consultant-mechanical-engineer-mission-critical-data-centers-at-wsp-in-the-u-s-4315740949?position=10&pageNum=0&refId=%2FLF7yBROYvmrSkRmWj9IqA%3D%3D&trackingId=qwek5CffS5n0%2FvRsXl8MZw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-11-29 19:17:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Jersey City, NJ",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4323091141?position=5&pageNum=0&refId=EnfLDKaCqgIfXoJxpBlOgA%3D%3D&trackingId=kK0DnvFJgzYVymFCYPGLFQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-29 19:29:35",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Haystack",
+        "location": "Kenosha, WI",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-haystack-4324935294?position=6&pageNum=0&refId=EnfLDKaCqgIfXoJxpBlOgA%3D%3D&trackingId=HbMYq2wjO5WDV%2FsbF2HZYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-29 19:29:35",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend (Consumer - Growth & App Infra)",
+        "company": "Coinbase",
+        "location": "United States",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-growth-app-infra-at-coinbase-4339427105?position=9&pageNum=0&refId=EnfLDKaCqgIfXoJxpBlOgA%3D%3D&trackingId=DiB%2BH51bgdxWTMbcBqQRTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-29 19:29:35",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Systems Engineer",
+        "company": "Jobs via Dice",
+        "location": "Fairfax, VA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-systems-engineer-at-jobs-via-dice-4323102897?position=11&pageNum=0&refId=EnfLDKaCqgIfXoJxpBlOgA%3D%3D&trackingId=0p%2FGQ0vGrat8bHLhKBxv%2FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-29 19:29:35",
+        "email_sent": false
+    },
+    {
+        "title": "Mobile Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Kansas City, MO",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mobile-software-engineer-at-jobs-via-dice-4323201051?position=14&pageNum=0&refId=EnfLDKaCqgIfXoJxpBlOgA%3D%3D&trackingId=NlSBoxfbO7pOZ30XK1vxrQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-29 19:29:35",
+        "email_sent": false
+    },
+    {
+        "title": "Commissioning Engineer (Data Centers)",
+        "company": "Jobs via Dice",
+        "location": "Morristown, NJ",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/commissioning-engineer-data-centers-at-jobs-via-dice-4324973968?position=16&pageNum=0&refId=EnfLDKaCqgIfXoJxpBlOgA%3D%3D&trackingId=%2BENrBhLvesaKbLSUBkQa1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-11-29 19:29:35",
         "email_sent": false
     }
 ]
