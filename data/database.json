@@ -1,276 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "AARATECH",
-        "location": "Seattle, WA",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4324998035?position=2&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=lJ61g35WjC9bqNxt7ATZAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "AARATECH",
-        "location": "San Francisco, CA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4324958895?position=3&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=eh7ef9HOg%2FkthnVxxD8WNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4340372377?position=5&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=jMuIQrfypFgTcNaaQ00g1w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Capital One",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-capital-one-4340382440?position=6&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=0D4Xb25IiAPrTPY%2BQhO7Og%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Sr.",
-        "company": "Quanata",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-quanata-4340332596?position=10&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=dnJ7%2FWx1IUahVut3N%2FxrUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4340172744?position=12&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=y%2BUGJjszIyMDl4j%2FJTWU5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Bright Matrix Global",
-        "location": "Houston, TX",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-bright-matrix-global-4348211738?position=19&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=lo1HZDQ6yhM2YqMWWDQ2Ng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (API, UI)",
-        "company": "DoorDash",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-ui-at-doordash-4340762100?position=21&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=TO%2FBnT2cnnTvho2xz%2Fhm2Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Data (IT)",
-        "company": "Delta Utilities",
-        "location": "New Orleans, LA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-data-it-at-delta-utilities-4336183049?position=22&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=w5Hu79uT3BtLPnDNhwj4pA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Brooksource",
-        "location": "Charlotte Metro",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-brooksource-4325187265?position=25&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=yH4BOCAKhT6xqy1mBlT%2BCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II, Integration",
-        "company": "Renaissance Learning",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-integration-at-renaissance-learning-4340362405?position=26&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=%2F6d%2BiH88Z1YNqzeSj6bPMg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Manager",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-manager-at-wiraa-4340702328?position=27&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=S0MR7nUtiGgUhU1X%2FdabHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "DevOps Engineer",
-        "company": "Informatica",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-informatica-4340152667?position=28&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=N2aKJcE3ltCA0yOtOTCUrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Exceptional Software Engineer (Coding Agent Experience)",
-        "company": "TALi Technologies",
-        "location": "United States",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/exceptional-software-engineer-coding-agent-experience-at-tali-technologies-4348231562?position=30&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=X9Y%2FP2ZkaT42d9DyCXELOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - API",
-        "company": "First Citizens Bank",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-at-first-citizens-bank-4340772062?position=32&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=UDivRClMcg2DNaUlSjUiaA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Technical Engineer",
-        "company": "Insight Global",
-        "location": "Canton, MS",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-technical-engineer-at-insight-global-4325177220?position=34&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=VoCfejUU9Lhf38rZaknP0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Front End Engineer (AI, Js)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/front-end-engineer-ai-js-at-wiraa-4340781880?position=37&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=O9vNenSudNtJzPzd5Hd%2FqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "C.H. Robinson",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-c-h-robinson-4340152668?position=38&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=1Z102rGqCz5rRVCIsyzM4Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, React)",
-        "company": "Block",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-react-at-block-4340712332?position=40&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=hrwVpndMzoaEHCuenqcelQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Amplity",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-amplity-4340162723?position=45&pageNum=0&refId=6TNzmwqClf4LOOa83OpwzQ%3D%3D&trackingId=RFpdPggxWxi77yAO964vCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Brooksource",
-        "location": "Charlotte Metro",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-brooksource-4325187265?position=1&pageNum=2&refId=CfcyYdboCvhT7CSfWtK8ug%3D%3D&trackingId=GBCrvkGnzWGfauC49ux7CA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II, Integration",
-        "company": "Renaissance Learning",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-integration-at-renaissance-learning-4340362405?position=2&pageNum=2&refId=CfcyYdboCvhT7CSfWtK8ug%3D%3D&trackingId=no8usZ110JuUw8hBwwnk0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Manager",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-manager-at-wiraa-4340702328?position=3&pageNum=2&refId=CfcyYdboCvhT7CSfWtK8ug%3D%3D&trackingId=6bxgO90IenXfEdKLvOmQ%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "DevOps Engineer",
-        "company": "Informatica",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-informatica-4340152667?position=4&pageNum=2&refId=CfcyYdboCvhT7CSfWtK8ug%3D%3D&trackingId=a7uh8MPXgDxlbPhPYFREog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Exceptional Software Engineer (Coding Agent Experience)",
-        "company": "TALi Technologies",
-        "location": "United States",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/exceptional-software-engineer-coding-agent-experience-at-tali-technologies-4348231562?position=6&pageNum=2&refId=CfcyYdboCvhT7CSfWtK8ug%3D%3D&trackingId=NKOHv0VBctAE6qozQvNUwA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - API",
-        "company": "First Citizens Bank",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-at-first-citizens-bank-4340772062?position=8&pageNum=2&refId=CfcyYdboCvhT7CSfWtK8ug%3D%3D&trackingId=o0PDe%2Fxi2Q%2BV7uuAXxEY9A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Technical Engineer",
-        "company": "Insight Global",
-        "location": "Canton, MS",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-technical-engineer-at-insight-global-4325177220?position=10&pageNum=2&refId=CfcyYdboCvhT7CSfWtK8ug%3D%3D&trackingId=j8NUnjNGqWb6Qw14Y0i5JQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-01 14:45:41",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New Jersey, United States",
         "date_posted": "1 hour ago",
@@ -617,6 +347,146 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-emerson-4340154724?position=5&pageNum=2&refId=mkvUDDF6HVSX1ukjAzFxDA%3D%3D&trackingId=J0o9wAuZSfxomLL5ZPLSLw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-01 15:30:53",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New York, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4347281060?position=2&pageNum=0&refId=ErtmfGdrACNVYXVjiO17Hg%3D%3D&trackingId=5A3c1HKBJMY3H9QYspdOVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4348072925?position=11&pageNum=0&refId=ErtmfGdrACNVYXVjiO17Hg%3D%3D&trackingId=kyE96QtRqnKk075EQFfnMg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "Jr. Cloud Data Engineer",
+        "company": "Department of Behavioral Health and Developmental Services",
+        "location": "Richmond, VA",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/jr-cloud-data-engineer-at-department-of-behavioral-health-and-developmental-services-4348092881?position=16&pageNum=0&refId=ErtmfGdrACNVYXVjiO17Hg%3D%3D&trackingId=M6c57TetlqyxrmFh6OB3Gw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "Azure Data Engineer",
+        "company": "firstPRO, Inc",
+        "location": "Camden, NJ",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-firstpro-inc-4340384672?position=20&pageNum=0&refId=ErtmfGdrACNVYXVjiO17Hg%3D%3D&trackingId=PWik5BwW84CdpLnsELzgZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4347324967?position=21&pageNum=0&refId=ErtmfGdrACNVYXVjiO17Hg%3D%3D&trackingId=Xc4Zw3w1HIz7LWZW3dDMXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Stott and May",
+        "location": "New York, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-stott-and-may-4316990423?position=26&pageNum=0&refId=ErtmfGdrACNVYXVjiO17Hg%3D%3D&trackingId=pGTkPVNuGDcBQEMLGX4uAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Selby Jennings",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-selby-jennings-4340154283?position=30&pageNum=0&refId=ErtmfGdrACNVYXVjiO17Hg%3D%3D&trackingId=mJgB14Upb9CB4e2MYBYUug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Little Caesars Pizza",
+        "location": "Detroit, MI",
+        "date_posted": "Just now",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-little-caesars-pizza-4340784021?position=36&pageNum=0&refId=ErtmfGdrACNVYXVjiO17Hg%3D%3D&trackingId=cVqQo8Ar89yZfE360CzTIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Iron Systems, Inc",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-iron-systems-inc-4340713950?position=40&pageNum=0&refId=ErtmfGdrACNVYXVjiO17Hg%3D%3D&trackingId=cPDSm0jr%2BPAgRiJ7AwQibw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "Aditi Consulting",
+        "location": "Chillicothe, IL",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-aditi-consulting-4340194831?position=47&pageNum=0&refId=ErtmfGdrACNVYXVjiO17Hg%3D%3D&trackingId=cly%2BBNeGJcSuLwbVy5YS9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Accenture Federal Services",
+        "location": "Reston, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-accenture-federal-services-4332068414?position=49&pageNum=0&refId=ErtmfGdrACNVYXVjiO17Hg%3D%3D&trackingId=wXeKjZcHlXpCoQLWyIGsag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "Data Collector",
+        "company": "Insight Global",
+        "location": "San Francisco, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-collector-at-insight-global-4325017779?position=51&pageNum=0&refId=ErtmfGdrACNVYXVjiO17Hg%3D%3D&trackingId=Y%2FnRDilpYoChZlAhXnhmHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Stott and May",
+        "location": "New York, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-stott-and-may-4316990423?position=2&pageNum=2&refId=VvLhKxpbvp%2BWhqMGgYKyPw%3D%3D&trackingId=O%2Bt9lZZyY%2FPFxWKz6CJSAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Selby Jennings",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-selby-jennings-4340154283?position=6&pageNum=2&refId=VvLhKxpbvp%2BWhqMGgYKyPw%3D%3D&trackingId=FdgKetNqfogrg0HFTt2mwA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-01 15:48:11",
         "email_sent": false
     }
 ]
