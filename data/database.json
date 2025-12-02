@@ -1,365 +1,5 @@
 [
     {
-        "title": "Data Science Engineer",
-        "company": "Goodnight Midstream",
-        "location": "Dallas, TX",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-science-engineer-at-goodnight-midstream-4298111602?position=3&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=HIwhtQvJnqKspcrLZZoChQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4341062101?position=5&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=IVplI%2ByGQpJhhe1JO%2Fk5AA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4341211779?position=6&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=QHfTtGrUh%2F%2BA2IdMLXZZJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Bioinformatics Data Engineer",
-        "company": "BCforward",
-        "location": "San Diego, CA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/bioinformatics-data-engineer-at-bcforward-4341252118?position=7&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=%2FrMMBItMtw%2FTYwGJIHMObA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Alkami Technology",
-        "location": "United States",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-alkami-technology-4335265945?position=10&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=%2FOtRMYDAVHCyTxvsKaGkSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Tech Consulting",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4325324481?position=11&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=PbGKYq9NOTIMWPkL39aiiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Tech Consulting",
-        "location": "Kansas, United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4325354457?position=12&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=fMThVgMHupku9ZEcf4P%2BCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Scientist",
-        "company": "New York City Police Department",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-new-york-city-police-department-4341012128?position=16&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=EmJj3hxsBv78p75%2BTQhXvg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "ATC",
-        "location": "Washington, United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4325254794?position=18&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=%2Ff2dEKcM%2BTEHM1YrqM5%2FSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "SS&C Technologies",
-        "location": "Waltham, MA",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ss-c-technologies-4317343216?position=19&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=qvtbWH4m4qM7NoRv3XG4cA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Brooksource",
-        "location": "Washington, DC",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-brooksource-4325284526?position=20&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=skW3k0pTCCDBr87sRG2Yjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Controls Engineer-Data Center",
-        "company": "BW Design Group",
-        "location": "Abilene, TX",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/controls-engineer-data-center-at-bw-design-group-4321914205?position=22&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=GKNDDi6rb%2FYSpwxycUdauA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Controls Engineer-Data Center",
-        "company": "BW Design Group",
-        "location": "South Bend, IN",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/controls-engineer-data-center-at-bw-design-group-4321993996?position=23&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=pfwBHK7IN2jhwscGyui2Qw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Controls Engineer-Data Center",
-        "company": "BW Design Group",
-        "location": "Phoenix, AZ",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/controls-engineer-data-center-at-bw-design-group-4321804316?position=30&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=%2BmQCKKJv0YLah5nAF5HSNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Haystack",
-        "location": "Washington, United States",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4325244877?position=31&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=8t5W586qALuYx%2FLog3S3VQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4340792351?position=32&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=vC2oLQrhknDBKFviQTHZZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "AGV Onboard Software Engineer",
-        "company": "Dematic",
-        "location": "Atlanta, GA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/agv-onboard-software-engineer-at-dematic-4321934180?position=33&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=aCPrAuH092OesUbhzx%2BJ3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "AGV Onboard Software Engineer",
-        "company": "Dematic",
-        "location": "Holland, MI",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/agv-onboard-software-engineer-at-dematic-4321924257?position=34&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=CEctWt%2FSBpEJz9Lvj4LYWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "BIM Modeler",
-        "company": "Clark Construction Group",
-        "location": "Capitol Heights, MD",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/bim-modeler-at-clark-construction-group-4317315199?position=36&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=CXlkTQYx3pj09AHb9w9dJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Controls Engineer-Data Center",
-        "company": "BW Design Group",
-        "location": "Phoenix, AZ",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/controls-engineer-data-center-at-bw-design-group-4321934080?position=38&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=dl4QEaRUDWVg5ItdwBrJpQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Controls Engineer-Data Center",
-        "company": "BW Design Group",
-        "location": "Dallas, TX",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/controls-engineer-data-center-at-bw-design-group-4321964171?position=39&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=vEUuklgtTYIJksV4AO9xyg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Controls Engineer-Data Center",
-        "company": "BW Design Group",
-        "location": "Chicago, IL",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/controls-engineer-data-center-at-bw-design-group-4321784563?position=42&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=38GIIqfObZmT%2B5RrgSfpYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist \u2013 Remote  $100 \u2013$120/hr",
-        "company": "Call For Referral",
-        "location": "San Francisco Bay Area",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-remote-%24100-%E2%80%93%24120-hr-at-call-for-referral-4348271792?position=45&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=m6ufL1eHGwmNOxECmDuJ8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Quality Analyst",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/quality-analyst-at-best-job-tool-4341052083?position=46&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=RD%2F0r6eEOMM%2BrtmzqWGeWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Reliability Engineer",
-        "company": "Unilever",
-        "location": "Jefferson City, MO",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/reliability-engineer-at-unilever-4325424424?position=47&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=NNq6jMjCU0gFmD1t7IGzcQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Applied AI/ML Scientist - Ads",
-        "company": "Faire",
-        "location": "New York, NY",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-applied-ai-ml-scientist-ads-at-faire-4308110155?position=50&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=BqI4mUiqdSl7RGZx2t8KGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Strategic Decision Support Analyst",
-        "company": "Transamerica",
-        "location": "Cedar Rapids, IA",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/strategic-decision-support-analyst-at-transamerica-4321860408?position=53&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=4R6Rb0PThVVIYI2gkq9MWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "RF Systems Engineer",
-        "company": "Astranis Space Technologies",
-        "location": "San Francisco, CA",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/rf-systems-engineer-at-astranis-space-technologies-4316648537?position=54&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=QLvh856tvF7x9dpy%2FAYxdA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "CLINICAL RESEARCH ANALYST, School of Medicine, Pulmonary Center",
-        "company": "Boston University",
-        "location": "Boston, MA",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/clinical-research-analyst-school-of-medicine-pulmonary-center-at-boston-university-4335166392?position=55&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=crIyDhy%2B7yjfdoi846H%2BpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Ceramic Engineer",
-        "company": "Brightpath Associates LLC",
-        "location": "Conway, SC",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ceramic-engineer-at-brightpath-associates-llc-4341042234?position=56&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=0k%2FX0E5IU5MmgCoUp6uzxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Inspector, Detail (Receiving)",
-        "company": "StandardAero",
-        "location": "Cincinnati, OH",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/inspector-detail-receiving-at-standardaero-4335400031?position=58&pageNum=0&refId=7Om7kWfs4AjFE2La2IJOoQ%3D%3D&trackingId=yQVQNWBb0yAgnV5Y7cSPWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Controls Engineer-Data Center",
-        "company": "BW Design Group",
-        "location": "Phoenix, AZ",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/controls-engineer-data-center-at-bw-design-group-4321804316?position=5&pageNum=2&refId=Ysrc57xVZrd1RMA8Qkhpzg%3D%3D&trackingId=L5S2AHBjKQZAdi27J5Uotw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Haystack",
-        "location": "Washington, United States",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4325244877?position=6&pageNum=2&refId=Ysrc57xVZrd1RMA8Qkhpzg%3D%3D&trackingId=oTOtdhH6DF8jXpKFuqqlgQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4340792351?position=7&pageNum=2&refId=Ysrc57xVZrd1RMA8Qkhpzg%3D%3D&trackingId=PSyubN56fNctc1kNaqZEfg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "AGV Onboard Software Engineer",
-        "company": "Dematic",
-        "location": "Atlanta, GA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/agv-onboard-software-engineer-at-dematic-4321934180?position=8&pageNum=2&refId=Ysrc57xVZrd1RMA8Qkhpzg%3D%3D&trackingId=pzTR2sC6m8wp1ZF2o2TqFg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
-        "title": "AGV Onboard Software Engineer",
-        "company": "Dematic",
-        "location": "Holland, MI",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/agv-onboard-software-engineer-at-dematic-4321924257?position=9&pageNum=2&refId=Ysrc57xVZrd1RMA8Qkhpzg%3D%3D&trackingId=t0xKby5egA0TzGQAODBScQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-02 13:26:27",
-        "email_sent": false
-    },
-    {
         "title": "Associate Data Engineer",
         "company": "LOTTE BIOLOGICS",
         "location": "Syracuse, NY",
@@ -877,6 +517,186 @@
         "url": "https://www.linkedin.com/jobs/view/security-engineer-4325454924?position=23&pageNum=0&refId=b5FGfWcYsCi9g4l0WNN%2FeA%3D%3D&trackingId=S5vJ8G6c0rEskwQa1lA79w%3D%3D&trk=public_jobs_jserp-result_search-card",
         "source": "LinkedIn",
         "scraped_date": "2025-12-02 14:22:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New York, United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4347281060?position=1&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=UC2GCs7CxYmTDR3cCFLuGw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4348072925?position=3&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=fZ%2BdFF1nxHB90ETJ5Vc8tQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "Washington, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4348053228?position=5&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=F0KCuD5hRj49Jda4b5ngAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "Dallas, TX",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4348241929?position=7&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=lQT15mjE%2B0DLDOfLcUCkhQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Snowflake/Data Vault 2.0 Developer",
+        "company": "VENSOFT INC.",
+        "location": "United States",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/snowflake-data-vault-2-0-developer-at-vensoft-inc-4325455082?position=14&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=JS%2FccK%2BIdVP6DTYbrt8J6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4347324967?position=17&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=3pt8EVw33CkcBECri2OcJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "TalentAlly",
+        "location": "Omaha, NE",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4325385141?position=18&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=f0%2FztXr%2F8qrpmQBR%2FEUfyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "Texas, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4348251929?position=19&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=c2UXBND1dHXcljKbdWMCkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Eagle Pride Services Inc",
+        "location": "Hopkins, MN",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-eagle-pride-services-inc-4325275117?position=28&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=Y91sxBStnAACndYkmbYhLw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Jr Data Modeler with GCP (Full time with Zensar, Day 1 onsite)",
+        "company": "M3BI - A Zensar Company",
+        "location": "Phoenix, AZ",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/jr-data-modeler-with-gcp-full-time-with-zensar-day-1-onsite-at-m3bi-a-zensar-company-4341839064?position=29&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=bgJgSmwbi9OimY6RW%2BjyPw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "BCforward",
+        "location": "Houston, TX",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-bcforward-4341093040?position=33&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=nvyjL2gU%2BiBhYAk%2FkCeZuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Hiring for Data Scientist on W2",
+        "company": "Excelon Solutions",
+        "location": "United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/hiring-for-data-scientist-on-w2-at-excelon-solutions-4325275144?position=51&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=kTwZ34157kWfqEvsOzzE5A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Wealth Management) ::: Hybrid in Florham Park, New Jersey",
+        "company": "Tuppl",
+        "location": "Florham Park, NJ",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-wealth-management-hybrid-in-florham-park-new-jersey-at-tuppl-4325445133?position=52&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=sIlIDkSucpFu%2BTv%2Fwr9p2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Enterprise Business Intelligence & Reporting Analyst",
+        "company": "Medical Mutual",
+        "location": "Cleveland, OH",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/enterprise-business-intelligence-reporting-analyst-at-medical-mutual-4335381859?position=57&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=b2bRN9JMyzFxCYDmAH113g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer III (.NET)",
+        "company": "Crowley",
+        "location": "Jacksonville, FL",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-net-at-crowley-4319914242?position=60&pageNum=0&refId=vKC9TynySVtozBoxv99qzw%3D%3D&trackingId=tCt1EF6wbxvoUZIx8IUjPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Eagle Pride Services Inc",
+        "location": "Hopkins, MN",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-eagle-pride-services-inc-4325275117?position=3&pageNum=2&refId=lexkthmypl%2BAgjYtXU0PLg%3D%3D&trackingId=mrBi%2BsWXucu%2Bqn3ZamqQqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Jr Data Modeler with GCP (Full time with Zensar, Day 1 onsite)",
+        "company": "M3BI - A Zensar Company",
+        "location": "Phoenix, AZ",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/jr-data-modeler-with-gcp-full-time-with-zensar-day-1-onsite-at-m3bi-a-zensar-company-4341839064?position=4&pageNum=2&refId=lexkthmypl%2BAgjYtXU0PLg%3D%3D&trackingId=TNtE%2Foknvjze%2FLWjqipX5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "BCforward",
+        "location": "Houston, TX",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-bcforward-4341093040?position=8&pageNum=2&refId=lexkthmypl%2BAgjYtXU0PLg%3D%3D&trackingId=1BUYa1ICVvvgdHBLAtoZcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-02 14:46:44",
         "email_sent": false
     }
 ]
