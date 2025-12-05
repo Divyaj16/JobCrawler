@@ -1,416 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Hamilton Lane",
-        "location": "Greater Philadelphia",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hamilton-lane-4322430222?position=1&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=3ns8OZB6sJqk9pTXmeq4QA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Privacy Infrastructure",
-        "company": "OpenAI",
-        "location": "San Francisco, CA",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-privacy-infrastructure-at-openai-4275248087?position=2&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=1I2sKo5ygYfysFrKLDMWKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analytics Engineer",
-        "company": "Robert Half",
-        "location": "Sarasota, FL",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-robert-half-4342099131?position=3&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=5AsFOWJYivONavX4hn3pcA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Haystack",
-        "location": "United States",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4325876505?position=5&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=wsb0NU1mUoHWjYj4%2FeOXUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Research Engineer, Human Data",
-        "company": "OpenAI",
-        "location": "San Francisco, CA",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/research-engineer-human-data-at-openai-4315975821?position=6&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=%2FmEr6YpPeIo8M%2FzaVR5xQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Tech Consulting",
-        "location": "Washington, United States",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4325993168?position=8&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=buWwS%2B9xM%2F0sb0cK6NtvRQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Connected Vehicle Quality Data Analytics Engineer",
-        "company": "Ford Motor Company",
-        "location": "Dearborn, MI",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/connected-vehicle-quality-data-analytics-engineer-at-ford-motor-company-4309051115?position=9&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=MmPMIsg2WscSpZOFQ9q6dQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Tech Consulting",
-        "location": "Wisconsin, United States",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4326001762?position=11&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=gu4V%2BXgZXu0PSmXxxvQqfg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hachette Book Group",
-        "location": "New York, NY",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hachette-book-group-4348526870?position=14&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=GiyGREwQnT9SxJ%2FdE5qjsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4342099026?position=15&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=HUeU07d6KUtr4ZIHFirmhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, QT/QML",
-        "company": "Lucid Motors",
-        "location": "Southfield, MI",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-qt-qml-at-lucid-motors-4318321663?position=19&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=kqxvMdHjNItqkAnOgUoP%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Houston, TX",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342208660?position=20&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=2wMA02D5tJZ6vDpZQcrsnw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Katy, TX",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342208708?position=21&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=UmlJ1peC%2FFg6qv%2FOHcOXlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Dallas, TX",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342238378?position=24&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=PWLg1moMsLM9tilF9RCGmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Killeen, TX",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342188721?position=27&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=DDpG5ftOO3Q5hrNgvO8%2BvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "McAllen, TX",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342088907?position=30&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=odVt%2F%2FhVyLdoA2zqBqOiZg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Austin, TX",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342118890?position=31&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=VZPlf7xGWEoJW%2Brze3%2BUhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Frisco, TX",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342218348?position=32&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=1VbubTMmKTN2CzaCLR1zeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "QA Software Engineer",
-        "company": "Motion Recruitment",
-        "location": "New York, NY",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/qa-software-engineer-at-motion-recruitment-4323946313?position=33&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=PlsB9sTh50xyLBPkwbcXrQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "El Paso, TX",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342118893?position=35&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=%2BMfYVLOd%2Bd%2FxVzNmi5pPjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Lubbock, TX",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342118902?position=36&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=2KrAbVKA873oMvQLMg1eww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Panama City Beach, FL",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342258374?position=37&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=RWVYCP0uNHtMU7wtgqDw%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer 2 - C#",
-        "company": "Garmin",
-        "location": "St Louis, MO",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-2-c%23-at-garmin-4318746520?position=39&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=Q1%2B6WnSNo8qJsN6rYbU9FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Plano, TX",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342118908?position=40&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=432CZHy2IXxvpKZUwJiCMg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Brownsville, TX",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342168609?position=42&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=PhEJX3yEiGl2zWH3jDwLHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Irving, TX",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342268441?position=45&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=otXjEyeozJwz5cLtHdMm7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "San Antonio, TX",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342278382?position=47&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=xSQbpDpHOmxd%2BlrtOKJljQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Corpus Christi, TX",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342088900?position=49&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=F%2BvQWFWoyL5JpJWcuf8xbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Arlington, TX",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342208674?position=50&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=cu3iGQ5qoFXeR63%2Bzc6sbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Fort Worth, TX",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342208667?position=51&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=fiG7aaXWiwMYXLb4noqhiQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Galveston, TX",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342088902?position=52&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=IL51tZZuiWPOpNAcjY0S4Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Laredo, TX",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342248222?position=53&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=0Poc1XH%2B7ecXyvW%2Bk67xjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Amarillo, TX",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342148680?position=55&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=qKrtyKL0x8DxanPgawJwgA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Waco, TX",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342098904?position=56&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=EKMl7CgNHORDYUppeGLm5g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst Talent Community",
-        "company": "New York State Technology Enterprise Corporation (NYSTEC)",
-        "location": "Albany, NY",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-talent-community-at-new-york-state-technology-enterprise-corporation-nystec-4316348690?position=60&pageNum=0&refId=Qxb0GZ7WAajydrRrufB0fg%3D%3D&trackingId=IpqETc1Sa7YdgazOfqXcfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Killeen, TX",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342188721?position=2&pageNum=2&refId=fLc%2FcvBfc5LsuL34ctG6Rg%3D%3D&trackingId=TvzNT2D6yBz16xrZ%2Bznovg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "McAllen, TX",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342088907?position=5&pageNum=2&refId=fLc%2FcvBfc5LsuL34ctG6Rg%3D%3D&trackingId=66b65CS85EKWfvOjNcYnYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Austin, TX",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342118890?position=6&pageNum=2&refId=fLc%2FcvBfc5LsuL34ctG6Rg%3D%3D&trackingId=fgwJam0wSP2qvUVMExmZ4g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "Frisco, TX",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342218348?position=7&pageNum=2&refId=fLc%2FcvBfc5LsuL34ctG6Rg%3D%3D&trackingId=2IFtuJrTGZJcmaDPUgGVXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "QA Software Engineer",
-        "company": "Motion Recruitment",
-        "location": "New York, NY",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/qa-software-engineer-at-motion-recruitment-4323946313?position=8&pageNum=2&refId=fLc%2FcvBfc5LsuL34ctG6Rg%3D%3D&trackingId=imQkaBzkdHVUemKkqXv%2Fug%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital",
-        "location": "El Paso, TX",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342118893?position=10&pageNum=2&refId=fLc%2FcvBfc5LsuL34ctG6Rg%3D%3D&trackingId=iCZRzlcPCpuorGJe%2BuganA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-05 13:22:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New Jersey, United States",
         "date_posted": "9 minutes ago",
@@ -827,6 +417,236 @@
         "url": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-4342288358?position=10&pageNum=2&refId=pifk5MoHJJKDNgRY4BchzQ%3D%3D&trackingId=6ppoO8AF3eLkEYf9rAX93A%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-05 14:00:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "iConsultera",
+        "location": "United States",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-iconsultera-4325983735?position=1&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=1%2F%2Bw1BR3d4Za7ujrZKktcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "Texas, United States",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4348551638?position=3&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=h%2FxEY4nQm6My5988O49Cmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Remote - US)",
+        "company": "Jobgether",
+        "location": "United States",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-remote-us-at-jobgether-4342179192?position=6&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=52R3PQMzDev94CnmWcKpfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "METECS",
+        "location": "Houston, TX",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-metecs-4335925851?position=11&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=pTKNqNHklOHUNKYMiS3n0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "BI Data Engineer (Real-Time Reporting, dashboard delivery dev. exp. req.)",
+        "company": "#twiceasnice Recruiting",
+        "location": "Washington DC-Baltimore Area",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/bi-data-engineer-real-time-reporting-dashboard-delivery-dev-exp-req-at-%23twiceasnice-recruiting-4325767173?position=13&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=467cZ2BmKe%2BSLpL48IzSZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Hadoop Engineer",
+        "company": "Innova Solutions",
+        "location": "Chicago, IL",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/hadoop-engineer-at-innova-solutions-4348565378?position=15&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=bks40gwB1mhki7fZU094tA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Alexander Chapman",
+        "location": "San Francisco, CA",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-alexander-chapman-4342079859?position=16&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=ZnCdK0CWgl8lCDdveIPZyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Remote - US)",
+        "company": "Jobgether",
+        "location": "United States",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-us-at-jobgether-4342109682?position=17&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=zFsOR7MzuvyhNlJG%2BosAkg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II, Lifecycle Engineering",
+        "company": "iRhythm Technologies, Inc.",
+        "location": "Orange County, CA",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-lifecycle-engineering-at-irhythm-technologies-inc-4325993592?position=22&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=9vOAoccGzD87qfR%2BfeaW%2FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Oracle Data Analyst - Jr",
+        "company": "Alpha Omega",
+        "location": "Vienna, VA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/oracle-data-analyst-jr-at-alpha-omega-4261178585?position=24&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=Pd5xZd3mcKNWzPwVtJI72A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Data Platform Engineer",
+        "company": "Motive",
+        "location": "San Francisco, CA",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-data-platform-engineer-at-motive-4247981665?position=25&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=8%2BRn7dSK1GiaBTt7PYwgDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "United States",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4347033056?position=34&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=3yuoC%2FzSqMwmqww6tBeglg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "C.H. Robinson",
+        "location": "Eden Prairie, MN",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-c-h-robinson-4320791101?position=35&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=2EwhleHkKAwFoYViTH1upA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Visa",
+        "location": "Foster City, CA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-visa-4325797283?position=36&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=vVZYcUR6g%2B6y3PvnEPOYiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "SONIFI Solutions, Inc.",
+        "location": "Sioux Falls, SD",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-sonifi-solutions-inc-4348651435?position=37&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=xkovuqSBhKV1e5S9QgJlOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "Collabera",
+        "location": "Plano, TX",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-collabera-4325876906?position=38&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=6tLzheTxftzX0pNILD%2BGJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Lifecycle Engineer",
+        "company": "Rolls-Royce",
+        "location": "Indianapolis, IN",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/lifecycle-engineer-at-rolls-royce-4331314692?position=40&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=lVjlKruChNrve2OfBFcASQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer II",
+        "company": "Relativity Space",
+        "location": "Long Beach, CA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-ii-at-relativity-space-4323904352?position=41&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=HAI96rriP2CS2pGZy86%2BnA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer in Testing",
+        "company": "Panasonic Avionics Corporation",
+        "location": "Irvine, CA",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-testing-at-panasonic-avionics-corporation-4340266471?position=42&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=fudyB2AaJZP6HYOlR2YS7w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Design Engineer II",
+        "company": "GRAYHILL",
+        "location": "La Grange, IL",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-design-engineer-ii-at-grayhill-4298633380?position=48&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=9oqO7IZArea6eJoVzJMc4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Pinterest",
+        "location": "California, United States",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-pinterest-4249480934?position=50&pageNum=0&refId=4GXeq96Fhw%2FV%2FAsjlIJhFQ%3D%3D&trackingId=VoWnGEspv3O%2F7ULgfvRpLw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "United States",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4347033056?position=9&pageNum=2&refId=KGjLn0uZzMeMAaFpkhcKPg%3D%3D&trackingId=E83t7%2F62LXr2Fivkf3fyBA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "C.H. Robinson",
+        "location": "Eden Prairie, MN",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-c-h-robinson-4320791101?position=10&pageNum=2&refId=KGjLn0uZzMeMAaFpkhcKPg%3D%3D&trackingId=dLJu42WiHxwqZ%2B7C6iSuxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-05 14:26:00",
         "email_sent": false
     }
 ]
