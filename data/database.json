@@ -1,145 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "General Dynamics Information Technology",
-        "location": "United States",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-general-dynamics-information-technology-4342681680?position=1&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=xdnPv%2FJkaO60c3uh%2F9h3JQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4348603808?position=2&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=n%2FLEifgR4XCNaNGdibTKSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - SQL",
-        "company": "Confluent",
-        "location": "United States",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-at-confluent-4342572072?position=6&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=j5Y37B6MP2j%2F24vMVHpjWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
-        "title": "Analytics & Data Engineer",
-        "company": "Weidenhammer Systems Corp",
-        "location": "Philadelphia, PA",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analytics-data-engineer-at-weidenhammer-systems-corp-4342652983?position=12&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=zrVnTxU%2B3odenSCMr7J%2BGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II - Healthcare",
-        "company": "Centene Corporation",
-        "location": "United States",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-healthcare-at-centene-corporation-4342591954?position=17&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=1w5a6N0eTuOD6JWZjj56IQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (AI)",
-        "company": "Workato",
-        "location": "United States",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-workato-4342601910?position=19&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=%2F5XqjNdbTq3V8NUIJDs5ZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Software Engineer II",
-        "company": "Hinge Health",
-        "location": "United States",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-ii-at-hinge-health-4342671658?position=21&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=nMAPMohlk2njzrY5Qp9C4w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, Typescript)",
-        "company": "Block",
-        "location": "United States",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-typescript-at-block-4342601911?position=39&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=LqUnJ4xYAJ40%2FPRZNjoz8g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Humana",
-        "location": "United States",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-humana-4342562196?position=44&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=lCvwY2NDsHhjZfAm3KjRZw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Amplity",
-        "location": "United States",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-amplity-4342691549?position=46&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=sMkKpZhAYtzTusD6hQ%2B%2Bhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, People",
-        "company": "Baylor Scott & White Health",
-        "location": "United States",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-people-at-baylor-scott-white-health-4342631960?position=47&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=dSQEPItfYrvjI7rUUbwltg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
-        "title": "Jr. Software Integration Engineer (Secret Clearance Required)",
-        "company": "Jobot",
-        "location": "Manassas, VA",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/jr-software-integration-engineer-secret-clearance-required-at-jobot-4348786746?position=51&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=3M%2Bc1Qb2XnJSA2pra2cM0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
-        "title": "Visual C++ Developer",
-        "company": "DRS IT Solutions Inc",
-        "location": "Dallas, TX",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/visual-c%2B%2B-developer-at-drs-it-solutions-inc-4342692721?position=58&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=cuLsQNQSkxg4slY1mC773Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
-        "title": "Project Engineer",
-        "company": "E-Z Bel Construction, LLC",
-        "location": "San Antonio, TX",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-e-z-bel-construction-llc-4342702783?position=60&pageNum=0&refId=Se39JoENv3wjD9TTjSjfBA%3D%3D&trackingId=Z40jNlbCAgbmJj80ANtUaQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-08 13:56:16",
-        "email_sent": false
-    },
-    {
         "title": "Java Software Engineer",
         "company": "BeaconFire Inc.",
         "location": "East Windsor, NJ",
@@ -397,6 +257,486 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-automation-and-devops-at-volt-4348768233?position=9&pageNum=2&refId=mAEdYO%2BL3vV1eL5bfyfDbA%3D%3D&trackingId=NaEFkm3aBFPtoaxBHcHfmw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-08 14:45:40",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-beaconfire-inc-4348892685?position=4&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=E8PA8X4tn8gYs2NLPR8j9Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Recent Graduate Data Analyst",
+        "company": "Emma of Torre.ai",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/recent-graduate-data-analyst-at-emma-of-torre-ai-4342752323?position=6&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=4u8Qztp%2BmkenOq%2FsGWkwQQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4342712473?position=7&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=Y2YHABivbF%2F%2BkwqgVvg3JA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Cloud)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-cloud-at-wiraa-4342631958?position=8&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=0km7%2Fae0kn4hvgciqFmf5A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4342651776?position=9&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=XtjzXiIcVbCK8rLTLfj%2FCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Stage ETL Developer",
+        "company": "Tata Consultancy Services",
+        "location": "Seattle, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-stage-etl-developer-at-tata-consultancy-services-4322855736?position=11&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=Ui98Rfl%2FDeyQDYDUkH2dBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Software Engineer",
+        "company": "General Dynamics Mission Systems",
+        "location": "Pittsburgh, PA",
+        "date_posted": "Just now",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-general-dynamics-mission-systems-4325912596?position=12&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=27ZBtANaFN4N81YSNU5Rbg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - LB Builds",
+        "company": "STAND 8 Technology Consulting",
+        "location": "Long Beach, CA",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-lb-builds-at-stand-8-technology-consulting-4336980700?position=15&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=2Az3%2B6mpNEZOaJKC3QMR9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "AI/ML Engineer",
+        "company": "Emma of Torre.ai",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-emma-of-torre-ai-4342732354?position=16&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=Tmsz2kykIpHIWEpo%2FBijgA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "Diligent Tec, Inc",
+        "location": "Kansas City, MO",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-diligent-tec-inc-4342723198?position=18&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=oKTn1rw3cUok8TTAYaxpcg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer II",
+        "company": "Hinge Health",
+        "location": "United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-ii-at-hinge-health-4342721493?position=21&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=Eos5Ar08BYaRZkKDWK5nYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend, Mid-Level",
+        "company": "Ramp",
+        "location": "San Francisco, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-mid-level-at-ramp-4278951600?position=24&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=BsNCf6LwodH0pzOq9pqWUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Automation & Software Engineer",
+        "company": "Striker Crushing & Screening",
+        "location": "City of Washington County, DC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/automation-software-engineer-at-striker-crushing-screening-4326254619?position=26&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=9nZqM3fVtnprGmQZPz0BRw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Annotator (Remote)",
+        "company": "HireFast",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-annotator-remote-at-hirefast-4342642886?position=27&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=uoRXP1a5VYeE0argDAf3JQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Annotator (Remote)",
+        "company": "HireFast",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-annotator-remote-at-hirefast-4342742443?position=28&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=AN6HkE%2Fa5OCMtg1Gpps5iw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Annotator (Remote)",
+        "company": "HireFast",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-annotator-remote-at-hirefast-4342732578?position=29&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=Cf6uErDD%2BnSCQwaFBmJbIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Annotator (Remote)",
+        "company": "HireFast",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-annotator-remote-at-hirefast-4342583123?position=30&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=3ASS8JhZec%2FUI%2F1y1t9mog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "New Grad Software Engineer, Backend 2026",
+        "company": "Circle",
+        "location": "San Francisco Bay Area",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/new-grad-software-engineer-backend-2026-at-circle-4341160870?position=31&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=6RMdK0B64gKBag5NLCbs9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Report Developer",
+        "company": "A-Line Staffing Solutions",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/report-developer-at-a-line-staffing-solutions-4342772338?position=32&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=S4Y38NpHLG0DlwwSTQ5rDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4342672566?position=33&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=J8Umy9xb0Sotx5ZMomlg1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer \u2013 All Locations (Onsite)",
+        "company": "Symbotic",
+        "location": "United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-%E2%80%93-all-locations-onsite-at-symbotic-4250720883?position=36&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=A1yUa%2BC8hWKwHT987IGvCw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "New Grad Software Engineer, Backend 2026",
+        "company": "Circle",
+        "location": "Greater Phoenix Area",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/new-grad-software-engineer-backend-2026-at-circle-4341320793?position=41&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=PvugObrsXZYZG52WPnCChg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "New Grad Software Engineer, Backend 2026",
+        "company": "Circle",
+        "location": "Salt Lake City Metropolitan Area",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/new-grad-software-engineer-backend-2026-at-circle-4340930899?position=42&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=oByp0cgkT48HHlfsSfbDNw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Oracle Developer",
+        "company": "AbbVie",
+        "location": "North Chicago, IL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/oracle-developer-at-abbvie-4222854019?position=43&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=YLAdP04Deb8qNTi8yATvBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Mid-Level .NET Software Engineer",
+        "company": "STAND 8 Technology Consulting",
+        "location": "United States",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mid-level-net-software-engineer-at-stand-8-technology-consulting-4337050667?position=45&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=In2BB%2FL%2B1iUzA%2FuQd%2BHe7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-best-job-tool-4342573042?position=60&pageNum=0&refId=pZM%2FD%2F5UljK5nPEowTEwCw%3D%3D&trackingId=2thsZcOqpB1cYibobPZfHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Automation & Software Engineer",
+        "company": "Striker Crushing & Screening",
+        "location": "City of Washington County, DC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/automation-software-engineer-at-striker-crushing-screening-4326254619?position=1&pageNum=2&refId=fpNX8KmJpy9Rf%2BgBQaE6GA%3D%3D&trackingId=RwG9GjFQikVA0NDmFWJ62Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Annotator (Remote)",
+        "company": "HireFast",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-annotator-remote-at-hirefast-4342642886?position=2&pageNum=2&refId=fpNX8KmJpy9Rf%2BgBQaE6GA%3D%3D&trackingId=ExaTfhaW6dlP0m50FIGHcg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Annotator (Remote)",
+        "company": "HireFast",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-annotator-remote-at-hirefast-4342742443?position=3&pageNum=2&refId=fpNX8KmJpy9Rf%2BgBQaE6GA%3D%3D&trackingId=REGd0YurwcNPv8i1UbLszg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Annotator (Remote)",
+        "company": "HireFast",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-annotator-remote-at-hirefast-4342732578?position=4&pageNum=2&refId=fpNX8KmJpy9Rf%2BgBQaE6GA%3D%3D&trackingId=Kq1m0TTR9z12H1bxpZG2YA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Annotator (Remote)",
+        "company": "HireFast",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-annotator-remote-at-hirefast-4342583123?position=5&pageNum=2&refId=fpNX8KmJpy9Rf%2BgBQaE6GA%3D%3D&trackingId=0gPWHxOuy4QOWNcJFqC6dA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "New Grad Software Engineer, Backend 2026",
+        "company": "Circle",
+        "location": "San Francisco Bay Area",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/new-grad-software-engineer-backend-2026-at-circle-4341160870?position=6&pageNum=2&refId=fpNX8KmJpy9Rf%2BgBQaE6GA%3D%3D&trackingId=WQ0XIsCZhsgabwC1RDR0vQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Report Developer",
+        "company": "A-Line Staffing Solutions",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/report-developer-at-a-line-staffing-solutions-4342772338?position=7&pageNum=2&refId=fpNX8KmJpy9Rf%2BgBQaE6GA%3D%3D&trackingId=cXWA78kSGxeR9sSmDzbL2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4342672566?position=8&pageNum=2&refId=fpNX8KmJpy9Rf%2BgBQaE6GA%3D%3D&trackingId=%2BIZpxUTE0mlQX5dE6812gw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-best-job-tool-4342573042?position=10&pageNum=5&refId=sU1SYcfW0a2PhO3rd7nqfQ%3D%3D&trackingId=QhcIoS6X0vyMc2CDwSq96g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "CRM Developer (Hubspot)",
+        "company": "Emma of Torre.ai",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/crm-developer-hubspot-at-emma-of-torre-ai-4342652675?position=10&pageNum=10&refId=2HnSYMNpmwXF%2BnJSTMq%2BkA%3D%3D&trackingId=Hii4TwIbGN2orJhhyYunIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Mechanical System Engineer",
+        "company": "Duravant",
+        "location": "Downers Grove, IL",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mechanical-system-engineer-at-duravant-4335146176?position=1&pageNum=12&refId=IFq2inUe7%2BsnF%2FQY4j2quQ%3D%3D&trackingId=p9SRHlXfFXPwhpNOP9rmOA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Windsor, CA",
+        "date_posted": "40 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4326049943?position=3&pageNum=12&refId=IFq2inUe7%2BsnF%2FQY4j2quQ%3D%3D&trackingId=44X6jv1tduVuXjHl7JeGog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Norco, CA",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4348863186?position=4&pageNum=12&refId=IFq2inUe7%2BsnF%2FQY4j2quQ%3D%3D&trackingId=DOnKZ%2BzRpIEspEEBB%2FwzOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Riverbank, CA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4348902620?position=5&pageNum=12&refId=IFq2inUe7%2BsnF%2FQY4j2quQ%3D%3D&trackingId=glzBixN0jY61N8qwnpcOMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Barstow, CA",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4348882626?position=6&pageNum=12&refId=IFq2inUe7%2BsnF%2FQY4j2quQ%3D%3D&trackingId=L8tY8ySljkG0TwJ3ReQTxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Galt, CA",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4348922533?position=7&pageNum=12&refId=IFq2inUe7%2BsnF%2FQY4j2quQ%3D%3D&trackingId=8aDpXzdXHLXoaJWLXsB0Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Brawley, CA",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4326280293?position=8&pageNum=12&refId=IFq2inUe7%2BsnF%2FQY4j2quQ%3D%3D&trackingId=22zveB0i1cUcLZNJ9Zj7uw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Moscow, ID",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4348932341?position=9&pageNum=12&refId=IFq2inUe7%2BsnF%2FQY4j2quQ%3D%3D&trackingId=i7lJFlF00gU7mlKEMeUung%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Soledad, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4348823751?position=10&pageNum=12&refId=IFq2inUe7%2BsnF%2FQY4j2quQ%3D%3D&trackingId=qJ4lIvKgDDjH0mYczhC0Qw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Salesforce Business Analyst",
+        "company": "Experient",
+        "location": "Atlanta, GA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/salesforce-business-analyst-at-experient-4326089783?position=2&pageNum=15&refId=o609ZCXr8%2BDA7BFGUb8niQ%3D%3D&trackingId=04VWBm4ow4mT%2BrgUljliVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "Manufacturing Engineer",
+        "company": "Liebherr USA",
+        "location": "Newport News, VA",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/manufacturing-engineer-at-liebherr-usa-4010888370?position=3&pageNum=15&refId=o609ZCXr8%2BDA7BFGUb8niQ%3D%3D&trackingId=YmL%2BWGni52z1tDaqkdeSyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
+        "email_sent": false
+    },
+    {
+        "title": "College Recruiter (Remote) - $75,000/year USD",
+        "company": "Crossover",
+        "location": "Denver, CO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/college-recruiter-remote-%2475-000-year-usd-at-crossover-4325520909?position=5&pageNum=15&refId=o609ZCXr8%2BDA7BFGUb8niQ%3D%3D&trackingId=KIexRKhL02j5h660O1gxJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-08 14:59:43",
         "email_sent": false
     }
 ]
