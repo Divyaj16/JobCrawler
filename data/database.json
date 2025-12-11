@@ -1,12 +1,592 @@
 [
     {
-        "title": "Permanent Staff Data Analyst job in Cookeville, TN",
-        "company": "Aya Healthcare",
-        "location": "Cookeville, TN",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/permanent-staff-data-analyst-job-in-cookeville-tn-at-aya-healthcare-4343144056?position=2&pageNum=0&refId=BWqQjcHvXPo6H%2FHcWEzwJw%3D%3D&trackingId=5GzuaOhU%2FMafVts584%2FPUA%3D%3D",
+        "title": "REMOTE- Junior Data Engineer",
+        "company": "Lensa",
+        "location": "Fort Worth, TX",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-junior-data-engineer-at-lensa-4343074645?position=1&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=xCmwPWY6ODoyOiDdhrO6Qg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-12-11 06:32:46",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Engineer - Remote",
+        "company": "Lensa",
+        "location": "Las Vegas, NV",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-remote-at-lensa-4343134226?position=2&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=cV3SdK2NDT16TVgSFjbm8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer Associate",
+        "company": "Lensa",
+        "location": "Dallas, TX",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-associate-at-lensa-4343144270?position=3&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=2S4M1eDJdGm0vcxujG4XYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst- Remote",
+        "company": "Lensa",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-lensa-4343243849?position=4&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=MVQH875Cz4ZpphzmAY8jmg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst I",
+        "company": "Lensa",
+        "location": "Los Angeles, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-lensa-4343064583?position=5&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=6PMZWOhjpWyWLGF7IHcXDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Lensa",
+        "location": "Reno, NV",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-lensa-4343144300?position=6&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=wfLm9N8NshlQ0XSmUQK98A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Jr. Data Analyst",
+        "company": "Lensa",
+        "location": "Silver Spring, MD",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/jr-data-analyst-at-lensa-4343243856?position=7&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=pd7q9i9vufmA6nlycfpYnQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 1",
+        "company": "Lensa",
+        "location": "Mountain View, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-lensa-4343054589?position=8&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=RAk%2BwETsGo2Ah4qg4Mkclg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "DATA ANALYST",
+        "company": "Lensa",
+        "location": "Atlanta, GA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4343144291?position=9&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=GXfzykqrMyyCEUcR%2Ff6bOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Lensa",
+        "location": "Irvine, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-lensa-4343203982?position=10&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=8XbYyM%2FbFYnydgHNrS2cZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 1",
+        "company": "Lensa",
+        "location": "New York, NY",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-lensa-4343045060?position=11&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=JMoxqwgdrtDHJiisPFCbJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Regulatory (Starlink)",
+        "company": "Lensa",
+        "location": "Washington, DC",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-regulatory-starlink-at-lensa-4343233927?position=12&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=fVRjqbQSVtOIMlpXWgAveA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 1",
+        "company": "Lensa",
+        "location": "San Diego, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-lensa-4343174124?position=13&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=7IYQw4OF0%2FF2DQO%2BucGVDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Entry Level",
+        "company": "Lensa",
+        "location": "Nashua, NH",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-entry-level-at-lensa-4343114302?position=14&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=xIS9O5hCu0rCz5ZOzZq81A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Lensa",
+        "location": "Chicago, IL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-lensa-4343144355?position=15&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=yreliBmaw43upHwyaYbmsw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Lensa",
+        "location": "Columbus, OH",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-lensa-4343064518?position=16&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=s6mSN2kPZwDzG5DgrD1T%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer with Python",
+        "company": "Jobs via Dice",
+        "location": "New York, NY",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-with-python-at-jobs-via-dice-4326616523?position=17&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=5U7P2Sq6YQIxujDTJtmjFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Early Career",
+        "company": "Lensa",
+        "location": "Orlando, FL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-early-career-at-lensa-4343174033?position=18&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=%2FGsUSM5c3weILBsezpKOOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Lensa",
+        "location": "Redmond, WA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-lensa-4343124248?position=19&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=DuFT3R1vJQ8fqOFytfXRkg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "Lensa",
+        "location": "Watertown, MA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-lensa-4343044991?position=20&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=2qNN%2FAQ%2FgiCySPUGI1lyCQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer- Early Career",
+        "company": "Lensa",
+        "location": "Orlando, FL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-early-career-at-lensa-4343114344?position=21&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=VYtCqXxnG7Q094z%2BCPtD8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Lensa",
+        "location": "Sterling Heights, MI",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-lensa-4343164214?position=22&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=7z5CHnsNU%2B7KkmmLevxB2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst 1 - Hybrid Opportunity",
+        "company": "Lensa",
+        "location": "Stanford, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-1-hybrid-opportunity-at-lensa-4343154294?position=23&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=D%2FbNjQdKtVPFDlEj3yz2Dw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Software Engineer",
+        "company": "Lensa",
+        "location": "Dublin, OH",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-lensa-4343214049?position=24&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=vc6aS6p291sJMR5VpIfqAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Lensa",
+        "location": "Seattle, WA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lensa-4343154262?position=25&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=y4CaO0XefyDXTS2hW5Ar3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer-Early Career",
+        "company": "Lensa",
+        "location": "Liverpool, NY",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-early-career-at-lensa-4343263300?position=26&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=lnuvWiHhiZjACFS3IG0VmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "2026 Entry Level Software Engineer",
+        "company": "Lensa",
+        "location": "San Diego, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/2026-entry-level-software-engineer-at-lensa-4343224006?position=27&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=o%2BlxaCy7klV%2FRflAztElXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Active Directory Engineer - Remote",
+        "company": "Lensa",
+        "location": "Plano, TX",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/active-directory-engineer-remote-at-lensa-4343233846?position=28&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=aumnHGUjgZaB1ispvTqslQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer - Software Developer in Test I",
+        "company": "Spectra Logic",
+        "location": "Boulder, CO",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-software-developer-in-test-i-at-spectra-logic-4349527650?position=29&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=yi67db7wOf5xQJRy6ejpwA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer Level 2 or 3",
+        "company": "Lensa",
+        "location": "Aurora, CO",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-or-3-at-lensa-4343134217?position=30&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=0nmPCeLwPlqsq%2BVzBPNLmg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Power BI Specialist, Data Analytics - US Based Remote",
+        "company": "Lensa",
+        "location": "Houston, TX",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/power-bi-specialist-data-analytics-us-based-remote-at-lensa-4343114367?position=31&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=xWk9aC7IE4AaNFUxxE9fvw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Systems)",
+        "company": "Lensa",
+        "location": "Madison, WI",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-systems-at-lensa-4343104306?position=32&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=Q%2FRGTZ8ItaPiTgp2JfcIzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer Support Level 2",
+        "company": "Lensa",
+        "location": "Annapolis Junction, MD",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-support-level-2-at-lensa-4343193968?position=33&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=%2B2V4OJUGByfmvDXhyt5ZHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Jr. Quality Assurance Engineer",
+        "company": "Lensa",
+        "location": "Plano, TX",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/jr-quality-assurance-engineer-at-lensa-4343214050?position=34&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=genuMgSGEZLLBSrm3KRT9Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Scientist",
+        "company": "Lensa",
+        "location": "Reston, VA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-lensa-4343213994?position=35&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=FHF2HtQNENL8QmwCvAT7Og%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer Development Program - Entry Level Power Engineer",
+        "company": "Lensa",
+        "location": "Austin, TX",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-development-program-entry-level-power-engineer-at-lensa-4343064498?position=36&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=%2Blo7bYOoBemtojagU5CpEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Test Engineer",
+        "company": "Lensa",
+        "location": "Pasadena, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-at-lensa-4343114309?position=38&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=S9jmUqiSszcCHVFXxD0QnQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (REMOTE)",
+        "company": "Lensa",
+        "location": "Phoenix, AZ",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-remote-at-lensa-4343054721?position=39&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=o%2BDJ1Iir4COO3BY96f8E3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Android",
+        "company": "Lensa",
+        "location": "Trenton, NJ",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-android-at-lensa-4343154233?position=40&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=jboEUC0bOX4sPfX3XizoUQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Lensa",
+        "location": "Washington, DC",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-lensa-4343164293?position=41&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=0ZfcZUI0W836RZJfDKxO1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Analytics",
+        "company": "Lensa",
+        "location": "Menlo Park, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-analytics-at-lensa-4343094564?position=42&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=fWitUOp0%2FdM2l5n9%2Ffhung%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (REMOTE)",
+        "company": "Lensa",
+        "location": "Miami, FL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-remote-at-lensa-4343084556?position=43&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=EjAdOs2lFK7vspXHxksSeg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist (REMOTE)",
+        "company": "Lensa",
+        "location": "Wichita, KS",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-remote-at-lensa-4343214029?position=44&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=miw2ckMOsxqlymN8opFGlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist - TikTok Local Services (San Jose)",
+        "company": "TikTok",
+        "location": "San Jose, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-tiktok-local-services-san-jose-at-tiktok-4326626461?position=45&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=spxleA8jZFHF7R46ThvPRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Cancer Biology Omics Associate Data Scientist",
+        "company": "Lensa",
+        "location": "Houston, TX",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/cancer-biology-omics-associate-data-scientist-at-lensa-4343054613?position=46&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=2tPhouymc0%2BlOnMu8KiDxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Decision Science Analyst",
+        "company": "NuStar Technologies",
+        "location": "San Antonio, TX",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/decision-science-analyst-at-nustar-technologies-4343243887?position=47&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=cCWLGDxMrKniPzyVJfFEGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Systems Engineer (Data Protection)",
+        "company": "Jobs via Dice",
+        "location": "Phoenix, AZ",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/systems-engineer-data-protection-at-jobs-via-dice-4326626392?position=48&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=bvpLeJNqSYkFBL8xO3GsVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "System Integration & Test Engineer",
+        "company": "Lockheed Martin",
+        "location": "King of Prussia, PA",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-integration-test-engineer-at-lockheed-martin-4343194094?position=49&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=%2B34gVToLuaPQRjgBDTlcqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "System Integration & Test Engineer",
+        "company": "Lockheed Martin",
+        "location": "King of Prussia, PA",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-integration-test-engineer-at-lockheed-martin-4343224045?position=50&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=v3O%2BzCkXzkDrZzNY%2B%2FwRXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Malvern, PA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4326763041?position=51&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=pQBao0YD53MZDnR9koIrdQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Transportation Engineer",
+        "company": "Lensa",
+        "location": "Chicago, IL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-transportation-engineer-at-lensa-4343263320?position=52&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=GfC7mp63d1RDXmCjrIx4Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Program Protection Engineer - Software Scrum Master",
+        "company": "Raytheon",
+        "location": "Woburn, MA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/program-protection-engineer-software-scrum-master-at-raytheon-4343243908?position=53&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=F4e4QQOby6Ji6%2B%2FBTm8B3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Assistant Researcher",
+        "company": "Center for Public Partnerships & Research",
+        "location": "Topeka Metropolitan Area",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/assistant-researcher-at-center-for-public-partnerships-research-4343044870?position=54&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=hl3b6e%2FS4dJHZ3pLYf%2BE0w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Jobs via Dice",
+        "location": "Tampa, FL",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-jobs-via-dice-4326596864?position=55&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=nHCXEzIyYYFd1h3sSvQhKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "QA Automation Engineer - HYBRID FTE PERMANENT",
+        "company": "Jobs via Dice",
+        "location": "Des Moines, IA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/qa-automation-engineer-hybrid-fte-permanent-at-jobs-via-dice-4326772925?position=56&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=Yy5QB41Bn9%2F5HUeXmA94yg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Mechanical Engineer - R&D",
+        "company": "Lensa",
+        "location": "Hingham, MA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-r-d-at-lensa-4343263274?position=57&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=HvZ1wOsIv%2B9%2Fj1FmvL12FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Jobs via Dice",
+        "location": "Reading, PA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-jobs-via-dice-4326811527?position=58&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=VUWxc1q2pv%2F7VIbNerpoTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "Sustainability Analyst",
+        "company": "Lensa",
+        "location": "New York, NY",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sustainability-analyst-at-lensa-4343074612?position=59&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=4E4EyZxj9qEHMwRjYjKBaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
+        "email_sent": false
+    },
+    {
+        "title": "ASSISTANT PROJECT MANAGER",
+        "company": "Lensa",
+        "location": "New York, NY",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/assistant-project-manager-at-lensa-4343114371?position=60&pageNum=0&refId=6n0KOhmulRr91twURReVZA%3D%3D&trackingId=IY6akm05C6oF3f7DC8UEKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-11 07:32:55",
         "email_sent": false
     }
 ]
