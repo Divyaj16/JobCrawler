@@ -1,15 +1,5 @@
 [
     {
-        "title": "Software Engineer (Python, SQL)",
-        "company": "Docker, Inc",
-        "location": "United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-sql-at-docker-inc-4343474232?position=1&pageNum=0&refId=LOcuCQVWfX34xxLq9AkheA%3D%3D&trackingId=nymnd7PFZj8OpHWqj9%2FiKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-12 19:17:47",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Shrive Technologies",
         "location": "Texas, United States",
@@ -17,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-shrive-technologies-4349842962?position=2&pageNum=0&refId=rmz8foeThIYeVOImPqdeFQ%3D%3D&trackingId=WQIgqtdNiUhjDfNmpVTeUQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-12 19:57:12",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4347575552?position=3&pageNum=0&refId=KBn1umczJE%2FvcXrUdcy%2Bjg%3D%3D&trackingId=2Cg6GHejrgTa8KFLtTy4BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-12 20:22:29",
         "email_sent": false
     }
 ]
