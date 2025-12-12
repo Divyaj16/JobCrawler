@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer 1 (Hybrid - Seattle, WA)",
-        "company": "Nordstrom",
-        "location": "Seattle, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-1-hybrid-seattle-wa-at-nordstrom-4343471875?position=1&pageNum=0&refId=WVENsK3xFcbTrGdkASW3pw%3D%3D&trackingId=IRue3T394lmuX8RssNp1Ng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-12 10:00:06",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst, Supply Chain",
         "company": "Tessera Data",
         "location": "San Francisco Bay Area",
@@ -27,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-subscriptions-at-clear-4338330047?position=3&pageNum=0&refId=nG0og3sC%2FxNxYl14V%2Bno2g%3D%3D&trackingId=gyEnD3TOBnVXuyNS4r6yEw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-12 10:30:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Stakehawk Solutions",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-stakehawk-solutions-4349782719?position=1&pageNum=0&refId=MLJi8BkDwSp%2BnfqUXgpJ4A%3D%3D&trackingId=oNZa9mvyzyXLGkDPs2kuBA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-12 11:00:52",
         "email_sent": false
     }
 ]
