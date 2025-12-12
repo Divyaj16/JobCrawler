@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer - New Grad",
-        "company": "Sentra",
-        "location": "San Francisco Bay Area",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-sentra-4343442734?position=1&pageNum=0&refId=4HBFumlYxjjOrBFu8RFsQQ%3D%3D&trackingId=Wvp%2BytxJlz67TsMvK1LaVQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-12 11:57:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Tennr",
-        "location": "New York, NY",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-tennr-4337176900?position=3&pageNum=0&refId=4HBFumlYxjjOrBFu8RFsQQ%3D%3D&trackingId=zYFIXx0gsx55iDUs6cZ7AQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-12 11:57:06",
-        "email_sent": false
-    },
-    {
         "title": "Junior Data Engineer",
         "company": "Bridge Investment Group",
         "location": "Sandy, UT",
@@ -27,6 +7,26 @@
         "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-bridge-investment-group-4301951349?position=1&pageNum=0&refId=45IIrn%2Bf6JRIoPbjYoVQ7Q%3D%3D&trackingId=D37r9QSTrn1YtivtQ%2BCODQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-12 12:41:30",
+        "email_sent": false
+    },
+    {
+        "title": "Healthcare Data Analyst",
+        "company": "Claritev",
+        "location": "United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/healthcare-data-analyst-at-claritev-4302238150?position=2&pageNum=0&refId=liujMhlG9ASHWeE%2FdEarhQ%3D%3D&trackingId=qOb%2BhA4hhDPRm%2BgyZsGWFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-12 13:24:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4343373307?position=3&pageNum=0&refId=liujMhlG9ASHWeE%2FdEarhQ%3D%3D&trackingId=eb7HfYEBtZOjpgWpNygMfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-12 13:24:22",
         "email_sent": false
     }
 ]
