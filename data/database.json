@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Randstad Digital Americas",
-        "location": "Grand Rapids, MI",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-randstad-digital-americas-4324270084?position=3&pageNum=0&refId=oHDwYGdFWF0u6unCbDFCsw%3D%3D&trackingId=r2%2BqSLMHiDYhHGIl2VqD0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-13 17:56:37",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst II",
         "company": "Kaiser Permanente",
         "location": "Baldwin Park, CA",
@@ -47,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-prometheus-partners-agency-4327134432?position=2&pageNum=0&refId=%2FN4ZD6ySKSBxLrUMALuPMQ%3D%3D&trackingId=UXSfGvvIhbpqv7e%2FrT1Vcg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-13 18:48:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4343600220?position=3&pageNum=0&refId=hp2%2FWdXjb8lUiNRKcH1asw%3D%3D&trackingId=3CJTWGA2p74s6v%2FZxgaWcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-13 18:58:15",
         "email_sent": false
     }
 ]
