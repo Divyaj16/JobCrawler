@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer 1",
-        "company": "Intuit",
-        "location": "Mountain View, CA",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4333582517?position=2&pageNum=0&refId=HKL0WVGoVfsxtmvUgZ%2FSkw%3D%3D&trackingId=KAM%2BrJexHk%2FxRSFP7QkXUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-14 12:37:32",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer 1",
-        "company": "Intuit",
-        "location": "San Diego, CA",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4333572792?position=3&pageNum=0&refId=HKL0WVGoVfsxtmvUgZ%2FSkw%3D%3D&trackingId=Ah%2FlSHosWvIpjT%2BigeA7ow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-14 12:37:32",
-        "email_sent": false
-    },
-    {
         "title": "Backend Software Engineer - All Levels",
         "company": "Credit Karma",
         "location": "Charlotte, NC",
@@ -27,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-all-levels-at-credit-karma-4281655988?position=3&pageNum=0&refId=gbl6d3ww66sepYunrgj8eQ%3D%3D&trackingId=VChKSSrf860QTGyFnLBThg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-14 13:10:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Robert Half",
+        "location": "Middleton, WI",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-robert-half-4315836125?position=3&pageNum=0&refId=W%2FOCaj8UmJ1QkvNSFwcfxg%3D%3D&trackingId=ks%2BdhXzrxHpTuX0bdA5NHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 13:38:20",
         "email_sent": false
     }
 ]
