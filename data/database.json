@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Robert Half",
-        "location": "Middleton, WI",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-robert-half-4315836125?position=1&pageNum=0&refId=D9kLB0mQnZVCNxHCugs9fw%3D%3D&trackingId=KYYUlcN15h2On%2FIKahmbBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-14 14:50:02",
-        "email_sent": false
-    },
-    {
         "title": "Front End Software Engineer - All Levels",
         "company": "Credit Karma",
         "location": "Charlotte, NC",
@@ -37,6 +27,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-scientist-early-career-usa-at-trexquant-investment-lp-4281828048?position=3&pageNum=0&refId=LwgoID9ktJ9ORDhkDqq%2FLQ%3D%3D&trackingId=rl%2FHrJp02H39eWEuOpPABw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-14 15:23:19",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Patreon",
+        "location": "United States",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-patreon-4343731526?position=1&pageNum=0&refId=3GEi5mWebJMDBKstfFOXHg%3D%3D&trackingId=E1or2%2F2bjOPszGsr4pYtGw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 15:50:35",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Intermountain Health",
+        "location": "United States",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-intermountain-health-4343770917?position=3&pageNum=0&refId=3GEi5mWebJMDBKstfFOXHg%3D%3D&trackingId=xrKfqdEBF9%2BQXCkX6udadQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 15:50:35",
         "email_sent": false
     }
 ]
