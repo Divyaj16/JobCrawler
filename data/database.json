@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4343552637?position=2&pageNum=0&refId=JPruNzByOxzNy1IkxGnVyw%3D%3D&trackingId=IRSx27nBDL373V1ov4GzdA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-14 14:21:31",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Vertex Infocode",
-        "location": "Denton, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-vertex-infocode-4349846279?position=3&pageNum=0&refId=JPruNzByOxzNy1IkxGnVyw%3D%3D&trackingId=a5PBWVMi4vXBubn%2FfBmfbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-14 14:21:31",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer, Connect",
         "company": "Redpanda Data",
         "location": "United States",
@@ -207,6 +187,36 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-robert-half-4315836125?position=1&pageNum=0&refId=D9kLB0mQnZVCNxHCugs9fw%3D%3D&trackingId=KYYUlcN15h2On%2FIKahmbBA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-14 14:50:02",
+        "email_sent": false
+    },
+    {
+        "title": "Front End Software Engineer - All Levels",
+        "company": "Credit Karma",
+        "location": "Charlotte, NC",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-all-levels-at-credit-karma-4281658765?position=1&pageNum=0&refId=LwgoID9ktJ9ORDhkDqq%2FLQ%3D%3D&trackingId=yVz2rCEhrrcW6mb6LSTpig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 15:23:19",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Innovatix Technology Partners",
+        "location": "San Diego, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-innovatix-technology-partners-4343117759?position=2&pageNum=0&refId=LwgoID9ktJ9ORDhkDqq%2FLQ%3D%3D&trackingId=xNhbL7%2F7AGH1NW%2F8hOT5tg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 15:23:19",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist - Early Career (USA)",
+        "company": "Trexquant Investment LP",
+        "location": "Stamford, CT",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-early-career-usa-at-trexquant-investment-lp-4281828048?position=3&pageNum=0&refId=LwgoID9ktJ9ORDhkDqq%2FLQ%3D%3D&trackingId=rl%2FHrJp02H39eWEuOpPABw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 15:23:19",
         "email_sent": false
     }
 ]
