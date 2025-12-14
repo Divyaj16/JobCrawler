@@ -1,16 +1,6 @@
 [
     {
         "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "49 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4343742076?position=3&pageNum=0&refId=k0ez9IJkBLQNt8TOr4ETtA%3D%3D&trackingId=2Qj1kZSw6qmdZ8YSQ9QNVQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-14 16:59:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
         "company": "Progressive Insurance",
         "location": "United States",
         "date_posted": "1 hour ago",
@@ -37,6 +27,46 @@
         "url": "https://www.linkedin.com/jobs/view/software-data-engineer-at-pointclickcare-4343552941?position=2&pageNum=0&refId=SHEzzTcYuMFclYwxKInkPQ%3D%3D&trackingId=rQ6P8V0D1vo7Z9xG5xPwvQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-14 17:47:18",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Solutions Engineer",
+        "company": "Snowflake",
+        "location": "Illinois, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-solutions-engineer-at-snowflake-4343582879?position=1&pageNum=0&refId=cUfNLQ3kx4icGFpNL1HAQA%3D%3D&trackingId=yw8Z3e5FSc%2FcCo0ou70VoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 18:27:40",
+        "email_sent": false
+    },
+    {
+        "title": "Project Engineer",
+        "company": "Frontline",
+        "location": "Salt Lake City, UT",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-frontline-4327701388?position=2&pageNum=0&refId=cUfNLQ3kx4icGFpNL1HAQA%3D%3D&trackingId=Y3u%2BjWt%2BNPWCeOlT7gkrAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 18:27:40",
+        "email_sent": false
+    },
+    {
+        "title": "Program Analyst, Junior (OPS) (PMA 213) - 244",
+        "company": "Davis Defense Group, Inc.",
+        "location": "California, MD",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/program-analyst-junior-ops-pma-213-244-at-davis-defense-group-inc-4343592891?position=3&pageNum=0&refId=cUfNLQ3kx4icGFpNL1HAQA%3D%3D&trackingId=KMLkBKz0gmC%2BYX9EW5cI7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 18:27:40",
+        "email_sent": false
+    },
+    {
+        "title": "Technical Project Specialist",
+        "company": "Avari",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/technical-project-specialist-at-avari-4327661460?position=4&pageNum=0&refId=cUfNLQ3kx4icGFpNL1HAQA%3D%3D&trackingId=5QMCGzbVsf%2FDsrcqMTGxXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-14 18:27:40",
         "email_sent": false
     }
 ]
