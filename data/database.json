@@ -1,15 +1,5 @@
 [
     {
-        "title": "Junior Data Engineer",
-        "company": "Talent Glider",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-talent-glider-4327766288?position=1&pageNum=0&refId=LlhzQaDsfnCz4U65gOJ4zw%3D%3D&trackingId=ANN1Mbl7dnkzYMMaw0lUWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-15 19:56:49",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Humoniq (YC S25)",
         "location": "Mission Viejo, CA",
@@ -27,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-horizontal-talent-4350330481?position=3&pageNum=0&refId=T99w9dIgefpASOQcaP4J3Q%3D%3D&trackingId=wh9PCBOZme1lmd8EKDSPlg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-15 20:23:38",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer",
+        "company": "Paycom",
+        "location": "Grapevine, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-paycom-4350193384?position=2&pageNum=0&refId=lua6nMeIUR6xIDV5ZfpbPQ%3D%3D&trackingId=IvVw85s2Etrg5fJvDjKa3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-15 20:59:21",
         "email_sent": false
     }
 ]
