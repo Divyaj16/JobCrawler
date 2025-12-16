@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Analyst I",
-        "company": "Stackline",
-        "location": "Seattle, WA",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-stackline-4324413297?position=3&pageNum=0&refId=bowY9OhARzC6HEn0AgshEA%3D%3D&trackingId=2z9LddvRe4%2FULbI5ad5tEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-16 11:19:56",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Manulife",
-        "location": "Boston, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-manulife-4320525717?position=1&pageNum=0&refId=XIkRp3%2BZ64BksyerUlgypA%3D%3D&trackingId=ETWxsShJ7aR5dwofP1pYOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-16 11:49:33",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Azurity Pharmaceuticals",
         "location": "Raleigh, NC",
@@ -27,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-azurity-pharmaceuticals-4292535743?position=2&pageNum=0&refId=WP84aIlJ5W5QDk5kW37b5Q%3D%3D&trackingId=5Mv6rr0XwQSPT%2BpxMhNklg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-16 11:59:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Capital One",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-capital-one-4343864315?position=2&pageNum=0&refId=kBd1bNFJVQdh900apQ%2FEaw%3D%3D&trackingId=IHpylnL1d67YV5dVeLsnIg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-16 12:53:03",
         "email_sent": false
     }
 ]
