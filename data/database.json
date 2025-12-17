@@ -1,16 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Aditi Consulting",
-        "location": "Blue Ash, OH",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aditi-consulting-4344363769?position=1&pageNum=0&refId=1WVgSiW68KlgfHrc%2FiVZKg%3D%3D&trackingId=IzKDltPRxUV990cFhvQVNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-17 14:22:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New Jersey, United States",
         "date_posted": "1 hour ago",
@@ -27,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4350252193?position=3&pageNum=0&refId=xXA6cXcJiCZBkV9shw7h3w%3D%3D&trackingId=xR8Ye4M3L5aCwi2t9ylp0Q%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-17 15:01:31",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "Agility Partners",
+        "location": "Cincinnati, OH",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-agility-partners-4344314985?position=1&pageNum=0&refId=OtRKy3SN%2B19Qzi80hC8zxA%3D%3D&trackingId=Ru%2B4v8qVsWaOYqe%2BSJCcyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-17 15:35:05",
         "email_sent": false
     }
 ]
