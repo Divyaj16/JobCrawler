@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Franklin Fitch",
-        "location": "Salem, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-franklin-fitch-4344840740?position=1&pageNum=0&refId=bRMfe2C9mdsi4MFcmif5Pw%3D%3D&trackingId=QbtPjV0XnM8cYxDp8QmBTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-18 17:58:43",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer II",
         "company": "SimpliSafe",
         "location": "Boston, MA",
@@ -27,6 +17,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4344251380?position=3&pageNum=0&refId=zdJJiXo68Nri%2FP9zR5F4EQ%3D%3D&trackingId=MBhLNmbTCEVgzvpHX77kIQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-18 18:35:27",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - Data Science",
+        "company": "LinkedIn",
+        "location": "Mountain View, CA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-data-science-at-linkedin-4344921928?position=1&pageNum=0&refId=kLv14eR9BRHHIfKx6LZ36w%3D%3D&trackingId=2ZHgcUiXAolIi5bf4YVeOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-18 19:00:16",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer- Data Science Platform",
+        "company": "Visa",
+        "location": "Foster City, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-data-science-platform-at-visa-4344881127?position=2&pageNum=0&refId=kLv14eR9BRHHIfKx6LZ36w%3D%3D&trackingId=ym4h6UuCkGEJ8mxyIFgAfg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-18 19:00:16",
         "email_sent": false
     }
 ]
