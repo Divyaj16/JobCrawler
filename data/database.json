@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer 1",
-        "company": "Intuit",
-        "location": "Mountain View, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4344643885?position=1&pageNum=0&refId=PfV9XrtQyvBafQwNXZlLUg%3D%3D&trackingId=gwo9pOHCzSdhS00RJCGhXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-18 05:53:23",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Docusign",
-        "location": "Seattle, WA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-docusign-4344624444?position=2&pageNum=0&refId=PfV9XrtQyvBafQwNXZlLUg%3D%3D&trackingId=HwsuNASxgPdRSqaElu5yAw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-18 05:53:23",
-        "email_sent": false
-    },
-    {
         "title": "Software Test Engineer",
         "company": "ASML",
         "location": "San Diego, CA",
@@ -37,6 +17,26 @@
         "url": "https://www.linkedin.com/jobs/view/dsi-applications-engineer-southeast-region-us-at-jbt-marel-proseal-america-inc-4344634367?position=3&pageNum=0&refId=ava78HkofnCsoYeZfc4NKg%3D%3D&trackingId=4MazdHOlVsFL5KLUyh%2F7YA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-18 06:31:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst/Documents",
+        "company": "TeleSolv Consulting",
+        "location": "Washington, DC",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-documents-at-telesolv-consulting-4344664539?position=2&pageNum=0&refId=TGIaQ4C108cEf9Oj9bsh0A%3D%3D&trackingId=JhMrPuR9Hhh6YsV0Mu20ZQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-18 06:59:02",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Identity Access Management",
+        "company": "Cloudflare",
+        "location": "Austin, TX",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-identity-access-management-at-cloudflare-4344585034?position=3&pageNum=0&refId=TGIaQ4C108cEf9Oj9bsh0A%3D%3D&trackingId=sZut1ja%2BryIWFJkBqmCxkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-18 06:59:02",
         "email_sent": false
     }
 ]
