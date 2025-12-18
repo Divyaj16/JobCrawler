@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Survitec Group Ltd.",
-        "location": "Sharon Center, OH",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-survitec-group-ltd-4344923985?position=3&pageNum=0&refId=qKX83pY61V6Fqg4%2F8ZxoGQ%3D%3D&trackingId=dFIlXKE2N7sZf6MhmGZV5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-18 21:47:40",
-        "email_sent": false
-    },
-    {
         "title": "AI Data Engineer",
         "company": "C the Signs",
         "location": "New Hampshire, United States",
@@ -37,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/ai-data-engineer-at-c-the-signs-4344825046?position=3&pageNum=0&refId=Oar0uCadZDAibI7TyEqACw%3D%3D&trackingId=6Ri3ObcDNx5PbnVhwAFH3A%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-18 22:41:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4344251380?position=3&pageNum=0&refId=0Hq47XdeciKIeIwxVOaZ3g%3D%3D&trackingId=GcmeAeP4sK3iwUIK9N4xeQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-18 22:53:19",
         "email_sent": false
     }
 ]
