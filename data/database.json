@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer - Entry Level",
-        "company": "Talent Glider",
-        "location": "United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-entry-level-at-talent-glider-4345261531?position=2&pageNum=0&refId=xvs%2BBTpPlqByHqte6iE6EQ%3D%3D&trackingId=cR8nKelZfLig2YY%2Bxju%2FYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-19 14:59:49",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "hackajob",
-        "location": "Boston, MA",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hackajob-4345221700?position=1&pageNum=0&refId=9pAr%2BbpLgNNQuCnlVlHMAA%3D%3D&trackingId=nKiDWrV6Jywr5AeAcz9A5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-19 15:29:30",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New Jersey, United States",
@@ -27,6 +7,36 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4344389181?position=3&pageNum=0&refId=cq01DkP0NYnFtjT1EcNmOg%3D%3D&trackingId=wDySPrdhj3UEMa8%2BPMkJYA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-19 15:48:04",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New York, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4343569773?position=1&pageNum=0&refId=R9LFQhF%2BFwE%2FnQUYisvpTg%3D%3D&trackingId=e7qWx6oZ7b7vTmpGfkF17w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-19 16:30:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "Washington, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4349504576?position=2&pageNum=0&refId=R9LFQhF%2BFwE%2FnQUYisvpTg%3D%3D&trackingId=8RtxHDM0%2Fb9LA%2BUa0grCwg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-19 16:30:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4349630298?position=3&pageNum=0&refId=R9LFQhF%2BFwE%2FnQUYisvpTg%3D%3D&trackingId=IaVbzEDadiqyaYjvmCm2wg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-19 16:30:02",
         "email_sent": false
     }
 ]
