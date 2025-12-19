@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Strata Decision Technology",
-        "location": "Chicago, IL",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-strata-decision-technology-4344918698?position=3&pageNum=0&refId=H%2FZimJZSb5skIupJR%2Fs2WQ%3D%3D&trackingId=s%2Bky4vHGv8RV6cJEFPbtEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-19 05:36:41",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer 1",
         "company": "Intuit",
         "location": "New York, NY",
@@ -27,6 +17,26 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4344858697?position=2&pageNum=0&refId=kRZhbfrVaODa5PuXLwJpWg%3D%3D&trackingId=FZ4JBotg0fT7ChyLgtuT2g%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-19 06:01:12",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Automation",
+        "company": "Hilton",
+        "location": "Memphis, TN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-automation-at-hilton-4344978300?position=2&pageNum=0&refId=IDFtdNfPNNNT9rlZHf5XnQ%3D%3D&trackingId=uyt9pqgT24g7%2FRqUyawkmg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-19 06:44:15",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Software Engineer (Cortex Vulnerability Experience Platform)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-cortex-vulnerability-experience-platform-at-palo-alto-networks-4344829162?position=3&pageNum=0&refId=IDFtdNfPNNNT9rlZHf5XnQ%3D%3D&trackingId=LCED3o8fVJnMSSdfU9BTbQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-19 06:44:15",
         "email_sent": false
     }
 ]
