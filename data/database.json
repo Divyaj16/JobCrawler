@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4350263164?position=3&pageNum=0&refId=4zJs5cWWa04zYZaMA%2BIBGw%3D%3D&trackingId=%2FtCrrwCpvl2DVNnUVBH73g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-19 18:54:36",
-        "email_sent": false
-    },
-    {
         "title": "Junior Software Engineer (Recent Grads)",
         "company": "Andiamo",
         "location": "Santa Clara, CA",
@@ -27,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-avante-4328250811?position=1&pageNum=0&refId=XBwWrqJIECv8ffcI%2BK7Pyg%3D%3D&trackingId=Y1CqiWPOjZ2kl4r08oU82w%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-19 19:32:15",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Data Engineer",
+        "company": "enGen",
+        "location": "California, United States",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-engen-4345540222?position=1&pageNum=0&refId=jwLFfpbIjG%2BXeUM%2FCqFbrQ%3D%3D&trackingId=3oVZt5gXnqiF2YY%2BVhuE0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-19 19:56:55",
         "email_sent": false
     }
 ]
