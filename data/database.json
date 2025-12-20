@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Avyaa Solutions LLC",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-avyaa-solutions-llc-4328560894?position=2&pageNum=0&refId=LdWnHq2bRopy6YtBeYkUvw%3D%3D&trackingId=gAifj4hi%2BWqItYUgwN9Vog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 18:50:38",
-        "email_sent": false
-    },
-    {
         "title": "AWS Data Engineer : Remote : Fulltime",
         "company": "TestingXperts",
         "location": "New York, United States",
@@ -17,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/aws-data-engineer-remote-fulltime-at-testingxperts-4345269008?position=3&pageNum=0&refId=qiQUkiAQ8tjQQpr6OE4tfQ%3D%3D&trackingId=YQlU7T72o%2BbggScdluWK3g%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-20 19:31:14",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Starburst",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-starburst-4328670514?position=1&pageNum=0&refId=DFqj6PKOecwLWGpqLMZ1ow%3D%3D&trackingId=1he6Y%2BQhvP1odks4gmTOkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 19:51:38",
         "email_sent": false
     }
 ]
