@@ -28,5 +28,25 @@
         "source": "LinkedIn",
         "scraped_date": "2025-12-20 20:01:09",
         "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "MedWatchers",
+        "location": "San Diego, CA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-medwatchers-4328611019?position=1&pageNum=0&refId=3smhYnG4MnRnaCXKF20F6g%3D%3D&trackingId=IyXoJPfeypyNpitHvWLzrQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 20:30:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Menlo Park, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4343989825?position=3&pageNum=0&refId=3smhYnG4MnRnaCXKF20F6g%3D%3D&trackingId=1%2FFsMc9r5Q2IBHejm5Z2fA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 20:30:13",
+        "email_sent": false
     }
 ]
