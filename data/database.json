@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4328450231?position=1&pageNum=0&refId=zlLqEOqtHSSxTqLWlCtlzQ%3D%3D&trackingId=DfLab2yiQ4tU325pmIxLZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 13:09:18",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer, Machine Learning (Infrastructure)",
         "company": "Glean",
         "location": "San Francisco Bay Area",
@@ -17,6 +7,36 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-machine-learning-infrastructure-at-glean-4283317485?position=2&pageNum=0&refId=JfbdcvsJFzzRBdm4LHU5SA%3D%3D&trackingId=IQtMu6AukuCgaSp6BSdzbg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-20 13:49:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Toyota North America",
+        "location": "Georgetown, KY",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-toyota-north-america-4332813252?position=1&pageNum=0&refId=8rtYm7MwEOvYSXD%2B7ggAiw%3D%3D&trackingId=7r7%2FKWfduTIfuCY1Ta0Blg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 14:20:27",
+        "email_sent": false
+    },
+    {
+        "title": "Data Support Analyst",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-support-analyst-at-best-job-tool-4345620441?position=2&pageNum=0&refId=8rtYm7MwEOvYSXD%2B7ggAiw%3D%3D&trackingId=UTaqntjfxcksCcu2HHg1Xg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 14:20:27",
+        "email_sent": false
+    },
+    {
+        "title": "Software AI Engineer",
+        "company": "micro1",
+        "location": "United States",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-ai-engineer-at-micro1-4345257945?position=3&pageNum=0&refId=8rtYm7MwEOvYSXD%2B7ggAiw%3D%3D&trackingId=DsICmC9d%2FagLeUvNxt9BPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 14:20:27",
         "email_sent": false
     }
 ]
