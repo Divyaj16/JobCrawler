@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Haystack",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4328641102?position=1&pageNum=0&refId=zg0BEpxq1%2BZy8G48GvsWXQ%3D%3D&trackingId=ury14vd0XBxZWcJZYT%2Fy1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 21:17:16",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "MedWatchers",
         "location": "San Diego, CA",
@@ -17,6 +7,26 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-medwatchers-4328611019?position=1&pageNum=0&refId=E9RBK%2B6qhY6YaSqsFDKRPg%3D%3D&trackingId=JcQfNR1J6k%2FRbcWf2z2GaA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-20 21:43:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist - Trust & Safety",
+        "company": "TikTok",
+        "location": "San Jose, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-trust-safety-at-tiktok-4345546625?position=1&pageNum=0&refId=tVk0JB5WlDURx2Z2AKqPRQ%3D%3D&trackingId=2P8idkcrSd25sNJUqoBklw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 22:18:48",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist - TikTok Social Interaction (San Jose)",
+        "company": "TikTok",
+        "location": "San Jose, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-tiktok-social-interaction-san-jose-at-tiktok-4345169337?position=2&pageNum=0&refId=tVk0JB5WlDURx2Z2AKqPRQ%3D%3D&trackingId=CMupEPW84925M6mmWtSkVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 22:18:48",
         "email_sent": false
     }
 ]
