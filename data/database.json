@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer 1",
-        "company": "Intuit",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4328510499?position=2&pageNum=0&refId=fV4kVOnSRqR3BFxKaDScWg%3D%3D&trackingId=YbOaR6JvPoN%2Bth7MaWxM4Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 17:50:06",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer 1",
-        "company": "Intuit",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4328660470?position=3&pageNum=0&refId=fV4kVOnSRqR3BFxKaDScWg%3D%3D&trackingId=F0TNFaLSjbHSeRuZNBOEOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 17:50:06",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Starburst",
         "location": "United States",
@@ -47,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-davis-wright-tremaine-llp-4328560529?position=3&pageNum=0&refId=mOua6jEfLxghApWjxdx3Dg%3D%3D&trackingId=qjFzz2jmiRzcom1%2FicA0fQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-20 18:31:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Avyaa Solutions LLC",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-avyaa-solutions-llc-4328560894?position=2&pageNum=0&refId=LdWnHq2bRopy6YtBeYkUvw%3D%3D&trackingId=gAifj4hi%2BWqItYUgwN9Vog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 18:50:38",
         "email_sent": false
     }
 ]
