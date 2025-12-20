@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4328336999?position=2&pageNum=0&refId=ZpkoFcyLnlszot0nCIkA7g%3D%3D&trackingId=JtH%2Fw3YW0Zk4DcIqvSPWJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 11:43:07",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4328247420?position=3&pageNum=0&refId=ZpkoFcyLnlszot0nCIkA7g%3D%3D&trackingId=MlNeCQavwrC4M6ag2FXCRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 11:43:07",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer, Machine Learning (Infrastructure)",
         "company": "Glean",
         "location": "San Francisco Bay Area",
@@ -27,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-machine-learning-infrastructure-at-glean-4283317485?position=3&pageNum=0&refId=2L0oOIPCYmQs6UkXsxcWOQ%3D%3D&trackingId=lpwStEbi3NNAWp8CVUlaHw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-20 12:37:07",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4328450231?position=1&pageNum=0&refId=zlLqEOqtHSSxTqLWlCtlzQ%3D%3D&trackingId=DfLab2yiQ4tU325pmIxLZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 13:09:18",
         "email_sent": false
     }
 ]
