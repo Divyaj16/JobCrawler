@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "PrizePicks",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-prizepicks-4328336999?position=1&pageNum=0&refId=jOmYqxI6E1eBvvH14neABg%3D%3D&trackingId=VABgGq%2FPt%2FEXeyI0SrHMKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 15:41:24",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4328247420?position=2&pageNum=0&refId=jOmYqxI6E1eBvvH14neABg%3D%3D&trackingId=p3GbbFq2LpEeKyG%2FawtLRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 15:41:24",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Luxe Consult Solutions, LLC",
         "location": "United States",
@@ -237,6 +217,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4328510499?position=2&pageNum=0&refId=pnwbPJWfeSYXrQxMuh20GQ%3D%3D&trackingId=NmIH8ksryfK2%2Byh5R04ShQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-20 16:33:33",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4350334463?position=1&pageNum=0&refId=lFHm2dcCkGRIbqxwyqJWlw%3D%3D&trackingId=vCS9tlHC3GOaG9CfTBnQng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 16:52:01",
         "email_sent": false
     }
 ]
