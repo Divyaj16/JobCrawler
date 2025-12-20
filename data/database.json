@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Analyst - First Team",
-        "company": "Chicago Fire FC",
-        "location": "Chicago, IL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-first-team-at-chicago-fire-fc-4325433447?position=1&pageNum=0&refId=4fFk2ZI8nfNHbPP88rKozw%3D%3D&trackingId=Mkuh3%2FIxLL2rLl90jy9s7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 02:59:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Specialisterne USA",
-        "location": "Dallas, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-specialisterne-usa-4345215349?position=2&pageNum=0&refId=4fFk2ZI8nfNHbPP88rKozw%3D%3D&trackingId=itwDveSjoGet79ThAjwUig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 02:59:12",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer, Machine Learning",
         "company": "Waymo",
         "location": "San Francisco, CA",
@@ -47,6 +27,26 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-toyota-north-america-4332813252?position=3&pageNum=0&refId=ueZM07Gwcmf7eL02Jp7wEQ%3D%3D&trackingId=uQVh5RVZJ9XCWD9ppkUoFA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-20 03:51:48",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Software Engineer, GeminiApp Agents and Tool Use",
+        "company": "Google DeepMind",
+        "location": "Mountain View, CA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-software-engineer-geminiapp-agents-and-tool-use-at-google-deepmind-4328225730?position=1&pageNum=0&refId=gBlIpkRaoUHyoAfP%2BYLxzg%3D%3D&trackingId=MbbPBxrzYN5K%2FIrUe8oS%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 04:17:11",
+        "email_sent": false
+    },
+    {
+        "title": "Flight Performance Engineer",
+        "company": "Flight Science",
+        "location": "Los Angeles, CA",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/flight-performance-engineer-at-flight-science-4328245773?position=3&pageNum=0&refId=gBlIpkRaoUHyoAfP%2BYLxzg%3D%3D&trackingId=dRCdfzWgvbNjiRXMW3Z7fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 04:17:11",
         "email_sent": false
     }
 ]
