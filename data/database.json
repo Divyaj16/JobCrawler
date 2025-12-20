@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Avyaa Solutions LLC",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-avyaa-solutions-llc-4328560894?position=1&pageNum=0&refId=qOGJP4UEM9pWgM1Nyb5UfA%3D%3D&trackingId=EKRXdC13sCrwdJcWz3SGEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-20 20:01:09",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "MedWatchers",
         "location": "San Diego, CA",
@@ -47,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/aws-data-engineer-remote-fulltime-at-testingxperts-4345269008?position=2&pageNum=0&refId=qqYS0DwD5RSpaMR0NZU6yg%3D%3D&trackingId=ZAArS3nZjyZRdoWSfWXTMQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-20 20:57:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Haystack",
+        "location": "Washington DC-Baltimore Area",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4328641102?position=1&pageNum=0&refId=zg0BEpxq1%2BZy8G48GvsWXQ%3D%3D&trackingId=ury14vd0XBxZWcJZYT%2Fy1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-20 21:17:16",
         "email_sent": false
     }
 ]
