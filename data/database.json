@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer 2",
-        "company": "Garmin",
-        "location": "Olathe, KS",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-2-at-garmin-4335091246?position=1&pageNum=0&refId=Adz193dVIIit8x36Hjva4A%3D%3D&trackingId=DcP1dc57WHis6zMv1%2BmXGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-21 10:56:53",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Eurofins Environment Testing (USA)",
         "location": "Stafford County, VA",
@@ -27,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-east-west-bank-4338028377?position=3&pageNum=0&refId=JEg2EPqKcasshBztZolIXQ%3D%3D&trackingId=UP7cC4D8W9VSQ%2FCN%2ButtXg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-21 11:43:58",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer I/II (Remote - US)",
+        "company": "BNSF Railway",
+        "location": "United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-ii-remote-us-at-bnsf-railway-4321099635?position=1&pageNum=0&refId=nE%2F3PjLni0SKEohQtU3sFw%3D%3D&trackingId=ODhDOvLJv64x3D77qVvAlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-21 11:56:55",
         "email_sent": false
     }
 ]
