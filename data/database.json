@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4350334463?position=1&pageNum=0&refId=HLTeOWhkh87zALYcUvYMOg%3D%3D&trackingId=7033aSM8clrYtS6kD8OWUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-21 21:01:17",
-        "email_sent": false
-    },
-    {
         "title": "Backend Software Engineer",
         "company": "Veradigm\u00ae",
         "location": "United States",
@@ -17,6 +7,36 @@
         "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-veradigm%C2%AE-4328444622?position=1&pageNum=0&refId=GoL9Rb3cJBTWNq%2FJvdb74g%3D%3D&trackingId=kC22bdGak9HVzMhYglqtAA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-21 21:49:44",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Latent",
+        "location": "San Francisco, CA",
+        "date_posted": "57 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-latent-4348770069?position=1&pageNum=0&refId=C%2BToWYJrU2sLCH8rek5bpA%3D%3D&trackingId=DWzfvRCf5rkzhs0PG7PCGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-21 22:23:54",
+        "email_sent": false
+    },
+    {
+        "title": "Group Functions Data Analyst",
+        "company": "HSBC",
+        "location": "Buffalo, NY",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/group-functions-data-analyst-at-hsbc-4335985034?position=2&pageNum=0&refId=C%2BToWYJrU2sLCH8rek5bpA%3D%3D&trackingId=Wg%2FK2QYwSH4HuK7CyT3FXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-21 22:23:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Kavaliro",
+        "location": "Reston, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-kavaliro-4334950840?position=3&pageNum=0&refId=C%2BToWYJrU2sLCH8rek5bpA%3D%3D&trackingId=cz7ZkXbLfJQtIxb9WnK%2BdA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-21 22:23:54",
         "email_sent": false
     }
 ]
