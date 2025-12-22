@@ -1,16 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4345668980?position=3&pageNum=0&refId=6SBcAEqmOuGxkh%2BOBnIC2w%3D%3D&trackingId=SThzYEf1bZNOyMaQ0dlDQg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-22 20:45:23",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New Jersey, United States",
         "date_posted": "7 minutes ago",
@@ -37,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-r01559065-at-brillio-4328772944?position=3&pageNum=0&refId=7ZZSOlL1Pg%2BlreU3n%2FOKkw%3D%3D&trackingId=vcD%2FPcOj%2Fj1SzHVUBmRs%2Bw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-22 21:20:50",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer",
+        "company": "TherapyNotes, LLC",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4345940538?position=3&pageNum=0&refId=OhYDv5kqu7RI9GljaO2ljA%3D%3D&trackingId=mcCf6fr1If99hcrxuKu9bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-22 21:47:46",
         "email_sent": false
     }
 ]
