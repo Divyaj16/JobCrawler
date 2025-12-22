@@ -1,35 +1,5 @@
 [
     {
-        "title": "Junior Data Engineer",
-        "company": "Brooksource",
-        "location": "Philadelphia, PA",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-brooksource-4328762031?position=3&pageNum=0&refId=YrDq9hIbxhWuKbNGNE7hOA%3D%3D&trackingId=PBY1yclxYajatdX7%2BaOhhg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-22 18:59:29",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4328751948?position=2&pageNum=0&refId=8WzNRcvIt7AFgv2LffRXKQ%3D%3D&trackingId=qxRKCZ2rYDclTn2lpWqLyg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-22 19:21:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4345668980?position=3&pageNum=0&refId=8WzNRcvIt7AFgv2LffRXKQ%3D%3D&trackingId=BUMXQIfyuFBvgOUeF2l21Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-22 19:21:39",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer (Python, Go)",
         "company": "OpenAI",
         "location": "United States",
@@ -37,6 +7,26 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-python-go-at-openai-4328780970?position=3&pageNum=0&refId=zMzwFFyNV0vyzcok894XOg%3D%3D&trackingId=EmOc2G%2FL74GDeSdbodQV6Q%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-22 19:47:09",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer",
+        "company": "TherapyNotes, LLC",
+        "location": "United States",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4345940538?position=1&pageNum=0&refId=umTCIfGZEGEHXFBAfuBJ4Q%3D%3D&trackingId=znyBmNfuGG6qGMBiJTH6Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-22 20:23:03",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer",
+        "company": "TherapyNotes, LLC",
+        "location": "Horsham, PA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4345845489?position=2&pageNum=0&refId=umTCIfGZEGEHXFBAfuBJ4Q%3D%3D&trackingId=qwy10DgCuZO28Ge1hGaa9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-22 20:23:03",
         "email_sent": false
     }
 ]
