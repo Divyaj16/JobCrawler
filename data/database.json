@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Data Ideology",
-        "location": "Pittsburgh, PA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-data-ideology-4345929503?position=1&pageNum=0&refId=cerD7ONriHS67hKQD4GdGw%3D%3D&trackingId=s6fg2zJ4r2aPk55jsFdzzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-23 20:45:09",
-        "email_sent": false
-    },
-    {
         "title": "ETL Developer (Data Engineer Focus)",
         "company": "Access Development",
         "location": "West Valley City, UT",
@@ -27,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-the-fresh-market-4329140025?position=3&pageNum=0&refId=x0ck%2FAUvQHzrjHLckyvGxg%3D%3D&trackingId=aGkYHSEaBYjAx2qvFuuI8A%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-23 21:19:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4328810517?position=3&pageNum=0&refId=F%2FP6Iu%2FeB%2FBYTbv2biy%2FPQ%3D%3D&trackingId=r0%2BmGqx0jPgtwWMJhpCTlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-23 21:48:07",
         "email_sent": false
     }
 ]
