@@ -1,35 +1,5 @@
 [
     {
-        "title": "Junior Data Engineer (Miami)",
-        "company": "ExecutivePlacements.com",
-        "location": "Miami, FL",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-miami-at-executiveplacements-com-4346052387?position=1&pageNum=0&refId=3ztV5rnpkK2GSMd%2BhicjeA%3D%3D&trackingId=tl8lv3b9TC0pIJvp2S0g3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-23 10:00:28",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Data Engineer",
-        "company": "ExecutivePlacements.com",
-        "location": "California, United States",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-executiveplacements-com-4345849837?position=2&pageNum=0&refId=3ztV5rnpkK2GSMd%2BhicjeA%3D%3D&trackingId=XWE3VeWLeRY7ai0IBurCrA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-23 10:00:28",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer (Chicago)",
-        "company": "ExecutivePlacements.com",
-        "location": "Chicago, IL",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-chicago-at-executiveplacements-com-4345993493?position=3&pageNum=0&refId=3ztV5rnpkK2GSMd%2BhicjeA%3D%3D&trackingId=iroCkxOGex%2BLhxg%2FaaMKKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-23 10:00:28",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer (Python, SQL)",
         "company": "Wiraa",
         "location": "United States",
@@ -57,6 +27,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4328777940?position=2&pageNum=0&refId=dnW3ozehdfvVu%2FzmYYKRfQ%3D%3D&trackingId=X8g%2BHA5d2AJVFBrAUfIkaw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-23 10:54:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II (Full Time) United States",
+        "company": "Cisco",
+        "location": "Durham, NC",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-full-time-united-states-at-cisco-4340778299?position=1&pageNum=0&refId=7zdQZwIkjUzappNYmWcdkw%3D%3D&trackingId=Q4YxxRocTGfTfV9YrF2xSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-23 11:19:15",
+        "email_sent": false
+    },
+    {
+        "title": "Azure Data Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Bellevue, WA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-tata-consultancy-services-4325350991?position=3&pageNum=0&refId=7zdQZwIkjUzappNYmWcdkw%3D%3D&trackingId=jaf9tSN2A%2F7m450RDe1qtg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-23 11:19:15",
         "email_sent": false
     }
 ]
