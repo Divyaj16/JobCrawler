@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer 1",
-        "company": "ModMed",
-        "location": "Boca Raton, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-1-at-modmed-4335341809?position=1&pageNum=0&refId=YsdQjnd5tYaP4qw07e4wDw%3D%3D&trackingId=AvGLuw9l3DapLQVGA1Erng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-24 11:47:58",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer (Direct To Cell)",
         "company": "SpaceX",
         "location": "Redmond, WA",
@@ -37,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/associate-data-and-ai-engineer-at-mitre-4341238869?position=3&pageNum=0&refId=7MKrhN%2BmLsbsSOMrybuOhA%3D%3D&trackingId=Tek2S8Ey%2FvAeg01TYA3Jjg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-24 12:41:18",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4328810517?position=1&pageNum=0&refId=JGRSD5GXRh3FYtVODP3gPw%3D%3D&trackingId=PJJXLOTZP6Bzt%2FOKanrIIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-24 13:22:20",
         "email_sent": false
     }
 ]
