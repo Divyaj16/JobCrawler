@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer (Direct To Cell)",
-        "company": "SpaceX",
-        "location": "Redmond, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-direct-to-cell-at-spacex-4308086326?position=2&pageNum=0&refId=Mt7iN3FyiR7x0ZEFl4%2BnxQ%3D%3D&trackingId=V7Yg5h12BFxO9W90E%2Bswuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-24 13:58:31",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Best Job Tool",
         "location": "United States",
@@ -47,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4328810517?position=2&pageNum=0&refId=sQW3Px5tFfrNgMAQcpSLdQ%3D%3D&trackingId=KrOtT4IZw83aVAx4uVEbFw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-24 14:57:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Synapticure",
+        "location": "United States",
+        "date_posted": "57 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-synapticure-4329281310?position=3&pageNum=0&refId=dZXovxyRozRO3cxeVIJDkA%3D%3D&trackingId=lURMkPekgLUlmBHLr%2FzPfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-24 15:21:21",
         "email_sent": false
     }
 ]
