@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-best-job-tool-4346300690?position=3&pageNum=0&refId=Dj72xNjCT3z3mS44AlLvzQ%3D%3D&trackingId=ogSIIQXuB9M4fHmLpb%2F%2BmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-24 14:22:16",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer II",
         "company": "GoGuardian",
         "location": "United States",
@@ -47,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-synapticure-4329281310?position=3&pageNum=0&refId=dZXovxyRozRO3cxeVIJDkA%3D%3D&trackingId=lURMkPekgLUlmBHLr%2FzPfA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-24 15:21:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Vertedge Health Analytics",
+        "location": "Texas, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-vertedge-health-analytics-4329166132?position=3&pageNum=0&refId=6BFpXlkY2ZCsPCT1mdi7GA%3D%3D&trackingId=QDed4iFodF%2FmEdsctoWpwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-24 15:41:16",
         "email_sent": false
     }
 ]
