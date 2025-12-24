@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "CGI",
-        "location": "Indianapolis, IN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cgi-4290966386?position=1&pageNum=0&refId=9GJ17G8%2FubGBzfCPr76MtQ%3D%3D&trackingId=8QaxNi0WPqpg4fkMNWhTQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-24 21:48:02",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "CGI",
-        "location": "Arlington, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cgi-4341085022?position=2&pageNum=0&refId=9GJ17G8%2FubGBzfCPr76MtQ%3D%3D&trackingId=GHaa1kQz1Twccz%2FkAlnyRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-24 21:48:02",
-        "email_sent": false
-    },
-    {
-        "title": "Database Engineer, Junior",
-        "company": "CGI",
-        "location": "Arlington County, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-junior-at-cgi-4301536361?position=3&pageNum=0&refId=9GJ17G8%2FubGBzfCPr76MtQ%3D%3D&trackingId=qdePNVLJS1P9T%2FQ4HYu5BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-24 21:48:02",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Delphinus Engineering, Inc.",
         "location": "Bethesda, MD",
@@ -77,6 +47,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-center-engineer-at-infosys-4329300794?position=3&pageNum=0&refId=3N4nQfxIC6YBMfdYVjvReg%3D%3D&trackingId=sjmH9e%2Bi%2BnUOKi%2BRgUhGYA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-24 22:41:51",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, AI/ML",
+        "company": "Aurifex Biosciences, Inc.",
+        "location": "San Francisco, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-aurifex-biosciences-inc-4329098187?position=3&pageNum=0&refId=1K27tFocbXr63DlPoasdmg%3D%3D&trackingId=Cx6KejnMlUC%2FbLHL91joiw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-24 22:53:30",
         "email_sent": false
     }
 ]
