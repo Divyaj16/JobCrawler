@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Survitec Group Ltd.",
-        "location": "Sharon Center, OH",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-survitec-group-ltd-4346333747?position=1&pageNum=0&refId=uJWYN1TpJlG2p%2BGo%2Fugd6A%3D%3D&trackingId=LRGgnNg0tnbIuLVyAyfkhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-25 21:48:01",
-        "email_sent": false
-    },
-    {
         "title": "Group Functions Data Analyst",
         "company": "HSBC",
         "location": "Buffalo, NY",
@@ -17,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/group-functions-data-analyst-at-hsbc-4335985034?position=2&pageNum=0&refId=3fQUtJZ4Whntk8LVk2zR6A%3D%3D&trackingId=JafheJkvydV5z%2BQonM8oHA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-25 21:57:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Integration Engineer (Mid-level)",
+        "company": "City Hive, Inc.",
+        "location": "New York, NY",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-integration-engineer-mid-level-at-city-hive-inc-4350432740?position=2&pageNum=0&refId=rTJrM20RABak48pnFvN5CA%3D%3D&trackingId=%2BF34AS1p37tVSdNGFcM72A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-25 22:53:30",
         "email_sent": false
     }
 ]
