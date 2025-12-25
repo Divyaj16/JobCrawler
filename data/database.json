@@ -1,16 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Genentech",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-genentech-4335569441?position=1&pageNum=0&refId=Uw1XMSFKFgzgOfSS9cOKPg%3D%3D&trackingId=bS9U4YjHHsQMD9r8TodF6g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-25 13:59:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Best Job Tool",
         "location": "United States",
         "date_posted": "1 hour ago",
@@ -137,6 +127,36 @@
         "url": "https://www.linkedin.com/jobs/view/chemist-i-at-actalent-4346148433?position=13&pageNum=0&refId=Q%2FqQJ2ZrXTgQZri2DzU0VA%3D%3D&trackingId=4du0fu%2FkEOJkdMI5avViRg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-25 14:26:47",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst",
+        "company": "TalentAlly",
+        "location": "San Francisco, CA",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-at-talentally-4329149656?position=1&pageNum=0&refId=vGUw56edp4N57%2BuxBeIleQ%3D%3D&trackingId=8eDz9LFLeHmQq%2FJnEXgGFg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-25 15:20:41",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst",
+        "company": "TalentAlly",
+        "location": "Sacramento, CA",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-at-talentally-4329169427?position=2&pageNum=0&refId=vGUw56edp4N57%2BuxBeIleQ%3D%3D&trackingId=0rl640Fiv9PRfK7rxtJaLg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-25 15:20:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Stealth Mode Startup Company",
+        "location": "New York, NY",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-stealth-mode-startup-company-4346245838?position=3&pageNum=0&refId=vGUw56edp4N57%2BuxBeIleQ%3D%3D&trackingId=Ihy76AnW8OTRl%2FoH8hQkUQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-25 15:20:41",
         "email_sent": false
     }
 ]
