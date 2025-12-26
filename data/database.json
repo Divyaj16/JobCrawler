@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Global Business Ser. 4u",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-global-business-ser-4u-4346238390?position=1&pageNum=0&refId=l32pCWTLDMxFb5GQfAL9bw%3D%3D&trackingId=M6noYIpCiL5eanmItaqDkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 14:25:04",
-        "email_sent": false
-    },
-    {
-        "title": "Database Engineer",
-        "company": "Egotechworld",
-        "location": "Mobile, AL",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-egotechworld-4329239781?position=3&pageNum=0&refId=l32pCWTLDMxFb5GQfAL9bw%3D%3D&trackingId=K%2F79%2FNCebTzLx4nqylftXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 14:25:04",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "TalentAlly",
         "location": "Charlotte Metro",
@@ -37,6 +17,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4346420132?position=3&pageNum=0&refId=9Bh0FA0M2aW32jsFTCYQFw%3D%3D&trackingId=qv1j8F31cVrvTHtyIy798w%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-26 15:21:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II",
+        "company": "GoGuardian",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-goguardian-4346316350?position=1&pageNum=0&refId=ioLAg3B1NLFwOKCsk%2BG13w%3D%3D&trackingId=aIGISo6W3SkICsnEx9%2FRLg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-26 15:40:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Findem",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-findem-4346277433?position=2&pageNum=0&refId=ioLAg3B1NLFwOKCsk%2BG13w%3D%3D&trackingId=Alt3hDigMSq3GQ5gZARlvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-26 15:40:34",
         "email_sent": false
     }
 ]
