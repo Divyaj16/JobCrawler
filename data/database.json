@@ -1,36 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Dune Security",
-        "location": "New York, NY",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-dune-security-4346372057?position=1&pageNum=0&refId=h9zaD9IIPVYIXqsrDInzaw%3D%3D&trackingId=N%2BX9SL%2BlR5TpE6O21sIHTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 16:23:48",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4346410896?position=2&pageNum=0&refId=h9zaD9IIPVYIXqsrDInzaw%3D%3D&trackingId=gJqWsnzIUW1Aj21ewFhPWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 16:23:48",
-        "email_sent": false
-    },
-    {
-        "title": "Pyspark Data Engineer | Only USC and Green Card",
-        "company": "Ampstek",
-        "location": "Phoenix, AZ",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/pyspark-data-engineer-only-usc-and-green-card-at-ampstek-4327908022?position=3&pageNum=0&refId=h9zaD9IIPVYIXqsrDInzaw%3D%3D&trackingId=sBel868q0AlaLH5QRSQrnw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 16:23:48",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Capital One",
         "location": "United States",
         "date_posted": "16 minutes ago",
@@ -47,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-carefirst-bluecross-blueshield-4346307339?position=3&pageNum=0&refId=RH%2FMgiFEyrdy8AffZhGI9g%3D%3D&trackingId=cYpvVDgqoQwUF8f%2BNLSusQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-26 17:21:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst  & Cloud Engineer",
+        "company": "SetupBoxs",
+        "location": "St Louis, MO",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-cloud-engineer-at-setupboxs-4329441893?position=2&pageNum=0&refId=29ivcEMs8VUbiS8z0kqLEA%3D%3D&trackingId=iPYF7h5MQJEEtTchO%2FExEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-26 17:38:34",
         "email_sent": false
     }
 ]
