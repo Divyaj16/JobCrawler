@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4346297808?position=2&pageNum=0&refId=lnpJgC77WDOnmjoke9IWXQ%3D%3D&trackingId=NrvYSLlelVbLU7fwVJs4Kw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 20:40:50",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer (entry)",
         "company": "Jerry",
         "location": "New York, NY",
@@ -47,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-unitedhealth-group-4346372020?position=3&pageNum=0&refId=cPyVdkynyptsU6d7mxqS4A%3D%3D&trackingId=2iwkLN4S%2F8UfUuRrWXwGUQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-26 21:18:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Survitec Group Ltd.",
+        "location": "Sharon Center, OH",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-survitec-group-ltd-4346382063?position=1&pageNum=0&refId=7Hx2UDZFFuHXKXArfC1uQw%3D%3D&trackingId=ipuzuxj2Ar8fXETi5Fv6Lg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-26 21:47:23",
         "email_sent": false
     }
 ]
