@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "Charlotte Metro",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4346278088?position=2&pageNum=0&refId=9Bh0FA0M2aW32jsFTCYQFw%3D%3D&trackingId=EBq%2B7ntEKeoGVAoxEvT%2BBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 15:21:26",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "Greater Tampa Bay Area",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4346420132?position=3&pageNum=0&refId=9Bh0FA0M2aW32jsFTCYQFw%3D%3D&trackingId=qv1j8F31cVrvTHtyIy798w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-26 15:21:26",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer II",
         "company": "GoGuardian",
         "location": "United States",
@@ -47,6 +27,36 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-global-business-ser-4u-4346238390?position=3&pageNum=0&refId=nJNUURq0gsXmcihYrhLWiA%3D%3D&trackingId=RhGQ%2FWZAxMpuw9TvlYqkaA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-26 15:52:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Dune Security",
+        "location": "New York, NY",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-dune-security-4346372057?position=1&pageNum=0&refId=h9zaD9IIPVYIXqsrDInzaw%3D%3D&trackingId=N%2BX9SL%2BlR5TpE6O21sIHTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-26 16:23:48",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4346410896?position=2&pageNum=0&refId=h9zaD9IIPVYIXqsrDInzaw%3D%3D&trackingId=gJqWsnzIUW1Aj21ewFhPWQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-26 16:23:48",
+        "email_sent": false
+    },
+    {
+        "title": "Pyspark Data Engineer | Only USC and Green Card",
+        "company": "Ampstek",
+        "location": "Phoenix, AZ",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/pyspark-data-engineer-only-usc-and-green-card-at-ampstek-4327908022?position=3&pageNum=0&refId=h9zaD9IIPVYIXqsrDInzaw%3D%3D&trackingId=sBel868q0AlaLH5QRSQrnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-26 16:23:48",
         "email_sent": false
     }
 ]
