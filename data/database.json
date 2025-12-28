@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer II",
-        "company": "McKinsey & Company",
-        "location": "Houston, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-mckinsey-company-4331307011?position=1&pageNum=0&refId=SznCDbHv%2Fa80cxzX63DdPg%3D%3D&trackingId=U7t%2FkWfaQRYf8z2RMK47Mw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-28 11:47:17",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Data Engineer",
-        "company": "AssetMark",
-        "location": "Charlotte, NC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-engineer-at-assetmark-4342511586?position=2&pageNum=0&refId=SznCDbHv%2Fa80cxzX63DdPg%3D%3D&trackingId=q6t68hXdM1eKBMTR3qhWxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-28 11:47:17",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "DataAnnotation",
         "location": "New York, United States",
@@ -37,6 +17,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-dataannotation-4309681927?position=2&pageNum=0&refId=lzkpWTm0%2F9%2FONMSdnlgoiw%3D%3D&trackingId=kjlnsRy8bmKhcZtO%2FepMGg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-28 12:38:33",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "DataAnnotation",
+        "location": "California, United States",
+        "date_posted": "40 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-dataannotation-4309679992?position=1&pageNum=0&refId=z1z30SwUW%2FeUtc5yiwusAQ%3D%3D&trackingId=Z0wbCrrwT2hCDV1B0UbnRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-28 13:18:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "DataAnnotation",
+        "location": "Nevada, United States",
+        "date_posted": "40 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-dataannotation-4309802002?position=3&pageNum=0&refId=z1z30SwUW%2FeUtc5yiwusAQ%3D%3D&trackingId=2MvqexPS%2Bl60rKdjvyVbww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-28 13:18:46",
         "email_sent": false
     }
 ]
