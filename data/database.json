@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4346507194?position=3&pageNum=0&refId=SQDwt4LOx0rjzvHQOCQNBw%3D%3D&trackingId=iJ%2Bjt544M21G4ASlS3KPCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-29 20:47:07",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Doximity",
         "location": "United States",
@@ -487,6 +477,36 @@
         "url": "https://www.linkedin.com/jobs/view/associate-marketing-data-scientist-pharmacy-at-humana-4350663015?position=44&pageNum=0&refId=p%2F9In5yZM2%2Fj3BpKRKGonA%3D%3D&trackingId=AMV3bvZKps88DqkpnYguwA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-29 21:37:08",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "BNSF Railway",
+        "location": "United States",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-bnsf-railway-4346574656?position=1&pageNum=0&refId=1WeKDqYadZxQgk5Awn%2FW3Q%3D%3D&trackingId=ECd6hO7V9VKURExBMCr84A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-29 21:49:24",
+        "email_sent": false
+    },
+    {
+        "title": "Jr. Data Engineer",
+        "company": "Tech Consulting",
+        "location": "Michigan, United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/jr-data-engineer-at-tech-consulting-4329499655?position=2&pageNum=0&refId=1WeKDqYadZxQgk5Awn%2FW3Q%3D%3D&trackingId=xTli2JwINp32IFiqiuYifA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-29 21:49:24",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II",
+        "company": "CoreWeave",
+        "location": "United States",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-coreweave-4346516701?position=3&pageNum=0&refId=1WeKDqYadZxQgk5Awn%2FW3Q%3D%3D&trackingId=q7%2B3pzI7GatVeguuokChyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-29 21:49:24",
         "email_sent": false
     }
 ]
