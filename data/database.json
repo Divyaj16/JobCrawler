@@ -1,72 +1,272 @@
 [
     {
-        "title": "Junior Software Engineer",
-        "company": "Visionist, Inc.",
-        "location": "Fort George G. Meade, MD",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-visionist-inc-4346488492?position=1&pageNum=0&refId=N3AiXcVfWUjxzPZ%2BxFWRCQ%3D%3D&trackingId=0cA43fN0PISsPuQOqgwNXg%3D%3D",
+        "title": "Data Engineer",
+        "company": "Innova Solutions",
+        "location": "McLean, VA",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-innova-solutions-4329652298?position=2&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=WUoBFaAGSP0hjuvr6jooqQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-12-29 23:19:51",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Private Capital Advisory",
-        "company": "Evercore",
-        "location": "New York, United States",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-private-capital-advisory-at-evercore-4350683213?position=2&pageNum=0&refId=N3AiXcVfWUjxzPZ%2BxFWRCQ%3D%3D&trackingId=FvoEbonNXYz9mdeTrjucrw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-29 23:19:51",
+        "scraped_date": "2025-12-30 01:42:44",
         "email_sent": false
     },
     {
         "title": "Data Analyst",
-        "company": "KellyMitchell Group",
-        "location": "St Louis, MO",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-kellymitchell-group-4328494934?position=3&pageNum=0&refId=N3AiXcVfWUjxzPZ%2BxFWRCQ%3D%3D&trackingId=hyZLLymcCTGjvr4KOrrpAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-29 23:19:51",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Morristown, TN",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4312816393?position=1&pageNum=0&refId=Xn0qvrH%2FkofuUtwcwjlEnQ%3D%3D&trackingId=dOWoZuz8ExmvkT0nQwi4ew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-29 23:36:32",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Sevierville, TN",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4312826163?position=2&pageNum=0&refId=Xn0qvrH%2FkofuUtwcwjlEnQ%3D%3D&trackingId=prk5GylJygjYmgw21haBLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-29 23:36:32",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Data Contributor (No experience needed)",
-        "company": "TransPerfect",
-        "location": "Franklin Township, OH",
+        "company": "RevSpring",
+        "location": "Boston, MA",
         "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4300739254?position=3&pageNum=0&refId=Xn0qvrH%2FkofuUtwcwjlEnQ%3D%3D&trackingId=ljjs43ZG1wovah2LJt3ggw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-revspring-4346547936?position=3&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=EunfpoLe%2F9K7Q0%2BBQwl37w%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2025-12-29 23:36:32",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "ShrinQ Consulting Group Inc",
+        "location": "Louisville, KY",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-shrinq-consulting-group-inc-4346458650?position=4&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=lU8MZgRNKu26%2FqLm1ur1EQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Early Career Software Engineer",
+        "company": "Citizen Health",
+        "location": "San Francisco, CA",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/early-career-software-engineer-at-citizen-health-4346661372?position=5&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=q2vab%2BryuQxIU1FZLxQbIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - Databricks",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-databricks-at-jobs-via-dice-4329652359?position=6&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=w35k9YItPnPoeeT7gxH7Kw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "DATA ENGINEER",
+        "company": "Jobs via Dice",
+        "location": "Maryland City, MD",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4329528658?position=7&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=IoZKNUb4fVcDz1owfLpmzQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Value Based",
+        "company": "Morris Heights Health Center",
+        "location": "Bronx, NY",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-value-based-at-morris-heights-health-center-4322615165?position=8&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=q6YP0x63GkL%2Frn4C8w%2FRSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Founding Team)",
+        "company": "mcp-use (YC S25)",
+        "location": "San Francisco, CA",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-founding-team-at-mcp-use-yc-s25-4329702099?position=9&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=tdR%2BWIP0tYcZ%2FsgiCSMXug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "WANT YOUR WORK TO MEAN SOMETHING?",
+        "company": "Driven Insights",
+        "location": "Gardner, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/want-your-work-to-mean-something%3F-at-driven-insights-4346670402?position=10&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=77RwNIToTaWMpkOoXq9O2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Starlink Ground Network)",
+        "company": "SpaceX",
+        "location": "Redmond, WA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-starlink-ground-network-at-spacex-4346613206?position=11&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=aJvyDg9h%2FnKxF2X5yYwfCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data  Analyst",
+        "company": "Jobs via Dice",
+        "location": "California City, CA",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4329555313?position=12&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=WhdRhE%2FKcQMu2TlehVtQ6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer | Onsite | W2 Profiles",
+        "company": "Jobs via Dice",
+        "location": "Seattle, WA",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-onsite-w2-profiles-at-jobs-via-dice-4329721685?position=13&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=eHvQuomZ9%2Fjf%2BRCNkOCIgg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Back-End Software Engineer (CS / Claims)",
+        "company": "Jobs via Dice",
+        "location": "Fremont, CA",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/back-end-software-engineer-cs-claims-at-jobs-via-dice-4329642605?position=14&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=TT%2FfQ8X7x2labpy1Qfk04A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Test Engineer (Automated)",
+        "company": "Jobs via Dice",
+        "location": "Trenton, NJ",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-automated-at-jobs-via-dice-4329563270?position=15&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=dV2%2FrewyOEcBwtJa6WQYkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Enterprise System Engineer",
+        "company": "Jobs via Dice",
+        "location": "Baltimore, MD",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/enterprise-system-engineer-at-jobs-via-dice-4329740362?position=16&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=IdXyNCFR5NYoLG9RFZHeQg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Validation Software Firmware Engineer",
+        "company": "Actalent",
+        "location": "Palo Alto, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/validation-software-firmware-engineer-at-actalent-4346469230?position=17&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=vCKHTWPwngupqPWv9sd1Lg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Concrete Engineer - Kiewit Infrastructure Engineers",
+        "company": "Kiewit",
+        "location": "Lone Tree, CO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/concrete-engineer-kiewit-infrastructure-engineers-at-kiewit-4329632115?position=18&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=7S68GUINUj28HMEUgYCLGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Lab Software Test Engineer",
+        "company": "Actalent",
+        "location": "Fort Lauderdale, FL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/lab-software-test-engineer-at-actalent-4346548070?position=19&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=kdiigPeZWl4uNuvU05H8Mg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Lab Software Test Engineer",
+        "company": "Actalent",
+        "location": "Fort Lauderdale, FL",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/lab-software-test-engineer-at-actalent-4346499092?position=20&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=dh385pacmHIBn78vCQDowA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (- W2-local)",
+        "company": "Jobs via Dice",
+        "location": "Indianapolis, IN",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-w2-local-at-jobs-via-dice-4329632514?position=21&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=x9Ak2ByXRHnwde783kHqDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "iOS Software Engineer | $200/hr Remote",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ios-software-engineer-%24200-hr-remote-at-jobs-via-dice-4329563244?position=22&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=1XHPN3jBh3peyNNF7gEscw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Enterprise System Engineer: Microsoft 365 Administrator with Sharepoint",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/enterprise-system-engineer-microsoft-365-administrator-with-sharepoint-at-jobs-via-dice-4329572818?position=23&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=%2BGh4%2BO7lp8IOJC0dqIK8Dg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Verification and Validation Engineer",
+        "company": "Jobs via Dice",
+        "location": "Marlborough, MA",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-verification-and-validation-engineer-at-jobs-via-dice-4329652380?position=24&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=Zgdr1Tq%2F7FF%2FJXOokbSdXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "3rd shift Data Center Hardware Technician",
+        "company": "Jobs via Dice",
+        "location": "Lockport, NY",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/3rd-shift-data-center-hardware-technician-at-jobs-via-dice-4329555302?position=25&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=YkFWQBGP2gsXl0uaiBI2%2FA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Process Analyst",
+        "company": "Jobs via Dice",
+        "location": "Carson City, NV",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/process-analyst-at-jobs-via-dice-4329731574?position=26&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=xgqEYBQigfek4N8l76j7pA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
+        "email_sent": false
+    },
+    {
+        "title": "Process Analyst Elections Division - $68 on 1099 / $59 W2 - HYBRID (Local candidates only)",
+        "company": "Jobs via Dice",
+        "location": "Carson City, NV",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/process-analyst-elections-division-%2468-on-1099-%2459-w2-hybrid-local-candidates-only-at-jobs-via-dice-4329582608?position=27&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=%2BDQgY4LGe9fgji0wlCbK4A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 01:42:44",
         "email_sent": false
     },
     {
         "title": "Data Engineer",
-        "company": "Community College of Rhode Island",
-        "location": "Warwick, RI",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-community-college-of-rhode-island-4346622159?position=3&pageNum=0&refId=KbtL%2FKsAKXE2bFpvN5HkVA%3D%3D&trackingId=d%2BtNmwwb59Q6hPaW0jqh8w%3D%3D",
+        "company": "Tuty technology",
+        "location": "Charlotte, NC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-4346518203?position=1&pageNum=0&refId=2211cCTWi8W6nThmPn8o%2Bg%3D%3D&trackingId=mh4wqcjCMxcXLimLpRC%2FZQ%3D%3D&trk=public_jobs_jserp-result_search-card",
         "source": "LinkedIn",
-        "scraped_date": "2025-12-29 23:48:35",
+        "scraped_date": "2025-12-30 01:42:44",
         "email_sent": false
     }
 ]
