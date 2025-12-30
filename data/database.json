@@ -1,16 +1,6 @@
 [
     {
         "title": "Data Analyst",
-        "company": "Oracle",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-oracle-4346605252?position=3&pageNum=0&refId=MYZo5L7B9fYTRGZkDHuXlA%3D%3D&trackingId=KrgkQA2Hua5%2BEt7fZt9tGw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-30 13:48:12",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
         "company": "Haystack",
         "location": "Washington DC-Baltimore Area",
         "date_posted": "1 hour ago",
@@ -627,6 +617,16 @@
         "url": "https://www.linkedin.com/jobs/view/meter-data-analyst-i-at-alliant-energy-4342635471?position=10&pageNum=2&refId=tCyEulfovcRZhac1Q7ttNA%3D%3D&trackingId=Y5KQ6d0ZB650eXrhVnRweQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-30 14:00:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Acrisure",
+        "location": "Austin, TX",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-acrisure-4346780589?position=1&pageNum=0&refId=IcbePi4XgXMBsVSYcfmyUw%3D%3D&trackingId=3q244i3wXPkn6tjVR9FgqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 14:50:19",
         "email_sent": false
     }
 ]
