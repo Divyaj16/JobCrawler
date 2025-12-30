@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Oteemo Inc.",
-        "location": "San Antonio, TX",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-oteemo-inc-4346589754?position=1&pageNum=0&refId=kWjS7XEEfUSVsvjokKORDQ%3D%3D&trackingId=p4Yn%2F8qcpneHQMMS0tgvMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-30 21:22:08",
-        "email_sent": false
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "Ramsey Solutions",
-        "location": "Nashville, TN",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-ramsey-solutions-4346415842?position=3&pageNum=0&refId=kWjS7XEEfUSVsvjokKORDQ%3D%3D&trackingId=iPwkQnEvo1ySBk8eu8uiww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-30 21:22:08",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer (Python, SQL)",
         "company": "Docker, Inc",
         "location": "United States",
@@ -57,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-people-at-applied-intuition-4346780839?position=3&pageNum=0&refId=vLujPSKWKjfFS475tqhOog%3D%3D&trackingId=LtJznnYOqGo27cYRG10Smg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-30 22:00:45",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - Sensor Data & Machine Learning",
+        "company": "Kane Partners LLC",
+        "location": "Willow Grove, PA",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sensor-data-machine-learning-at-kane-partners-llc-4346626665?position=3&pageNum=0&refId=YL02VT6vWnm3gR21B82%2FNw%3D%3D&trackingId=8Haai2ia%2BQG03r6YDiV6MQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-30 22:28:10",
         "email_sent": false
     }
 ]
