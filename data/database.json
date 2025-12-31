@@ -1,22 +1,32 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Radiant",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-radiant-4346686617?position=3&pageNum=0&refId=%2FE2uz1homHuNXBxb5eUm6A%3D%3D&trackingId=B9UA3GdDRDkBrr5Xef%2B6Cw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 15:52:20",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "TalentAlly",
         "location": "Charlotte Metro",
         "date_posted": "13 minutes ago",
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4346814882?position=3&pageNum=0&refId=8RoJYoaqnSDFN8MZGTlfXQ%3D%3D&trackingId=gyjlYpHEa6NFQ2Dc%2BUyfgg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-31 16:01:26",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer",
+        "company": "TherapyNotes, LLC",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4329629559?position=1&pageNum=0&refId=ApIXkhnHXvFDM7XX0YA9fQ%3D%3D&trackingId=J7uykxNLkLRC2aQC6pGy%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 16:55:34",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer",
+        "company": "TherapyNotes, LLC",
+        "location": "Horsham, PA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4329609442?position=2&pageNum=0&refId=ApIXkhnHXvFDM7XX0YA9fQ%3D%3D&trackingId=9j4cyI8ltmOaS0S5gVeVyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 16:55:34",
         "email_sent": false
     }
 ]
