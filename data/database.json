@@ -1,35 +1,5 @@
 [
     {
-        "title": "Junior Automation Data Engineer",
-        "company": "Ensign Services",
-        "location": "Dallas, TX",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-automation-data-engineer-at-ensign-services-4346851981?position=12&pageNum=0&refId=ZtYzlrR01s21b7rXN3bVWQ%3D%3D&trackingId=Y5veoTzXpIHg9QZc45zmlw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 19:43:23",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "Stafl Systems",
-        "location": "South San Francisco, CA",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-stafl-systems-4329776033?position=14&pageNum=0&refId=ZtYzlrR01s21b7rXN3bVWQ%3D%3D&trackingId=DlxikF7HCdZsDc%2BPtpRTsA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 19:43:23",
-        "email_sent": false
-    },
-    {
-        "title": "Data Science/Data Analyst",
-        "company": "FinTech Organization",
-        "location": "Wilmington, DE",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-science-data-analyst-4346861182?position=23&pageNum=0&refId=ZtYzlrR01s21b7rXN3bVWQ%3D%3D&trackingId=kDqoVrPr%2FbmomLHuiluB1w%3D%3D&trk=public_jobs_jserp-result_search-card",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 19:43:23",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New York, United States",
@@ -47,6 +17,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tectonic-software-4346707890?position=1&pageNum=0&refId=6DnGCz%2Fucxo2zfB4WA4psA%3D%3D&trackingId=FC5APtVYyp20rUPcqECiCA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-31 20:41:44",
+        "email_sent": false
+    },
+    {
+        "title": "Databricks Data Engineer",
+        "company": "Inherent Technologies",
+        "location": "Dallas, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/databricks-data-engineer-at-inherent-technologies-4346717405?position=2&pageNum=0&refId=g9vHVzSWjAlvIBBuwoAIDg%3D%3D&trackingId=wKfLSvs%2FprSpKC5goNtGBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 20:54:12",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "New York eHealth Collaborative",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-new-york-ehealth-collaborative-4302014493?position=3&pageNum=0&refId=g9vHVzSWjAlvIBBuwoAIDg%3D%3D&trackingId=H7YQwBxn2KybSMkd2rqlhw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 20:54:12",
         "email_sent": false
     }
 ]
