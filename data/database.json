@@ -1,16 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New York, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4348339770?position=1&pageNum=0&refId=yYPMBHZGjmiK2EHp31XvUg%3D%3D&trackingId=iwaSnOUACjnJ8IWJzaXuZw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 19:57:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Tectonic Software",
         "location": "United States",
         "date_posted": "1 hour ago",
@@ -37,6 +27,36 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-new-york-ehealth-collaborative-4302014493?position=3&pageNum=0&refId=g9vHVzSWjAlvIBBuwoAIDg%3D%3D&trackingId=H7YQwBxn2KybSMkd2rqlhw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-31 20:54:12",
+        "email_sent": false
+    },
+    {
+        "title": "Robotics Software Engineer",
+        "company": "Conduit",
+        "location": "San Francisco, CA",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/robotics-software-engineer-at-conduit-4329669887?position=1&pageNum=0&refId=XBVls%2F47KizPEpHMIaxjCQ%3D%3D&trackingId=OiNPl%2BA2EdWfjRixbWSfAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 21:19:16",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Developer",
+        "company": "Children's Healthcare of Atlanta",
+        "location": "Brookhaven, GA",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-developer-at-children-s-healthcare-of-atlanta-4346806354?position=2&pageNum=0&refId=XBVls%2F47KizPEpHMIaxjCQ%3D%3D&trackingId=rdu5t7q%2BCkKY1e%2Bc88MX3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 21:19:16",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "East Windsor, NJ",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4350625430?position=3&pageNum=0&refId=XBVls%2F47KizPEpHMIaxjCQ%3D%3D&trackingId=PJjyskKmygmrt4%2FghrjUSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 21:19:16",
         "email_sent": false
     }
 ]
