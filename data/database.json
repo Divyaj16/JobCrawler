@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Upbound",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-upbound-4346776249?position=1&pageNum=0&refId=e2RjXoif0sCmcgvFmJuZaA%3D%3D&trackingId=9VNWqpdNlt07IGx8N%2BVQOA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2025-12-31 21:48:15",
-        "email_sent": false
-    },
-    {
         "title": "Analytics Engineer",
         "company": "Constant Contact",
         "location": "Waltham, MA",
@@ -17,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-constant-contact-4329810915?position=2&pageNum=0&refId=ZfpF3DTdJrKKhbBcywE1nw%3D%3D&trackingId=q9Ss4FMRlz1brHXN%2FWFEww%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2025-12-31 22:21:19",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "NerdWallet",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-nerdwallet-4346842927?position=3&pageNum=0&refId=YosEIGDinb%2BNCwoJLlmGgQ%3D%3D&trackingId=VspoufZkSZ8eYNvd1%2BO2xw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2025-12-31 22:56:57",
         "email_sent": false
     }
 ]
