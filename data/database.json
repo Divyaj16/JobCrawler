@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "title": "Data Engineer",
+        "company": "Edmentum",
+        "location": "United States",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-edmentum-4346837945?position=1&pageNum=0&refId=1GK81sywdx9TMInvFGeuaA%3D%3D&trackingId=dAxsYWiDHlamKLLkwO8%2FDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 22:45:48",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Engineer (Python, SQL)",
+        "company": "Databento",
+        "location": "United States",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-engineer-python-sql-at-databento-4346990974?position=2&pageNum=0&refId=1GK81sywdx9TMInvFGeuaA%3D%3D&trackingId=9sEZSYFqLxNsgEIkGL%2FYvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 22:45:48",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python)",
+        "company": "Whatnot",
+        "location": "United States",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-at-whatnot-4346990977?position=3&pageNum=0&refId=1GK81sywdx9TMInvFGeuaA%3D%3D&trackingId=aeSv3abVTd%2FkxgPDGgLbfw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 22:45:48",
+        "email_sent": false
+    }
+]
