@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Carrot",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-carrot-4317203984?position=1&pageNum=0&refId=JzC7EqPSA3a0PCDnJ371tQ%3D%3D&trackingId=to3hsxC%2F5nc80cU5SMWRfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 17:49:57",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python)",
-        "company": "Whatnot",
-        "location": "United States",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-at-whatnot-4346990977?position=3&pageNum=0&refId=JzC7EqPSA3a0PCDnJ371tQ%3D%3D&trackingId=bLV7jQYZlmGxsqV%2BKq%2BIHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 17:49:57",
-        "email_sent": false
-    },
-    {
         "title": "Founding Software Engineer",
         "company": "VectorSearch.AI",
         "location": "San Francisco Bay Area",
@@ -47,6 +27,36 @@
         "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-at-magnet-forensics-4346874791?position=3&pageNum=0&refId=r%2BjL060t5lfWkTKxIDh48w%3D%3D&trackingId=EmG4TIJd6nfoi4NDzzGTFg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-01 18:35:19",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Edmentum",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-edmentum-4346837945?position=1&pageNum=0&refId=svyw68eIAwbPlfkKj1zoww%3D%3D&trackingId=nvIPZh9%2B0Tjm6E3LieykBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 18:57:55",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Engineer (Python, SQL)",
+        "company": "Databento",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-engineer-python-sql-at-databento-4346990974?position=2&pageNum=0&refId=svyw68eIAwbPlfkKj1zoww%3D%3D&trackingId=2B5MTd%2BBgk8%2FPjx%2Bx%2F4ntw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 18:57:55",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Data Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-hirenza-4346865330?position=3&pageNum=0&refId=svyw68eIAwbPlfkKj1zoww%3D%3D&trackingId=fjEtdjC5y9moR%2FU9i0ooow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 18:57:55",
         "email_sent": false
     }
 ]
