@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Analytics Engineer",
-        "company": "Grasshopper Bank",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-grasshopper-bank-4343569834?position=1&pageNum=0&refId=vZCBtIFwpqa7LAX9szCZuQ%3D%3D&trackingId=arP8HzFz9xgYhvHEbehIxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 03:50:27",
-        "email_sent": false
-    },
-    {
-        "title": "EDA System Software Engineer",
-        "company": "NVIDIA",
-        "location": "Westford, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/eda-system-software-engineer-at-nvidia-4346920143?position=2&pageNum=0&refId=vZCBtIFwpqa7LAX9szCZuQ%3D%3D&trackingId=52pC1XsMyU%2BqeZbeiQoRfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 03:50:27",
-        "email_sent": false
-    },
-    {
-        "title": "EDA System Software Engineer",
-        "company": "NVIDIA",
-        "location": "Santa Clara, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/eda-system-software-engineer-at-nvidia-4346844759?position=3&pageNum=0&refId=vZCBtIFwpqa7LAX9szCZuQ%3D%3D&trackingId=TacsaslgLDROLo4sm45JkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-01 03:50:27",
-        "email_sent": false
-    },
-    {
         "title": "Founding Software Engineer",
         "company": "Monarch Recruiters",
         "location": "Palo Alto, CA",
@@ -37,6 +7,26 @@
         "url": "https://www.linkedin.com/jobs/view/founding-software-engineer-at-monarch-recruiters-4341035724?position=1&pageNum=0&refId=QhoOZPKVXllgj9elRA4Iyg%3D%3D&trackingId=0ejsRXOQdX9Vx9yYxhr%2FTA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-01 04:39:52",
+        "email_sent": false
+    },
+    {
+        "title": "Distributed Systems Testing Software Engineer, Python / Go",
+        "company": "Canonical",
+        "location": "San Jose, CA",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/distributed-systems-testing-software-engineer-python-go-at-canonical-4346853547?position=2&pageNum=0&refId=OubFraMgB3WDw5hlJ7m%2FqQ%3D%3D&trackingId=SLV24nB9Mv7cL8hxqMaHUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 05:07:10",
+        "email_sent": false
+    },
+    {
+        "title": "Distributed Systems Testing Software Engineer, Python / Go",
+        "company": "Canonical",
+        "location": "Philadelphia, PA",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/distributed-systems-testing-software-engineer-python-go-at-canonical-4346768450?position=3&pageNum=0&refId=OubFraMgB3WDw5hlJ7m%2FqQ%3D%3D&trackingId=BcAKqyVfqRpjGpNCEkSJ5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-01 05:07:10",
         "email_sent": false
     }
 ]
