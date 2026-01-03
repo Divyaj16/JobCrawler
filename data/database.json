@@ -1,15 +1,5 @@
 [
     {
-        "title": "Backend Engineer (Python, SQL)",
-        "company": "Databento",
-        "location": "United States",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-python-sql-at-databento-4349375342?position=3&pageNum=0&refId=lbE%2BscchZ%2F8896%2Bwl49GRQ%3D%3D&trackingId=B%2BZHZAb20zXkRsTBXvEiDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 13:18:03",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Upbound",
         "location": "United States",
@@ -37,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-pariveda-4325759145?position=2&pageNum=0&refId=PuH67%2BdazHbLGTjPc6v%2BBg%3D%3D&trackingId=UoZyaQTgU7bJnAUjmnKiwA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-03 13:56:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (API, SQL)",
+        "company": "Confluent",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-confluent-4349337217?position=3&pageNum=0&refId=jbIg%2FRZR3Stvw%2F5WBXhMkg%3D%3D&trackingId=bqw4ldrMaa8neJYQ4TWLNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 14:19:28",
         "email_sent": false
     }
 ]
