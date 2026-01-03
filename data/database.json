@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Analyst, HR",
-        "company": "Lawrence Livermore National Laboratory",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-hr-at-lawrence-livermore-national-laboratory-4346959591?position=3&pageNum=0&refId=FvLMA6VwtYDJ8tfYt8xU1A%3D%3D&trackingId=DqzAW0cmZ7LwhHf4RtXtlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 17:18:15",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer - Ag & Trading",
         "company": "Cargill",
         "location": "Atlanta, GA",
@@ -17,6 +7,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-ag-trading-at-cargill-4351160395?position=3&pageNum=0&refId=TdkJenhSJNkn3YOyVbgAqg%3D%3D&trackingId=sIWKrSlhj3fFNmB%2BRZcEdg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-03 17:48:19",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "NBCUniversal",
+        "location": "United States",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nbcuniversal-4349318361?position=1&pageNum=0&refId=Wf7nXECtUscf8vvT2eufTQ%3D%3D&trackingId=%2FbeYmESwuDzZOb4lFS%2BmMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 18:30:01",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (API, SQL)",
+        "company": "Mastercard",
+        "location": "United States",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-mastercard-4349337894?position=3&pageNum=0&refId=Wf7nXECtUscf8vvT2eufTQ%3D%3D&trackingId=DixX4ckw8L9J1F11%2BqnGig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 18:30:01",
         "email_sent": false
     }
 ]
