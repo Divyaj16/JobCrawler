@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Kforce Inc",
-        "location": "Altamonte Springs, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4327105140?position=2&pageNum=0&refId=E%2BCNTXdJ2OuTLnWKA9PIKA%3D%3D&trackingId=BZGf9Y977fFUvS9pzOCGVQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 11:44:08",
-        "email_sent": false
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "Ibotta",
-        "location": "Denver, CO",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-ibotta-4327208014?position=1&pageNum=0&refId=HKHiGQHlsDjbqG8KCj6uoA%3D%3D&trackingId=XvuRvJ8teoWq%2BASl94Lilw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 11:57:04",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "Pariveda",
         "location": "Chicago, IL",
@@ -37,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-pariveda-4325759145?position=2&pageNum=0&refId=j8A0p7k6xg4s82vJSCYYcA%3D%3D&trackingId=SaRq12ezwuGftTePV%2B7ikg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-03 12:38:09",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Engineer (Python, SQL)",
+        "company": "Databento",
+        "location": "United States",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-engineer-python-sql-at-databento-4349375342?position=3&pageNum=0&refId=lbE%2BscchZ%2F8896%2Bwl49GRQ%3D%3D&trackingId=B%2BZHZAb20zXkRsTBXvEiDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 13:18:03",
         "email_sent": false
     }
 ]
