@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "NBCUniversal",
-        "location": "United States",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nbcuniversal-4349318361?position=1&pageNum=0&refId=Wf7nXECtUscf8vvT2eufTQ%3D%3D&trackingId=%2FbeYmESwuDzZOb4lFS%2BmMQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 18:30:01",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (API, SQL)",
-        "company": "Mastercard",
-        "location": "United States",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-mastercard-4349337894?position=3&pageNum=0&refId=Wf7nXECtUscf8vvT2eufTQ%3D%3D&trackingId=DixX4ckw8L9J1F11%2BqnGig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 18:30:01",
-        "email_sent": false
-    },
-    {
         "title": "System Engineer",
         "company": "Hirenza",
         "location": "United States",
@@ -47,6 +27,36 @@
         "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-energy-job-search-4329998713?position=3&pageNum=0&refId=TF1DVsyBcYaSeEgLrtaq4g%3D%3D&trackingId=r7LAdGAE%2BHx%2FYssc3f4JUg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-03 19:15:53",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Newark, DE",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4346070340?position=1&pageNum=0&refId=v%2BtyFspM0uvkFh3%2Fwk9ROQ%3D%3D&trackingId=U4KoMSs0clsWXNgU9Xub%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 19:30:59",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Analytics",
+        "company": "Jobs via Dice",
+        "location": "Bellevue, WA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-analytics-at-jobs-via-dice-4345748298?position=2&pageNum=0&refId=v%2BtyFspM0uvkFh3%2Fwk9ROQ%3D%3D&trackingId=vi3hAjP1ojCBk%2BU6Gr1djg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 19:30:59",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Applied Machine Learning, Engine",
+        "company": "ByteDance",
+        "location": "San Jose, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-applied-machine-learning-engine-at-bytedance-4330210698?position=3&pageNum=0&refId=v%2BtyFspM0uvkFh3%2Fwk9ROQ%3D%3D&trackingId=BYwNjRQKzvN7ysEn8TOlOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 19:30:59",
         "email_sent": false
     }
 ]
