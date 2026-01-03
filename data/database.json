@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Pariveda",
-        "location": "Chicago, IL",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-pariveda-4326484566?position=1&pageNum=0&refId=j8A0p7k6xg4s82vJSCYYcA%3D%3D&trackingId=t3JimzEKnLt4yhiY7YFvdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 12:38:09",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Pariveda",
-        "location": "Arlington, VA",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-pariveda-4325759145?position=2&pageNum=0&refId=j8A0p7k6xg4s82vJSCYYcA%3D%3D&trackingId=SaRq12ezwuGftTePV%2B7ikg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 12:38:09",
-        "email_sent": false
-    },
-    {
         "title": "Backend Engineer (Python, SQL)",
         "company": "Databento",
         "location": "United States",
@@ -27,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/backend-engineer-python-sql-at-databento-4349375342?position=3&pageNum=0&refId=lbE%2BscchZ%2F8896%2Bwl49GRQ%3D%3D&trackingId=B%2BZHZAb20zXkRsTBXvEiDQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-03 13:18:03",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Upbound",
+        "location": "United States",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-upbound-4354340672?position=3&pageNum=0&refId=JpGJD6IHJSetxQAdh1aTQA%3D%3D&trackingId=FIn1%2BQjeYGj9BHnLS1A9KA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 13:43:53",
         "email_sent": false
     }
 ]
