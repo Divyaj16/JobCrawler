@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Pariveda",
-        "location": "Chicago, IL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-pariveda-4326484566?position=1&pageNum=0&refId=PuH67%2BdazHbLGTjPc6v%2BBg%3D%3D&trackingId=k9ZrIe8tiIZSWiPGwLYdbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 13:56:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Pariveda",
-        "location": "Arlington, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-pariveda-4325759145?position=2&pageNum=0&refId=PuH67%2BdazHbLGTjPc6v%2BBg%3D%3D&trackingId=UoZyaQTgU7bJnAUjmnKiwA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 13:56:36",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer (API, SQL)",
         "company": "Confluent",
         "location": "United States",
@@ -337,6 +317,16 @@
         "url": "https://www.linkedin.com/jobs/view/assistant-research-professor-at-inside-higher-ed-4354321916?position=33&pageNum=0&refId=a8SGN%2BELcgBi3OpCG%2B9cFA%3D%3D&trackingId=lDDPEWZkzCfZVCutAKRvkw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-03 14:51:12",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Upbound",
+        "location": "United States",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-upbound-4354340672?position=1&pageNum=0&refId=xsXsqwhNuJP4OLqqGjfGww%3D%3D&trackingId=AGd6ElDYDMTt6go5tTyIKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 15:00:35",
         "email_sent": false
     }
 ]
