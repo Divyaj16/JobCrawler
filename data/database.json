@@ -1,25 +1,5 @@
 [
     {
-        "title": "Backend Engineer (Python, SQL)",
-        "company": "Databento",
-        "location": "United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-engineer-python-sql-at-databento-4349375342?position=2&pageNum=0&refId=U%2FHLgsUiPmpMRpQFQEYzgA%3D%3D&trackingId=%2Be74bGBP6SHAJc%2B%2FCMYHJw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 14:39:33",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Js, SQL)",
-        "company": "UnitedHealth Group",
-        "location": "United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-js-sql-at-unitedhealth-group-4349327531?position=3&pageNum=0&refId=U%2FHLgsUiPmpMRpQFQEYzgA%3D%3D&trackingId=2TOZ22UZT%2BlVWVV8E6GLfg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-03 14:39:33",
-        "email_sent": false
-    },
-    {
         "title": "Junior Software Engineer (Graduate) - Crypto",
         "company": "Career Renew",
         "location": "New York, NY",
@@ -317,6 +297,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-upbound-4354340672?position=1&pageNum=0&refId=xsXsqwhNuJP4OLqqGjfGww%3D%3D&trackingId=AGd6ElDYDMTt6go5tTyIKw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-03 15:00:35",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (API, SQL)",
+        "company": "Confluent",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-confluent-4349337217?position=3&pageNum=0&refId=%2FtbDhRZxYXqC1mpVxW5e3Q%3D%3D&trackingId=Edc9ZGAAtFiKeB1iKLMPoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-03 15:42:16",
         "email_sent": false
     }
 ]
