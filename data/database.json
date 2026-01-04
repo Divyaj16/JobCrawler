@@ -1,15 +1,5 @@
 [
     {
-        "title": "SQL Developer",
-        "company": "MissionHires",
-        "location": "Burlington County, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sql-developer-at-missionhires-4330192629?position=3&pageNum=0&refId=P5xKCjEPnsqqTHQHnZPKyA%3D%3D&trackingId=wE8mc8SpAJa%2F2lycPhxa9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-04 15:51:30",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Haystack",
         "location": "Washington DC-Baltimore Area",
@@ -237,6 +227,16 @@
         "url": "https://www.linkedin.com/jobs/view/maintenance-technician-iv-day-shift-at-biospace-4354372647?position=23&pageNum=0&refId=ICTJN%2Fu%2BfC8FWNiZdJpOsw%3D%3D&trackingId=Zs0h3B%2FvWTwQbDuSK9LXZA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-04 16:34:32",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "Cognizant",
+        "location": "United States",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-cognizant-4349397334?position=1&pageNum=0&refId=K25oIvk4Vth0DaCJQ8kvYg%3D%3D&trackingId=DisTA17DyXyTBrM8UthLIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-04 16:53:46",
         "email_sent": false
     }
 ]
