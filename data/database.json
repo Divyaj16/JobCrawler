@@ -1,15 +1,5 @@
 [
     {
-        "title": "Software Engineer 1",
-        "company": "Intuit",
-        "location": "Atlanta, GA",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4333433471?position=2&pageNum=0&refId=xvE6HNceCd%2FbHrJqznRH6g%3D%3D&trackingId=RO8%2B1jFmz3yIiC7T79Bfmg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-04 11:32:19",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer (No Sponsorship Available)",
         "company": "Heritage Construction + Materials",
         "location": "Indianapolis, IN",
@@ -27,6 +17,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-ai-at-wiraa-4354305095?position=2&pageNum=0&refId=FA3IS9Z1tRHk7hHFQ2QUlw%3D%3D&trackingId=6dFIHN41dKcftHPeBbxGSQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-04 11:44:23",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer III",
+        "company": "Horizon Media",
+        "location": "New York, NY",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-iii-at-horizon-media-4253958029?position=1&pageNum=0&refId=HQvFXbog%2BK8Wx%2Fg%2FVrfnCg%3D%3D&trackingId=OEiFoGOeX%2FDjvpvHvBboqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-04 12:38:48",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Quantcast",
+        "location": "San Francisco, CA",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-quantcast-4301988937?position=2&pageNum=0&refId=HQvFXbog%2BK8Wx%2Fg%2FVrfnCg%3D%3D&trackingId=JbWwzWuJNoOQgYEkPiMa6A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-04 12:38:48",
         "email_sent": false
     }
 ]
