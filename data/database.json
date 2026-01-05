@@ -1,35 +1,5 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Adaptive Machines, Inc",
-        "location": "San Francisco Bay Area",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-adaptive-machines-inc-4330243094?position=1&pageNum=0&refId=FQ1rWWlZJwO7uNH1i2yzDw%3D%3D&trackingId=AQe1QHaGNd1o5Tq%2F65H%2FmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 09:19:23",
-        "email_sent": false
-    },
-    {
-        "title": "Scientist I, Data Science",
-        "company": "Sanofi",
-        "location": "Cambridge, MA",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/scientist-i-data-science-at-sanofi-4354374645?position=2&pageNum=0&refId=FQ1rWWlZJwO7uNH1i2yzDw%3D%3D&trackingId=%2Fld3omLJ2VN9UWrout0R4g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 09:19:23",
-        "email_sent": false
-    },
-    {
-        "title": "Hardware/Embedded Software/IoT Engineer",
-        "company": "Experis",
-        "location": "Blue Ash, OH",
-        "date_posted": "53 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/hardware-embedded-software-iot-engineer-at-experis-4330057918?position=3&pageNum=0&refId=FQ1rWWlZJwO7uNH1i2yzDw%3D%3D&trackingId=D8cMtJk9WWctEdregMhhmQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 09:19:23",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "CFS",
         "location": "East Lansing, MI",
@@ -47,6 +17,36 @@
         "url": "https://www.linkedin.com/jobs/view/etl-tester-at-wipro-4330165165?position=3&pageNum=0&refId=3jhM0GXj1KaLr6Q%2FlviLsA%3D%3D&trackingId=fMI%2F0MzQECUozUmTEklmEg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-05 10:03:34",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New York, United States",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4343569773?position=1&pageNum=0&refId=hKsl0tVyq4nDAJccmBXRyw%3D%3D&trackingId=6kTmeFmte42PVlKzXxJJlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 10:43:59",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Data Acquisition / Web Crawling",
+        "company": "xAI",
+        "location": "Palo Alto, CA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-acquisition-web-crawling-at-xai-4103788357?position=2&pageNum=0&refId=hKsl0tVyq4nDAJccmBXRyw%3D%3D&trackingId=%2FXd4NcVxhgUHSdvAt1hBnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 10:43:59",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4354523450?position=3&pageNum=0&refId=hKsl0tVyq4nDAJccmBXRyw%3D%3D&trackingId=YIkxl5nKhzBBlU%2BPC2Xi0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 10:43:59",
         "email_sent": false
     }
 ]
