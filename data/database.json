@@ -668,5 +668,45 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-05 23:50:20",
         "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Mid)",
+        "company": "SMX Services & Consulting, Inc.",
+        "location": "Baton Rouge, LA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-mid-at-smx-services-consulting-inc-4354597256?position=4&pageNum=0&refId=5akWxBQUdufRQbJtNMwVTA%3D%3D&trackingId=pQh2KWD01PHXLKG%2FCV5fHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:59:49",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Aditi Consulting",
+        "location": "Seattle, WA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-aditi-consulting-4358180215?position=27&pageNum=0&refId=5akWxBQUdufRQbJtNMwVTA%3D%3D&trackingId=im0OQ1ISlyhKMhkJ0fEsjQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:59:49",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Vail Resorts",
+        "location": "Broomfield, CO",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-vail-resorts-4354691629?position=55&pageNum=0&refId=5akWxBQUdufRQbJtNMwVTA%3D%3D&trackingId=MFCKTEXbBmh%2F15kYDQ%2FY5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:59:49",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Aditi Consulting",
+        "location": "Seattle, WA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-aditi-consulting-4358180215?position=2&pageNum=2&refId=PT1DwRExQA%2F0%2BqrRi4xJ0Q%3D%3D&trackingId=kDg8GAmRdT38Pomb1Zm30w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 23:59:49",
+        "email_sent": false
     }
 ]
