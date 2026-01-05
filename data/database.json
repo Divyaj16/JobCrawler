@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wissen Technology",
-        "location": "Alpharetta, GA",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wissen-technology-4354536425?position=1&pageNum=0&refId=Is3VmMZFlITU%2FcUOEdyOqA%3D%3D&trackingId=Elhk4JYnRyjCHjM4P%2BlDDw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 19:27:43",
-        "email_sent": false
-    },
-    {
         "title": "Database Engineer",
         "company": "TherapyNotes, LLC",
         "location": "United States",
@@ -37,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-go-python-at-digitalocean-4354386673?position=3&pageNum=0&refId=4cPBvOn328hkOR7CMSEfLQ%3D%3D&trackingId=GkXXBiEEXJyXngofAoXGRA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-05 20:25:14",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "Quintrix, by Mindlance",
+        "location": "Boston, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-quintrix-by-mindlance-4354670100?position=3&pageNum=0&refId=cPEshfgGTNRpe%2Bl26QXB4w%3D%3D&trackingId=X4M0tRX78c1A1FVuahoG0w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 20:47:59",
         "email_sent": false
     }
 ]
