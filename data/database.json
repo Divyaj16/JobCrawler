@@ -1,35 +1,5 @@
 [
     {
-        "title": "Junior Data Engineer",
-        "company": "Brooksource",
-        "location": "Columbus, Ohio Metropolitan Area",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-brooksource-4330177395?position=1&pageNum=0&refId=JghNhiyyK1m10TCnIv%2Fwsw%3D%3D&trackingId=2uOYXTZFsVnN7qHsMYdLyg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 14:36:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "SailPoint",
-        "location": "United States",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sailpoint-4354523450?position=2&pageNum=0&refId=JghNhiyyK1m10TCnIv%2Fwsw%3D%3D&trackingId=avfjx787uyYtk3Qy0VwUww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 14:36:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Sr.",
-        "company": "Grainger",
-        "location": "United States",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-grainger-4354543039?position=3&pageNum=0&refId=JghNhiyyK1m10TCnIv%2Fwsw%3D%3D&trackingId=alpMBfbVQTo1pyYHyotlhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 14:36:32",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Stelvio Inc.",
         "location": "Phoenix, AZ",
@@ -37,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-stelvio-inc-4354367303?position=2&pageNum=0&refId=5c9dGbKYU3DnHGHOaf8qog%3D%3D&trackingId=ydN8PKRNnHbcPYBuqBrlhw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-05 14:57:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "Washington, United States",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4349504576?position=3&pageNum=0&refId=pLev4XsAATG0CF%2Fft0ajMQ%3D%3D&trackingId=B4dvqdP%2BmHyZKXcYJHAi1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 15:48:56",
         "email_sent": false
     }
 ]
