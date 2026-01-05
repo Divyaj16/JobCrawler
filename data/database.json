@@ -1,16 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "NBCUniversal",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nbcuniversal-4354329168?position=3&pageNum=0&refId=nii7LyoxMQCFchntQD9jeg%3D%3D&trackingId=OG4T1ObbxK3Hn4Q%2FS9zp8w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 19:00:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Wissen Technology",
         "location": "Alpharetta, GA",
         "date_posted": "23 minutes ago",
@@ -37,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-data-science-platform-at-visa-4330118936?position=3&pageNum=0&refId=EUz5A6fsazVq8xQAa8GDIg%3D%3D&trackingId=MtOtTigAv4RGT5%2FYTRQo%2BQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-05 19:56:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Go, Python)",
+        "company": "DigitalOcean",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-go-python-at-digitalocean-4354386673?position=3&pageNum=0&refId=4cPBvOn328hkOR7CMSEfLQ%3D%3D&trackingId=GkXXBiEEXJyXngofAoXGRA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 20:25:14",
         "email_sent": false
     }
 ]
