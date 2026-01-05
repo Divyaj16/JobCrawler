@@ -1,16 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4354348047?position=2&pageNum=0&refId=ciNKU9eC8aw35Q9PQWaDNA%3D%3D&trackingId=TpKLz35L1U3hv2ud6i5%2B6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 16:38:53",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "NBCUniversal",
         "location": "New York, NY",
         "date_posted": "15 minutes ago",
@@ -37,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-the-chair-centre-group-4354575374?position=3&pageNum=0&refId=yvQn0%2BlbjFgUe%2FAA7jFqdg%3D%3D&trackingId=awdwp8elNDSSihwxkjHTgw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-05 17:27:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "The Chair Centre Group",
+        "location": "New York, United States",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-the-chair-centre-group-4354613961?position=2&pageNum=0&refId=HVYNfbvhlrECh%2Bpfc0TxQg%3D%3D&trackingId=LgAGbqKzl9ReBG9Um5OPhQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 17:48:26",
         "email_sent": false
     }
 ]
