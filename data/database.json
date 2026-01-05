@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "NBCUniversal",
-        "location": "New York, NY",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nbcuniversal-4354329168?position=1&pageNum=0&refId=yvQn0%2BlbjFgUe%2FAA7jFqdg%3D%3D&trackingId=WqKFCo1thpZFwDON77ST0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 17:27:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "The Chair Centre Group",
-        "location": "Texas, United States",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-the-chair-centre-group-4354526002?position=2&pageNum=0&refId=yvQn0%2BlbjFgUe%2FAA7jFqdg%3D%3D&trackingId=oAIZdZgnRNJmk%2FOTVuJrcg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 17:27:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "The Chair Centre Group",
-        "location": "California, United States",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-the-chair-centre-group-4354575374?position=3&pageNum=0&refId=yvQn0%2BlbjFgUe%2FAA7jFqdg%3D%3D&trackingId=awdwp8elNDSSihwxkjHTgw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-05 17:27:39",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "The Chair Centre Group",
         "location": "New York, United States",
@@ -47,6 +17,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-the-chair-centre-group-4354396748?position=2&pageNum=0&refId=5Q4qjKaAmsiqJnSw46dFwA%3D%3D&trackingId=pyPK%2BDqHX1XEsM4t66pbDQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-05 17:58:49",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer- Data Science Platform",
+        "company": "Visa",
+        "location": "Foster City, CA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-data-science-platform-at-visa-4330118936?position=1&pageNum=0&refId=CJhm19xljk8sHh2J0TXmQQ%3D%3D&trackingId=5ydfX%2BlvhnJr8GeaYVMhyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 18:37:20",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer",
+        "company": "TherapyNotes, LLC",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4330109015?position=2&pageNum=0&refId=CJhm19xljk8sHh2J0TXmQQ%3D%3D&trackingId=5Aqpwe0FFBVOy0l7W10aDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-05 18:37:20",
         "email_sent": false
     }
 ]
