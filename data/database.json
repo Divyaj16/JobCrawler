@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4354609972?position=3&pageNum=0&refId=BYwF82VTicEYm1fDSuR%2FlA%3D%3D&trackingId=NH6soYBGjNaN95EOenwhcQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-06 10:23:10",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer (NJUS)",
         "company": "NetJets",
         "location": "Columbus, OH",
@@ -27,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-i-ii-at-giga-4318584506?position=3&pageNum=0&refId=Fyq67ZGmIpIicuZT6Nv11w%3D%3D&trackingId=pPPtYozH6mM%2BIOef%2FfV4Sg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-06 11:01:17",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Horizontal Talent",
+        "location": "Richmond, VA",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-horizontal-talent-4350330481?position=1&pageNum=0&refId=tfLaolfDc8sJYU9AKj5oGw%3D%3D&trackingId=z9jlOpV3jBaL8nZB%2Bv1a5Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-06 11:28:02",
         "email_sent": false
     }
 ]
