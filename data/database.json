@@ -1,25 +1,5 @@
 [
     {
-        "title": "Junior Data Engineer",
-        "company": "Calamos Investments",
-        "location": "Naperville, IL",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-calamos-investments-4358348471?position=1&pageNum=0&refId=KJrSnR%2BstWwKEVhrfMppzg%3D%3D&trackingId=wXcYc9LLVkEwK0k1PbE%2Byg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-07 17:15:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (SQL, Python)",
-        "company": "General Motors",
-        "location": "United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-python-at-general-motors-4358279874?position=3&pageNum=0&refId=KJrSnR%2BstWwKEVhrfMppzg%3D%3D&trackingId=Ii%2B4YzHzxmSahU%2F6CF0lTQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-07 17:15:17",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Entrata",
         "location": "United States",
@@ -607,6 +587,36 @@
         "url": "https://www.linkedin.com/jobs/view/backend-engineer-golang-at-takt-4358279992?position=10&pageNum=2&refId=TLqSl5aVSrqybYLToSB%2FdQ%3D%3D&trackingId=94ULSgPmAQEztsvmRjdirw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-07 17:46:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "BridgeFlair LLC",
+        "location": "Vermont, United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-bridgeflair-llc-4358452933?position=1&pageNum=0&refId=zsh%2BEah5iGOa%2BZ6jgtc6AA%3D%3D&trackingId=Olzv7GKZ7lgSi5RyDzzK2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 18:40:45",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "TalentAlly",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4358472630?position=2&pageNum=0&refId=zsh%2BEah5iGOa%2BZ6jgtc6AA%3D%3D&trackingId=%2Bkl40aFYjbDtuDrgSQzPOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 18:40:45",
+        "email_sent": false
+    },
+    {
+        "title": "Data Governance Engineer",
+        "company": "Fractal",
+        "location": "United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-governance-engineer-at-fractal-4327986384?position=3&pageNum=0&refId=zsh%2BEah5iGOa%2BZ6jgtc6AA%3D%3D&trackingId=9tXor3asF%2F%2F%2BTDA8VW%2FE2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 18:40:45",
         "email_sent": false
     }
 ]
