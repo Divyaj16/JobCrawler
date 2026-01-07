@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Genesco Sports Enterprises",
-        "location": "New York, NY",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-genesco-sports-enterprises-4358383328?position=2&pageNum=0&refId=ZnjqM3n3CqwMV3GphAln1Q%3D%3D&trackingId=gT6iM9e8Yq5oyQbXcCmO9g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-07 13:59:22",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer ( Python, SQL)",
         "company": "Docker, Inc",
         "location": "United States",
@@ -37,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-the-chair-centre-group-4358328177?position=3&pageNum=0&refId=rhHLeP30HpKdQ8nuypMUNA%3D%3D&trackingId=zDEPgIIkhZqH9g33SeaI7Q%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-07 14:52:57",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Business Needs Inc.",
+        "location": "Raleigh, NC",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-business-needs-inc-4351685164?position=2&pageNum=0&refId=M%2BWxwCpxmnVvX0Cl1ywqdQ%3D%3D&trackingId=iMwCQixfl2pI%2FV%2BKqmtATg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 15:25:14",
         "email_sent": false
     }
 ]
