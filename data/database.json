@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Kforce Inc",
-        "location": "New York, NY",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4330665197?position=1&pageNum=0&refId=MZIxXF8Wnc2mWBxwR11NVA%3D%3D&trackingId=oWVaEK0e6dctWE0RTJ6fJQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-07 22:20:55",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer (Cloud)",
-        "company": "AlphaPoint",
-        "location": "United States",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-cloud-at-alphapoint-4358620044?position=2&pageNum=0&refId=MZIxXF8Wnc2mWBxwR11NVA%3D%3D&trackingId=eeiCC3M6lch5Bt8xluE35A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-07 22:20:55",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (SQL, Python)",
-        "company": "General Motors",
-        "location": "United States",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-python-at-general-motors-4358279874?position=3&pageNum=0&refId=MZIxXF8Wnc2mWBxwR11NVA%3D%3D&trackingId=rlUQgBwEceLcpwJ6Ii9kZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-07 22:20:55",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer I",
         "company": "Ticketmaster",
         "location": "Reston, VA",
@@ -37,6 +7,26 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-ticketmaster-4330725495?position=3&pageNum=0&refId=vJpYmCguczNRcU1Q5wvcrQ%3D%3D&trackingId=wrDFLQ8whzURarrdvwCF5w%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-07 22:58:17",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer I",
+        "company": "Inspira Financial",
+        "location": "Oak Brook, IL",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-inspira-financial-4335245236?position=1&pageNum=0&refId=zVo%2Fm7tiG8SOea%2B7aCbYAg%3D%3D&trackingId=bGGhWnXxlvBqNAUhpnkMDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 23:22:51",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - DEIP",
+        "company": "Clever Inc.",
+        "location": "San Francisco, CA",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-deip-at-clever-inc-4351757266?position=3&pageNum=0&refId=zVo%2Fm7tiG8SOea%2B7aCbYAg%3D%3D&trackingId=i9Ryf6FxHeiWQLxW9MySiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 23:22:51",
         "email_sent": false
     }
 ]
