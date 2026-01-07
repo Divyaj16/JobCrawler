@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Business Needs Inc.",
-        "location": "Raleigh, NC",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-business-needs-inc-4351685164?position=2&pageNum=0&refId=M%2BWxwCpxmnVvX0Cl1ywqdQ%3D%3D&trackingId=iMwCQixfl2pI%2FV%2BKqmtATg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-07 15:25:14",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer - PySpark / Databricks - Hybird",
         "company": "Kforce Inc",
         "location": "New York, NY",
@@ -27,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kgs-technology-group-inc-4330793163?position=3&pageNum=0&refId=nhKx6lkUsmY3MEg3M%2Fnn2g%3D%3D&trackingId=pl2r3DD0ljXMS1%2FPCQ%2F%2FNQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-07 16:03:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Trinity Technology Solutions LLC",
+        "location": "Austin, TX",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-trinity-technology-solutions-llc-4358273690?position=2&pageNum=0&refId=2hx0peABBd403w09I6hTGQ%3D%3D&trackingId=d0zuTkDIPX2v4Ue7t4xldw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 16:48:31",
         "email_sent": false
     }
 ]
