@@ -638,5 +638,35 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-07 11:30:09",
         "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "MasterClass",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-masterclass-4343829997?position=1&pageNum=0&refId=Dh2GRUbWnnTP%2FiFm8BKEyw%3D%3D&trackingId=6O60yz73zAa5WB4XorGqLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 11:45:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Manulife",
+        "location": "Boston, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-manulife-4320525717?position=2&pageNum=0&refId=Dh2GRUbWnnTP%2FiFm8BKEyw%3D%3D&trackingId=h2XhQ2OdvJwvFv2lmoQ6xw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 11:45:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Kforce Inc",
+        "location": "Lenexa, KS",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4302579279?position=3&pageNum=0&refId=Dh2GRUbWnnTP%2FiFm8BKEyw%3D%3D&trackingId=Zlt5cIe3Kbo%2FN4YlO1DboA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-07 11:45:09",
+        "email_sent": false
     }
 ]
