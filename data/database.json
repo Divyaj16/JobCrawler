@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Amtex Systems Inc",
-        "location": "Queens, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-amtex-systems-inc-4358381759?position=1&pageNum=0&refId=rsn7ehmi3PDdjgRQ7mte7g%3D%3D&trackingId=sKPvRH6Ren5wrmNizCdRRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-08 16:29:38",
-        "email_sent": false
-    },
-    {
-        "title": "AI Software Engineer",
-        "company": "Flowserve Corporation",
-        "location": "Irving, TX",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-software-engineer-at-flowserve-corporation-4358116850?position=2&pageNum=0&refId=rsn7ehmi3PDdjgRQ7mte7g%3D%3D&trackingId=sa326dhPNaPpOi%2Fy8l%2FSHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-08 16:29:38",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4359323869?position=3&pageNum=0&refId=rsn7ehmi3PDdjgRQ7mte7g%3D%3D&trackingId=QXy51SOPFxjcCrim7lEx1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-08 16:29:38",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer (Python, SQL)",
         "company": "Docker, Inc",
         "location": "United States",
@@ -47,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-university-of-michigan-4359323869?position=3&pageNum=0&refId=UuCRTP62%2Bv%2BDgVr6L57%2BVA%3D%3D&trackingId=cCaXGzZyXrNfVOr9mCiRTw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-08 16:59:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AARATECH",
+        "location": "Greater Seattle Area",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaratech-4331052154?position=3&pageNum=0&refId=1kVwUhEfjGhOxZPtA7Eg%2FA%3D%3D&trackingId=2AVlucRbbwIRTiaM%2FjlvoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-08 17:31:14",
         "email_sent": false
     }
 ]
