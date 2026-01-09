@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Raas Infotek",
-        "location": "United States",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-raas-infotek-4359751335?position=3&pageNum=0&refId=lwpekNn75QJ3G9%2FQWWt20A%3D%3D&trackingId=n%2FS8Iz3fbz1UTQGrzV7efg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 19:00:26",
-        "email_sent": false
-    },
-    {
         "title": "Database Engineer",
         "company": "TherapyNotes, LLC",
         "location": "United States",
@@ -27,6 +17,36 @@
         "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4331525939?position=2&pageNum=0&refId=n4z%2BFowD1GPiXNJUlxHkbQ%3D%3D&trackingId=v%2FOHx%2F%2BsIGFqNsWk5o58xg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-09 19:52:17",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (SQL, Python)",
+        "company": "General Motors",
+        "location": "United States",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-python-at-general-motors-4359734431?position=1&pageNum=0&refId=DCfQsQ8diBE0U4HjEPkGbg%3D%3D&trackingId=wPjlcEGZ3WdCRkiM3RoWJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 20:01:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Veeva Systems",
+        "location": "United States",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-veeva-systems-4359606353?position=2&pageNum=0&refId=DCfQsQ8diBE0U4HjEPkGbg%3D%3D&trackingId=cYVfiAbcU%2BewV0HQmlbvMg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 20:01:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Database Engineer 1",
+        "company": "Agility Partners",
+        "location": "Redmond, WA",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-database-engineer-1-at-agility-partners-4359751892?position=3&pageNum=0&refId=DCfQsQ8diBE0U4HjEPkGbg%3D%3D&trackingId=dHMMKu%2FWUgyjXKZsC3jGSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 20:01:39",
         "email_sent": false
     }
 ]
