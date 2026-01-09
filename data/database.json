@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer - Data Science",
-        "company": "LinkedIn",
-        "location": "Mountain View, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-data-science-at-linkedin-4344921928?position=1&pageNum=0&refId=iTWnx1WjwS69ec%2F9ygicyw%3D%3D&trackingId=GcUv8Um32XRr9JZ0Zmap2w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 11:44:09",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Fullstack, Early Career",
-        "company": "Notion",
-        "location": "San Francisco, CA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-early-career-at-notion-4334158613?position=2&pageNum=0&refId=iTWnx1WjwS69ec%2F9ygicyw%3D%3D&trackingId=lsATQSJDSMOYeVg9fOMF6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 11:44:09",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Kforce Inc",
-        "location": "Houston, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4333300074?position=3&pageNum=0&refId=iTWnx1WjwS69ec%2F9ygicyw%3D%3D&trackingId=59wWH%2FZ%2FEgOGx5b0d6DzKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 11:44:09",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer, New Grad",
         "company": "Stripe",
         "location": "Seattle, WA",
@@ -47,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-starlink-growth-at-spacex-4320886597?position=3&pageNum=0&refId=mWrbPFZGHhgkgkAUBh2XGw%3D%3D&trackingId=P3fI55vUqccfxspASjAh%2BA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-09 12:42:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Starlink Growth)",
+        "company": "SpaceX",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-starlink-growth-at-spacex-4320976600?position=3&pageNum=0&refId=irQUtXbxV1a99F6JdhBxYA%3D%3D&trackingId=NzEoVKZAMgzDjRCzmk4h4Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 13:30:26",
         "email_sent": false
     }
 ]
