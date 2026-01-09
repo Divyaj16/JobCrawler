@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer I",
-        "company": "Inspira Financial",
-        "location": "Oak Brook, IL",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-inspira-financial-4335245236?position=2&pageNum=0&refId=T1JLt8uOnhFJeRgxXm%2F3bg%3D%3D&trackingId=oUp1XxfafufSNTb2LnzwGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 17:23:26",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (SQL, Python)",
-        "company": "General Motors",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-python-at-general-motors-4359734431?position=3&pageNum=0&refId=T1JLt8uOnhFJeRgxXm%2F3bg%3D%3D&trackingId=PRrmumIA5iN8%2BvD2Fc%2FIbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 17:23:26",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "CoSourcing Partners - Enterprise-AI and IT Services Company",
         "location": "United States",
@@ -37,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4332244028?position=3&pageNum=0&refId=vPnRNlkkNXJ0Ij36I%2BXXzg%3D%3D&trackingId=Oc2%2BcYCXC9bDXOdkBBch7g%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-09 17:58:54",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer",
+        "company": "TherapyNotes, LLC",
+        "location": "Horsham, PA",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4331525939?position=2&pageNum=0&refId=RLf0O2pRGZQANM5eRogbnA%3D%3D&trackingId=BaaTWTyzJRvMgSC3dZj19w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 18:37:08",
         "email_sent": false
     }
 ]
