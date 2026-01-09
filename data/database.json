@@ -1,35 +1,5 @@
 [
     {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Chicago, IL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4359613641?position=1&pageNum=0&refId=hkpz%2BHb6RnRclecl95cWjQ%3D%3D&trackingId=zc7Jxw3DQn93YDhGdJTocw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 11:01:33",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Frontend",
-        "company": "Applied Intuition",
-        "location": "Washington, DC",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-applied-intuition-3960991127?position=2&pageNum=0&refId=hkpz%2BHb6RnRclecl95cWjQ%3D%3D&trackingId=ma5PNa8S2KusMFQERCXDVQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 11:01:33",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "Newton, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4352223258?position=3&pageNum=0&refId=hkpz%2BHb6RnRclecl95cWjQ%3D%3D&trackingId=xEJKZbI%2BgPNjfbuLOgF5Sw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 11:01:33",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer - Data Science",
         "company": "LinkedIn",
         "location": "Mountain View, CA",
@@ -57,6 +27,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4333300074?position=3&pageNum=0&refId=iTWnx1WjwS69ec%2F9ygicyw%3D%3D&trackingId=59wWH%2FZ%2FEgOGx5b0d6DzKw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-09 11:44:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, New Grad",
+        "company": "Stripe",
+        "location": "Seattle, WA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4294691514?position=2&pageNum=0&refId=mWrbPFZGHhgkgkAUBh2XGw%3D%3D&trackingId=hscNbWtXdUmxrr0ziU95gQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 12:42:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Starlink Growth)",
+        "company": "SpaceX",
+        "location": "Hawthorne, CA",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-starlink-growth-at-spacex-4320886597?position=3&pageNum=0&refId=mWrbPFZGHhgkgkAUBh2XGw%3D%3D&trackingId=P3fI55vUqccfxspASjAh%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 12:42:43",
         "email_sent": false
     }
 ]
