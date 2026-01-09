@@ -1,35 +1,5 @@
 [
     {
-        "title": "Software Engineer (SQL, Python)",
-        "company": "General Motors",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-python-at-general-motors-4359734431?position=1&pageNum=0&refId=DCfQsQ8diBE0U4HjEPkGbg%3D%3D&trackingId=wPjlcEGZ3WdCRkiM3RoWJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 20:01:39",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Veeva Systems",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-veeva-systems-4359606353?position=2&pageNum=0&refId=DCfQsQ8diBE0U4HjEPkGbg%3D%3D&trackingId=cYVfiAbcU%2BewV0HQmlbvMg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 20:01:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Database Engineer 1",
-        "company": "Agility Partners",
-        "location": "Redmond, WA",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-database-engineer-1-at-agility-partners-4359751892?position=3&pageNum=0&refId=DCfQsQ8diBE0U4HjEPkGbg%3D%3D&trackingId=dHMMKu%2FWUgyjXKZsC3jGSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-09 20:01:39",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "NBCUniversal",
         "location": "New York, NY",
@@ -67,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-haystack-4331546608?position=2&pageNum=0&refId=GdwIDZ4Y50G3fABLJ4JKmQ%3D%3D&trackingId=XCpJ1LMghebmBWZRC1RxGA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-09 20:53:46",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "The Value Maximizer",
+        "location": "Ohio, OH",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-the-value-maximizer-4359429383?position=2&pageNum=0&refId=mm5TQFm1y%2BdlDCJqIqGyiQ%3D%3D&trackingId=3VBoeIgoyV%2Fxgrpoq8h%2F9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-09 21:20:55",
         "email_sent": false
     }
 ]
