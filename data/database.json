@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "NerdWallet",
-        "location": "United States",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nerdwallet-4359765927?position=3&pageNum=0&refId=ZTUH9rCewv6rSKXajkcOFA%3D%3D&trackingId=MQ8S%2BQocbw6VQvg0Jft9jw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 17:42:19",
-        "email_sent": false
-    },
-    {
         "title": "Junior Data Engineer",
         "company": "Haystack",
         "location": "Washington DC-Baltimore Area",
@@ -47,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-iperformx-4332552748?position=2&pageNum=0&refId=rWj%2FqOrD960ALWoGBOQW3A%3D%3D&trackingId=U6Vmx377sqyW6rCKVC6flQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-10 18:40:03",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4359943687?position=3&pageNum=0&refId=T%2B4Q9qVPuP6rmLs9G0g5Bg%3D%3D&trackingId=yGGI6RXNCI3rm4BUmnd0kg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-10 18:57:16",
         "email_sent": false
     }
 ]
