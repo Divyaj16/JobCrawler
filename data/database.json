@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Digital Infuzion",
-        "location": "Rockville, MD",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-digital-infuzion-4325859002?position=2&pageNum=0&refId=MwOl8WkK6PGkXr3%2BRhbf7w%3D%3D&trackingId=A%2Bnk7BV7zwrpZtUVtM%2FPlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 12:38:25",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer 1",
-        "company": "Intuit",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4345481650?position=3&pageNum=0&refId=MwOl8WkK6PGkXr3%2BRhbf7w%3D%3D&trackingId=Az0vZzbDA6916a1V7%2B1oXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 12:38:25",
-        "email_sent": false
-    },
-    {
         "title": "Junior Software Engineer (Recent Grads) - Enterprise AI Model Company",
         "company": "Andiamo",
         "location": "Santa Clara, CA",
@@ -47,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/backend-engineer-python-sql-at-sift-4360612146?position=3&pageNum=0&refId=w%2FiV8Z7SIRxPXb8oGNXeUQ%3D%3D&trackingId=J60PtalurOn1yFPkLYE4ZA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-10 13:18:27",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Thumbtack",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-thumbtack-4359942351?position=1&pageNum=0&refId=A7uo47bd66nmlByS58Jq%2Bg%3D%3D&trackingId=3cdIOD62CJQGpa%2BUxSK%2B9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-10 13:44:38",
         "email_sent": false
     }
 ]
