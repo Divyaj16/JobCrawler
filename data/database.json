@@ -1,36 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4359962640?position=1&pageNum=0&refId=99Z%2Byuvbrp%2FtpxnhibFLhA%3D%3D&trackingId=SuC0k9Cs7wFNSxRkaXjlCQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 14:19:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "UHY-US",
-        "location": "United States",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-uhy-us-4345321806?position=2&pageNum=0&refId=99Z%2Byuvbrp%2FtpxnhibFLhA%3D%3D&trackingId=i4hptoimm2mYSDYzCEGEmQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 14:19:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "UHY-US",
-        "location": "North Carolina, United States",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-uhy-us-4345331708?position=3&pageNum=0&refId=99Z%2Byuvbrp%2FtpxnhibFLhA%3D%3D&trackingId=6U6DbMLcXRWZgCMBFERKUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 14:19:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Rocky Mountain Elk Foundation",
         "location": "United States",
         "date_posted": "8 minutes ago",
@@ -57,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-thumbtack-4359942351?position=1&pageNum=0&refId=P6WCTNqT%2B25ZSL19al3Lzw%3D%3D&trackingId=O1XfpXjJooA2qrsxx3Zv6w%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-10 15:01:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, Cloud)",
+        "company": "Red Hat",
+        "location": "United States",
+        "date_posted": "57 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-cloud-at-red-hat-4359902565?position=3&pageNum=0&refId=y0%2B7LYhUhHGCny8Y4rDtUw%3D%3D&trackingId=2IAtYAkPqFdABfjWBiTrEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-10 15:28:53",
         "email_sent": false
     }
 ]
