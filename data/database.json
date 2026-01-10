@@ -1,42 +1,32 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Ford Motor Company",
-        "location": "Dearborn, MI",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-ford-motor-company-4344086284?position=1&pageNum=0&refId=%2BACCiO7KBH29me4AL8m%2BXg%3D%3D&trackingId=b82ocxggsKCTya7a%2FMTzHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 10:57:00",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer II",
-        "company": "Green Street",
-        "location": "Newport Beach, CA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-green-street-4270743312?position=3&pageNum=0&refId=ILLeDoMvTNHa2np4miu0Qw%3D%3D&trackingId=hiQtjbKANK0W2n7zcnIRrw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 11:17:39",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Fullstack, Early Career",
-        "company": "Notion",
-        "location": "New York, NY",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-early-career-at-notion-4334367155?position=2&pageNum=0&refId=JiePJvIw66cspcdWvgJC4A%3D%3D&trackingId=mXGaM9JhIEIFqzuCp7p9BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 11:32:19",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Kforce Inc",
         "location": "Pittsburgh, PA",
         "date_posted": "1 hour ago",
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4336115592?position=3&pageNum=0&refId=VHZd1My3c%2FddR9nNNMvJ%2Fg%3D%3D&trackingId=ke9VxJWdP1Wc1l4NgWeESQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-10 11:45:00",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Digital Infuzion",
+        "location": "Rockville, MD",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-digital-infuzion-4325859002?position=2&pageNum=0&refId=MwOl8WkK6PGkXr3%2BRhbf7w%3D%3D&trackingId=A%2Bnk7BV7zwrpZtUVtM%2FPlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-10 12:38:25",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 1",
+        "company": "Intuit",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4345481650?position=3&pageNum=0&refId=MwOl8WkK6PGkXr3%2BRhbf7w%3D%3D&trackingId=Az0vZzbDA6916a1V7%2B1oXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-10 12:38:25",
         "email_sent": false
     }
 ]
