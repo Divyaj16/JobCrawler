@@ -1,25 +1,5 @@
 [
     {
-        "title": "Junior Data Engineer",
-        "company": "Haystack",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-haystack-4351852047?position=1&pageNum=0&refId=hmZw4NWj3RbLhjJMBk1N8w%3D%3D&trackingId=PeQoW5yghKsRATR8MTuT%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 18:01:02",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Haystack",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-haystack-4345352050?position=3&pageNum=0&refId=hmZw4NWj3RbLhjJMBk1N8w%3D%3D&trackingId=AUuACXKXhGT7ajzRx8lZIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-10 18:01:02",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Sharp Services",
         "location": "Allentown, PA",
@@ -47,6 +27,26 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4359943687?position=3&pageNum=0&refId=T%2B4Q9qVPuP6rmLs9G0g5Bg%3D%3D&trackingId=yGGI6RXNCI3rm4BUmnd0kg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-10 18:57:16",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4360671720?position=2&pageNum=0&refId=5Stv3hP2UlUna6TOw0o%2F%2BQ%3D%3D&trackingId=MmMoq8qPzU0WZAF%2BO6ALPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-10 19:16:35",
+        "email_sent": false
+    },
+    {
+        "title": "Digital Data Analyst",
+        "company": "Rexel USA",
+        "location": "Dallas, TX",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/digital-data-analyst-at-rexel-usa-4352471333?position=3&pageNum=0&refId=5Stv3hP2UlUna6TOw0o%2F%2BQ%3D%3D&trackingId=hKubeG2XZo6V5M%2Br%2BIKAbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-10 19:16:35",
         "email_sent": false
     }
 ]
