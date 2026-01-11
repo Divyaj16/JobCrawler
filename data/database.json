@@ -1,16 +1,6 @@
 [
     {
         "title": "Data Analyst",
-        "company": "Hyra",
-        "location": "United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hyra-4359907047?position=1&pageNum=0&refId=fbhxXlEqIT4NMeo7tEsl9A%3D%3D&trackingId=mwXB0cRrrjtfnzJB7V5Evg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-11 18:28:32",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
         "company": "RemoteHunter",
         "location": "United States",
         "date_posted": "26 minutes ago",
@@ -27,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/it-system-engineer-at-hirenza-4359769403?position=3&pageNum=0&refId=cWRRYCwEmm%2Fqzhc05rGXeA%3D%3D&trackingId=%2F6NahM113itJ9XHznvAtuQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-11 18:52:45",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Huntsville, AL",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-jobs-via-dice-4330845935?position=1&pageNum=0&refId=tyhJOqJK4cw6o4RtY8CIAw%3D%3D&trackingId=avxgqZipJDWPwb%2Bl0n6sHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 19:31:24",
         "email_sent": false
     }
 ]
