@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4359966044?position=1&pageNum=0&refId=CBRiLOfzV6L6UqCqt%2FFT6A%3D%3D&trackingId=aU0rhTrE3%2ByzeWguU9IE8w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-11 13:19:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-remotehunter-4345364366?position=2&pageNum=0&refId=CBRiLOfzV6L6UqCqt%2FFT6A%3D%3D&trackingId=D3forFLoqdJtuqbZiVTDfg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-11 13:19:30",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4359956247?position=3&pageNum=0&refId=CBRiLOfzV6L6UqCqt%2FFT6A%3D%3D&trackingId=x5r4ylYh5Ss6SZi2xZlD1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-11 13:19:30",
-        "email_sent": false
-    },
-    {
         "title": "Junior Software Engineer",
         "company": "Haystack",
         "location": "United States",
@@ -37,6 +7,26 @@
         "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-haystack-4345334215?position=3&pageNum=0&refId=5EpQqn4R%2B0ve%2BFrIHzxMFQ%3D%3D&trackingId=uKkePj87Vj4Dn5vgZPq2pA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-11 13:45:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center, Associate (Project) Developer",
+        "company": "The AES Corporation",
+        "location": "Louisville, CO",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-center-associate-project-developer-at-the-aes-corporation-4354687148?position=2&pageNum=0&refId=8ULfdoQb32ijDJ6YPGFATQ%3D%3D&trackingId=JFsrmh9Ti2dKipC0GXIaxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 14:20:11",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Inside Higher Ed",
+        "location": "Greensboro, NC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-inside-higher-ed-4360606130?position=3&pageNum=0&refId=8ULfdoQb32ijDJ6YPGFATQ%3D%3D&trackingId=3sWwiicMzee1dcY0zfNyMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 14:20:11",
         "email_sent": false
     }
 ]
