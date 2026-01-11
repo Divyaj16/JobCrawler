@@ -28,5 +28,35 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-11 14:20:11",
         "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Life360",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-life360-4360605713?position=1&pageNum=0&refId=%2FdfU1MyiCEctKPvd1N17tw%3D%3D&trackingId=7fgQfjBiMKp5pxY8HsTB0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 14:40:55",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Perchwell",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-perchwell-4359926124?position=2&pageNum=0&refId=%2FdfU1MyiCEctKPvd1N17tw%3D%3D&trackingId=qFe1tTCbsHAhqfSTo53k7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 14:40:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (SQL, Cloud)",
+        "company": "Confluent",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-cloud-at-confluent-4360683678?position=3&pageNum=0&refId=%2FdfU1MyiCEctKPvd1N17tw%3D%3D&trackingId=2B0kAB9L%2FzCq0JdgUVkVsw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 14:40:55",
+        "email_sent": false
     }
 ]
