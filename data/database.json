@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer I",
-        "company": "ExecutivePlacements.com",
-        "location": "Cincinnati, OH",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-executiveplacements-com-4359796027?position=1&pageNum=0&refId=ZeguZAiqwGFCbMvb1MBEdA%3D%3D&trackingId=su9NASKs8Czluu%2FpxuXRaA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-11 10:00:26",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Wiraa",
         "location": "United States",
@@ -37,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-applied-intuition-4282701327?position=1&pageNum=0&refId=7K9%2FCZEhXqebFTZFSD6Jdw%3D%3D&trackingId=s038P2rlroheRWgHSzzHVg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-11 10:57:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Perchwell",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-perchwell-4359926124?position=3&pageNum=0&refId=g4BBNtsuLQr9DoKE%2Fy5SfA%3D%3D&trackingId=3g3u2FAi7%2BnjF4FTnq3faQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-11 11:18:53",
         "email_sent": false
     }
 ]
