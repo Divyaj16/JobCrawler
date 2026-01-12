@@ -1,16 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "California, United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-beaconfire-inc-4349630298?position=1&pageNum=0&refId=a9WbZYqmFRWQHFc4X0Q24A%3D%3D&trackingId=1%2BEtlRpi1Pe3Ppjxha3nqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-12 15:58:12",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Sparrow",
         "location": "Las Vegas, NV",
         "date_posted": "17 minutes ago",
@@ -47,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aditi-consulting-4361243581?position=2&pageNum=0&refId=g4YGVrQ5KX0tdDHFj7UxMA%3D%3D&trackingId=f6yRUP6qk0iOnLQ7LzP3NA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-12 16:56:27",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer",
+        "company": "TherapyNotes, LLC",
+        "location": "United States",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4345389983?position=2&pageNum=0&refId=yYO%2FCfOhCgPPqnJcqmAMxw%3D%3D&trackingId=QXw9%2BHGwL1VkXepkpnsdNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-12 17:23:56",
         "email_sent": false
     }
 ]
