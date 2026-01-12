@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer 2",
-        "company": "Garmin",
-        "location": "Olathe, KS",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-2-at-garmin-4335091246?position=1&pageNum=0&refId=dsFUp1%2FAyPuhMOtxgr6K5w%3D%3D&trackingId=gdktGHZKEy7ihPtecN7xbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-12 11:01:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - All Levels",
-        "company": "GlossGenius",
-        "location": "New York, NY",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-glossgenius-4286961888?position=2&pageNum=0&refId=tbsoKUqqhw6M2GGv6R8cug%3D%3D&trackingId=wH4DVkhZUZVSD2ThFjae9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-12 11:30:25",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer I/II (Remote - US)",
         "company": "BNSF Railway",
         "location": "United States",
@@ -27,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-i-ii-remote-us-at-bnsf-railway-4321099635?position=1&pageNum=0&refId=Z9%2BHIXppbeTrxIcv9NZYwQ%3D%3D&trackingId=9dEvesGN6qTUpwtM%2BrFTJw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-12 11:57:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Carrot",
+        "location": "United States",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-carrot-4317203984?position=1&pageNum=0&refId=lnggaBxO%2FkLHWY4bgJQcbA%3D%3D&trackingId=BZcVGnNJaEAeYSVs7t5YMA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-12 12:44:39",
         "email_sent": false
     }
 ]
