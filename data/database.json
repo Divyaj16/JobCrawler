@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Acorns",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-acorns-4361243447?position=1&pageNum=0&refId=kOyaS9tBhlcRfGyVn9QJFA%3D%3D&trackingId=bWLIbLbql4UMFmKc4bwYng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-12 19:00:05",
-        "email_sent": false
-    },
-    {
-        "title": "Database Engineer",
-        "company": "TherapyNotes, LLC",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4345389983?position=2&pageNum=0&refId=kOyaS9tBhlcRfGyVn9QJFA%3D%3D&trackingId=ZcfuQiSnx8Pk4iMjB%2BtxrA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-12 19:00:05",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer I",
         "company": "V-Soft Consulting Group, Inc.",
         "location": "Cincinnati, OH",
@@ -47,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-versant-media-4354710836?position=2&pageNum=0&refId=oCoIETg40w%2BErrAVJDXCpg%3D%3D&trackingId=9rRZ52uKGjwfzxjVP5KRSg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-12 19:56:40",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Reporting Engineer",
+        "company": "Intelliswift - An LTTS Company",
+        "location": "Austin, TX",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-reporting-engineer-at-intelliswift-an-ltts-company-4327716716?position=2&pageNum=0&refId=XgGlxsGAmwBgqs1h6FOpUQ%3D%3D&trackingId=OkqO5NpheU4rU4d3pQPYfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-12 20:24:32",
         "email_sent": false
     }
 ]
