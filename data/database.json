@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Carrot",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-carrot-4317203984?position=1&pageNum=0&refId=lnggaBxO%2FkLHWY4bgJQcbA%3D%3D&trackingId=BZcVGnNJaEAeYSVs7t5YMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-12 12:44:39",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer, University Grad",
         "company": "Glean",
         "location": "Palo Alto, CA",
@@ -17,6 +7,36 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-university-grad-at-glean-4295123743?position=3&pageNum=0&refId=5i2HwCsp6%2BNdhc2NQbbt3g%3D%3D&trackingId=M53OYMjT%2Ftisa5Bg%2BEQNIA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-12 13:34:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Best Job Tool",
+        "location": "United States",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4361102322?position=1&pageNum=0&refId=ag7H3uR5e3ktkHw23Ik4dg%3D%3D&trackingId=Ub%2BIjXDkTPGfcsnoZq0Srw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-12 14:02:50",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "NerdWallet",
+        "location": "United States",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nerdwallet-4360751314?position=2&pageNum=0&refId=ag7H3uR5e3ktkHw23Ik4dg%3D%3D&trackingId=zKaru%2FtMZWYXUe6Oc2481A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-12 14:02:50",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Insight Global",
+        "location": "New York, NY",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-insight-global-4345339090?position=3&pageNum=0&refId=ag7H3uR5e3ktkHw23Ik4dg%3D%3D&trackingId=ZwSuP%2BZqpBgo1dsLrx0ftw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-12 14:02:50",
         "email_sent": false
     }
 ]
