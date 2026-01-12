@@ -1,36 +1,6 @@
 [
     {
         "title": "Data Analyst",
-        "company": "Harris County",
-        "location": "Houston, TX",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-harris-county-4359763385?position=1&pageNum=0&refId=Z1sD6X7EObJh3WafA6Nvag%3D%3D&trackingId=xGLEE8iobZDzb3g3iF1XWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-12 09:03:10",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Quantitative Evaluations",
-        "company": "Waymo",
-        "location": "San Francisco, CA",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-quantitative-evaluations-at-waymo-4344132558?position=2&pageNum=0&refId=Z1sD6X7EObJh3WafA6Nvag%3D%3D&trackingId=g7U9KjZvyqB3%2BRE0f2azsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-12 09:03:10",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Quantitative Evaluations",
-        "company": "Waymo",
-        "location": "Mountain View, CA",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-quantitative-evaluations-at-waymo-4344102780?position=3&pageNum=0&refId=Z1sD6X7EObJh3WafA6Nvag%3D%3D&trackingId=gArpwjhkx7x8jPCvQGotUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-12 09:03:10",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
         "company": "Haystack",
         "location": "Washington DC-Baltimore Area",
         "date_posted": "14 minutes ago",
@@ -47,6 +17,36 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4361201288?position=2&pageNum=0&refId=Qqu4JZNNYBi%2FX0%2BY9vE85w%3D%3D&trackingId=udYO8o6hGbUhX452bAL%2F%2Fw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-12 10:02:59",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "East West Bank",
+        "location": "Pasadena, CA",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-east-west-bank-4338028377?position=1&pageNum=0&refId=XVPspWgdOSYzeB3yB69q0g%3D%3D&trackingId=MjqlIxvF4UAnXhPH1dMaqw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-12 10:42:49",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Grok Voice",
+        "company": "xAI",
+        "location": "Palo Alto, CA",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-grok-voice-at-xai-4219071233?position=2&pageNum=0&refId=XVPspWgdOSYzeB3yB69q0g%3D%3D&trackingId=PAGlkTErHbnaGDyt%2Flsxqw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-12 10:42:49",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Backend Software Engineer",
+        "company": "HiringAgents.ai",
+        "location": "San Francisco, CA",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-backend-software-engineer-at-hiringagents-ai-4344366681?position=3&pageNum=0&refId=XVPspWgdOSYzeB3yB69q0g%3D%3D&trackingId=ROjtLd0VZS9O3RFbg1acrQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-12 10:42:49",
         "email_sent": false
     }
 ]
