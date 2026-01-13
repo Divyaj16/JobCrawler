@@ -1,32 +1,682 @@
 [
     {
-        "title": "Data Engineer I",
-        "company": "Milliman",
-        "location": "Chicago, IL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-milliman-4352695979?position=1&pageNum=0&refId=DDcWpK%2B8KImRkqkiZD2lpw%3D%3D&trackingId=RgjkZ7mwMaPVV22R3P1LCQ%3D%3D",
+        "title": "Engineer II Data",
+        "company": "Fanatics",
+        "location": "New York, NY",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-ii-data-at-fanatics-4352606345?position=1&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=Y2NnmyybpuyY1c93Cmj1SA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-01-12 23:48:25",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Ford Motor Company",
+        "location": "Dearborn, MI",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-ford-motor-company-4361107818?position=2&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=FPnaKuPgzKJQIF31rEN1Dg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Vanguard",
+        "location": "Malvern, PA",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-vanguard-4354722569?position=3&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=1IrqSoQl8cz9RCicsLOrrQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Belay Technologies",
+        "location": "Laurel, MD",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-belay-technologies-4360777768?position=4&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=dKpXHVo%2Fpo98S5qx6ku8Ig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Solventum",
+        "location": "Albany, NY",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-solventum-4361265172?position=5&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=3OPWTbqqQIKouSnylo1llg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Analyst",
+        "company": "Swoon",
+        "location": "East Peoria, IL",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-swoon-4354473314?position=6&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=jZ1FEhTJzvJbIFwFXsNwqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Systems Engineer Associate (Fleet Analytics) - Level 1",
+        "company": "Lockheed Martin",
+        "location": "Fort Worth, TX",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/systems-engineer-associate-fleet-analytics-level-1-at-lockheed-martin-4360797854?position=8&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=UHVUCeRjGILeZkw%2FVsBIDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer in Test Prisma Access (AI Automation Engineer)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-in-test-prisma-access-ai-automation-engineer-at-palo-alto-networks-4361197402?position=9&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=rL%2Fr3rpC62qHYuDMHaUvog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer",
+        "company": "Corgi",
+        "location": "San Francisco, CA",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-corgi-4354713292?position=10&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=z16draygT36CKhLzI5v%2Flw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer at fast-growing software development platform",
+        "company": "Jack & Jill",
+        "location": "San Francisco, CA",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fast-growing-software-development-platform-at-jack-jill-4350816823?position=11&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=GWhR8G0%2Fly6Ld%2BMRHBGCEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "KonstructIQ",
+        "location": "Los Altos, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-konstructiq-4354782300?position=12&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=%2FBtu7UIOqvoUGJQ%2BG6tStQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Georgia Pacific",
+        "location": "Atlanta, GA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-georgia-pacific-4354772467?position=13&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=GjOWmukni5ELqDmbYOyidA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Forter",
+        "location": "New York, United States",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-forter-4361256749?position=14&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=YDE7LUNv%2FTMY4aWyQN%2B%2Ftg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Denver, CO",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4354743093?position=15&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=xII87z0Dq8Gf5Fj%2BQ%2FmehQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer in Test Jr. (SDET)",
+        "company": "Vidoori Inc.",
+        "location": "Hyattsville, MD",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-jr-sdet-at-vidoori-inc-4354422719?position=16&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=%2BVwY5%2FoPWx4Ez%2FBu4fY9Hw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
         "email_sent": false
     },
     {
         "title": "Data Engineer I",
-        "company": "Milliman",
-        "location": "Wakefield, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-milliman-4352566089?position=2&pageNum=0&refId=DDcWpK%2B8KImRkqkiZD2lpw%3D%3D&trackingId=35EEqQMYy2OuRYhwivowLg%3D%3D",
+        "company": "Jobs via Dice",
+        "location": "Cincinnati, OH",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-jobs-via-dice-4354473181?position=17&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=vfrsc0XC%2BF374zcOEMCIHQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-01-12 23:48:25",
+        "scraped_date": "2026-01-13 01:41:10",
         "email_sent": false
     },
     {
-        "title": "Data Engineer I",
-        "company": "Milliman",
+        "title": "IT Systems Engineer",
+        "company": "Braintrust",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/it-systems-engineer-at-braintrust-4361127516?position=18&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=xT%2FrbcQnjJIqdQJzf3oFuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Azure Databricks Data Engineer",
+        "company": "Jobs via Dice",
         "location": "Seattle, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-milliman-4352536081?position=3&pageNum=0&refId=DDcWpK%2B8KImRkqkiZD2lpw%3D%3D&trackingId=3Ndj4TBPbJIrfY0tjZh7Vw%3D%3D",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/azure-databricks-data-engineer-at-jobs-via-dice-4354433116?position=19&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=ltlgbSgRdSVjeVWIm%2FHXcw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-01-12 23:48:25",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Lockheed Martin",
+        "location": "Littleton, CO",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lockheed-martin-4361197735?position=20&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=8fuVrUJPYDEbFeSmk8p1ew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Level 2",
+        "company": "Lockheed Martin",
+        "location": "King of Prussia, PA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-2-at-lockheed-martin-4361247646?position=21&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=iIjEygH67JhrVmuqWlqlWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Jr. Data Scientist",
+        "company": "OSC Global",
+        "location": "United States",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/jr-data-scientist-at-osc-global-4352770228?position=22&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=hV0Zw6dph%2BjaYtXiYNLVHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Radix",
+        "location": "Scottsdale, AZ",
+        "date_posted": "57 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-radix-4354802506?position=23&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=VyCG%2Fuso2M9GdOEkGhwBdg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "2HB Incorporated",
+        "location": "Annapolis Junction, MD",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-2hb-incorporated-4360727785?position=24&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=T%2B1KEe0ZTts9DR6CryQ%2Ffw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Web Software Engineer",
+        "company": "AOI",
+        "location": "Sugar Land, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-web-software-engineer-at-aoi-4361157324?position=25&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=wepoCmhB0RxPTOlDAAp8tg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "IT Data Analyst II",
+        "company": "Hy-Vee, Inc.",
+        "location": "Grimes, IA",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/it-data-analyst-ii-at-hy-vee-inc-4354462711?position=26&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=ONEnpDNH2Al9DQ6YRChExQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, iOS/Mobile",
+        "company": "Beacon AI",
+        "location": "San Carlos, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-mobile-at-beacon-ai-4361207174?position=27&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=KSvGVhAtL1fvRYRqPO41%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "2HB Incorporated",
+        "location": "Annapolis Junction, MD",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-2hb-incorporated-4361157721?position=28&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=ZwqgU9g8j78X3ZEHF5mzYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Event Sourcing & Stream Processing)",
+        "company": "Tenable",
+        "location": "Santa Clara, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-event-sourcing-stream-processing-at-tenable-4361237135?position=29&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=%2Bblpdb9tKdH2TpPhiXYn0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "WANT YOUR WORK TO MEAN SOMETHING?",
+        "company": "Driven Insights",
+        "location": "Gardner, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/want-your-work-to-mean-something%3F-at-driven-insights-4361147180?position=30&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=20Y6kcB1X63H6mWEE%2BXy4A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Science & ML Ops Engineer",
+        "company": "Jobs via Dice",
+        "location": "San Francisco, CA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-science-ml-ops-engineer-at-jobs-via-dice-4354792865?position=31&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=UekW6Z4fXn48rIW04kJzhA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Crime Data Analyst II",
+        "company": "City of Boise",
+        "location": "Boise, ID",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/crime-data-analyst-ii-at-city-of-boise-4360798053?position=32&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=sIpsVIBEe5Np7PdIVOeYbg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "McLean, VA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-jobs-via-dice-4354792882?position=33&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=Ko478ySavBG1%2Bk9jjh75Qg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "WellSky",
+        "location": "Overland Park, KS",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-wellsky-4361217850?position=35&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=R2%2BVRcGj6sc5Al0dcGkIhw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Netezza Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Cincinnati, OH",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/netezza-data-engineer-at-jobs-via-dice-4354792898?position=36&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=Y4BpvW129KQVHKIu%2FITLtw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II (Onsite)",
+        "company": "Collins Aerospace",
+        "location": "Marlborough, MA",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-onsite-at-collins-aerospace-4361265153?position=37&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=JxsSdhAcCHBoo9oaFkKK4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Customer Success Engineer",
+        "company": "Aldoa",
+        "location": "United States",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/customer-success-engineer-at-aldoa-4354433320?position=38&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=ad5Sc4dwab9zh3FrWxBi7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software QA Engineer",
+        "company": "Jobs via Dice",
+        "location": "Pittsburgh, PA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-qa-engineer-at-jobs-via-dice-4354433155?position=39&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=ISWwE9m%2FTADOf9TPXJgcgQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Test Automation Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "McLean, VA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/test-automation-software-engineer-at-jobs-via-dice-4354753083?position=40&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=620aZtJjuEV1dpP8X4gukQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "Actalent",
+        "location": "Tustin, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-actalent-4360787578?position=41&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=YSljtgzoSPwCtSbuub1%2F6g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4354722964?position=42&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=zPIjbwLLI1M8C1%2BvUjTGng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Traffic Data Technician",
+        "company": "State of South Dakota",
+        "location": "Rapid City, SD",
+        "date_posted": "57 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/traffic-data-technician-at-state-of-south-dakota-4352546349?position=43&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=0ofPfjqSJZol%2FSSYva%2FETA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Police Crime and Data Analyst",
+        "company": "City of Aurora",
+        "location": "Aurora, CO",
+        "date_posted": "41 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/police-crime-and-data-analyst-at-city-of-aurora-4354462612?position=44&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=r6kEdSYkhkZAlM2DAHEu4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist I - Biobank and Electronic Health Record _Cell and Molecular Biology",
+        "company": "University of Mississippi Medical Center",
+        "location": "Jackson, MS",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-i-biobank-and-electronic-health-record-cell-and-molecular-biology-at-university-of-mississippi-medical-center-4352716375?position=45&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=bJBqkZSjBW2FO6OnImHmvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Production Support Engineer (Onsite)",
+        "company": "Collins Aerospace",
+        "location": "Garland, TX",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-production-support-engineer-onsite-at-collins-aerospace-4360737775?position=46&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=d%2FInEFfDsIuLk3hSinPgYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Product Engineer II",
+        "company": "Raytheon",
+        "location": "Andover, MA",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/product-engineer-ii-at-raytheon-4361167674?position=47&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=xU9OufU4t%2Fq71Ud8QfWFIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst with Informatica MDM - Remote but candidatemust reside in NC",
+        "company": "Jobs via Dice",
+        "location": "North Carolina, United States",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-with-informatica-mdm-remote-but-candidatemust-reside-in-nc-at-jobs-via-dice-4354772904?position=48&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=1kG7W87nF5zb3eyYrw4lOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-jobs-via-dice-4354423235?position=49&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=Wqiwj6znFryDL8Xu5gjlVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "Jobs via Dice",
+        "location": "Lorton, VA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-jobs-via-dice-4354462992?position=50&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=QYXQIwh0ys4sKUcaZETx%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "AI/ML Prompt Scientist/Engineer",
+        "company": "Jobs via Dice",
+        "location": "San Francisco, CA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-ml-prompt-scientist-engineer-at-jobs-via-dice-4354753194?position=51&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=%2FnA036RNCDRc8uhPVy8IDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Cyber Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Denver, CO",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/cyber-software-engineer-at-jobs-via-dice-4354743037?position=52&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=QQU9NVGPzzibxMCA9rkGuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "GenAI Engineer",
+        "company": "Jobs via Dice",
+        "location": "Santa Clara, CA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/genai-engineer-at-jobs-via-dice-4351893694?position=53&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=dwPdlI0qb7t1aGwZoKMuEA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Test Engineer II - Digital Ag",
+        "company": "Iowa State University",
+        "location": "Ames, IA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/test-engineer-ii-digital-ag-at-iowa-state-university-4361272587?position=54&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=xv%2Fn6PX8STHLLfHCzumBfQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "GTS - US Entity - Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Pleasanton, CA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/gts-us-entity-software-engineer-at-jobs-via-dice-4354443174?position=55&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=qmbZhb7byZq%2B%2BKIqkJC1ug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Renewable Energy Associate",
+        "company": "energyRe",
+        "location": "North Charleston, SC",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/renewable-energy-associate-at-energyre-4360798047?position=56&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=DY%2BQnzIw4MGNHN%2FRat6Mlg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Engineer (Electric Control and Instrumentation), Electrical Engineering",
+        "company": "National Grid",
+        "location": "Ayer, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-engineer-electric-control-and-instrumentation-electrical-engineering-at-national-grid-4352716401?position=57&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=VrI22keZx6%2BzivqMc%2F0DvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Verification Engineer",
+        "company": "Jobs via Dice",
+        "location": "Pleasanton, CA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-verification-engineer-at-jobs-via-dice-4354413153?position=58&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=5sbxsJja7qELTivkM8iFOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Project Engineer",
+        "company": "Jobot",
+        "location": "Magna, UT",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-jobot-4352656610?position=59&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=lPx5IXcixYCM4SzvTGzMfQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "SAP BI Report Developer/Analyst",
+        "company": "Jobs via Dice",
+        "location": "United States",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sap-bi-report-developer-analyst-at-jobs-via-dice-4354812671?position=60&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=oSV3AopBGRH1bXHKOpf57A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "IT Data Analyst II",
+        "company": "Hy-Vee, Inc.",
+        "location": "Grimes, IA",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/it-data-analyst-ii-at-hy-vee-inc-4354462711?position=1&pageNum=2&refId=zW8v02xeplJoeiOXP4Qe7A%3D%3D&trackingId=XknVhWfnCLTgcJhV5vKzFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, iOS/Mobile",
+        "company": "Beacon AI",
+        "location": "San Carlos, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ios-mobile-at-beacon-ai-4361207174?position=2&pageNum=2&refId=zW8v02xeplJoeiOXP4Qe7A%3D%3D&trackingId=EcGA4T1fOJrTK0S%2B1jRSkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "2HB Incorporated",
+        "location": "Annapolis Junction, MD",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-2hb-incorporated-4361157721?position=3&pageNum=2&refId=zW8v02xeplJoeiOXP4Qe7A%3D%3D&trackingId=u%2FD7Z1Z5WE6kLnghDOfKeg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Event Sourcing & Stream Processing)",
+        "company": "Tenable",
+        "location": "Santa Clara, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-event-sourcing-stream-processing-at-tenable-4361237135?position=4&pageNum=2&refId=zW8v02xeplJoeiOXP4Qe7A%3D%3D&trackingId=b%2BvurKx7B%2BbrqyStGoAuoQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "WANT YOUR WORK TO MEAN SOMETHING?",
+        "company": "Driven Insights",
+        "location": "Gardner, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/want-your-work-to-mean-something%3F-at-driven-insights-4361147180?position=5&pageNum=2&refId=zW8v02xeplJoeiOXP4Qe7A%3D%3D&trackingId=dIwpyGk0mV1w7EtYD5sSBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Data Science & ML Ops Engineer",
+        "company": "Jobs via Dice",
+        "location": "San Francisco, CA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-science-ml-ops-engineer-at-jobs-via-dice-4354792865?position=6&pageNum=2&refId=zW8v02xeplJoeiOXP4Qe7A%3D%3D&trackingId=VIvKSC2%2FqkzBwgV0Igfm8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Crime Data Analyst II",
+        "company": "City of Boise",
+        "location": "Boise, ID",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/crime-data-analyst-ii-at-city-of-boise-4360798053?position=7&pageNum=2&refId=zW8v02xeplJoeiOXP4Qe7A%3D%3D&trackingId=KDTNzvzWD4hprAOOvUbNZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "WellSky",
+        "location": "Overland Park, KS",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-wellsky-4361217850?position=8&pageNum=2&refId=zW8v02xeplJoeiOXP4Qe7A%3D%3D&trackingId=LhxSKhDKW8lQEBpu7CMgxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "McLean, VA",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-jobs-via-dice-4354792882?position=9&pageNum=2&refId=zW8v02xeplJoeiOXP4Qe7A%3D%3D&trackingId=UrLyJCewBbKV2OvqmYEOyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "The Firm Real Estate",
+        "location": "Houston, TX",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-4354803175?position=7&pageNum=0&refId=lMwTX%2BFsPm3OONzQuKCMSA%3D%3D&trackingId=%2FHhcr502Gl6oX%2FO91ot9Gg%3D%3D&trk=public_jobs_jserp-result_search-card",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-13 01:41:10",
         "email_sent": false
     }
 ]
