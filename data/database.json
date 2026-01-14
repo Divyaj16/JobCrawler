@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer 1",
-        "company": "ModMed",
-        "location": "Boca Raton, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-1-at-modmed-4335341809?position=1&pageNum=0&refId=w6F9QjTzDX9a0kxDx7Nixg%3D%3D&trackingId=kXXK0cVvQ28pFOe2Xqb9sQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-14 11:53:42",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Kforce Inc",
-        "location": "Durham, NC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4343786409?position=2&pageNum=0&refId=w6F9QjTzDX9a0kxDx7Nixg%3D%3D&trackingId=qiXYc9UEetRdvFTVoVHfbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-14 11:53:42",
-        "email_sent": false
-    },
-    {
-        "title": "ETL Data Engineer II",
-        "company": "Kforce Inc",
-        "location": "Englewood, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/etl-data-engineer-ii-at-kforce-inc-4328879982?position=3&pageNum=0&refId=w6F9QjTzDX9a0kxDx7Nixg%3D%3D&trackingId=HpMfFCQIs%2B%2FmPnto4SkcTg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-14 11:53:42",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer (Direct To Cell)",
         "company": "SpaceX",
         "location": "Redmond, WA",
@@ -57,6 +27,26 @@
         "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-at-sagesure-4341067189?position=3&pageNum=0&refId=I5qE%2B2%2F%2F422TF5BCX0EWYQ%3D%3D&trackingId=UNNvSJymI8v3y24P5RtObA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-14 12:43:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "VideoAmp",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-videoamp-4355061952?position=1&pageNum=0&refId=wqAm%2F5E5%2BozVyzoAALUQjg%3D%3D&trackingId=w8AKavbglAn7PvvHtTUvcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-14 13:32:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4354849473?position=3&pageNum=0&refId=wqAm%2F5E5%2BozVyzoAALUQjg%3D%3D&trackingId=ZakOX%2Fp8brVCGhF%2F8tDH7g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-14 13:32:47",
         "email_sent": false
     }
 ]
