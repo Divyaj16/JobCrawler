@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer (Direct To Cell)",
-        "company": "SpaceX",
-        "location": "Redmond, WA",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-direct-to-cell-at-spacex-4308086326?position=1&pageNum=0&refId=I5qE%2B2%2F%2F422TF5BCX0EWYQ%3D%3D&trackingId=pqN2NuzH%2FAUjzYC2IZYTqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-14 12:43:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Reliability Engineer",
-        "company": "Zeta",
-        "location": "New Jersey, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-reliability-engineer-at-zeta-4362371177?position=2&pageNum=0&refId=I5qE%2B2%2F%2F422TF5BCX0EWYQ%3D%3D&trackingId=Ol%2BDF%2BAm18g%2BkhH3IMCPkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-14 12:43:43",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Data Analyst",
-        "company": "SageSure",
-        "location": "Jersey City, NJ",
-        "date_posted": "55 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-at-sagesure-4341067189?position=3&pageNum=0&refId=I5qE%2B2%2F%2F422TF5BCX0EWYQ%3D%3D&trackingId=UNNvSJymI8v3y24P5RtObA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-14 12:43:43",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "VideoAmp",
         "location": "United States",
@@ -47,6 +17,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4354849473?position=3&pageNum=0&refId=wqAm%2F5E5%2BozVyzoAALUQjg%3D%3D&trackingId=ZakOX%2Fp8brVCGhF%2F8tDH7g%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-14 13:32:47",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer",
+        "company": "TherapyNotes, LLC",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4355043570?position=2&pageNum=0&refId=XBA%2FeQzEwRRySKAU3Zf46Q%3D%3D&trackingId=AKiGqkmkNH%2F1LD7arD0Qdg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-14 14:02:13",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer",
+        "company": "TherapyNotes, LLC",
+        "location": "Horsham, PA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4355023537?position=3&pageNum=0&refId=XBA%2FeQzEwRRySKAU3Zf46Q%3D%3D&trackingId=s%2Fynm9OB2yLBQPXwwToZeQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-14 14:02:13",
         "email_sent": false
     }
 ]
