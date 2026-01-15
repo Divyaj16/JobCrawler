@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer II",
-        "company": "Centene Corporation",
-        "location": "United States",
-        "date_posted": "49 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-centene-corporation-4362772895?position=2&pageNum=0&refId=6o2xkzDX00ELu4%2FzxOIMzA%3D%3D&trackingId=a6FbIPk2Ce2v7Fh9%2BFTU2Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 22:44:49",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Swish Analytics",
         "location": "San Francisco, CA",
@@ -47,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-liberty-dental-plan-4353601701?position=1&pageNum=0&refId=18Xx3CJYg2opYopyl7TByQ%3D%3D&trackingId=4N3xIgadTrCx0tz13%2F3Xiw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-15 23:43:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II",
+        "company": "SimpliSafe",
+        "location": "Boston, MA",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-simplisafe-4323458468?position=1&pageNum=0&refId=3gpWLvYfJra98h%2Fq%2Bb3pYA%3D%3D&trackingId=6tKVd3Vr7EvadyVHVgn0lw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-15 23:57:03",
         "email_sent": false
     }
 ]
