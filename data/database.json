@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer I",
-        "company": "Inroads",
-        "location": "Washington, DC",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-inroads-4353501108?position=1&pageNum=0&refId=ddJHPmvIVdoOdVm%2BBA7WpA%3D%3D&trackingId=e34kwO9wtb%2BZE56kSkk6JQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 20:33:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data & Analytics Engineer",
-        "company": "Turnberry Solutions",
-        "location": "United States",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-turnberry-solutions-4362832033?position=2&pageNum=0&refId=ddJHPmvIVdoOdVm%2BBA7WpA%3D%3D&trackingId=2WTUoi5hVMboee3YNqGeZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 20:33:03",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "The Hartford",
-        "location": "Chicago, IL",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-the-hartford-4357629125?position=3&pageNum=0&refId=ddJHPmvIVdoOdVm%2BBA7WpA%3D%3D&trackingId=hj%2F5SUbtKXjcaB5nWjas3w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 20:33:03",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer II",
         "company": "Centene Corporation",
         "location": "United States",
@@ -37,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-centene-corporation-4362772895?position=3&pageNum=0&refId=ehnpUz8v7rqVHEeOjDOWrg%3D%3D&trackingId=xw8%2BAaYuU6VEKKKIdsJ4SQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-15 21:21:53",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "The Hartford",
+        "location": "Columbus, OH",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-the-hartford-4359129101?position=3&pageNum=0&refId=AZALO2SrH3jZ%2BkeFpsNKRQ%3D%3D&trackingId=jiN2Z1jbxcABvy4nHYrhfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-15 21:41:46",
         "email_sent": false
     }
 ]
