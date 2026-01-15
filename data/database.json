@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "TF Holdings",
-        "location": "Dallas-Fort Worth Metroplex",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tf-holdings-4362746003?position=1&pageNum=0&refId=i8H%2BLXf%2B5IgXzaEJ90LJ9A%3D%3D&trackingId=Ba%2B53QujcRR92WLQLMfZeA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 19:29:31",
-        "email_sent": false
-    },
-    {
-        "title": "Database Engineer",
-        "company": "TherapyNotes, LLC",
-        "location": "United States",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-therapynotes-llc-4359190295?position=3&pageNum=0&refId=i8H%2BLXf%2B5IgXzaEJ90LJ9A%3D%3D&trackingId=E5wFikqlm0NwH9bJ1CJ%2BHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 19:29:31",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer - Camera Intelligence",
         "company": "Apple",
         "location": "Cupertino, CA",
@@ -27,6 +7,36 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-camera-intelligence-at-apple-4357658586?position=1&pageNum=0&refId=9auESqGKlRByi9ibeWsOnA%3D%3D&trackingId=Eohlfqa44py8AKvVZaTYgg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-15 19:49:04",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer I",
+        "company": "Inroads",
+        "location": "Washington, DC",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-inroads-4353501108?position=1&pageNum=0&refId=ddJHPmvIVdoOdVm%2BBA7WpA%3D%3D&trackingId=e34kwO9wtb%2BZE56kSkk6JQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-15 20:33:03",
+        "email_sent": false
+    },
+    {
+        "title": "Data & Analytics Engineer",
+        "company": "Turnberry Solutions",
+        "location": "United States",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-turnberry-solutions-4362832033?position=2&pageNum=0&refId=ddJHPmvIVdoOdVm%2BBA7WpA%3D%3D&trackingId=2WTUoi5hVMboee3YNqGeZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-15 20:33:03",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "The Hartford",
+        "location": "Chicago, IL",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-the-hartford-4357629125?position=3&pageNum=0&refId=ddJHPmvIVdoOdVm%2BBA7WpA%3D%3D&trackingId=hj%2F5SUbtKXjcaB5nWjas3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-15 20:33:03",
         "email_sent": false
     }
 ]
