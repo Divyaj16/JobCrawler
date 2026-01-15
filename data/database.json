@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Visionet Systems Inc.",
-        "location": "Newport Beach, CA",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-visionet-systems-inc-4362469773?position=1&pageNum=0&refId=0kbKTCpITWo6%2FaWFFv5J4A%3D%3D&trackingId=UYyAmpUDkqbev5hQzrnINw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 16:35:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer 1",
-        "company": "Intuit",
-        "location": "Mountain View, CA",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4362841852?position=3&pageNum=0&refId=0kbKTCpITWo6%2FaWFFv5J4A%3D%3D&trackingId=hJYn6PlbGkJ2QUWMLO14Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 16:35:08",
-        "email_sent": false
-    },
-    {
         "title": "Junior Data Engineer",
         "company": "Mod Op",
         "location": "Cleveland, OH",
@@ -27,6 +7,26 @@
         "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-mod-op-4362891552?position=1&pageNum=0&refId=MEO%2F9jZMwSj4MqhrbJYi8A%3D%3D&trackingId=83XNvNNb8BLtr0kUETDH7Q%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-15 17:07:48",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Aditi Consulting",
+        "location": "Rhode Island, United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-aditi-consulting-4362852029?position=1&pageNum=0&refId=bn9uZe6VUjBhZhoJE82OXQ%3D%3D&trackingId=f3OVgKa00luNfJZ6QHkI3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-15 17:50:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Contributor (No experience needed)",
+        "company": "TransPerfect",
+        "location": "Kurtistown, HI",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-contributor-no-experience-needed-at-transperfect-4359170764?position=2&pageNum=0&refId=bn9uZe6VUjBhZhoJE82OXQ%3D%3D&trackingId=nVMHUUoHEJlLd%2B%2Bf%2BSTTVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-15 17:50:14",
         "email_sent": false
     }
 ]
