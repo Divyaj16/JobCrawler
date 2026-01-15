@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Haystack",
-        "location": "Greater Chicago Area",
-        "date_posted": "57 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4357624973?position=1&pageNum=0&refId=6jp4uecU%2B6jDrL5SzhQbkA%3D%3D&trackingId=2Obq2cfYnLdETwMVraE%2FRQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 10:25:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Haystack",
-        "location": "Greater Milwaukee",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4359160155?position=2&pageNum=0&refId=6jp4uecU%2B6jDrL5SzhQbkA%3D%3D&trackingId=gfbi9mh4fPhLmqrF61vNMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 10:25:18",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Data Analyst",
-        "company": "ExecutivePlacements.com",
-        "location": "California, United States",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-analyst-at-executiveplacements-com-4362724679?position=3&pageNum=0&refId=6jp4uecU%2B6jDrL5SzhQbkA%3D%3D&trackingId=xwSfersUAN8wVufgiAFwSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-15 10:25:18",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer - New Grad",
         "company": "Valon",
         "location": "San Francisco, CA",
@@ -57,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-gumgum-4341798395?position=3&pageNum=0&refId=3KVPjyzFKY%2B8kh1Fe%2Bw74g%3D%3D&trackingId=57go9oKyR7cfUf1BIHXADg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-15 10:51:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Motion Recruitment",
+        "location": "McLean, VA",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-motion-recruitment-4341008056?position=3&pageNum=0&refId=Y66lFRHqDeSB3FVBY%2B4wUA%3D%3D&trackingId=f0cw80UhgASfA%2FYLlz8t%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-15 11:31:17",
         "email_sent": false
     }
 ]
