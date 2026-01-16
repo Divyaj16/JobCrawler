@@ -1,22 +1,672 @@
 [
     {
-        "title": "Data Engineer, Sr.",
-        "company": "BNSF Railway",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-bnsf-railway-4363880077?position=2&pageNum=0&refId=Fs6E1Le9goPAkhQxt8KkAw%3D%3D&trackingId=ZlENVHDIsYMUabkXLa3GWg%3D%3D",
+        "title": "Data Engineer I",
+        "company": "Cox Automotive Inc.",
+        "location": "Austin, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-cox-automotive-inc-4361294764?position=1&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=DSvDIzFeFXzkjyWZNcW6lA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-01-16 16:56:24",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Js, Python)",
+        "company": "Red Hat",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-js-python-at-red-hat-4363770119?position=4&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=G4PZObMhbX%2BWYoOtio0GiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Warehouse",
+        "company": "Lockheed Martin",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-warehouse-at-lockheed-martin-4363820096?position=5&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=AhLEitQ%2Bjs%2FxQMw4IphkKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Baptist Health",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-baptist-health-4364020052?position=6&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=e%2FunsawnEbz3B625%2F4nn%2Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
         "email_sent": false
     },
     {
         "title": "Data Engineer II",
-        "company": "Centene Corporation",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-centene-corporation-4363860085?position=3&pageNum=0&refId=Fs6E1Le9goPAkhQxt8KkAw%3D%3D&trackingId=PKK%2BeY1cbdp%2BEiueuGq0vA%3D%3D",
+        "company": "Glidewell Dental",
+        "location": "Irvine, CA",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-glidewell-dental-4359196069?position=7&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=Bj01BFhA5BxeXrHPlVuqzg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-01-16 16:56:24",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, SQL)",
+        "company": "RB Global Inc.",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-sql-at-rb-global-inc-4363860086?position=8&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=qBrazQDpbNpBnaGYwa6Huw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - 100% Remote",
+        "company": "Sysco",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-100%25-remote-at-sysco-4357601359?position=9&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=gqReHhMTMXjxOdL7mVIYjw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Stripe",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-stripe-4364020051?position=10&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=xlR2D%2BOCk%2FNZ7%2Bq6165weA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst Assistant / Data Entry Clerk",
+        "company": "Marist University",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-assistant-data-entry-clerk-at-marist-university-4359264337?position=11&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=ajksXNi0FJOixtz0Ef7o8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Addison Group",
+        "location": "United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-addison-group-4359214815?position=12&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=9Ny1K3MMIsN7eq70G4pd%2Bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "California, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309699533?position=13&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=T9saNo6t2lcrwOUxEybnOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "CorSource",
+        "location": "Chicago, IL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-corsource-4325759732?position=14&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=57%2Bpk3mpbA8ULsuDLnh7YA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "Washington, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309816031?position=15&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=Gr%2B60xKbUvyT%2BCC%2BkNGPCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "Massachusetts, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309698560?position=16&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=dRMRVlqvQXZqWdHUeQPaQw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "Florida, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309802365?position=17&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=Di73HSyos6O0VDYA0UT2AQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "Texas, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309695957?position=18&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=KbHtvJCN%2Foo853QngEKcOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Blockly Infrastructure)",
+        "company": "Raspberry Pi Foundation",
+        "location": "California, United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-blockly-infrastructure-at-raspberry-pi-foundation-4363880674?position=19&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=MP3jwgbGKmjPE4M8G2gHcg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Oracle PL/SQL Database Engineer",
+        "company": "Largeton Group",
+        "location": "Houston, TX",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/oracle-pl-sql-database-engineer-at-largeton-group-4363890618?position=20&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=S1RrYxbX5P9WgJJOoT10Pg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "Colorado, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309806235?position=21&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=w4N3lDukhP5shiy0SSWPcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Blockly Infrastructure)",
+        "company": "Raspberry Pi Foundation",
+        "location": "Washington, United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-blockly-infrastructure-at-raspberry-pi-foundation-4363730753?position=22&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=6ALpXIFZB9Dx1C0t0gnykA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Blockly Infrastructure)",
+        "company": "Raspberry Pi Foundation",
+        "location": "Massachusetts, United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-blockly-infrastructure-at-raspberry-pi-foundation-4363860635?position=23&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=d770ueC4Y2JVUZ9kmTSPNg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Data)",
+        "company": "Dexcom",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-at-dexcom-4363730178?position=24&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=7KXyqkslztXj54f3o0wV5w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "New Jersey, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309689867?position=25&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=%2B%2F4zT4cfvfYzbwjPWY59ig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "North Carolina, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309808291?position=26&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=gRmHYyIuAVAlT7F%2FNCZMCQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Blockly Infrastructure)",
+        "company": "Raspberry Pi Foundation",
+        "location": "Minnesota, United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-blockly-infrastructure-at-raspberry-pi-foundation-4363810684?position=27&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=q9vnH8uNOuHWsSaSwYsGFg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "Georgia, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309807267?position=28&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=ERRzlczk0SEXFKbg7DANPw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "Virginia, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309696754?position=29&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=Q4U8i%2BbibhKSSu3KMf3xag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ApTask",
+        "location": "Baltimore, MD",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-aptask-4353485638?position=30&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=cqRVEmAD4AmqAH2KvkYpEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "Illinois, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309808300?position=31&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=3rGmh3GlFYKuaFRPdtBpXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "Pennsylvania, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309815057?position=32&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=EuZyADODWW7pvVVaLcHjrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Blockly Infrastructure)",
+        "company": "Raspberry Pi Foundation",
+        "location": "Georgia, United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-blockly-infrastructure-at-raspberry-pi-foundation-4363720668?position=33&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=k33JUs0e5t%2Fw5%2Bhx29Qmjw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Criminal)",
+        "company": "First Advantage",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-criminal-at-first-advantage-4363780105?position=34&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=RF7vz5kbog%2Bsu18X7TTPqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "ProSearch",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-prosearch-4360064157?position=35&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=Q%2FVyevWc%2Bsm8MMmlcoSRIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Ventures Unlimited Inc",
+        "location": "Atlanta, GA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-ventures-unlimited-inc-4360054142?position=36&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=L9ZKWecoEsV3zKWT98NCUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (SAP)",
+        "company": "TECHEAD",
+        "location": "Richmond, VA",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-sap-at-techead-4363720444?position=37&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=pw6PjtizHPB6%2FhPQrYZu0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Samsara",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-samsara-4363800071?position=38&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=twAMLmu5KVqPmn32YWNRFw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Back End Developer",
+        "company": "hackajob",
+        "location": "Santa Clara County, CA",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/back-end-developer-at-hackajob-4359419240?position=39&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=Awgle9KLa1arFwR7JJFaCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Infrastructure",
+        "company": "Baseten",
+        "location": "New York, NY",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-infrastructure-at-baseten-4338712066?position=40&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=61Ey%2Bf69IgGjXvVhB4twVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer",
+        "company": "Cleerly",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-cleerly-4364000061?position=41&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=FA8HMLFzxF4cLFaHZShuQg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Professional)",
+        "company": "Georgia Institute of Technology",
+        "location": "Atlanta Metropolitan Area",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-professional-at-georgia-institute-of-technology-4359460172?position=42&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=Aqc70rePMW4zNbISi1fdfQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Albert Einstein College of Medicine",
+        "location": "Bronx, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-albert-einstein-college-of-medicine-4363840091?position=43&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=hEtKnwpCPcdFWJK8OVcRcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "DataAnnotation",
+        "location": "California, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-dataannotation-4309801199?position=45&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=dMLg%2Fe3N8JZphl52H7wjiA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Process Data Management Engineer",
+        "company": "Quanta Manufacturing Fremont",
+        "location": "Fremont, CA",
+        "date_posted": "41 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/process-data-management-engineer-at-quanta-manufacturing-fremont-4359187226?position=46&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=DnS6FHM%2BJ9377cjsZwPPfg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Aditi Consulting",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-aditi-consulting-4363820267?position=47&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=V%2BvBxoO5BtOYM9mVSatILg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Data Engineer (Celonis)",
+        "company": "Waters Corporation",
+        "location": "Milford, MA",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-data-engineer-celonis-at-waters-corporation-4340716005?position=48&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=rIwQpXSdSo5M7svz%2BD2adw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "DataAnnotation",
+        "location": "Massachusetts, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-dataannotation-4309692778?position=49&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=4sOMyPtMQgQD1jsLnhWLCQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "DataAnnotation",
+        "location": "Washington, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-dataannotation-4309697545?position=50&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=%2B%2B3nrObAl9yOMqzsGcZVIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Physics",
+        "company": "DataAnnotation",
+        "location": "California, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-physics-at-dataannotation-4309697587?position=51&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=pumcZmsjf62ksnApU7a%2FIg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "DataAnnotation",
+        "location": "Florida, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-dataannotation-4309804059?position=52&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=lreJUwDrbQdDRUTHox3Gjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Physics",
+        "company": "DataAnnotation",
+        "location": "Texas, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-physics-at-dataannotation-4309805137?position=53&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=JgiMa%2B%2BNz6TtxYLBqEch0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "DataAnnotation",
+        "location": "Texas, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-dataannotation-4309688931?position=54&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=2dNhVYVeDsxcpWWhSRqFoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Physics",
+        "company": "DataAnnotation",
+        "location": "Washington, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-physics-at-dataannotation-4309695803?position=55&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=rzqTzFomLUYlkHEVMK6BlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Physics",
+        "company": "DataAnnotation",
+        "location": "New Jersey, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-physics-at-dataannotation-4309805147?position=56&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=5Sv2eKlIb%2FfpPic0rJ7ovQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "DataAnnotation",
+        "location": "New Jersey, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-dataannotation-4309800131?position=57&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=gu8yStPb%2BhafoJTTcpAFIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Physics",
+        "company": "DataAnnotation",
+        "location": "Florida, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-physics-at-dataannotation-4309693861?position=58&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=7DjgxBlKaDzESM%2B4abBuTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Physics",
+        "company": "DataAnnotation",
+        "location": "Colorado, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-physics-at-dataannotation-4309808131?position=59&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=gqfjU5rRr2%2Bjx4nN8GIy0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Software Engineer",
+        "company": "DataAnnotation",
+        "location": "Georgia, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-dataannotation-4309800123?position=60&pageNum=0&refId=uvsJDv7SNG9xcOGp7n7edw%3D%3D&trackingId=0H2At%2FCqPXSfQrbDRZsUHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "North Carolina, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309808291?position=1&pageNum=2&refId=dMjtEGwMi03oQTE0zzxmPw%3D%3D&trackingId=KzpJp6yb3Cuyerp%2BHHrHjw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Blockly Infrastructure)",
+        "company": "Raspberry Pi Foundation",
+        "location": "Minnesota, United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-blockly-infrastructure-at-raspberry-pi-foundation-4363810684?position=2&pageNum=2&refId=dMjtEGwMi03oQTE0zzxmPw%3D%3D&trackingId=e9hl2ISdVLHI5y4F9vJEWQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "Georgia, United States",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309807267?position=3&pageNum=2&refId=dMjtEGwMi03oQTE0zzxmPw%3D%3D&trackingId=%2Bfq9JfjcQKPhOsiFJZlL0g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "Virginia, United States",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309696754?position=4&pageNum=2&refId=dMjtEGwMi03oQTE0zzxmPw%3D%3D&trackingId=6AUEWi7XkXYaCCQHcRLp2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ApTask",
+        "location": "Baltimore, MD",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-aptask-4353485638?position=5&pageNum=2&refId=dMjtEGwMi03oQTE0zzxmPw%3D%3D&trackingId=ltuaj2VKuDqQ0G%2FSFWCelQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "Illinois, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309808300?position=6&pageNum=2&refId=dMjtEGwMi03oQTE0zzxmPw%3D%3D&trackingId=3torV80sjDa4mzJ55ljMCQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "DataAnnotation",
+        "location": "Pennsylvania, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dataannotation-4309815057?position=7&pageNum=2&refId=dMjtEGwMi03oQTE0zzxmPw%3D%3D&trackingId=mG7VW4fdfG0LmTGgcxyANw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Blockly Infrastructure)",
+        "company": "Raspberry Pi Foundation",
+        "location": "Georgia, United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-blockly-infrastructure-at-raspberry-pi-foundation-4363720668?position=8&pageNum=2&refId=dMjtEGwMi03oQTE0zzxmPw%3D%3D&trackingId=W1AcnEcC3JWGPgi7ipsU6g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Criminal)",
+        "company": "First Advantage",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-criminal-at-first-advantage-4363780105?position=9&pageNum=2&refId=dMjtEGwMi03oQTE0zzxmPw%3D%3D&trackingId=HZeQGTsxrLc%2BtjsdDyntwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "ProSearch",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-prosearch-4360064157?position=10&pageNum=2&refId=dMjtEGwMi03oQTE0zzxmPw%3D%3D&trackingId=ZERMeWqOUz5E442muOVvyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 18:00:13",
         "email_sent": false
     }
 ]
