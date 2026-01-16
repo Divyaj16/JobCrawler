@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4363703128?position=3&pageNum=0&refId=2BAr%2Fw7nCwJGh3rQSaiksQ%3D%3D&trackingId=GX4Rxe3EY7LcJo%2FVdFgWnw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 11:45:14",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer I",
         "company": "Nike",
         "location": "Beaverton, OR",
@@ -27,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-eclaro-4296226968?position=3&pageNum=0&refId=wLXZN5DvuRvOQfg2AFz4wA%3D%3D&trackingId=QZNwrLFkmNRnaDQCzwT4jQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-16 12:42:15",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (All Levels)",
+        "company": "Abridge",
+        "location": "San Francisco, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-abridge-4318549593?position=3&pageNum=0&refId=63cxSgRSYnyojUuAMrL6Ow%3D%3D&trackingId=%2FaxLXYzG2R52T92QmcEl1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 13:27:41",
         "email_sent": false
     }
 ]
