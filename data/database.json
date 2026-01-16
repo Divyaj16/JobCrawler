@@ -1,15 +1,5 @@
 [
     {
-        "title": "AI Engineer",
-        "company": "BayRock Labs",
-        "location": "Newark, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-bayrock-labs-4363603224?position=2&pageNum=0&refId=eLY0vI%2FRXzyiZ80LYWOLqQ%3D%3D&trackingId=A6xYiPI%2Bos6189eJEd9%2FvQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 09:01:16",
-        "email_sent": false
-    },
-    {
         "title": "Tableau Data Analyst",
         "company": "Lensa",
         "location": "New York, NY",
@@ -17,6 +7,36 @@
         "url": "https://www.linkedin.com/jobs/view/tableau-data-analyst-at-lensa-4363503324?position=3&pageNum=0&refId=ragr9FMTh0hybgCawNy1vA%3D%3D&trackingId=0ygG6iaWPsdDLysEyXBINw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-16 09:36:46",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4363703128?position=1&pageNum=0&refId=ODX6%2BdwZlktL3PDtgWPr5g%3D%3D&trackingId=%2FpTHMAwQo8h9ZNnUZ8aKHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 10:23:19",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4363504137?position=2&pageNum=0&refId=ODX6%2BdwZlktL3PDtgWPr5g%3D%3D&trackingId=SBlXVZWd2xUxPnhinWXS%2Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 10:23:19",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Consertus",
+        "location": "Orange County, CA",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-consertus-4296896231?position=3&pageNum=0&refId=ODX6%2BdwZlktL3PDtgWPr5g%3D%3D&trackingId=F0ZUsPEJh7Yk5an8C6lQqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 10:23:19",
         "email_sent": false
     }
 ]
