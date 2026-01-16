@@ -1,15 +1,5 @@
 [
     {
-        "title": "Tableau Data Analyst",
-        "company": "Lensa",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/tableau-data-analyst-at-lensa-4363503324?position=3&pageNum=0&refId=ragr9FMTh0hybgCawNy1vA%3D%3D&trackingId=0ygG6iaWPsdDLysEyXBINw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 09:36:46",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Wiraa",
         "location": "United States",
@@ -37,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-consertus-4296896231?position=3&pageNum=0&refId=ODX6%2BdwZlktL3PDtgWPr5g%3D%3D&trackingId=F0ZUsPEJh7Yk5an8C6lQqg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-16 10:23:19",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Post-training Data",
+        "company": "Magic",
+        "location": "San Francisco, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-post-training-data-at-magic-4315969761?position=2&pageNum=0&refId=JqWmwWWylvAPWiUS5Ospig%3D%3D&trackingId=V7JKJOg47b3KyY68X8t1QA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 10:50:58",
         "email_sent": false
     }
 ]
