@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "PitchBook",
-        "location": "Seattle, WA",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-pitchbook-4353562728?position=1&pageNum=0&refId=ibYF9CH4LXXhzosmYfGEEQ%3D%3D&trackingId=MBXADg40e2Yew3UKP0tNmQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 05:50:07",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer 1",
-        "company": "Intuit",
-        "location": "Mountain View, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4363662440?position=2&pageNum=0&refId=ibYF9CH4LXXhzosmYfGEEQ%3D%3D&trackingId=L9h0qbWooZKXXUDlPzkURQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 05:50:07",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer 1",
-        "company": "Intuit",
-        "location": "San Diego, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4363672420?position=3&pageNum=0&refId=ibYF9CH4LXXhzosmYfGEEQ%3D%3D&trackingId=XkmPcmJOhn5v5Xee1s1bpw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 05:50:07",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Heyer Expectations LLC",
         "location": "Oakland, CA",
@@ -47,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-dale-workforce-solutions-4363533073?position=3&pageNum=0&refId=Cb242pf5LMhNNYr7ONp9QQ%3D%3D&trackingId=IPzWkRKFpj4ExbcDj7CUdg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-16 06:41:40",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "One Federal Solution",
+        "location": "Kansas City, MO",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-one-federal-solution-4362963222?position=3&pageNum=0&refId=l8p%2FMLxFLgNpxjGzF74mLA%3D%3D&trackingId=BS2VUvxR4nhu1PSm8TUkiA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 07:03:31",
         "email_sent": false
     }
 ]
