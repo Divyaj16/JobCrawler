@@ -1,25 +1,5 @@
 [
     {
-        "title": "Software Engineer I",
-        "company": "Nike",
-        "location": "Beaverton, OR",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-nike-4342175701?position=1&pageNum=0&refId=wLXZN5DvuRvOQfg2AFz4wA%3D%3D&trackingId=GcD5e4TfajC32wMRnH7MGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 12:42:15",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "ECLARO",
-        "location": "Rutherford, NJ",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-eclaro-4296226968?position=3&pageNum=0&refId=wLXZN5DvuRvOQfg2AFz4wA%3D%3D&trackingId=QZNwrLFkmNRnaDQCzwT4jQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 12:42:15",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer (All Levels)",
         "company": "Abridge",
         "location": "San Francisco, CA",
@@ -27,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-abridge-4318549593?position=3&pageNum=0&refId=63cxSgRSYnyojUuAMrL6Ow%3D%3D&trackingId=%2FaxLXYzG2R52T92QmcEl1g%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-16 13:27:41",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer I",
+        "company": "Alterman, Inc.",
+        "location": "Live Oak, TX",
+        "date_posted": "Just now",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-alterman-inc-4353211721?position=2&pageNum=0&refId=L8u1klAx0eZ8PeAkO7vECQ%3D%3D&trackingId=FxJYeec%2FSbvag%2BPA30ed9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 13:57:00",
         "email_sent": false
     }
 ]
