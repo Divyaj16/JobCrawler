@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Analyst, Supply Chain",
-        "company": "Book of the Month",
-        "location": "New York, NY",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-supply-chain-at-book-of-the-month-4362773182?position=3&pageNum=0&refId=PH1lGzeq%2BUag2O6oDVK24g%3D%3D&trackingId=yvvkLdSWs%2BBbWAk17DwWXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 15:37:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Dune",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-dune-4363703128?position=1&pageNum=0&refId=P8VH4QRSMIRr%2BM65uDKy2w%3D%3D&trackingId=9XBWdxYjOmpItkEQYaox3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 15:54:14",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Sr.",
-        "company": "CareFirst BlueCross BlueShield",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-carefirst-bluecross-blueshield-4363504137?position=2&pageNum=0&refId=P8VH4QRSMIRr%2BM65uDKy2w%3D%3D&trackingId=karJSe0vnRdiDtMexAdLUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 15:54:14",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer I",
         "company": "Cox Automotive Inc.",
         "location": "Austin, TX",
@@ -47,6 +17,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-wiraa-4363860085?position=2&pageNum=0&refId=CgavLH14B%2FvntYAwJKhMhg%3D%3D&trackingId=Jd2SnLNmWqMCB7JawUchJg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-16 16:28:20",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "BNSF Railway",
+        "location": "United States",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-bnsf-railway-4363880077?position=2&pageNum=0&refId=Fs6E1Le9goPAkhQxt8KkAw%3D%3D&trackingId=ZlENVHDIsYMUabkXLa3GWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 16:56:24",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II",
+        "company": "Centene Corporation",
+        "location": "United States",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-centene-corporation-4363860085?position=3&pageNum=0&refId=Fs6E1Le9goPAkhQxt8KkAw%3D%3D&trackingId=PKK%2BeY1cbdp%2BEiueuGq0vA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 16:56:24",
         "email_sent": false
     }
 ]
