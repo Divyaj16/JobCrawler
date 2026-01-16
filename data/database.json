@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4363703128?position=1&pageNum=0&refId=ODX6%2BdwZlktL3PDtgWPr5g%3D%3D&trackingId=%2FpTHMAwQo8h9ZNnUZ8aKHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 10:23:19",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4363504137?position=2&pageNum=0&refId=ODX6%2BdwZlktL3PDtgWPr5g%3D%3D&trackingId=SBlXVZWd2xUxPnhinWXS%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 10:23:19",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Consertus",
-        "location": "Orange County, CA",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-consertus-4296896231?position=3&pageNum=0&refId=ODX6%2BdwZlktL3PDtgWPr5g%3D%3D&trackingId=F0ZUsPEJh7Yk5an8C6lQqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-16 10:23:19",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer - Post-training Data",
         "company": "Magic",
         "location": "San Francisco, CA",
@@ -37,6 +7,26 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-post-training-data-at-magic-4315969761?position=2&pageNum=0&refId=JqWmwWWylvAPWiUS5Ospig%3D%3D&trackingId=V7JKJOg47b3KyY68X8t1QA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-16 10:50:58",
+        "email_sent": false
+    },
+    {
+        "title": "ADAS Data Engineer",
+        "company": "Lucid Motors",
+        "location": "Southfield, MI",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/adas-data-engineer-at-lucid-motors-4273769560?position=1&pageNum=0&refId=x3SqJhdbLUsOV5Qh5jL6Gg%3D%3D&trackingId=Akb8dgsp65rNiddjnZR7Yg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 11:29:40",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "LP Building Solutions",
+        "location": "Nashville, TN",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-lp-building-solutions-4322042565?position=2&pageNum=0&refId=x3SqJhdbLUsOV5Qh5jL6Gg%3D%3D&trackingId=kADZOAhWzyfj1ZhE%2BZc1aQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 11:29:40",
         "email_sent": false
     }
 ]
