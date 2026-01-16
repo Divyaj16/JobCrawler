@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "title": "Data Engineer",
+        "company": "PitchBook",
+        "location": "Seattle, WA",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-pitchbook-4353562728?position=1&pageNum=0&refId=ibYF9CH4LXXhzosmYfGEEQ%3D%3D&trackingId=MBXADg40e2Yew3UKP0tNmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 05:50:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 1",
+        "company": "Intuit",
+        "location": "Mountain View, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4363662440?position=2&pageNum=0&refId=ibYF9CH4LXXhzosmYfGEEQ%3D%3D&trackingId=L9h0qbWooZKXXUDlPzkURQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 05:50:07",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 1",
+        "company": "Intuit",
+        "location": "San Diego, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4363672420?position=3&pageNum=0&refId=ibYF9CH4LXXhzosmYfGEEQ%3D%3D&trackingId=XkmPcmJOhn5v5Xee1s1bpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-16 05:50:07",
+        "email_sent": false
+    }
+]
