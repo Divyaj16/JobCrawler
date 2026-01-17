@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4363737213?position=1&pageNum=0&refId=qGJFlQonxROvG%2B%2BswqFxng%3D%3D&trackingId=Ic3RXuBMZkqK0LfvDJTwpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 16:22:58",
-        "email_sent": false
-    },
-    {
-        "title": "Aviation Data Engineer",
-        "company": "Cignus Consulting LLC.",
-        "location": "Leesburg, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/aviation-data-engineer-at-cignus-consulting-llc-4363756982?position=2&pageNum=0&refId=qGJFlQonxROvG%2B%2BswqFxng%3D%3D&trackingId=TQ6FrkUpiX2k0dXPXYMyPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 16:22:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Hyra",
-        "location": "United States",
-        "date_posted": "53 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hyra-4364037118?position=3&pageNum=0&refId=qGJFlQonxROvG%2B%2BswqFxng%3D%3D&trackingId=%2BFjJn%2F7XF2ABHBZtdprTHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 16:22:58",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Upstart",
         "location": "United States",
@@ -47,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-general-motors-4363847050?position=3&pageNum=0&refId=KJzp9I485nw5kBLB%2F6NV%2BQ%3D%3D&trackingId=zHWdDKfI5tqIkmbl9z57NA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-17 17:19:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Data Engineer",
+        "company": "Navitas Resourcing Group",
+        "location": "Houston, TX",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-data-engineer-at-navitas-resourcing-group-4364017256?position=2&pageNum=0&refId=Z7QyNgDOTvDYoUJ9LlOV4w%3D%3D&trackingId=tSumPPut86TlVDqQWQQ9xQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 17:36:49",
         "email_sent": false
     }
 ]
