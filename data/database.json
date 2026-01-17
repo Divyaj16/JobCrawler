@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Sharp Decisions",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sharp-decisions-4362920761?position=2&pageNum=0&refId=XVizFEgHvbbv%2F2IE1J2BUw%3D%3D&trackingId=whLW5QeaanmGXjgRXi6k1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 13:57:00",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer, Sr.",
         "company": "Atlassian",
         "location": "United States",
@@ -47,6 +37,36 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-python-sql-at-docker-inc-4363746310?position=1&pageNum=0&refId=2KtdhHGGhnO8BeqfVLQ%2FcQ%3D%3D&trackingId=osaWhE6nGUDktRcAHrJJgg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-17 14:39:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Humana",
+        "location": "United States",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-humana-4363806217?position=1&pageNum=0&refId=%2FEmACdHT2QyMsxfp8ijBDw%3D%3D&trackingId=S4qb8WdTYw%2Bp6nT9iRh4%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 15:01:05",
+        "email_sent": false
+    },
+    {
+        "title": "Marketing Engineer",
+        "company": "Bourns, Inc.",
+        "location": "Carrollton, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/marketing-engineer-at-bourns-inc-4353649766?position=2&pageNum=0&refId=%2FEmACdHT2QyMsxfp8ijBDw%3D%3D&trackingId=ru0kvaIfWcelQzeQTQPJJQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 15:01:05",
+        "email_sent": false
+    },
+    {
+        "title": "Software AI Engineer",
+        "company": "micro1",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-ai-engineer-at-micro1-4363736869?position=3&pageNum=0&refId=%2FEmACdHT2QyMsxfp8ijBDw%3D%3D&trackingId=YJo1mNWG7ygpHyp4Dy%2FSFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 15:01:05",
         "email_sent": false
     }
 ]
