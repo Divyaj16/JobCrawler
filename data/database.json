@@ -1,35 +1,5 @@
 [
     {
-        "title": "Analytics Engineer",
-        "company": "CurbWaste",
-        "location": "New York County, NY",
-        "date_posted": "53 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-curbwaste-4353458158?position=1&pageNum=0&refId=f9ig9fExvsBXUnKSk8iSyA%3D%3D&trackingId=EH1n7%2F6UNiJv7sMk8QrPbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 03:37:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer II",
-        "company": "Versant Media",
-        "location": "Englewood Cliffs, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-versant-media-4360047876?position=2&pageNum=0&refId=f9ig9fExvsBXUnKSk8iSyA%3D%3D&trackingId=nLS9ppiSOkZt0rRvqq9oZg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 03:37:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Platform Engineer",
-        "company": "Aurora",
-        "location": "Pittsburgh, PA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-platform-engineer-at-aurora-4359237883?position=3&pageNum=0&refId=f9ig9fExvsBXUnKSk8iSyA%3D%3D&trackingId=K%2Fc%2FcFYLjVmDYe9MX0rxiA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 03:37:43",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst II",
         "company": "Walmart",
         "location": "Hoboken, NJ",
@@ -57,6 +27,36 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-daxwell-4363875073?position=3&pageNum=0&refId=g3pOyLgk0xFAhNIiO2ARHg%3D%3D&trackingId=sUUSh%2FLdMQ3CoVQsDdXj4g%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-17 04:10:23",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Azure Data Engineer",
+        "company": "Jet Aviation",
+        "location": "West Palm Beach, FL",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-azure-data-engineer-at-jet-aviation-4329042342?position=1&pageNum=0&refId=oxOR2i5NRjB7OYQ%2FohMKmQ%3D%3D&trackingId=lcJplr6GaBCsgzuuX1GMHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 04:46:02",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "KACE Company",
+        "location": "United States",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kace-company-4360007671?position=2&pageNum=0&refId=oxOR2i5NRjB7OYQ%2FohMKmQ%3D%3D&trackingId=brzBx0668WM35uYiAKahjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 04:46:02",
+        "email_sent": false
+    },
+    {
+        "title": "AI Engineer (Go & Python)",
+        "company": "ShelterZoom",
+        "location": "United States",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-go-python-at-shelterzoom-4360086667?position=3&pageNum=0&refId=oxOR2i5NRjB7OYQ%2FohMKmQ%3D%3D&trackingId=vrSwyr8YefkEdDvxk7M1MQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 04:46:02",
         "email_sent": false
     }
 ]
