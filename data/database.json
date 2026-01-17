@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Analyst 2",
-        "company": "Lensa",
-        "location": "Concord, NC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-2-at-lensa-4363755660?position=2&pageNum=0&refId=BH28HJX%2FhNWaq%2BXw%2F5OTAA%3D%3D&trackingId=Flh6v11o2H447k9Hv7t3LA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 09:00:43",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Jobs via Dice",
-        "location": "Texas, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4359258847?position=3&pageNum=0&refId=BH28HJX%2FhNWaq%2BXw%2F5OTAA%3D%3D&trackingId=qV%2Bw3keIUXrjvt0LxiRFIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-17 09:00:43",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Hyra",
         "location": "California, United States",
@@ -47,6 +27,36 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-onyx-odds-4360096962?position=2&pageNum=0&refId=kmuWHPKizgVkPlsCNm5a9w%3D%3D&trackingId=3Po%2Fc6XataEM5Jdp1bRohA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-17 09:43:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II - QuantumBlack, AI by McKinsey (Critical Industries)",
+        "company": "QuantumBlack, AI by McKinsey",
+        "location": "New York, NY",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-quantumblack-ai-by-mckinsey-critical-industries-at-quantumblack-ai-by-mckinsey-4323930224?position=1&pageNum=0&refId=PKU9O1pWMvx7L43voMjHSw%3D%3D&trackingId=PIbaBZevf%2Bx7dVH6gJKDSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 10:20:27",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4363806219?position=2&pageNum=0&refId=PKU9O1pWMvx7L43voMjHSw%3D%3D&trackingId=e8SPdGBNSM8HIZhmDceIHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 10:20:27",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, SQL)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-sql-at-wiraa-4363746310?position=3&pageNum=0&refId=PKU9O1pWMvx7L43voMjHSw%3D%3D&trackingId=228hEr82Le4VhEUT8UeXPg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-17 10:20:27",
         "email_sent": false
     }
 ]
