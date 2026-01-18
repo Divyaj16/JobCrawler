@@ -1,75 +1,5 @@
 [
     {
-        "title": "Data Engineer I",
-        "company": "Cox Automotive Inc.",
-        "location": "Austin, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-cox-automotive-inc-4361294764?position=1&pageNum=0&refId=npJk0lbIfmaRq95qs4%2BN%2Bg%3D%3D&trackingId=tSr4y2rbEQLaYnDhh5fWSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:50:19",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Prachub",
-        "location": "San Francisco, CA",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-prachub-4360241183?position=4&pageNum=0&refId=npJk0lbIfmaRq95qs4%2BN%2Bg%3D%3D&trackingId=%2FKw%2FvtZHJ5RmYQSUqH640g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:50:19",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer System Management",
-        "company": "Tata Consultancy Services",
-        "location": "Alexandria, VA",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-system-management-at-tata-consultancy-services-4360310317?position=5&pageNum=0&refId=npJk0lbIfmaRq95qs4%2BN%2Bg%3D%3D&trackingId=sws4pZJz%2FeHlNeg%2Fm1oCOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:50:19",
-        "email_sent": false
-    },
-    {
-        "title": "Linux Devices Software Engineer",
-        "company": "Canonical",
-        "location": "Buffalo, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/linux-devices-software-engineer-at-canonical-4363808503?position=6&pageNum=0&refId=npJk0lbIfmaRq95qs4%2BN%2Bg%3D%3D&trackingId=r7ZkAN8U%2Bb%2BZiOFW%2BvJIdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:50:19",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst",
-        "company": "Tata Consultancy Services",
-        "location": "Pittsburgh, PA",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-at-tata-consultancy-services-4360201228?position=7&pageNum=0&refId=npJk0lbIfmaRq95qs4%2BN%2Bg%3D%3D&trackingId=blnZSPGR9MnoGD9l4uDaTQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:50:19",
-        "email_sent": false
-    },
-    {
-        "title": "Linux Devices Software Engineer",
-        "company": "Canonical",
-        "location": "Baltimore, MD",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/linux-devices-software-engineer-at-canonical-4363778659?position=8&pageNum=0&refId=npJk0lbIfmaRq95qs4%2BN%2Bg%3D%3D&trackingId=CyMSwoCSp%2BQn9Luv9Jr59w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:50:19",
-        "email_sent": false
-    },
-    {
-        "title": "Traffic Management Specialist",
-        "company": "AtkinsR\u00e9alis",
-        "location": "Greensboro, NC",
-        "date_posted": "47 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/traffic-management-specialist-at-atkinsr%C3%A9alis-4364038686?position=9&pageNum=0&refId=npJk0lbIfmaRq95qs4%2BN%2Bg%3D%3D&trackingId=x23y8G4uAn5hTeHFZwnh2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 05:50:19",
-        "email_sent": false
-    },
-    {
         "title": "Junior Software Engineer (Graduate)",
         "company": "Ant-Tech",
         "location": "New York, United States",
@@ -77,6 +7,26 @@
         "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-graduate-at-ant-tech-4353732059?position=2&pageNum=0&refId=duS7lUdSeGoPCF99SaTgBw%3D%3D&trackingId=%2B8ibGaiHv0wGIH2WIyFC9Q%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-18 06:39:04",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Salt Lake City, UT",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tata-consultancy-services-4360300857?position=1&pageNum=0&refId=oP4pkOmK0XhKLqx5A%2B6rFA%3D%3D&trackingId=IzWRViR48AEbBE1CgIXALw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-18 06:59:35",
+        "email_sent": false
+    },
+    {
+        "title": "Snowflake DBT SQL Data Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "San Jose, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/snowflake-dbt-sql-data-engineer-at-tata-consultancy-services-4360114215?position=3&pageNum=0&refId=oP4pkOmK0XhKLqx5A%2B6rFA%3D%3D&trackingId=yit7S992Hd7%2F2eViVUqYAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-18 06:59:35",
         "email_sent": false
     }
 ]
