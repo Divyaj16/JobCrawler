@@ -1,16 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "SoTalent",
-        "location": "Herndon, VA",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sotalent-4353910274?position=1&pageNum=0&refId=VBF9SyfsUbBi4pdNjjVtvg%3D%3D&trackingId=Zj41UngvQcfJifA5H2tdWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 15:52:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Wiraa",
         "location": "United States",
         "date_posted": "13 minutes ago",
@@ -217,6 +207,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-first-citizens-bank-4364019594?position=3&pageNum=0&refId=UmZUlsNZGCwGywrVYh5vFQ%3D%3D&trackingId=ugF6rjT2x7Yh%2FwE8Xk6TvQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-18 16:48:59",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II",
+        "company": "Centene Corporation",
+        "location": "United States",
+        "date_posted": "49 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-centene-corporation-4364009606?position=3&pageNum=0&refId=kTT037r3LFqYjTC17AufTQ%3D%3D&trackingId=Iwmdzv6XA%2BVUbmEpV9tp5Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-18 16:59:54",
         "email_sent": false
     }
 ]
