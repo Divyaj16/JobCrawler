@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Tata Consultancy Services",
-        "location": "Salt Lake City, UT",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tata-consultancy-services-4360300857?position=1&pageNum=0&refId=oP4pkOmK0XhKLqx5A%2B6rFA%3D%3D&trackingId=IzWRViR48AEbBE1CgIXALw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 06:59:35",
-        "email_sent": false
-    },
-    {
-        "title": "Snowflake DBT SQL Data Engineer",
-        "company": "Tata Consultancy Services",
-        "location": "San Jose, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/snowflake-dbt-sql-data-engineer-at-tata-consultancy-services-4360114215?position=3&pageNum=0&refId=oP4pkOmK0XhKLqx5A%2B6rFA%3D%3D&trackingId=yit7S992Hd7%2F2eViVUqYAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-18 06:59:35",
-        "email_sent": false
-    },
-    {
         "title": "Production Planning Data Analyst",
         "company": "Oil-Dri Corporation of America",
         "location": "Blue Mountain, MS",
@@ -57,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/computer-engineer-engineer-hardware-2-26670-at-hii-4360191740?position=3&pageNum=0&refId=fBy%2FWwoCtQl8bHYxQvK0FA%3D%3D&trackingId=isCfR3EXZbxj%2BuKUukLtxQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-18 07:51:16",
+        "email_sent": false
+    },
+    {
+        "title": "Clinical Info Analyst",
+        "company": "University of Michigan",
+        "location": "Ann Arbor, MI",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/clinical-info-analyst-at-university-of-michigan-4364058742?position=2&pageNum=0&refId=ixLchcur3MZwf69p9NnexA%3D%3D&trackingId=vudaaYlOo1MeurBSLKp7nQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-18 08:00:31",
         "email_sent": false
     }
 ]
