@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Thumbtack",
-        "location": "United States",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-thumbtack-4364344001?position=1&pageNum=0&refId=Wv2y7H1PmMvx8Q0%2FZLX9Iw%3D%3D&trackingId=zb8z3Z8pibjWeqvnAizBrA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-19 17:54:46",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer (Python, SQL)",
         "company": "Docker, Inc",
         "location": "United States",
@@ -17,6 +7,26 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-python-sql-at-docker-inc-4364284037?position=1&pageNum=0&refId=bc3wF2GJ4cvUNBe5kFXWXg%3D%3D&trackingId=Skfk84chpppMJ8jYpimO7g%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-19 18:31:44",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Healthcare)",
+        "company": "BlueCross BlueShield of Tennessee",
+        "location": "United States",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-at-bluecross-blueshield-of-tennessee-4364244221?position=2&pageNum=0&refId=ST8xigjpobgPwpyv%2FLL5og%3D%3D&trackingId=J0AOftzbv%2FY42X532g8rtg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-19 18:59:18",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Brooksource",
+        "location": "Skillman, NJ",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-brooksource-4360835684?position=3&pageNum=0&refId=ST8xigjpobgPwpyv%2FLL5og%3D%3D&trackingId=cTDZZLkfxxpKNyR0%2BAyXXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-19 18:59:18",
         "email_sent": false
     }
 ]
