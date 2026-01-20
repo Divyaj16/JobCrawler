@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Sharp Decisions",
-        "location": "New York, NY",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sharp-decisions-4362920761?position=1&pageNum=0&refId=u1qYWZUUjhHsV4xknEBoSA%3D%3D&trackingId=QZlOjqBmCzY2wQt2%2BPGEkw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-20 17:29:27",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Sr.",
-        "company": "BNSF Railway",
-        "location": "United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-bnsf-railway-4364911122?position=2&pageNum=0&refId=u1qYWZUUjhHsV4xknEBoSA%3D%3D&trackingId=lBORsADxqQGCLLTisJnpjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-20 17:29:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, Golang)",
-        "company": "OpenAI",
-        "location": "United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-golang-at-openai-4364671789?position=3&pageNum=0&refId=u1qYWZUUjhHsV4xknEBoSA%3D%3D&trackingId=MmVtNCEttCLVkpBWArgXxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-20 17:29:27",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer I",
         "company": "TalentBurst, an Inc 5000 company",
         "location": "Austin, TX",
@@ -47,6 +17,16 @@
         "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-must-have-datastage-etl-at-cbts-4354747635?position=2&pageNum=0&refId=7jyXQs46tEmvNrcyPF1JKw%3D%3D&trackingId=udOyu8fxm2W%2BhQGxj3pmXQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-20 17:56:19",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II",
+        "company": "SimpliSafe",
+        "location": "Boston, MA",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-simplisafe-4323458468?position=3&pageNum=0&refId=Pzu17K3rrHoKFPmipOCyjA%3D%3D&trackingId=eskvjxatpylmibMiMW8JWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-20 18:35:59",
         "email_sent": false
     }
 ]
