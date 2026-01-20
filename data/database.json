@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Hyra",
-        "location": "Greater Philadelphia",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hyra-4364249203?position=1&pageNum=0&refId=2j06xPLBjiOBehvFX%2FBWYA%3D%3D&trackingId=ArH%2BjxeLGJDuZ7lmwIVp1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-20 09:20:05",
-        "email_sent": false
-    },
-    {
         "title": "Frontend Software Engineer | $200/hr Remote",
         "company": "Crossing Hurdles",
         "location": "United States",
@@ -47,6 +37,16 @@
         "url": "https://www.linkedin.com/jobs/view/snowflake-data-engineer-remote-at-executiveplacements-com-4364319201?position=3&pageNum=0&refId=YsfiZq6yXzb4o4H%2FCVd4Fw%3D%3D&trackingId=dtTAeJjLlfUOUL%2BF2caknw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-20 10:16:02",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI",
+        "company": "Brellium",
+        "location": "New York, NY",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-brellium-4305512909?position=1&pageNum=0&refId=KI7gNT7ZBlTjVYiJRGpBBA%3D%3D&trackingId=D9yUXPpwAU56tHhVT%2FiBJQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-20 10:51:01",
         "email_sent": false
     }
 ]
