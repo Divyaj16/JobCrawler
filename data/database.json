@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "eTeam",
-        "location": "Malvern, PA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-eteam-4360992945?position=1&pageNum=0&refId=%2BWbjaZB3%2BGfWHNVzfRH1Qg%3D%3D&trackingId=OgTPLIaqUeGp2tQgf9WDrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-20 19:52:16",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Entry Level",
-        "company": "Talent Glider",
-        "location": "United States",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-entry-level-at-talent-glider-4362062093?position=2&pageNum=0&refId=%2BWbjaZB3%2BGfWHNVzfRH1Qg%3D%3D&trackingId=aupHlqGICHMaVkP063TCbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-20 19:52:16",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4364916246?position=3&pageNum=0&refId=%2BWbjaZB3%2BGfWHNVzfRH1Qg%3D%3D&trackingId=h1Vpblm3rEpHBvXXmL8CWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-20 19:52:16",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer, Sr.",
         "company": "BNSF Railway",
         "location": "United States",
@@ -47,6 +17,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-aws-at-inherent-technologies-4364832808?position=3&pageNum=0&refId=BV3xB5pbKdymE4hHVwNz%2Fg%3D%3D&trackingId=L5xTzUboBD0MLglMHcoY6w%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-20 20:38:25",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Serve AI",
+        "location": "Kansas City Metropolitan Area",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-serve-ai-4364949385?position=2&pageNum=0&refId=4KuSkE3d7EvG%2Bigu%2BFeO%2BA%3D%3D&trackingId=WyjnUW4WGMrMTwRyyyjiMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-20 21:00:07",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "PTR Global",
+        "location": "Irving, TX",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-ptr-global-4364949298?position=3&pageNum=0&refId=4KuSkE3d7EvG%2Bigu%2BFeO%2BA%3D%3D&trackingId=wmeLI9wXEM%2FrvXFf0t8YGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-20 21:00:07",
         "email_sent": false
     }
 ]
