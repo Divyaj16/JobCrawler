@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer II",
-        "company": "SimpliSafe",
-        "location": "Boston, MA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-simplisafe-4323458468?position=1&pageNum=0&refId=pd3k5E51BhSXxYJ%2FCcih3A%3D%3D&trackingId=VPvVPMgdgoewXku5wRniqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-21 18:05:28",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analytics Engineer",
-        "company": "Ztek Consulting",
-        "location": "Chicago, IL",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-ztek-consulting-4354190572?position=2&pageNum=0&refId=pd3k5E51BhSXxYJ%2FCcih3A%3D%3D&trackingId=N4P27rwzBXljie7LPVxSew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-21 18:05:28",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Los Angeles Angels",
-        "location": "Anaheim, CA",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-los-angeles-angels-4361909699?position=3&pageNum=0&refId=pd3k5E51BhSXxYJ%2FCcih3A%3D%3D&trackingId=q3jOhtrD89PznWz5%2BciAwA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-21 18:05:28",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Tata Consultancy Services",
         "location": "Boston, MA",
@@ -37,6 +7,26 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tata-consultancy-services-4362069099?position=1&pageNum=0&refId=hRHs4FDhUpVoJlMNUdVmoQ%3D%3D&trackingId=11gyxJnVEspPKcruo%2BFPNg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-21 18:59:59",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "NerdWallet",
+        "location": "United States",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nerdwallet-4365080682?position=2&pageNum=0&refId=3%2FQeKuKasDNSkFmN4Fqbvg%3D%3D&trackingId=W2t1yJ3WJPkWo2jOikaxKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-21 19:33:08",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, SQL)",
+        "company": "Whatnot",
+        "location": "United States",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-sql-at-whatnot-4365081726?position=3&pageNum=0&refId=3%2FQeKuKasDNSkFmN4Fqbvg%3D%3D&trackingId=Ez7vpvvW3kJ%2FdTaGCxHupw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-21 19:33:08",
         "email_sent": false
     }
 ]
