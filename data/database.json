@@ -1,35 +1,5 @@
 [
     {
-        "title": "Data Engineer I",
-        "company": "Cox Automotive Inc.",
-        "location": "Austin, TX",
-        "date_posted": "57 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-at-cox-automotive-inc-4361294764?position=1&pageNum=0&refId=xJZpoTxwxyJ8IpJrclVX8A%3D%3D&trackingId=j6hCIxvezX%2B6cQ7fc390eA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-21 17:05:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "NerdWallet",
-        "location": "United States",
-        "date_posted": "54 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-nerdwallet-4365080682?position=2&pageNum=0&refId=xJZpoTxwxyJ8IpJrclVX8A%3D%3D&trackingId=Y5NsbczUON8%2Fxs7pFjKmvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-21 17:05:58",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer II (Data Stage)",
-        "company": "First Citizens Bank",
-        "location": "United States",
-        "date_posted": "54 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-data-stage-at-first-citizens-bank-4365084721?position=3&pageNum=0&refId=xJZpoTxwxyJ8IpJrclVX8A%3D%3D&trackingId=HeS24p6x40Ulw4cuilLCFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-21 17:05:58",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer II",
         "company": "SimpliSafe",
         "location": "Boston, MA",
@@ -57,6 +27,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-engineer-at-los-angeles-angels-4361909699?position=3&pageNum=0&refId=pd3k5E51BhSXxYJ%2FCcih3A%3D%3D&trackingId=q3jOhtrD89PznWz5%2BciAwA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-21 18:05:28",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Boston, MA",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tata-consultancy-services-4362069099?position=1&pageNum=0&refId=hRHs4FDhUpVoJlMNUdVmoQ%3D%3D&trackingId=11gyxJnVEspPKcruo%2BFPNg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-21 18:59:59",
         "email_sent": false
     }
 ]
