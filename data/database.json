@@ -1,15 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Auger",
-        "location": "Bellevue, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-auger-4365004687?position=1&pageNum=0&refId=wfpUfM78Y%2BM4dqYpdy2Y1Q%3D%3D&trackingId=oVBpN09YiCgS5uU8mhNvNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-21 06:01:36",
-        "email_sent": false
-    },
-    {
         "title": "Junior Software Engineer",
         "company": "Blue Heron Capital",
         "location": "Cut Off, LA",
@@ -27,6 +17,26 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-apg-at-snowflake-4361985159?position=2&pageNum=0&refId=NbU8wOHQWx%2BURTrJk5AQxg%3D%3D&trackingId=%2Ff%2BugWwCn5HkZ0Rfop084g%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-21 06:53:07",
+        "email_sent": false
+    },
+    {
+        "title": "Systems Software Engineer | $150/hr Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/systems-software-engineer-%24150-hr-remote-at-crossing-hurdles-4354147505?position=2&pageNum=0&refId=AAW4uFgMal%2F6jKNwj28MRA%3D%3D&trackingId=ZMRskzsbS%2FaadeK7Az5wbg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-21 07:28:24",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Irving, TX",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4354047683?position=3&pageNum=0&refId=AAW4uFgMal%2F6jKNwj28MRA%3D%3D&trackingId=19JkxiueY%2BWUmbXQ32Am3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-21 07:28:24",
         "email_sent": false
     }
 ]
