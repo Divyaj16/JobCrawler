@@ -1,65 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-best-job-tool-4365679693?position=3&pageNum=0&refId=eC%2F9VUT3OcOL2qwPLNdirg%3D%3D&trackingId=feDpB2QwrFL2uJQ3S3Uy5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-24 19:17:18",
-        "email_sent": false
-    },
-    {
-        "title": "IT Data Analyst",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/it-data-analyst-at-best-job-tool-4365681531?position=4&pageNum=0&refId=eC%2F9VUT3OcOL2qwPLNdirg%3D%3D&trackingId=mdGY34A%2BcaexKUngmG11Nw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-24 19:17:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Viberank.dev",
-        "location": "United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-viberank-dev-4365694156?position=5&pageNum=0&refId=eC%2F9VUT3OcOL2qwPLNdirg%3D%3D&trackingId=vZML9%2BdsMsSEAYoBNGY6wQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-24 19:17:18",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-best-job-tool-4365684485?position=6&pageNum=0&refId=eC%2F9VUT3OcOL2qwPLNdirg%3D%3D&trackingId=Theu215bUGkazCUcSjUAHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-24 19:17:18",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-best-job-tool-4365673857?position=11&pageNum=0&refId=eC%2F9VUT3OcOL2qwPLNdirg%3D%3D&trackingId=NEgP96ryBEGyHitFHUS4mw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-24 19:17:18",
-        "email_sent": false
-    },
-    {
-        "title": "Data Science Analyst 1",
-        "company": "Inside Higher Ed",
-        "location": "Atlanta, GA",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-science-analyst-1-at-inside-higher-ed-4365677797?position=13&pageNum=0&refId=eC%2F9VUT3OcOL2qwPLNdirg%3D%3D&trackingId=PMT71WNKhaew5lnDvQbobQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-24 19:17:18",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Best Job Tool",
         "location": "United States",
@@ -147,6 +87,166 @@
         "url": "https://www.linkedin.com/jobs/view/development-engineering-technician-ii-2nd-shift-at-first-solar-4330430634?position=18&pageNum=0&refId=XxUWlH5fHMdDrfKIZ4qtfQ%3D%3D&trackingId=M8v9CoEhPtZdAWVhv8nrOQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-24 19:56:43",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Fusemachines",
+        "location": "United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-fusemachines-4365685286?position=1&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=0YezGEaAzllPeatn6yveCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II",
+        "company": "First Citizens Bank",
+        "location": "United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-first-citizens-bank-4365671844?position=2&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=%2BpNqScSMmUvjtj%2BlHZmjYg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (API, SQL)",
+        "company": "Shippo",
+        "location": "United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-shippo-4365684281?position=3&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=LjFdV4ehBGLqqTopBqp4FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "TEAM, Inc.",
+        "location": "United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-team-inc-4365684280?position=5&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=cy6Kh9XFZQmk4exV2r7x4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Data",
+        "company": "Dexcom",
+        "location": "United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-at-dexcom-4365679445?position=7&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=cClx9ny%2BnsUbZi4e%2B6dXrw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst II",
+        "company": "Centene Corporation",
+        "location": "United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-centene-corporation-4365675528?position=11&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=EKWxINqF91fFryvMCdTgSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Sr.",
+        "company": "Tinder",
+        "location": "United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-tinder-4365682273?position=12&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=n1WnfOfc8xEejwFFcKqn8A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Js, API)",
+        "company": "Gusto",
+        "location": "United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-js-api-at-gusto-4365673630?position=13&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=wKwd3BbAHGu8JZO3%2FLgkGg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Java, C++)",
+        "company": "Stripe",
+        "location": "United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-c%2B%2B-at-stripe-4365673629?position=15&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=e8FMLgsL55CU%2BE2Nd0JPyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (React, C#)",
+        "company": "AAPC",
+        "location": "United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-react-c%23-at-aapc-4365670929?position=17&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=34EqQx1QzlBp3Qlw%2BF2WLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Sr.",
+        "company": "FedEx",
+        "location": "United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-fedex-4365684279?position=20&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=H0pZyZ9ULflzc2WOMmLS1w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "TaxSlayer",
+        "location": "United States",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-taxslayer-4365692102?position=22&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=HhiJrPCCiwJGEbiIysHJeg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist Junior-Level 117-005 with Security Clearance",
+        "company": "ClearanceJobs",
+        "location": "Springfield, VA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-junior-level-117-005-with-security-clearance-at-clearancejobs-4355681087?position=24&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=MLBV16eiZsnelwTd4Plu7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer with Security Clearance",
+        "company": "ClearanceJobs",
+        "location": "Hanover, MD",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-with-security-clearance-at-clearancejobs-4355791014?position=25&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=tbV5doE9Qttz9LHXrpCUeg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Project Engineer",
+        "company": "Jobot",
+        "location": "Magna, UT",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/project-engineer-at-jobot-4355761793?position=27&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=mfrtRo7LcHK8WIMMviAOLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
+        "email_sent": false
+    },
+    {
+        "title": "Project Analyst",
+        "company": "TransPerfect Connect",
+        "location": "Phoenix, AZ",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/project-analyst-at-transperfect-connect-4365681768?position=28&pageNum=0&refId=xVQlyq7CHg3XcE6ZtyTz4Q%3D%3D&trackingId=kcanpRC8QXXKZ3OCCrbzRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 20:21:56",
         "email_sent": false
     }
 ]
