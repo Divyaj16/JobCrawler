@@ -88,5 +88,65 @@
         "source": "LinkedIn",
         "scraped_date": "2026-01-24 09:31:27",
         "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Experis",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-experis-4321377090?position=1&pageNum=0&refId=RIHnA4LD1OplBZWbsPZM7g%3D%3D&trackingId=EwplrwwPZ3aay%2FVLvYOsGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 09:46:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Annotator",
+        "company": "Experis",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-annotator-at-experis-4321307565?position=2&pageNum=0&refId=RIHnA4LD1OplBZWbsPZM7g%3D%3D&trackingId=gP6Q8AmvyKYFnsVKg3ehEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 09:46:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Haystack",
+        "location": "Atlanta, GA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4365629161?position=4&pageNum=0&refId=RIHnA4LD1OplBZWbsPZM7g%3D%3D&trackingId=a%2FTuQ8alAkqJVA0mcRpVLg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 09:46:36",
+        "email_sent": false
+    },
+    {
+        "title": "Custom Software Engineer",
+        "company": "Experis",
+        "location": "Philadelphia, PA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/custom-software-engineer-at-experis-4321355468?position=8&pageNum=0&refId=RIHnA4LD1OplBZWbsPZM7g%3D%3D&trackingId=PHVPscZiGaQTgw%2BnjdN9EA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 09:46:36",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "Experis",
+        "location": "San Francisco, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-experis-4321355469?position=9&pageNum=0&refId=RIHnA4LD1OplBZWbsPZM7g%3D%3D&trackingId=C3iDFojd6ZucBQ%2Fy990%2BLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 09:46:36",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer",
+        "company": "ComEd",
+        "location": "Oakbrook Terrace, IL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-at-comed-4358160083?position=11&pageNum=0&refId=RIHnA4LD1OplBZWbsPZM7g%3D%3D&trackingId=cg49yp90GR0k9QHA0s3wxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-24 09:46:36",
+        "email_sent": false
     }
 ]
