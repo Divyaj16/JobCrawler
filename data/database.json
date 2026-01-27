@@ -1,575 +1,5 @@
 [
     {
-        "title": "Data Engineer II",
-        "company": "BD",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-bd-4366376714?position=4&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=xFoJyXOP9FpO2W8uWXBrHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "AWS Systems Engineer 1",
-        "company": "Elsevier",
-        "location": "Philadelphia, PA",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/aws-systems-engineer-1-at-elsevier-4366032239?position=5&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=Pg12uxkZCygKGVUq8Q%2Bs2Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer New Graduate",
-        "company": "eBay",
-        "location": "Austin, TX",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-new-graduate-at-ebay-4366024419?position=6&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=KqE5%2FHeIhmhd%2FRopzYr%2B7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Js, SQL)",
-        "company": "The RealReal",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-js-sql-at-the-realreal-4366367847?position=7&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=nfQPPYqsM1xpU9uekYATdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "iHeartMedia",
-        "location": "Nashville, TN",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-iheartmedia-4366379870?position=11&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=s%2B%2BJmtJ90b61qRsEti2R%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "heathcare Data Analyst",
-        "company": "Ethos Infoways",
-        "location": "Boston, MA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/heathcare-data-analyst-at-ethos-infoways-4355966736?position=13&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=uZ9JUu0ttg6YlZ3MVd2aNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "MAASco Tech LLC",
-        "location": "Richmond, VA",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-maasco-tech-llc-4366021429?position=14&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=GVINLEkWf2zDxVKjlst%2FmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "AppFolio",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-appfolio-4366373710?position=18&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=PzDvgP7fejf5ax7CJ0hnZw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst Assistant",
-        "company": "NYC Department of Environmental Protection (NYC DEP)",
-        "location": "New York, NY",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-assistant-at-nyc-department-of-environmental-protection-nyc-dep-4356124260?position=20&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=bZzKfcfoAsEtjg0hxvMrOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer-EN",
-        "company": "CAE",
-        "location": "Tampa, FL",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-en-at-cae-4351401274?position=23&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=5UNqm27wO3pSuwKT5LJ40Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Jack Henry",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-jack-henry-4366386032?position=25&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=5yUCI1FcphGa9CKA3tsqKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (React, C#)",
-        "company": "AAPC",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-react-c%23-at-aapc-4366370755?position=28&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=Afr3JSTVAdd6aPdLVr0MWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, API)",
-        "company": "CareFirst BlueCross BlueShield",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-api-at-carefirst-bluecross-blueshield-4366375706?position=29&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=RmKTMTiY6WR%2F2u7lpckCQg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Automation Engineer",
-        "company": "Pediatric Associates Family of Companies",
-        "location": "United States",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-automation-engineer-at-pediatric-associates-family-of-companies-4366369945?position=30&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=3RQ3a0moahJeySUkz63DUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Salesforce)",
-        "company": "NBCUniversal",
-        "location": "New York, NY",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-salesforce-at-nbcuniversal-4366378949?position=31&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=58tnGOVFnvv0hDVOOdix9A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Salesforce)",
-        "company": "NBCUniversal",
-        "location": "New York, NY",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-salesforce-at-nbcuniversal-4366386363?position=32&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=oTGtfHjIyN%2FAGrcva59VGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer (C++ Engineer) --TANDC5726581",
-        "company": "Compunnel Inc.",
-        "location": "Dallas, TX",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-c%2B%2B-engineer-tandc5726581-at-compunnel-inc-4366370926?position=34&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=9XVkyz6OOuSWbAXjrbH%2ByQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst",
-        "company": "Tata Consultancy Services",
-        "location": "Des Moines, IA",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-at-tata-consultancy-services-4366026305?position=35&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=zm3YPzzeizRInVtWwYWsZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "B/CORE",
-        "location": "McLean, VA",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-b-core-4366017292?position=36&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=2Z0SuBDuFiGi%2B%2ByJ6pECew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Analyst I Infrastructure Services",
-        "company": "TalentAlly",
-        "location": "Dallas-Fort Worth Metroplex",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-analyst-i-infrastructure-services-at-talentally-4366394026?position=37&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=c97MErLx09Foqks3%2F2XyNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Culture Analyst",
-        "company": "Ethisphere",
-        "location": "United States",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/culture-analyst-at-ethisphere-4366021191?position=38&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=mNk4g3fSXsDpvFSHcSD2Rw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer",
-        "company": "TechServ Engineering",
-        "location": "Fort Worth, TX",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-at-techserv-engineering-4360773613?position=39&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=u8Zv9TpJmRKQsDT4Iddmbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "System Design Engineer",
-        "company": "Cyient",
-        "location": "Everett, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/system-design-engineer-at-cyient-4347030533?position=40&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=rP%2BrYdAR%2FxM%2BF6hU48O19Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Geographic Information Systems Technician",
-        "company": "Brooksource",
-        "location": "Atlanta Metropolitan Area",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/geographic-information-systems-technician-at-brooksource-4366021440?position=41&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=wMeoERB6OqajT5B0id2Mcg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Research Assistant",
-        "company": "ACL Digital",
-        "location": "Massachusetts, United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/research-assistant-at-acl-digital-4366021393?position=42&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=wLenfzZT%2FO1Jce%2FzI444og%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Analyst",
-        "company": "EPITEC",
-        "location": "Chicago, IL",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/operations-analyst-at-epitec-4366022459?position=43&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=w9MoeBaXIgZObAMwY%2FLkxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Power Market Analyst, Energy Storage - Texas",
-        "company": "TalentAlly",
-        "location": "Greater Houston",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/power-market-analyst-energy-storage-texas-at-talentally-4366395032?position=44&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=jkwPc1NadCeF6Blgouk42A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Analyst",
-        "company": "TalentAlly",
-        "location": "San Diego Metropolitan Area",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/operations-analyst-at-talentally-4366380754?position=45&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=ZMHeuOmUyHWSdGG%2BvOAG1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Part Time Sustainable Communities Lab Research Assistants",
-        "company": "Penn State University",
-        "location": "Scranton, PA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/part-time-sustainable-communities-lab-research-assistants-at-penn-state-university-4366014181?position=46&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=xyGAzvQhovlx%2B0decrzA8Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Mixed Methods Research",
-        "company": "CHEManager International",
-        "location": "Atlanta, GA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-mixed-methods-research-at-chemanager-international-4366017427?position=47&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=TQ21J8ppLTNIsOaFgvwvPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Program Analyst",
-        "company": "UICGS / Bowhead Family of Companies",
-        "location": "Aberdeen, MD",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/program-analyst-at-uicgs-bowhead-family-of-companies-4366028387?position=48&pageNum=0&refId=eYAxR0BQPHWnU5p3M2msOw%3D%3D&trackingId=xwYbSGNwerZMDJGr5t0W3w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:17:59",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "CRG",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-crg-4366034047?position=6&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=p4AEWgSZDi0TEV%2FwVXSzfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer / ML Engineer",
-        "company": "Selby Jennings",
-        "location": "San Jose, CA",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ml-engineer-at-selby-jennings-4366393196?position=7&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=gXaozEOFE4%2B8k4WrgI307w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "TalentAlly",
-        "location": "Lehi, UT",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talentally-4366396254?position=10&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=%2FXUYWvTiGFVlcO6vGgogkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Technische Universit\u00e4t Braunschweig",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-technische-universit%C3%A4t-braunschweig-4366386118?position=13&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=XHbcE5VSmljBFiO3HO1TzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Python",
-        "company": "Comcast",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-at-comcast-4366378569?position=16&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=pEDsQJ%2BdeiszsPG%2BPNtOEA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "TalentAlly",
-        "location": "Norco, CA",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talentally-4366397229?position=19&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=2LJkmBO%2FsBoMY9WWe%2FWQ5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "LiveWire Technologies Inc.",
-        "location": "Little Elm, TX",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-livewire-technologies-inc-4366027387?position=25&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=h2zupWDnF%2BzVx6Zj7W%2Ftdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Systems Engineer/Analyst",
-        "company": "Torch Technologies, Inc.",
-        "location": "Redstone Arsenal, AL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-systems-engineer-analyst-at-torch-technologies-inc-4366379494?position=26&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=J8LGQVlmZacYGvNBYjzIOA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "TalentAlly",
-        "location": "Riverside, CA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talentally-4366386584?position=29&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=wbh%2FYoNViIfPoyJ2PiYo0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Basketball Software Engineer (Full-Stack) \u2014 Equity Only",
-        "company": "Wisely Optimize",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/basketball-software-engineer-full-stack-%E2%80%94-equity-only-at-wisely-optimize-4366380669?position=30&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=ZeGBYjNuk29gPM5KHs4Ehg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4355307964?position=34&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=1PUGWdlqhx48FO0zsIk%2FtA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4355849784?position=36&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=Or23xiUsNR2xOk264plp%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "PAM Data Solutions Developer",
-        "company": "Baird",
-        "location": "Milwaukee, WI",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/pam-data-solutions-developer-at-baird-4366023714?position=41&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=xwo4TAYBETuRvNU5s4jPPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Trauma Data Analyst",
-        "company": "Hartford HealthCare",
-        "location": "New Britain, CT",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/trauma-data-analyst-at-hartford-healthcare-4361613596?position=44&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=x%2BGwvBLG36EmjgfMfb9PCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "TalentAlly",
-        "location": "Torrance, CA",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-talentally-4366392322?position=45&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=a0rFSJqKSKmn9UbAvJW%2BHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Northrop Grumman, 2026 Associate Reliability Systems Engineer/Reliability Systems Engineer - Application via WayUp",
-        "company": "WayUp",
-        "location": "San Diego, CA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/northrop-grumman-2026-associate-reliability-systems-engineer-reliability-systems-engineer-application-via-wayup-at-wayup-4366384535?position=49&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=D6Wz%2FhPuXnZE0i3yx5dxoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Back End (Global Payment Network)",
-        "company": "Capital One",
-        "location": "Deerfield, IL",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-back-end-global-payment-network-at-capital-one-4366396275?position=50&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=aKwI7%2BXsXXqexVhRDuBf8Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Back End (Global Payment Network)",
-        "company": "Capital One",
-        "location": "Deerfield, IL",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-back-end-global-payment-network-at-capital-one-4366394300?position=52&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=zdkjofM7oljUxbC5KXDa5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Commissioning Software Engineer",
-        "company": "Saronic Technologies",
-        "location": "New Orleans, LA",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/commissioning-software-engineer-at-saronic-technologies-4354676525?position=53&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=9%2FyhM3lVzkhnMwwr%2BWwpeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Northrop Grumman, 2026 Associate Reliability Systems Engineer/Reliability Systems Engineer - Application via WayUp",
-        "company": "WayUp",
-        "location": "El Segundo, CA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/northrop-grumman-2026-associate-reliability-systems-engineer-reliability-systems-engineer-application-via-wayup-at-wayup-4366387379?position=55&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=1QRcFW5PnenFn4oagxJLpw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Northrop Grumman, 2026 Associate Reliability Systems Engineer/Reliability Systems Engineer - Application via WayUp",
-        "company": "WayUp",
-        "location": "Palmdale, CA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/northrop-grumman-2026-associate-reliability-systems-engineer-reliability-systems-engineer-application-via-wayup-at-wayup-4366386399?position=56&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=Du6YWNCMEJEzGsRgFd4y%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Northrop Grumman, 2026 Associate Reliability Systems Engineer/Reliability Systems Engineer - Application via WayUp",
-        "company": "WayUp",
-        "location": "Oklahoma City, OK",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/northrop-grumman-2026-associate-reliability-systems-engineer-reliability-systems-engineer-application-via-wayup-at-wayup-4366387378?position=58&pageNum=0&refId=5%2B02SSzgbkC5JhBqqGUksQ%3D%3D&trackingId=XodPFq8vaXKoK3ng7%2FcdLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Systems Engineer/Analyst",
-        "company": "Torch Technologies, Inc.",
-        "location": "Redstone Arsenal, AL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-systems-engineer-analyst-at-torch-technologies-inc-4366379494?position=1&pageNum=2&refId=3iGQBY16a2SuLEHoLO2qfA%3D%3D&trackingId=2uGGIVMw%2Fv6i9GFK81SVOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "TalentAlly",
-        "location": "Riverside, CA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-talentally-4366386584?position=4&pageNum=2&refId=3iGQBY16a2SuLEHoLO2qfA%3D%3D&trackingId=MtYzF4Ecux0HitoGyGbtDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Basketball Software Engineer (Full-Stack) \u2014 Equity Only",
-        "company": "Wisely Optimize",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/basketball-software-engineer-full-stack-%E2%80%94-equity-only-at-wisely-optimize-4366380669?position=5&pageNum=2&refId=3iGQBY16a2SuLEHoLO2qfA%3D%3D&trackingId=Ij38qcNiaG%2FLAJZ%2BzTxPIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4355307964?position=9&pageNum=2&refId=3iGQBY16a2SuLEHoLO2qfA%3D%3D&trackingId=o7IHQkDKpXwfRwWQG2rfTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-27 17:48:59",
-        "email_sent": false
-    },
-    {
         "title": "Data & Integration Engineer  - Phoenix",
         "company": "AECOM",
         "location": "Phoenix, AZ",
@@ -907,6 +337,286 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-creativity-apps-at-apple-4366022972?position=10&pageNum=2&refId=sYN14lTc%2Fd%2BAVPvYvs25sA%3D%3D&trackingId=V5JOinbjpdyFfYyiOKjPGg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-27 18:03:27",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4366608069?position=2&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=lcy1R2blNep6PsbZP3AhbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "EquipmentShare",
+        "location": "Columbia, MO",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-equipmentshare-4358253632?position=5&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=d8bkpykMvjEVE34gwhd0pQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Computer / Software Engineer",
+        "company": "Blue Alpine",
+        "location": "St Anthony, ID",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/computer-software-engineer-at-blue-alpine-4366025813?position=6&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=HRJ0b1uNK8pnSP3Z2VPglQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer \u2013 Celonis",
+        "company": "Lara Tech Consulting",
+        "location": "United States",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-%E2%80%93-celonis-at-lara-tech-consulting-4366017960?position=8&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=%2BlXbeVVZwwDq4mwCTteCVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Workout & Fitness",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-workout-fitness-at-apple-4366049032?position=9&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=5VfJ3HiPV6XHBHPebT1czA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Full-Stack Software Engineer",
+        "company": "Apple",
+        "location": "Sunnyvale, CA",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-apple-4366050090?position=10&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=T5wBH4BAgV%2Fc8D2ObBmaCw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Workout & Fitness",
+        "company": "Apple",
+        "location": "San Diego, CA",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-workout-fitness-at-apple-4366034993?position=12&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=nA6k0s0sul2rFzIn6Fxorg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data & Integration Engineer - Chicago, IL",
+        "company": "AECOM",
+        "location": "Chicago, IL",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-integration-engineer-chicago-il-at-aecom-4356193351?position=13&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=HxXpaVEYQOAdxDvDgysiag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Full-Stack Software Engineer",
+        "company": "Apple",
+        "location": "San Diego, CA",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-apple-4366036464?position=14&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=rETdkxeHh7%2BYT%2FCNxRLCdA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Constellation Space (YC W26)",
+        "location": "United States",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-constellation-space-yc-w26-4366035710?position=16&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=%2FUo1P2kE3%2B59GU62FYn1sg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Apple Services Engineering, iCloud Platform",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-apple-services-engineering-icloud-platform-at-apple-4366048044?position=17&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=sXIpxCCM%2BdWT5MXWQTSuBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Entry Level 2026",
+        "company": "Belvedere Trading, LLC",
+        "location": "Chicago, IL",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-entry-level-2026-at-belvedere-trading-llc-4366390525?position=19&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=%2FTCdMLlZWPXKhVUi22rD%2Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "New York, United States",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4366056038?position=23&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=ZQDI%2FY%2FjypAKNXvIXGtMmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "hackajob",
+        "location": "New York, United States",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/frontend-developer-at-hackajob-4366601530?position=24&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=eXUPDXmTp5xzSwFgzh4UbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "Washington, United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4366045077?position=26&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=MPFRfC1TsJuq7a%2BATwzIOA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "Texas, United States",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4366048052?position=29&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=UI7qpVrLVSJfOJCH%2Fs7liA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Creativity Apps",
+        "company": "Apple",
+        "location": "Cary, NC",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-creativity-apps-at-apple-4366038013?position=31&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=ze%2FYC9%2F6SpqqtZuQiWRn8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "California, United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4366038132?position=33&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=C8x7p%2FINvKlVi1jOCR4vaQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hirenza",
+        "location": "United States",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4366391598?position=36&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=uiTpS5A8LL%2BfYRBtMI1%2FVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Lead",
+        "location": "San Francisco Bay Area",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-lead-4354352768?position=39&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=AfETITSjd4%2BQ7zubA%2B%2FsVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Apple Services Engineering, iCloud Platform",
+        "company": "Apple",
+        "location": "Seattle, WA",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-apple-services-engineering-icloud-platform-at-apple-4366047056?position=43&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=Ko9NdOhObwP1M7XmcpC99A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:13",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Creativity Apps",
+        "company": "Apple",
+        "location": "Culver City, CA",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-creativity-apps-at-apple-4366031931?position=48&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=3grCrtpqL3Y6ny1RU4Tn3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:14",
+        "email_sent": false
+    },
+    {
+        "title": "WatchOS Software QA Engineer",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/watchos-software-qa-engineer-at-apple-4366045014?position=50&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=rt8D2oh70n7w%2FQgpAeasdg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:14",
+        "email_sent": false
+    },
+    {
+        "title": "Systems Software Engineer, Information Security",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "date_posted": "51 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/systems-software-engineer-information-security-at-apple-4366023928?position=52&pageNum=0&refId=iKaaBV8oSv1nVviNS38R8Q%3D%3D&trackingId=mv1w7iVTexooM%2FMlVRw%2FYQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:14",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "New York, United States",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4366056038?position=3&pageNum=2&refId=Lj6RCrJ9rysiYjTK%2FOnMwg%3D%3D&trackingId=OSOZiWCIMLCqzjI5PrstOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:14",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Developer",
+        "company": "hackajob",
+        "location": "New York, United States",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/frontend-developer-at-hackajob-4366601530?position=4&pageNum=2&refId=Lj6RCrJ9rysiYjTK%2FOnMwg%3D%3D&trackingId=fF3n0htneXSnHtn8XFOnkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:14",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "Washington, United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4366045077?position=6&pageNum=2&refId=Lj6RCrJ9rysiYjTK%2FOnMwg%3D%3D&trackingId=pLrLDJ%2Ba%2F4CS9kae8OJ6tg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:14",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ATC",
+        "location": "Texas, United States",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-atc-4366048052?position=9&pageNum=2&refId=Lj6RCrJ9rysiYjTK%2FOnMwg%3D%3D&trackingId=T1p18jnfYepfH48WQBteAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-27 18:58:14",
         "email_sent": false
     }
 ]
