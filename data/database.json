@@ -1,246 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Randa Apparel & Accessories",
-        "location": "Rosemont, IL",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-randa-apparel-accessories-4324328615?position=1&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=7UBXoozNnr%2B%2B%2F1RUb7XVFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "GCP & Python Developer",
-        "company": "Infosys",
-        "location": "Hartford, CT",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/gcp-python-developer-at-infosys-4343817960?position=5&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=AfZwLdU2g2i%2BgfFouYeb7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Haystack",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4366471088?position=7&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=wGjKWR21DjmMZ24hAcWwMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Haystack",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4366472077?position=8&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=R9QIM4G21wB11FG6whzj8w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Security Engineer",
-        "company": "EY",
-        "location": "Jacksonville, FL",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-security-engineer-at-ey-4324420953?position=10&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=D28QwCC0BDbR4KpmYodV0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "Safran Defense & Space, Inc.",
-        "location": "Norcross, GA",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-safran-defense-space-inc-4344047251?position=11&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=Z29jljZHX7slTB%2BC%2BUEs1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Tech Consulting",
-        "location": "Wisconsin, United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4366460523?position=12&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=%2FrgPyiIiPMpWvTIQ2I334Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer",
-        "company": "Mural Health",
-        "location": "United States",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-mural-health-4366722978?position=14&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=99mhX0omztL8QIxJ43sbIw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Tech Consulting",
-        "location": "Illinois, United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4366478218?position=15&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=1BWJ6WbYpj%2BKcSR9lz6W%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Security Engineer",
-        "company": "EY",
-        "location": "Louisville, KY",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-security-engineer-at-ey-4324411040?position=16&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=fDLyfSsKrAcDcg9ChhrsQg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Data Infra Reliability",
-        "company": "Luma AI",
-        "location": "Palo Alto, CA",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-infra-reliability-at-luma-ai-4344070838?position=17&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=QfJ4F4gsAqphaAqEFP3n2w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Transaction Banking, Analyst/Associate",
-        "company": "Goldman Sachs",
-        "location": "Dallas, TX",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-transaction-banking-analyst-associate-at-goldman-sachs-4272461449?position=19&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=XS8LKhgQnuRS8P%2BXvae3Mg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Alarm.com",
-        "location": "Tysons Corner, VA",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-alarm-com-4337324187?position=23&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=M%2BeNeo04Ymd%2BUQonjHApVw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "155309 Sr Principal Data Engineer(PowerBI,SQL)",
-        "company": "JSM Consulting Inc.",
-        "location": "Minnetonka, MN",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/155309-sr-principal-data-engineer-powerbi-sql-at-jsm-consulting-inc-4366745126?position=24&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=WUJi%2FWqFADd1tl5isRgZOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Haystack",
-        "location": "Denver Metropolitan Area",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-haystack-4366461170?position=25&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=pz%2BvvHedmN0ipz5m955vKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer II",
-        "company": "Expedia Group",
-        "location": "Denver, CO",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-ii-at-expedia-group-4366449939?position=28&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=2Lal901ZJTueUsqDlWDFfQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Sanctions Data Analyst Associate",
-        "company": "SMBC Group",
-        "location": "Jersey City, NJ",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sanctions-data-analyst-associate-at-smbc-group-4358325677?position=30&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=dnwLa0scWB3eYmkO5s%2F8pQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer in Test",
-        "company": "Tower Research Capital",
-        "location": "New York, United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-at-tower-research-capital-4343836986?position=33&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=o3dxDcWaK7P9uzMc2XOrDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer-EN",
-        "company": "CAE",
-        "location": "Arlington, TX",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-en-at-cae-4351246976?position=37&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=TsKX3WyNpFOHvPwfSHriAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer II",
-        "company": "Expedia Group",
-        "location": "Denver, CO",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-ii-at-expedia-group-4366442969?position=40&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=lRqYI3h90B4q4wFap41XNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "ARAUCO - North America",
-        "location": "Atlanta, GA",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-arauco-north-america-4343949514?position=41&pageNum=0&refId=yYmu1uavHIETbV5CPCfo7g%3D%3D&trackingId=vnQYdZUREef7yQL%2FMbprlg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer II",
-        "company": "Expedia Group",
-        "location": "Denver, CO",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-ii-at-expedia-group-4366449939?position=3&pageNum=2&refId=5cVzoSzID1GL581lbFFFDg%3D%3D&trackingId=DbotqJwq887w%2BG7qnvOvag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Sanctions Data Analyst Associate",
-        "company": "SMBC Group",
-        "location": "Jersey City, NJ",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sanctions-data-analyst-associate-at-smbc-group-4358325677?position=5&pageNum=2&refId=5cVzoSzID1GL581lbFFFDg%3D%3D&trackingId=LdbBgpstQ%2BbNnD5zDR3jUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer in Test",
-        "company": "Tower Research Capital",
-        "location": "New York, United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-at-tower-research-capital-4343836986?position=8&pageNum=2&refId=5cVzoSzID1GL581lbFFFDg%3D%3D&trackingId=4lJRCCzVpOgjnyhzphrtjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-28 12:47:08",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "The Alfred Foundation",
         "location": "Alfred, NY",
         "date_posted": "29 minutes ago",
@@ -817,6 +577,266 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-sonimus-4366742288?position=10&pageNum=2&refId=fBKNShNEJulaGTGpFmTbmw%3D%3D&trackingId=9KdWVSkh4M9rQwD9aUmnpw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-28 13:39:19",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "Humana",
+        "location": "United States",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-humana-4366719523?position=2&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=rg1AS%2FO0sf8iY0BPhqfHxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "Fanatics",
+        "location": "United States",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-fanatics-4366714674?position=3&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=GjVw7tlBZb6JwCnhUp6SYg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Remote)",
+        "company": "Sonimus",
+        "location": "New York, United States",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-sonimus-4366746636?position=6&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=8Ybs8AIjqy0IxgGIZ2WPSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Remote)",
+        "company": "Sonimus",
+        "location": "New Jersey, United States",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-sonimus-4366733929?position=8&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=F3fOdvZfn%2F%2Fa6vTeOLxd6Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Remote)",
+        "company": "Sonimus",
+        "location": "Texas, United States",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-sonimus-4366737882?position=9&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=WOPpCW2jaf9syaQCVIlBrw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Remote)",
+        "company": "Sonimus",
+        "location": "North Carolina, United States",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-sonimus-4366744731?position=10&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=Gb9NKx2ukswnRuiIGd4PWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Remote)",
+        "company": "Sonimus",
+        "location": "Ohio, United States",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-sonimus-4366747697?position=15&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=UROGTk80KTiYnfVVxykV3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (Remote)",
+        "company": "Sonimus",
+        "location": "Pennsylvania, United States",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-remote-at-sonimus-4366737881?position=16&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=WFsy%2B0wp3%2Bu6smy2A%2BpE%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst / Entry Level (Remote)",
+        "company": "Sonimus",
+        "location": "New Jersey, United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-sonimus-4366755151?position=18&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=LriXF9Zz%2BkoYicWctSSdVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst / Entry Level (Remote)",
+        "company": "Sonimus",
+        "location": "North Carolina, United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-sonimus-4366748651?position=22&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=eg9DYv3huY9Qa7AaP1CKAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst / Entry Level (Remote)",
+        "company": "Sonimus",
+        "location": "Texas, United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-sonimus-4366751252?position=25&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=l6V4ZyeNI2SsxLx9yfmJGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst Full Time (100% Remote)",
+        "company": "Sonimus",
+        "location": "New York, United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-sonimus-4366747653?position=29&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=2ApsM0D3L8ApWZhkSMH8UQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst / Entry Level (Remote)",
+        "company": "Sonimus",
+        "location": "Pennsylvania, United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-sonimus-4366754186?position=32&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=bb39Px%2FCwaYH1NJ1JAOTkg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst Full Time (100% Remote)",
+        "company": "Sonimus",
+        "location": "Texas, United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-sonimus-4366739794?position=33&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=akXlDcLGcFUtfWeaopPguw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst / Entry Level (Remote)",
+        "company": "Sonimus",
+        "location": "Ohio, United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-sonimus-4366747654?position=34&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=zj9VGps5STPuHFFHdKpB8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst / Entry Level (Remote)",
+        "company": "Sonimus",
+        "location": "New York, United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-sonimus-4366735898?position=39&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=gagbWaoouMW%2Bgej487jIdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst Full Time (100% Remote)",
+        "company": "Sonimus",
+        "location": "New Jersey, United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-sonimus-4366734920?position=40&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=zInbR7LS34m1%2BFEELGJnZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst Full Time (100% Remote)",
+        "company": "Sonimus",
+        "location": "North Carolina, United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-sonimus-4366749451?position=45&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=LzbxeACCq8j84Cg8c%2FfFLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst Full Time (100% Remote)",
+        "company": "Sonimus",
+        "location": "Pennsylvania, United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-sonimus-4366753209?position=47&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=QGWO0zR8szaZfT9qT1gTkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Data",
+        "company": "Patreon",
+        "location": "United States",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-at-patreon-4366711747?position=48&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=lTibEB1zmTSKr3eMgAcOgg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst Full Time (100% Remote)",
+        "company": "Sonimus",
+        "location": "Ohio, United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-sonimus-4366753208?position=49&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=lOZuPwFg5Q8Ji7a%2FtnNoAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I, Data Pipeline",
+        "company": "Amplitude",
+        "location": "San Francisco Bay Area",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-data-pipeline-at-amplitude-4366756147?position=60&pageNum=0&refId=dK%2B8nQgIMCWQ4pRgxGLmiA%3D%3D&trackingId=uxX9l43aXagpOC77usGGfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst Full Time (100% Remote)",
+        "company": "Sonimus",
+        "location": "New York, United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-sonimus-4366747653?position=4&pageNum=2&refId=uaIKyNYja%2BIJCf6IVA9dDA%3D%3D&trackingId=Qi20qwGzvosXGo%2Fw0r64KQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst / Entry Level (Remote)",
+        "company": "Sonimus",
+        "location": "Pennsylvania, United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-sonimus-4366754186?position=7&pageNum=2&refId=uaIKyNYja%2BIJCf6IVA9dDA%3D%3D&trackingId=iNEvpKM0wCVZZxMfTsA5mA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst Full Time (100% Remote)",
+        "company": "Sonimus",
+        "location": "Texas, United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-full-time-100%25-remote-at-sonimus-4366739794?position=8&pageNum=2&refId=uaIKyNYja%2BIJCf6IVA9dDA%3D%3D&trackingId=U4QuETYP10JN8WqV7KXRAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Data Analyst / Entry Level (Remote)",
+        "company": "Sonimus",
+        "location": "Ohio, United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-data-analyst-entry-level-remote-at-sonimus-4366747654?position=9&pageNum=2&refId=uaIKyNYja%2BIJCf6IVA9dDA%3D%3D&trackingId=YuJfRsFLArupKqzmRXZsTw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-28 14:07:39",
         "email_sent": false
     }
 ]
