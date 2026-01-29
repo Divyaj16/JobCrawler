@@ -1,126 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "DraftKings Inc.",
-        "location": "Boston, MA",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-draftkings-inc-4367005832?position=2&pageNum=0&refId=vlaXWNoFaoYP8Uf1UwMXpA%3D%3D&trackingId=DwXEuy6t0NrIU9HYGPwDIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 21:00:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Ripple",
-        "location": "New York, NY",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ripple-4311837319?position=6&pageNum=0&refId=vlaXWNoFaoYP8Uf1UwMXpA%3D%3D&trackingId=U4AxRckw2o0gHuZ%2Fl5Nl2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 21:00:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "Apple",
-        "location": "Cupertino, CA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4367022334?position=9&pageNum=0&refId=vlaXWNoFaoYP8Uf1UwMXpA%3D%3D&trackingId=wvyUluDYbG4iNy%2FHPBO%2Bqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 21:00:48",
-        "email_sent": false
-    },
-    {
-        "title": "SQL Developer",
-        "company": "Confidential Company",
-        "location": "Greater Cleveland",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sql-developer-at-confidential-company-4367023365?position=14&pageNum=0&refId=vlaXWNoFaoYP8Uf1UwMXpA%3D%3D&trackingId=%2BBPuIlsI%2BeKZDE7Bi5tROw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 21:00:48",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "MCA Connect",
-        "location": "United States",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-mca-connect-4358775130?position=20&pageNum=0&refId=vlaXWNoFaoYP8Uf1UwMXpA%3D%3D&trackingId=VG2htgTSr5oQGOM61GNbTg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 21:00:48",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer",
-        "company": "General Dynamics Mission Systems",
-        "location": "Pittsburgh, PA",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-general-dynamics-mission-systems-4367011592?position=32&pageNum=0&refId=vlaXWNoFaoYP8Uf1UwMXpA%3D%3D&trackingId=8VTAghQ%2FBkrKeOsyi9KWYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 21:00:48",
-        "email_sent": false
-    },
-    {
-        "title": "Assoc Engineer, Software",
-        "company": "T-Mobile",
-        "location": "Atlanta, GA",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/assoc-engineer-software-at-t-mobile-4367325675?position=34&pageNum=0&refId=vlaXWNoFaoYP8Uf1UwMXpA%3D%3D&trackingId=3SBoFLm0r8BslPSbsnUiDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 21:00:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "ETS",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ets-4343446338?position=37&pageNum=0&refId=vlaXWNoFaoYP8Uf1UwMXpA%3D%3D&trackingId=DC4DkQwwMphjIHK6Al9DRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 21:00:48",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Data Scientist",
-        "company": "MD Anderson Cancer Center",
-        "location": "Houston, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-data-scientist-at-md-anderson-cancer-center-4367317514?position=38&pageNum=0&refId=vlaXWNoFaoYP8Uf1UwMXpA%3D%3D&trackingId=xT0vN%2F8wdpMhPv8UwFhEhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 21:00:48",
-        "email_sent": false
-    },
-    {
-        "title": "Analytics Developer",
-        "company": "Children's Healthcare of Atlanta",
-        "location": "Brookhaven, GA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analytics-developer-at-children-s-healthcare-of-atlanta-4367330604?position=52&pageNum=0&refId=vlaXWNoFaoYP8Uf1UwMXpA%3D%3D&trackingId=bmNKaC%2BDqjXFiyLpz9HJHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 21:00:48",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer",
-        "company": "General Dynamics Mission Systems",
-        "location": "Pittsburgh, PA",
-        "date_posted": "1 minute ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-general-dynamics-mission-systems-4367011592?position=7&pageNum=2&refId=uVAi4XSCMbl0YvnqvuXe2g%3D%3D&trackingId=Aqp3DVKs5Trl9PrqVbNFyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 21:00:48",
-        "email_sent": false
-    },
-    {
-        "title": "Assoc Engineer, Software",
-        "company": "T-Mobile",
-        "location": "Atlanta, GA",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/assoc-engineer-software-at-t-mobile-4367325675?position=9&pageNum=2&refId=uVAi4XSCMbl0YvnqvuXe2g%3D%3D&trackingId=CAARj6Y%2Bh3N8bzxX8OGZWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-29 21:00:48",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "Amentum",
         "location": "Arlington, VA",
         "date_posted": "22 minutes ago",
@@ -677,6 +557,336 @@
         "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-mlabs-4367178242?position=9&pageNum=2&refId=jPY899SwQfujOdvJnCl7gQ%3D%3D&trackingId=8msK38%2Bx7l4Rf2UufkQ5lQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-29 21:57:55",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer in Test",
+        "company": "BeaconFire Inc.",
+        "location": "New Jersey, United States",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-beaconfire-inc-4356093761?position=10&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=ojPu7iRoIPkuHG4ehjbuGg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "IBM Data Power Developer",
+        "company": "Softcom Systems Inc",
+        "location": "Phoenix, AZ",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ibm-data-power-developer-at-softcom-systems-inc-4367019669?position=13&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=VATDLWoRHz7dKY%2FiAv137Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Kforce Inc",
+        "location": "Columbus, OH",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-kforce-inc-4367348111?position=16&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=f39VW2VPu%2Fv0ObuSwblZGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "Kforce Inc",
+        "location": "Tempe, AZ",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-developer-at-kforce-inc-4367341952?position=19&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=9awIKDsXhwYQWwY60mU1Qg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer in Test",
+        "company": "BeaconFire Inc.",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-beaconfire-inc-4356556718?position=26&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=wMrrNvIzGIaWXfXZi7SG3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4356460571?position=37&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=keRYsbu4enXSYrpg9lzOrg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas",
+        "company": "Goldman Sachs",
+        "location": "Dallas, TX",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/asset-wealth-management-software-engineer-associate-dallas-at-goldman-sachs-4367015718?position=39&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=XE3Lg77a6xmE4cAeulFGWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "East Windsor, NJ",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4356655063?position=40&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=ApP%2Bpn5lJV3uuIaejXWoIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": ".Net Developer / Software Engineer",
+        "company": "Vernovis",
+        "location": "Cincinnati, OH",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/net-developer-software-engineer-at-vernovis-4367358023?position=41&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=pEA3bWmNv5UhU3AlizTbmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Sr.",
+        "company": "Comcast",
+        "location": "United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-comcast-4367187217?position=42&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=2laFQkVYk%2BtpBLWtBJmAhA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I - LRX Core",
+        "company": "Crunchyroll",
+        "location": "San Francisco, CA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-lrx-core-at-crunchyroll-4367016798?position=45&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=unzHyI5D%2Bclf%2FBv1Uqwsgw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "Insight Global",
+        "location": "Spring, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-insight-global-4367015600?position=49&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=cejtXYwjEkLv9hjGN51XHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst",
+        "company": "swipejobs",
+        "location": "New York, NY",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-at-swipejobs-4367353104?position=52&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=vTfyua1GMM3s7axuVHMjqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II - LRX Core",
+        "company": "Crunchyroll",
+        "location": "San Francisco, CA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-lrx-core-at-crunchyroll-4367012893?position=53&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=d1GsyLQolw%2BWFcMq5c6hXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data & Automation Analyst (Remote)",
+        "company": "CrowdStrike",
+        "location": "United States",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-automation-analyst-remote-at-crowdstrike-4356577948?position=54&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=t1I8yo0j7Ce8xc2t6D0xog%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II, Frontend",
+        "company": "Crunchyroll",
+        "location": "San Francisco, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-frontend-at-crunchyroll-4367017783?position=58&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=igPUrt67027KwJJ%2BAT7EBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Baseball Data Support Coordinator (Seasonal)",
+        "company": "Major League Baseball (MLB)",
+        "location": "United States",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/baseball-data-support-coordinator-seasonal-at-major-league-baseball-mlb-4344338067?position=59&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=NkmVunsWnuqpX4pVDkgIdg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Safety Engineer: Multiple levels",
+        "company": "Torch Technologies, Inc.",
+        "location": "Redstone Arsenal, AL",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-safety-engineer-multiple-levels-at-torch-technologies-inc-4367336990?position=60&pageNum=0&refId=Zh4nlquRcffWt9coWp4l3A%3D%3D&trackingId=7uwlJavvovDKfEyn0MKraA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer in Test",
+        "company": "BeaconFire Inc.",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-beaconfire-inc-4356556718?position=1&pageNum=2&refId=Wq4NDFBHSpZSQUvj%2BzusdQ%3D%3D&trackingId=kl9eex9zXuX1mtI4TcV%2BXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst",
+        "company": "swipejobs",
+        "location": "New York, NY",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-at-swipejobs-4367353104?position=2&pageNum=5&refId=qpAlCo1LwBK6st7z6E%2BSzg%3D%3D&trackingId=P%2FJKtdOTfBDLoxlDWsHCrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II - LRX Core",
+        "company": "Crunchyroll",
+        "location": "San Francisco, CA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-lrx-core-at-crunchyroll-4367012893?position=3&pageNum=5&refId=qpAlCo1LwBK6st7z6E%2BSzg%3D%3D&trackingId=zNtg%2FNxTrUcCBzw%2Fv5WIag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data & Automation Analyst (Remote)",
+        "company": "CrowdStrike",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-automation-analyst-remote-at-crowdstrike-4356577948?position=4&pageNum=5&refId=qpAlCo1LwBK6st7z6E%2BSzg%3D%3D&trackingId=52MDyNmqYPsMKv1M4YAfrw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II, Frontend",
+        "company": "Crunchyroll",
+        "location": "San Francisco, CA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-frontend-at-crunchyroll-4367017783?position=8&pageNum=5&refId=qpAlCo1LwBK6st7z6E%2BSzg%3D%3D&trackingId=bgK5ollG1fr4ZPNTgZg5nA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Baseball Data Support Coordinator (Seasonal)",
+        "company": "Major League Baseball (MLB)",
+        "location": "United States",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/baseball-data-support-coordinator-seasonal-at-major-league-baseball-mlb-4344338067?position=9&pageNum=5&refId=qpAlCo1LwBK6st7z6E%2BSzg%3D%3D&trackingId=vUTedsBbh9xI0vjhK1bZCQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Safety Engineer: Multiple levels",
+        "company": "Torch Technologies, Inc.",
+        "location": "Redstone Arsenal, AL",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-safety-engineer-multiple-levels-at-torch-technologies-inc-4367336990?position=10&pageNum=5&refId=qpAlCo1LwBK6st7z6E%2BSzg%3D%3D&trackingId=pgX%2BNXfmVVd%2BNUm6bvzu%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Mechanical Engineer - R10220936",
+        "company": "Northrop Grumman",
+        "location": "Plymouth, MN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/mechanical-engineer-r10220936-at-northrop-grumman-4367331829?position=1&pageNum=7&refId=VAqptlpaO%2FjR0%2F7ObH5J2w%3D%3D&trackingId=td3xNvCemro2UCCB4A%2BDkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Client Services Analyst II",
+        "company": "Gainwell Technologies",
+        "location": "Texas, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/client-services-analyst-ii-at-gainwell-technologies-4352132368?position=2&pageNum=7&refId=VAqptlpaO%2FjR0%2F7ObH5J2w%3D%3D&trackingId=lBpvOMuJ3pAKYAYOU6QfqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Field Application Engineer - Remote located in Bay Area, CA",
+        "company": "TE Connectivity",
+        "location": "Redwood City, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-field-application-engineer-remote-located-in-bay-area-ca-at-te-connectivity-4367359143?position=3&pageNum=7&refId=VAqptlpaO%2FjR0%2F7ObH5J2w%3D%3D&trackingId=0da0wVaLGPd0%2FD48q2Unhw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Maintenance Technician",
+        "company": "Hyatt",
+        "location": "Nashville, TN",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/maintenance-technician-at-hyatt-4367363070?position=4&pageNum=7&refId=VAqptlpaO%2FjR0%2F7ObH5J2w%3D%3D&trackingId=ppeur3BzVnpBtZ%2FohQWmAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Analyst Series - Fleet Planning, and Contracts",
+        "company": "Metropolitan Transportation Authority",
+        "location": "Bronx, NY",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-analyst-series-fleet-planning-and-contracts-at-metropolitan-transportation-authority-4367021616?position=5&pageNum=7&refId=VAqptlpaO%2FjR0%2F7ObH5J2w%3D%3D&trackingId=dqfqnLObVFtofopjs4Hamg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "CEI Inspector Aide",
+        "company": "SAM",
+        "location": "Sarasota, FL",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/cei-inspector-aide-at-sam-4367359066?position=6&pageNum=7&refId=VAqptlpaO%2FjR0%2F7ObH5J2w%3D%3D&trackingId=AfHI2%2FPahFmmAxCmWFdqUA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Construction Inspector II",
+        "company": "SAM",
+        "location": "Sarasota, FL",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/construction-inspector-ii-at-sam-4367341996?position=7&pageNum=7&refId=VAqptlpaO%2FjR0%2F7ObH5J2w%3D%3D&trackingId=xJO%2FuWkNoAtUrpV28Anhwg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
+        "email_sent": false
+    },
+    {
+        "title": "Outside Sales Representative",
+        "company": "Builders FirstSource",
+        "location": "Cortez, CO",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-at-builders-firstsource-4367016662?position=8&pageNum=7&refId=VAqptlpaO%2FjR0%2F7ObH5J2w%3D%3D&trackingId=4mv0s4XRxOMmWnBdO9Ri8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-29 22:29:30",
         "email_sent": false
     }
 ]
