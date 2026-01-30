@@ -1,15 +1,5 @@
 [
     {
-        "title": "Healthcare Data Scientist",
-        "company": "Methodist Le Bonheur Healthcare",
-        "location": "Memphis, TN",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/healthcare-data-scientist-at-methodist-le-bonheur-healthcare-4367432248?position=6&pageNum=0&refId=lloGnzlVJueI68pAscR29w%3D%3D&trackingId=el9xiTc9QVyZRrxdzvanTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-30 09:56:10",
-        "email_sent": false
-    },
-    {
         "title": "Software Development Engineer",
         "company": "Adobe",
         "location": "San Jose, CA",
@@ -317,6 +307,496 @@
         "url": "https://www.linkedin.com/jobs/view/criticality-safety-engineer-at-shine-technologies-4367435285?position=38&pageNum=0&refId=kVSLnIW8VYGuHTwnTqdiMw%3D%3D&trackingId=Jr41OQSNBRWEK2OA4B3PQg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-30 10:34:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Solace",
+        "location": "United States",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-solace-4329948151?position=2&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=x%2BWK5j9NLwNYR6c6EpqvCg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Post-training Data",
+        "company": "Magic",
+        "location": "New York, NY",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-post-training-data-at-magic-4347981315?position=5&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=DSKhxDVzUiuOVNBVRHRxNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Post-training Data",
+        "company": "Magic",
+        "location": "Seattle, WA",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-post-training-data-at-magic-4347822514?position=6&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=0bqIgu7vjg0IHT%2FaSTJfJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Aurora",
+        "location": "Mountain View, CA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-aurora-4331981726?position=7&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=SddN5C9jBfwVnA9jWMlD3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Rilla",
+        "location": "New York, NY",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-rilla-4249515331?position=10&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=AlO76tHJV%2FjJsDvjo6o9Nw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Vertiv",
+        "location": "Westerville, OH",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-vertiv-4359661115?position=11&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=FpvjV1f70ukmcwxMFZVLuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Synthetic Data & Annotations",
+        "company": "Applied Intuition",
+        "location": "Sunnyvale, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-synthetic-data-annotations-at-applied-intuition-3679200884?position=12&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=OpzXMLEfXgFnQTQ4p%2FzXLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Data Engine",
+        "company": "Applied Intuition",
+        "location": "Sunnyvale, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-engine-at-applied-intuition-4255936547?position=13&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=lv%2FTRiKR66D6cCvUt0p34w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "ChatGPT Jobs",
+        "location": "Santa Clara, CA",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-chatgpt-jobs-4356730091?position=14&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=c9Xzp0%2FclhgiOCHNJI6ZHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Frontend",
+        "company": "Applied Intuition",
+        "location": "Washington, DC",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-applied-intuition-3960991127?position=16&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=KUvhRM3mO0xvi6zetpFqyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, AI Products",
+        "company": "Google DeepMind",
+        "location": "Mountain View, CA",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-products-at-google-deepmind-4344884405?position=17&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=5fqHFH8t78dcq9hIJCB2zA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Full Stack",
+        "company": "Applied Intuition",
+        "location": "Mountain View, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-applied-intuition-4258343207?position=18&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=nT1taVWkUYLFEwVzFtCe6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Full-Stack Software Engineer",
+        "company": "Aircall",
+        "location": "Seattle, WA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-aircall-4344934805?position=20&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=P%2B9EpQcfbrUJ1lgj1mOF5w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Mission Sim",
+        "company": "Applied Intuition",
+        "location": "Sunnyvale, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-mission-sim-at-applied-intuition-4166029573?position=21&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=3OopB6pWFSw2JoCG6VvqTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Simulation Orchestration",
+        "company": "Applied Intuition",
+        "location": "Sunnyvale, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-simulation-orchestration-at-applied-intuition-4158404951?position=23&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=4V5Ogv%2F4zPuq5NXAwIGiGw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Kafka",
+        "company": "Applied Intuition",
+        "location": "Sunnyvale, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-kafka-at-applied-intuition-4263726719?position=24&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=tFyvNOk%2FKDJh8%2FFfGh1DkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Implant",
+        "company": "Neuralink",
+        "location": "Fremont, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-implant-at-neuralink-4223673171?position=26&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=aQ8r8MSKRehHNAszggyxbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Engineer",
+        "company": "Revature",
+        "location": "Plano, TX",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-engineer-at-revature-4367224308?position=27&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=wK1%2BiRXFvon7kkmff7ZE8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Robotics",
+        "company": "Neuralink",
+        "location": "Fremont, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-robotics-at-neuralink-4097045106?position=28&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=Hv1ZzlcaKgnAbs%2BQwMPbkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, BCI Applications",
+        "company": "Neuralink",
+        "location": "Fremont, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-bci-applications-at-neuralink-4240281588?position=29&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=kMAyM%2F5%2FG%2B5gFFmJCSjEPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Seattle, WA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367432664?position=31&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=kyhOB%2BvaPF27mTtZkV9tHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Seattle, WA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367429665?position=32&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=oviHv8ubU739UPQ6VTcfZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Software Engineer - Mission Control",
+        "company": "Applied Intuition",
+        "location": "Mountain View, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-mission-control-at-applied-intuition-4259114840?position=33&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=EAFppp%2BdkTu7xG3hAANecw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Member of Technical Staff - Data Quality Engineer (Post-training)",
+        "company": "Reflection AI",
+        "location": "New York, NY",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-data-quality-engineer-post-training-at-reflection-ai-4331290002?position=35&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=bfKkpFXneAIfQWmuF3ZqLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "United States",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367420681?position=36&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=x20Gkxka%2Bxxbp723bZGvlw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - E2E Autonomy",
+        "company": "Applied Intuition",
+        "location": "Sunnyvale, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-e2e-autonomy-at-applied-intuition-4334423939?position=42&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=B4WZ09OVt8IdoVcOt3HV3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "New York, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367437503?position=45&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=4wIOpxlWIuyje1kXQRX9Lg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "New York, United States",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367439413?position=46&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=tpPgxKKOUTqox3%2BpVvAtzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Application Software Engineer",
+        "company": "Applied Intuition",
+        "location": "Detroit, MI",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/application-software-engineer-at-applied-intuition-3870242253?position=47&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=n5P%2Bl8dZWmoaSFfHRGqjxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "San Francisco, CA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367424710?position=48&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=LzxdA%2BMEUCFqXVH7N0030w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "San Francisco, CA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367421733?position=49&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=F25c6m%2FTDxaIwrg1HkVp7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "San Francisco, CA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367419778?position=50&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=a8JRP%2FlgCmtxoFhFvwsy2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "San Francisco, CA",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367434549?position=51&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=jazL1DWo3vS1DAdekLO0pQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Seattle, WA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367440056?position=52&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=qsKVSnZWZdGq0F6WhGmeSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Seattle, WA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367425671?position=53&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=iflFpwwvKu8k0l4PsWkdZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Seattle, WA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367427663?position=54&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=UWEVYWGLm3xuSVE0csnRlw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Seattle, WA",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367432649?position=55&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=9bEmLfe7sxo%2Bfi91hmSROQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Implant Manufacturing",
+        "company": "Neuralink",
+        "location": "Austin, TX",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-implant-manufacturing-at-neuralink-4147219629?position=57&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=Uqud6BV6oqJ6kJtutooVMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "New York, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367432656?position=58&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=BEpaisQnKmbwzBID3mwq4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "New York, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367423616?position=59&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=fAyd%2FD7GqT8ViZA%2Bd%2FrNHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "New York, United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367437505?position=60&pageNum=0&refId=v%2BKWm4grh6gjV6frwtanlQ%3D%3D&trackingId=yAROXnObAsmnXDOGJC9mcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Implant",
+        "company": "Neuralink",
+        "location": "Fremont, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-implant-at-neuralink-4223673171?position=1&pageNum=2&refId=L4LzNOCuGtoV695rxpLTSw%3D%3D&trackingId=Mn1uazhuUgpkUkpmKh00XA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Engineer",
+        "company": "Revature",
+        "location": "Plano, TX",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-engineer-at-revature-4367224308?position=2&pageNum=2&refId=L4LzNOCuGtoV695rxpLTSw%3D%3D&trackingId=U110i7TAJ3QdHbZtyIvW%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Robotics",
+        "company": "Neuralink",
+        "location": "Fremont, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-robotics-at-neuralink-4097045106?position=3&pageNum=2&refId=L4LzNOCuGtoV695rxpLTSw%3D%3D&trackingId=H%2FJ3%2Bk8E03TqjkVN02QZ6A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, BCI Applications",
+        "company": "Neuralink",
+        "location": "Fremont, CA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-bci-applications-at-neuralink-4240281588?position=4&pageNum=2&refId=L4LzNOCuGtoV695rxpLTSw%3D%3D&trackingId=Ys%2FZechyH5%2FQ7OIqTcj36g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Seattle, WA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367432664?position=6&pageNum=2&refId=L4LzNOCuGtoV695rxpLTSw%3D%3D&trackingId=iPrLkPzzCeh4Qoux%2B2NQIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Seattle, WA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4367429665?position=7&pageNum=2&refId=L4LzNOCuGtoV695rxpLTSw%3D%3D&trackingId=AOR4qYoRErQfg8WEBeutNw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "10773 - Sr. System Engineer - Connected Car Development & Operations",
+        "company": "Hyundai AutoEver America",
+        "location": "Costa Mesa, CA",
+        "date_posted": "Just now",
+        "url": "https://www.linkedin.com/jobs/view/10773-sr-system-engineer-connected-car-development-operations-at-hyundai-autoever-america-4331542526?position=8&pageNum=2&refId=L4LzNOCuGtoV695rxpLTSw%3D%3D&trackingId=Rw6Xcjf90bTDdUD6aGljNg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Software Engineer - Mission Control",
+        "company": "Applied Intuition",
+        "location": "Mountain View, CA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-mission-control-at-applied-intuition-4259114840?position=9&pageNum=2&refId=L4LzNOCuGtoV695rxpLTSw%3D%3D&trackingId=9yj84zT%2Bjm5Kma2jQG79rQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-30 11:07:14",
         "email_sent": false
     }
 ]
