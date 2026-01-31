@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "NavMD",
-        "location": "Overland Park, KS",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-navmd-4367595322?position=1&pageNum=0&refId=aMvrJeqvOJDcHrERZU%2F8Zw%3D%3D&trackingId=5GtN4y52C%2BToZdXz7d2u1w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-31 22:50:11",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, Search Science (Ads)",
-        "company": "ChatGPT Jobs",
-        "location": "Los Angeles Metropolitan Area",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-search-science-ads-at-chatgpt-jobs-4356933263?position=20&pageNum=0&refId=aMvrJeqvOJDcHrERZU%2F8Zw%3D%3D&trackingId=A%2F%2BkgWfIrgAEF2a6acgcpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-01-31 22:50:11",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer - Manufacturing",
         "company": "ChatGPT Jobs",
         "location": "United States",
@@ -47,6 +27,136 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-x4-life-sciences-4356895220?position=8&pageNum=0&refId=6hscEFCcc5X0tkC%2BOqZbLA%3D%3D&trackingId=1WxP4zgltdiltabgn7FAhQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-01-31 23:33:44",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, SQL)",
+        "company": "Whatnot",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-sql-at-whatnot-4367949043?position=1&pageNum=0&refId=vhu2WMq5lk6BODAntZAE8Q%3D%3D&trackingId=0pp5EoDCvGepqxz4%2Bp7i%2Bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 23:53:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Sr. (Healthcare)",
+        "company": "Molina Healthcare",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-sr-healthcare-at-molina-healthcare-4367942130?position=2&pageNum=0&refId=vhu2WMq5lk6BODAntZAE8Q%3D%3D&trackingId=hCmQu2PZx2%2BlmHsoQ722Zw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 23:53:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Js, SQL)",
+        "company": "Gusto",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-js-sql-at-gusto-4367949044?position=4&pageNum=0&refId=vhu2WMq5lk6BODAntZAE8Q%3D%3D&trackingId=5PhTPNoaCb7Q1djI0d7jDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 23:53:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Payor",
+        "company": "Sharecare",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-payor-at-sharecare-4367936236?position=5&pageNum=0&refId=vhu2WMq5lk6BODAntZAE8Q%3D%3D&trackingId=z0p9geLuqR44oBsqIPhEyQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 23:53:56",
+        "email_sent": false
+    },
+    {
+        "title": "LATAM - Data Science Engineer",
+        "company": "Playsaurus Inc.",
+        "location": "Alameda, CA",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/latam-data-science-engineer-at-playsaurus-inc-4357033065?position=6&pageNum=0&refId=vhu2WMq5lk6BODAntZAE8Q%3D%3D&trackingId=vogtUM5RH5S3Z2fvJbPREQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 23:53:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (AI/ML)",
+        "company": "Upstart",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-upstart-4367932659?position=7&pageNum=0&refId=vhu2WMq5lk6BODAntZAE8Q%3D%3D&trackingId=Kp8x5mXvo%2Bm0J%2FCFZ%2FzXdQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 23:53:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, AI",
+        "company": "Red Hat",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-red-hat-4367950003?position=8&pageNum=0&refId=vhu2WMq5lk6BODAntZAE8Q%3D%3D&trackingId=XhRNaF3kRdT9URyFcgQxLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 23:53:56",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Python, Js)",
+        "company": "Mozilla",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-js-at-mozilla-4367931940?position=10&pageNum=0&refId=vhu2WMq5lk6BODAntZAE8Q%3D%3D&trackingId=CaBT70Q4FgPn9WReypLHUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 23:53:56",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer",
+        "company": "SIFT",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-sift-4367944096?position=11&pageNum=0&refId=vhu2WMq5lk6BODAntZAE8Q%3D%3D&trackingId=Vg%2FqKYev7BmEOVy%2F1XMG8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 23:53:56",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer",
+        "company": "Clipboard",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-clipboard-4367933323?position=12&pageNum=0&refId=vhu2WMq5lk6BODAntZAE8Q%3D%3D&trackingId=ieSgHW5z72C56cuUzDnx%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 23:53:56",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Sr.",
+        "company": "BNSF Railway",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-sr-at-bnsf-railway-4367941138?position=13&pageNum=0&refId=vhu2WMq5lk6BODAntZAE8Q%3D%3D&trackingId=lV1%2BCNmV3%2FwAqAPy%2Bo4KEw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 23:53:56",
+        "email_sent": false
+    },
+    {
+        "title": "QA Engineer, Sr.",
+        "company": "EAB",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/qa-engineer-sr-at-eab-4367938191?position=14&pageNum=0&refId=vhu2WMq5lk6BODAntZAE8Q%3D%3D&trackingId=M0x%2BkDkch%2B2MjAe9BIQVyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 23:53:56",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "Resource Innovations",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-resource-innovations-4367944094?position=15&pageNum=0&refId=vhu2WMq5lk6BODAntZAE8Q%3D%3D&trackingId=yjK0i5ldslSm9XxIe%2BpYLg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-01-31 23:53:56",
         "email_sent": false
     }
 ]
