@@ -1,485 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "First Citizens Bank",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-first-citizens-bank-4369638017?position=1&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=69Vw9zj5tPQMDfyQpXljHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "TheIncLab",
-        "location": "Tampa, FL",
-        "date_posted": "56 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-theinclab-4369693533?position=3&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=iFf3SmASqQ%2FigE%2FO4PakjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Analytics Engineer",
-        "company": "Compri Consulting",
-        "location": "Denver, CO",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-at-compri-consulting-4369167484?position=4&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=DVRWG%2BJii77hG1VXWPU02w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "TheIncLab",
-        "location": "McLean, VA",
-        "date_posted": "56 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-theinclab-4369694530?position=6&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=ij0Y7H6KCZ0bGGk5tIBvBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "People Data Analyst, Automation",
-        "company": "OpenAI",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/people-data-analyst-automation-at-openai-4369633109?position=7&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=sxBXQTP510ui3NwrMWY2MQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Instacart",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-instacart-4369631154?position=8&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=epqnFt20EAS3Kg6BAR97CQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "TheIncLab",
-        "location": "Nashville, TN",
-        "date_posted": "56 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-theinclab-4369694532?position=9&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=lfKVgKBtMeVvZfpB6runxw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Database Engineer",
-        "company": "ManpowerGroup",
-        "location": "Foster City, CA",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-manpowergroup-4369689599?position=10&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=S%2Bg%2BLgswo5LJMimhxvtJ0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (API, SQL)",
-        "company": "Cohere",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-cohere-4369621808?position=11&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=a4wcRBG606tvXuh2Hfhr%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Bespoke Technologies, Inc.",
-        "location": "Chantilly, VA",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-bespoke-technologies-inc-4369400099?position=13&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=e6%2B%2Bk%2Fjx42HIjcdzt09F5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Identity Infrastructure Engineering",
-        "company": "OpenAI",
-        "location": "Utica-Rome Area",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-identity-infrastructure-engineering-at-openai-4359886443?position=15&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=oPGmwmpZqPya9lw0XkJuvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Davis Wright Tremaine LLP",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-davis-wright-tremaine-llp-4369620866?position=17&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=F4so%2BohiB4ihYdw1AtV76g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, AI/ML",
-        "company": "ServiceNow",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-servicenow-4369627278?position=18&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=K0Q4XWXvLGTmVVgrV10O%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Product",
-        "company": "CoreWeave",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-product-at-coreweave-4369636059?position=19&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=3vFCnFDHhjEjT5N6MBxcHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Bespoke Technologies, Inc.",
-        "location": "Chantilly, VA",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-bespoke-technologies-inc-4369687771?position=20&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=A00vO5rc4UoUQp9Fo4Y6Pw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Data Platform",
-        "company": "Eightfold AI",
-        "location": "Santa Clara, CA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-platform-at-eightfold-ai-4362760759?position=21&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=ap50fiCSnKgDmOM%2F5215iQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "ConstructConnect",
-        "location": "Cincinnati, OH",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-constructconnect-4339925668?position=22&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=yJRpwPSlCJkvQxbymVmsRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Integrations Platform",
-        "company": "Assembled",
-        "location": "New York, United States",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-integrations-platform-at-assembled-4369176194?position=24&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=UUV3u%2FBlvsxs%2FMu0Shrelg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, Js)",
-        "company": "Mozilla",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-js-at-mozilla-4369623751?position=26&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=HT3AymkeRKzqa4eFMbVMfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Developer",
-        "company": "Toro",
-        "location": "United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-developer-at-toro-4369688787?position=28&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=u8Lw%2BvRguHBg8nSv3Suuhw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Back End Software Engineer",
-        "company": "Motorola Solutions",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/back-end-software-engineer-at-motorola-solutions-4369632160?position=29&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=46enxW%2Bg6EDgUZuPciht%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "AI/ML Software Engineer",
-        "company": "Maximus",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-ml-software-engineer-at-maximus-4369638016?position=30&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=f7LioKJgRDxqN6gV7ENeBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software QA Engineer",
-        "company": "Kforce Inc",
-        "location": "Fort Lauderdale, FL",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-qa-engineer-at-kforce-inc-4369684737?position=31&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=RNghQxIEeVVjN3QuN18u3w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Virginia Commonwealth University School of Medicine",
-        "location": "Richmond, VA",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-virginia-commonwealth-university-school-of-medicine-4361052149?position=32&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=80eciVMHEV3CuYcqYeZhXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Texas, United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4359565666?position=33&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=UdQNZ57ympQBzp9F7QRnzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Annotator (Android)",
-        "company": "Verita AI",
-        "location": "United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-annotator-android-at-verita-ai-4369176308?position=35&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=RbcwKfXDpd6aRN723mputw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Tyler Technologies",
-        "location": "Troy, MI",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-tyler-technologies-4369181204?position=37&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=YuDwA%2Fw%2BSdTpUxCg3Z9%2Fcg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Cadence",
-        "location": "San Jose, CA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-cadence-4316697375?position=39&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=CjgUpu7T5zM9oO9BzpJAHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Solutions Engineer II",
-        "company": "Green Mountain",
-        "location": "Memphis Metropolitan Area",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/solutions-engineer-ii-at-green-mountain-4369681919?position=40&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=iI%2BHK9VVbfSGGy7kkqFyQg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, C++)",
-        "company": "Stripe",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-c%2B%2B-at-stripe-4369632161?position=41&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=DpYflAz0JZiq3NyxqEKdUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (C#, React)",
-        "company": "Milliman",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-c%23-react-at-milliman-4369618892?position=44&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=NzkKccX3ubd1QQQ1u16tsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer III, Apple",
-        "company": "Crunchyroll",
-        "location": "San Francisco, CA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-apple-at-crunchyroll-4304573873?position=48&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=8U6nC%2FgFp4Cny9vVB4EiXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Block",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-block-4369634104?position=49&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=7J2eygw9wJ%2FUnfzoR5%2FSoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Bruker Daltonics",
-        "location": "Delray Beach, FL",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-bruker-daltonics-4359587305?position=51&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=lJXV2kcvXQaycpJm8lWExw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, D&T",
-        "company": "General Mills",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-d-t-at-general-mills-4369632165?position=52&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=Upby0IhKAChnaCZ2EmrykA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "Resource Innovations",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-resource-innovations-4369630169?position=56&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=Tqwh6H8TOdj2wfeB7bjPDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist Gen AI",
-        "company": "EXL",
-        "location": "Atlanta Metropolitan Area",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-gen-ai-at-exl-4369171349?position=57&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=IdEbAgXGwCcGzcmiK%2FiiuA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst Supporting the DEA",
-        "company": "FSA",
-        "location": "Baltimore, MD",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-supporting-the-dea-at-fsa-4369682860?position=58&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=NVGU09VBgt%2Fa7UBqTvCPGA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Android Software Engineer",
-        "company": "Philo",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/android-software-engineer-at-philo-4369637045?position=59&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=PKF4AccdIEyuVcyzlKNKIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Division of K-12 Education Innovation and Scholar Success",
-        "company": "Grand Valley State University",
-        "location": "Grand Rapids, MI",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-division-of-k-12-education-innovation-and-scholar-success-at-grand-valley-state-university-4369186211?position=60&pageNum=0&refId=YZVSyM909HYDKdN6xfcHog%3D%3D&trackingId=uVzMMwdD7X0kZXMvfTuQjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, Js)",
-        "company": "Mozilla",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-js-at-mozilla-4369623751?position=1&pageNum=2&refId=PNZFzERzLtH1KLfLcW7xjQ%3D%3D&trackingId=n%2FarV9Ladq86MPC%2BUG309Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Developer",
-        "company": "Toro",
-        "location": "United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-developer-at-toro-4369688787?position=3&pageNum=2&refId=PNZFzERzLtH1KLfLcW7xjQ%3D%3D&trackingId=3XSl5nnDSsjBCbR%2F%2F5N0Ag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Back End Software Engineer",
-        "company": "Motorola Solutions",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/back-end-software-engineer-at-motorola-solutions-4369632160?position=4&pageNum=2&refId=PNZFzERzLtH1KLfLcW7xjQ%3D%3D&trackingId=y%2BNYWaBkOhongvpytL9R%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "AI/ML Software Engineer",
-        "company": "Maximus",
-        "location": "United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-ml-software-engineer-at-maximus-4369638016?position=5&pageNum=2&refId=PNZFzERzLtH1KLfLcW7xjQ%3D%3D&trackingId=2%2FYyjGqbOfNomfP886ik%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Software QA Engineer",
-        "company": "Kforce Inc",
-        "location": "Fort Lauderdale, FL",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-qa-engineer-at-kforce-inc-4369684737?position=6&pageNum=2&refId=PNZFzERzLtH1KLfLcW7xjQ%3D%3D&trackingId=M5MhbNygzqOgwDqw6WQQEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Virginia Commonwealth University School of Medicine",
-        "location": "Richmond, VA",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-virginia-commonwealth-university-school-of-medicine-4361052149?position=7&pageNum=2&refId=PNZFzERzLtH1KLfLcW7xjQ%3D%3D&trackingId=7aXrUQL9fVQM7FnuaMBH5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Texas, United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4359565666?position=8&pageNum=2&refId=PNZFzERzLtH1KLfLcW7xjQ%3D%3D&trackingId=Z5k8aMVJjvckGVshksNqUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
-        "title": "Data Annotator (Android)",
-        "company": "Verita AI",
-        "location": "United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-annotator-android-at-verita-ai-4369176308?position=10&pageNum=2&refId=PNZFzERzLtH1KLfLcW7xjQ%3D%3D&trackingId=nKRZp%2FhJePbdbbhU9TefsQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-05 22:48:35",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer - Manufacturing",
         "company": "ChatGPT Jobs",
         "location": "United States",
@@ -737,6 +257,86 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-c%23-at-leidos-4362481667?position=59&pageNum=0&refId=yLZREBZFkZzs2pAStTIL0w%3D%3D&trackingId=U%2BEQ4iusIZpzTptRgpPVYA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-02-05 23:45:14",
+        "email_sent": false
+    },
+    {
+        "title": "Databricks Data Engineer (2 positions )",
+        "company": "Liberty Personnel Services, Inc.",
+        "location": "Philadelphia, PA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/databricks-data-engineer-2-positions-at-liberty-personnel-services-inc-4359104051?position=2&pageNum=0&refId=IXSWNjhaQzMFNvzxm%2FNfew%3D%3D&trackingId=denPHtJ8aFGCTYiwhZcYxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-06 00:00:48",
+        "email_sent": false
+    },
+    {
+        "title": "LATAM - Data Science Engineer",
+        "company": "Playsaurus Inc.",
+        "location": "Alameda, CA",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/latam-data-science-engineer-at-playsaurus-inc-4360546558?position=17&pageNum=0&refId=IXSWNjhaQzMFNvzxm%2FNfew%3D%3D&trackingId=PuLn6T0Z9%2FjHkaweAXkuCw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-06 00:00:48",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Full-Stack)",
+        "company": "Runpod",
+        "location": "Seattle, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-runpod-4369174265?position=26&pageNum=0&refId=IXSWNjhaQzMFNvzxm%2FNfew%3D%3D&trackingId=Hx6Okph2orP3P0NuzzSEew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-06 00:00:48",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Galileo Financial Technologies",
+        "location": "Seattle, WA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-galileo-financial-technologies-4369187507?position=29&pageNum=0&refId=IXSWNjhaQzMFNvzxm%2FNfew%3D%3D&trackingId=9W1UUZSs68fJZVJ%2B%2FIGqTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-06 00:00:48",
+        "email_sent": false
+    },
+    {
+        "title": "Estimating Data Analyst",
+        "company": "Helm Group",
+        "location": "Freeport, IL",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/estimating-data-analyst-at-helm-group-4360520373?position=49&pageNum=0&refId=IXSWNjhaQzMFNvzxm%2FNfew%3D%3D&trackingId=Fw3DhkEEaSE99Ocd4aL6iw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-06 00:00:48",
+        "email_sent": false
+    },
+    {
+        "title": "FEMA-Disaster Recovery Specialists (Data Analysts)",
+        "company": "Dewberry",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/fema-disaster-recovery-specialists-data-analysts-at-dewberry-4368794427?position=60&pageNum=0&refId=IXSWNjhaQzMFNvzxm%2FNfew%3D%3D&trackingId=HZjXWCJHh3B916ertb3OuA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-06 00:00:48",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Full-Stack)",
+        "company": "Runpod",
+        "location": "Seattle, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-runpod-4369174265?position=1&pageNum=2&refId=wQubSdt1DdetKkAZin43NQ%3D%3D&trackingId=EoQLW6F7UgDUyj%2F8P51drw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-06 00:00:48",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Galileo Financial Technologies",
+        "location": "Seattle, WA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-galileo-financial-technologies-4369187507?position=4&pageNum=2&refId=wQubSdt1DdetKkAZin43NQ%3D%3D&trackingId=yymC%2BZHWkTN5kfBmj6KS1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-06 00:00:48",
         "email_sent": false
     }
 ]
