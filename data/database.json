@@ -1,135 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Vivian Health",
-        "location": "United States",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-vivian-health-4370336811?position=1&pageNum=0&refId=J5urEnk9IvH0Z9l3AyhYfA%3D%3D&trackingId=J2p4X2Uh9M%2F1z%2FEmo1EYHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 20:27:21",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Platform",
-        "company": "Radiant",
-        "location": "United States",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-platform-at-radiant-4370347381?position=2&pageNum=0&refId=J5urEnk9IvH0Z9l3AyhYfA%3D%3D&trackingId=FZKjgmuBC71mbDthxaWrjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 20:27:21",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4370334804?position=4&pageNum=0&refId=J5urEnk9IvH0Z9l3AyhYfA%3D%3D&trackingId=3udwlwMQdHsrdA1dUjy5DQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 20:27:21",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer",
-        "company": "Airbnb",
-        "location": "United States",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-airbnb-4370350321?position=5&pageNum=0&refId=J5urEnk9IvH0Z9l3AyhYfA%3D%3D&trackingId=E9GA1HjvoZ5I1DhKCik2yA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 20:27:21",
-        "email_sent": false
-    },
-    {
-        "title": "Full-Stack Software Engineer",
-        "company": "PrairieLearn",
-        "location": "United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-prairielearn-4370356523?position=8&pageNum=0&refId=J5urEnk9IvH0Z9l3AyhYfA%3D%3D&trackingId=sIaudHo6Ingo4rHJu95cVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 20:27:21",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (NodeJS, React)",
-        "company": "Great Minds",
-        "location": "United States",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-nodejs-react-at-great-minds-4370341544?position=12&pageNum=0&refId=J5urEnk9IvH0Z9l3AyhYfA%3D%3D&trackingId=HVuLJ31aCuMgVRAnSM2Yjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 20:27:21",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Protege",
-        "location": "United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-protege-4370362144?position=13&pageNum=0&refId=J5urEnk9IvH0Z9l3AyhYfA%3D%3D&trackingId=FLW2ljV3GWnJBSmey7CUiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 20:27:21",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Humana",
-        "location": "United States",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-humana-4370349343?position=15&pageNum=0&refId=J5urEnk9IvH0Z9l3AyhYfA%3D%3D&trackingId=cCWAVkJlybZWO8z4Q1wE7Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 20:27:21",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Researcher",
-        "company": "Protege",
-        "location": "United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-researcher-at-protege-4370359297?position=16&pageNum=0&refId=J5urEnk9IvH0Z9l3AyhYfA%3D%3D&trackingId=BljcjFzNJ8n%2BcBCKzC3D%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 20:27:21",
-        "email_sent": false
-    },
-    {
-        "title": "Applied ML Researcher",
-        "company": "Protege",
-        "location": "United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/applied-ml-researcher-at-protege-4370361167?position=22&pageNum=0&refId=J5urEnk9IvH0Z9l3AyhYfA%3D%3D&trackingId=ycRcoSMwQOF6u0bsMwMZzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 20:27:21",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Treasury Infrastructure - NYC- Innovative Algo Trading",
-        "company": "Jobs via eFinancialCareers",
-        "location": "New York, NY",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-treasury-infrastructure-nyc-innovative-algo-trading-at-jobs-via-efinancialcareers-4361795108?position=24&pageNum=0&refId=J5urEnk9IvH0Z9l3AyhYfA%3D%3D&trackingId=BWg9F%2Bbp7CNNsgORDiHLKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 20:27:21",
-        "email_sent": false
-    },
-    {
-        "title": "Program Analyst",
-        "company": "CBRE",
-        "location": "Austin, TX",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/program-analyst-at-cbre-4370365009?position=26&pageNum=0&refId=J5urEnk9IvH0Z9l3AyhYfA%3D%3D&trackingId=76srvpU%2By%2BUhK%2FUtOe6KdA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 20:27:21",
-        "email_sent": false
-    },
-    {
-        "title": "Quality Data Solutions Specialist",
-        "company": "Thermo Fisher Scientific",
-        "location": "Paramus, NJ",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/quality-data-solutions-specialist-at-thermo-fisher-scientific-4370095271?position=29&pageNum=0&refId=J5urEnk9IvH0Z9l3AyhYfA%3D%3D&trackingId=PPIF3Uow66HosQwaPK3l6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-08 20:27:21",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer",
         "company": "Hyra",
         "location": "Arizona, United States",
@@ -187,6 +57,16 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4370349830?position=37&pageNum=0&refId=qm%2FSAOOhunsF5nP6CcNlwA%3D%3D&trackingId=PPBx%2FzTiPCwbB97nmVzvMw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-02-08 20:53:54",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Whatnot",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-whatnot-4370348374?position=15&pageNum=0&refId=PuQJfaO0th8lAWc3IYjSwQ%3D%3D&trackingId=FzOGzHohebK3IS4TeL3vmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-08 21:52:29",
         "email_sent": false
     }
 ]
