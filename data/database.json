@@ -1,155 +1,5 @@
 [
     {
-        "title": "Data Engineer I/II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-ii-at-wiraa-4373230126?position=1&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=6Cr%2FPE62051OLUkYu%2Bgj9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4373226545?position=3&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=4AHi5RSWxNy41CQLTUerMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4373212732?position=7&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=QfnRQjgp23Of9AsGqnIB1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hirenza-4373225574?position=12&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=5BxJX9Wfv3Eia9AWMRRf2Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "Front End Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-wiraa-4373214689?position=20&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=AuKtQl9WDJAKafYDwPRoLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "People Data Analyst, Automation",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/people-data-analyst-automation-at-wiraa-4373215609?position=24&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=VL0Cpr2X0BPJMceo806Wag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, Java)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-java-at-wiraa-4373229160?position=26&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=pWbcZimGzZ%2FzHlybx7sNVQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4373213860?position=27&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=CoRrr1yWj%2B255Rr4pdyeWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-wiraa-4373229159?position=28&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=0WLiaMyqwzZFtsesK2QDbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hyra",
-        "location": "Texas, United States",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4373226549?position=30&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=WwQRnG19Y%2ByyWUXelNsF9A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (API, C++)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-c%2B%2B-at-wiraa-4373217667?position=35&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=joymEG70ZgfS%2FFYYO%2Fqvzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, Associate",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-associate-at-wiraa-4373228175?position=36&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=uFq0r9QRDq1pTsiNIhblSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-wiraa-4373227213?position=37&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=CLW%2FpqOgKWc9XMhdPqZxTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "Recruiter",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/recruiter-at-hirenza-4373225573?position=43&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=NE5V3gLbvOmVDTOszo2plw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
-        "title": "Quality Assurance Inspector NDT - RT/PT B",
-        "company": "L3Harris Technologies",
-        "location": "West Palm Beach, FL",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/quality-assurance-inspector-ndt-rt-pt-b-at-l3harris-technologies-4343078023?position=55&pageNum=0&refId=E%2FV0coXNfHiTznfZQ3PjNg%3D%3D&trackingId=4sGRGViq5GPNvhZxe%2FtrMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 18:54:22",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Wiraa",
         "location": "United States",
@@ -537,6 +387,16 @@
         "url": "https://www.linkedin.com/jobs/view/forensic-analyst-at-harris-county-district-attorney-s-office-4373217999?position=39&pageNum=0&refId=XXYbpwB0LaLfbg2i%2FYqb9w%3D%3D&trackingId=1WODVNl7%2BhUzoUlDC2glAg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-02-14 19:46:33",
+        "email_sent": false
+    },
+    {
+        "title": "Project Analyst",
+        "company": "TransPerfect Connect",
+        "location": "Phoenix, AZ",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/project-analyst-at-transperfect-connect-4373238062?position=49&pageNum=0&refId=4FILFQ9IkTeJctH2MA77IQ%3D%3D&trackingId=8eji3RuaTwyUscKWKF%2Bnww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-14 19:58:55",
         "email_sent": false
     }
 ]
