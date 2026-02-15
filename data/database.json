@@ -1,125 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4373289892?position=2&pageNum=0&refId=lNlE4tdXRrpjQy%2FhQPQHvA%3D%3D&trackingId=Apnk6tRufx75KdHVgIpB%2Bw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 19:06:29",
-        "email_sent": false
-    },
-    {
-        "title": "AI Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-hirenza-4373509026?position=4&pageNum=0&refId=lNlE4tdXRrpjQy%2FhQPQHvA%3D%3D&trackingId=jPvMjfV9ixnPS2fGJ6rJxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 19:06:29",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hirenza-4373298599?position=5&pageNum=0&refId=lNlE4tdXRrpjQy%2FhQPQHvA%3D%3D&trackingId=QRdHllNkczltqjU47w3now%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 19:06:29",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Burlington, VT",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320132899?position=12&pageNum=0&refId=lNlE4tdXRrpjQy%2FhQPQHvA%3D%3D&trackingId=13iaxpOePrVcikW0ecsonw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 19:06:29",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Oshkosh, WI",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320302522?position=13&pageNum=0&refId=lNlE4tdXRrpjQy%2FhQPQHvA%3D%3D&trackingId=0HNuuPYEUGkyHiw53AwEXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 19:06:29",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Akron, OH",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142804?position=14&pageNum=0&refId=lNlE4tdXRrpjQy%2FhQPQHvA%3D%3D&trackingId=X%2BgH2jflq3nVuPu7lTcodQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 19:06:29",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Lewiston, ME",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320212689?position=15&pageNum=0&refId=lNlE4tdXRrpjQy%2FhQPQHvA%3D%3D&trackingId=%2F%2FPTjdjVk0z6cHauv11xOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 19:06:29",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Morgantown, WV",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320112983?position=16&pageNum=0&refId=lNlE4tdXRrpjQy%2FhQPQHvA%3D%3D&trackingId=FWtrfOd90VaJtKS0K7ZjvQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 19:06:29",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Lawton, OK",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320262499?position=17&pageNum=0&refId=lNlE4tdXRrpjQy%2FhQPQHvA%3D%3D&trackingId=mu%2B1VXC7D9o0eAefld1JdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 19:06:29",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Fort Wayne, IN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320182809?position=18&pageNum=0&refId=lNlE4tdXRrpjQy%2FhQPQHvA%3D%3D&trackingId=kLusQ38I95h7%2BBshEjhUIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 19:06:29",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Platteville, WI",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320312644?position=19&pageNum=0&refId=lNlE4tdXRrpjQy%2FhQPQHvA%3D%3D&trackingId=f8sMuXCMuY89DtmdwynoFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 19:06:29",
-        "email_sent": false
-    },
-    {
-        "title": "Arrangement Engineer (Engineer 1) - 25255",
-        "company": "Mission Technologies, a division of HII",
-        "location": "Chesapeake, VA",
-        "date_posted": "55 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/arrangement-engineer-engineer-1-25255-at-mission-technologies-a-division-of-hii-4291967438?position=20&pageNum=0&refId=lNlE4tdXRrpjQy%2FhQPQHvA%3D%3D&trackingId=pbxbtVOigkimGkLsLc9KVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-15 19:06:29",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer II",
         "company": "Garner Health, LLC",
         "location": "New York, NY",
@@ -367,6 +247,36 @@
         "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320112989?position=24&pageNum=0&refId=30NYU9zYhLjYc3FefGedKA%3D%3D&trackingId=Ki8660xp6wTEP3BEyRMuVQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-02-15 19:53:49",
+        "email_sent": false
+    },
+    {
+        "title": "Cofounder Software Engineer (Chrome Extension)",
+        "company": "AutoCod",
+        "location": "New York, NY",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/cofounder-software-engineer-chrome-extension-at-autocod-4364761360?position=8&pageNum=0&refId=Iut%2BIgzkboRqSLj6YXoiQw%3D%3D&trackingId=vhw7qgtFx0KQ0oq%2F%2BB43xg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 20:25:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II - Diagnostics Research Team",
+        "company": "myGwork - LGBTQ+ Business Community",
+        "location": "Arden Hills, MN",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-diagnostics-research-team-at-mygwork-lgbtq%2B-business-community-4371901746?position=15&pageNum=0&refId=Iut%2BIgzkboRqSLj6YXoiQw%3D%3D&trackingId=2V3tRhDOEOZPQi3V9i6BIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 20:25:57",
+        "email_sent": false
+    },
+    {
+        "title": "Quality Control Specialist",
+        "company": "Tetra Tech",
+        "location": "Houston, TX",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/quality-control-specialist-at-tetra-tech-4368886769?position=20&pageNum=0&refId=Iut%2BIgzkboRqSLj6YXoiQw%3D%3D&trackingId=tuUSpr%2BDiJiMR0CQUldCig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 20:25:57",
         "email_sent": false
     }
 ]
