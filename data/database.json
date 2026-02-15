@@ -1,15 +1,5 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Hyra",
-        "location": "Texas, United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4373247210?position=17&pageNum=0&refId=vTOeqdo1s3oBfjq2e8fIZQ%3D%3D&trackingId=APIaWKFsLDpWj8Ajxln3nQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-14 22:57:52",
-        "email_sent": false
-    },
-    {
         "title": "Data Analyst",
         "company": "Hyra",
         "location": "United States",
@@ -17,6 +7,16 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hyra-4373244287?position=9&pageNum=0&refId=jPyqa046BkKeuoSsNBagFQ%3D%3D&trackingId=PUt8Zyn4awYyg3i%2B5YxwWQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-02-14 23:25:07",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Call Quest Solution",
+        "location": "United States",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-call-quest-solution-4371787941?position=1&pageNum=0&refId=7UmXfsM86tVUCoAUuITVjA%3D%3D&trackingId=6lrMTPRYlUiAjuXdG9DG%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-15 00:01:36",
         "email_sent": false
     }
 ]
