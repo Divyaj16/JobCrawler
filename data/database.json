@@ -1,305 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4373810349?position=2&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=HjZU6EZaUQx76Ll2vSpDDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-wiraa-4373808361?position=3&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=QgTJr827QfK5Pi6X53SpSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4373808360?position=6&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=AN5beqz5%2F6Qysb%2FCeM%2B60w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, People (Automation)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-people-automation-at-wiraa-4373801588?position=7&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=%2BdC2UYJAs2WKkD5SCU4tOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Azure Data Engineer, Financial Services - NYC",
-        "company": "Huxley",
-        "location": "New York, NY",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-financial-services-nyc-at-huxley-4373867475?position=10&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=yWGmFzqARwHNK2tz0OIWnA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "OCLC",
-        "location": "Dublin, OH",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-oclc-4373852815?position=12&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=EAYEeWypOtkpT8HOZ%2FuwKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, ML",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ml-at-wiraa-4373808359?position=13&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=VbcD787Ynu6YpmmBdMi23A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4373806412?position=14&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=%2BO8io2ABnY%2FaelHP1GWe6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Engineer (Js/TypeScript)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/frontend-engineer-js-typescript-at-wiraa-4373808357?position=16&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=JB0Ep4VGAVGlgH1d16OIVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, SQL)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-sql-at-wiraa-4373818059?position=18&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=XsSXW3C0Y49MNdr0sxYZ4g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - UI/UX",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ui-ux-at-wiraa-4373810348?position=19&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=XLHE98aeoXSigGRF98cp8w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II - Data Platform",
-        "company": "Latitude AI",
-        "location": "Detroit Metropolitan Area",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-data-platform-at-latitude-ai-4373874136?position=21&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=oBPOLUt4hNBrFi1W2VZCkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer- .NET and C# Experience(Fully Onsite Position)",
-        "company": "Simple, a Netsmart solution",
-        "location": "Springfield, MO",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-net-and-c%23-experience-fully-onsite-position-at-simple-a-netsmart-solution-4372574610?position=22&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=r0H8rxx5rPpGnid9d96tsw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer- .NET and C# Experience(Fully Onsite Position)",
-        "company": "Simple, a Netsmart solution",
-        "location": "Overland Park, KS",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-net-and-c%23-experience-fully-onsite-position-at-simple-a-netsmart-solution-4372569623?position=23&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=aiYBBhH01kaCICFIZsaWRA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-wiraa-4373817083?position=24&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=j0tGhyuS5D7viCSECwtBgw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Test Engineer (POS)",
-        "company": "GraceMark Solutions",
-        "location": "Chicago, IL",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-pos-at-gracemark-solutions-4373870218?position=29&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=PMNLqAJMXtYqF5Lv7S%2BuvQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Mid-Level Software Engineer - .NET/C#",
-        "company": "Aderis Energy, LLC",
-        "location": "Cornelius, NC",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/mid-level-software-engineer-net-c%23-at-aderis-energy-llc-4223494705?position=30&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=r5wzvvUQGM6x7jP8Xfc9Dg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "PHY System Modeling Engineer",
-        "company": "Dexian",
-        "location": "Austin, TX",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/phy-system-modeling-engineer-at-dexian-4364718305?position=31&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=101GSIpS8xbzP%2BeO4h3xEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4373809321?position=32&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=XRm2or9fYSbKLM4LiI6S1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Security Engineer, Network",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/security-engineer-network-at-wiraa-4373598769?position=33&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=Isom30CUx7I1pagdBuruhg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Eng I - Test",
-        "company": "BAE Systems, Inc.",
-        "location": "Sterling Heights, MI",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/eng-i-test-at-bae-systems-inc-4364728386?position=34&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=DybrBcf94TWwlrjpGL7bNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Federal Plans Reporting Analyst",
-        "company": "CVS Health",
-        "location": "Hartford, CT",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/federal-plans-reporting-analyst-at-cvs-health-4373851831?position=38&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=U9KMg1VI9XOmwUb76n%2FDUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Reporting and Project Management Assistant",
-        "company": "ALS",
-        "location": "Harrisburg, PA",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/reporting-and-project-management-assistant-at-als-4371934433?position=39&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=1Dz6gBBioRS%2FO4N04Xy9GA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Manager Statistical Genetics",
-        "company": "BioSpace",
-        "location": "Tarrytown, NY",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-manager-statistical-genetics-at-biospace-4373281950?position=40&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=U0M%2FrYv6DYcYUc8nxQX7BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Reporting and Project Management Assistant",
-        "company": "ALS",
-        "location": "Middletown, PA",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/reporting-and-project-management-assistant-at-als-4371926637?position=41&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=iuL%2BqoqoaQh99%2FAIbK4w9g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Restaurant Process Engineer",
-        "company": "Slim Chickens",
-        "location": "Fayetteville, AR",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/restaurant-process-engineer-at-slim-chickens-4363481329?position=42&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=GTXwaTKbcCebKSRsFGlnBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Clerical Employee",
-        "company": "BWXT",
-        "location": "Erwin, TN",
-        "date_posted": "57 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/clerical-employee-at-bwxt-4363084303?position=43&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=lwLejwFADsSMt2ZeLGD98g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Plumbing Designer",
-        "company": "Barton Associates, Inc.",
-        "location": "Pittsburgh, PA",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/plumbing-designer-at-barton-associates-inc-4373857756?position=44&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=m1of16R%2Bsx7GX4%2FDVZ5Myg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative",
-        "company": "Builders FirstSource",
-        "location": "Oklahoma City, OK",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-at-builders-firstsource-4372575597?position=45&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=H1sYvJ9PHG2SyToM1DI8jw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
-        "title": "Outside Sales Representative",
-        "company": "Builders FirstSource",
-        "location": "De Pere, WI",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/outside-sales-representative-at-builders-firstsource-4372587178?position=46&pageNum=0&refId=iBdasxmOPNb2XSKvEztX0Q%3D%3D&trackingId=E8LpMjENnbPTwrgsNG1NOg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-16 22:28:24",
-        "email_sent": false
-    },
-    {
         "title": "100% Remote - Data Engineer (Python, SQL, ADF, and Databricks) opportunity",
         "company": "HYR Global Source Inc",
         "location": "Austin, TX",
@@ -387,6 +87,76 @@
         "url": "https://www.linkedin.com/jobs/view/sr-data-scientist-at-fetchjobs-co-4372584351?position=39&pageNum=0&refId=D5eeXhIk%2Fkf1Obllwjq1Kw%3D%3D&trackingId=qsjS1aRy5AQX2kqwdPuS%2BQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-02-16 22:59:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Photronics",
+        "location": "Brookfield, CT",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-photronics-4373866661?position=6&pageNum=0&refId=Vb%2Bc43MHbcVeqvYXXaMQDQ%3D%3D&trackingId=Wf35APSUgeHQGd6P57ZTAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-16 23:34:28",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Software Engineer - US Remote",
+        "company": "Goldstone Partners, LLC",
+        "location": "United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-us-remote-at-goldstone-partners-llc-4373870451?position=9&pageNum=0&refId=Vb%2Bc43MHbcVeqvYXXaMQDQ%3D%3D&trackingId=b5jm88IoLnAC2TmeU6Y5Zg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-16 23:34:28",
+        "email_sent": false
+    },
+    {
+        "title": "Bioinformatics Analyst- Computational Genomics",
+        "company": "Collabera",
+        "location": "North Chicago, IL",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/bioinformatics-analyst-computational-genomics-at-collabera-4371928819?position=19&pageNum=0&refId=Vb%2Bc43MHbcVeqvYXXaMQDQ%3D%3D&trackingId=Cd5sQCacC%2Ft1outTd7Gs9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-16 23:34:28",
+        "email_sent": false
+    },
+    {
+        "title": "Data Science Intern",
+        "company": "Spring Venture Group",
+        "location": "Kansas City, MO",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-science-intern-at-spring-venture-group-4364776696?position=22&pageNum=0&refId=Vb%2Bc43MHbcVeqvYXXaMQDQ%3D%3D&trackingId=c7pKVLbejSq6EflhxDJmbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-16 23:34:28",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer \u2013 C++ (Cambridge, MA)",
+        "company": "Philips",
+        "location": "Cambridge, MA",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-%E2%80%93-c%2B%2B-cambridge-ma-at-philips-4372571940?position=24&pageNum=0&refId=Vb%2Bc43MHbcVeqvYXXaMQDQ%3D%3D&trackingId=Ygo6Og0Lwe%2B%2FpID%2F%2FeGSNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-16 23:34:28",
+        "email_sent": false
+    },
+    {
+        "title": "Entry-Level Electrical Engineer - Networking Event with AECOM - Atlanta, GA",
+        "company": "AECOM",
+        "location": "Detroit, MI",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-electrical-engineer-networking-event-with-aecom-atlanta-ga-at-aecom-4364708367?position=27&pageNum=0&refId=Vb%2Bc43MHbcVeqvYXXaMQDQ%3D%3D&trackingId=eih0OoGhNTiy%2BosQgkLMSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-16 23:34:28",
+        "email_sent": false
+    },
+    {
+        "title": "Research Assistant",
+        "company": "Clemson University",
+        "location": "Clemson, SC",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/research-assistant-at-clemson-university-4373873299?position=29&pageNum=0&refId=Vb%2Bc43MHbcVeqvYXXaMQDQ%3D%3D&trackingId=shEYQxdVYIS9FJXtMXH07Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-16 23:34:28",
         "email_sent": false
     }
 ]
