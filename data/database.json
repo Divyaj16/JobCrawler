@@ -1,322 +1,102 @@
 [
     {
+        "title": "Data Engineer, Data & Analytics",
+        "company": "Louis Dreyfus Company",
+        "location": "Wilton, CT",
+        "date_posted": "51 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-data-analytics-at-louis-dreyfus-company-4372672523?position=1&pageNum=0&refId=YduFtFbVUXe67JktcaKLEA%3D%3D&trackingId=tzKEMAfmtsn%2BXKNQ7udRwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-19 05:06:20",
+        "email_sent": false
+    },
+    {
         "title": "Data Engineer",
-        "company": "Haystack",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-haystack-4373236123?position=1&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=YzhxcDK6IEfDllpOKmQHjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Cloud Infrastructure Engineer (AWS / Terraform) MULTIPLE OPENINGS/LEVELS",
-        "company": "Altamira Technologies Corporation",
-        "location": "McLean, VA",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/cloud-infrastructure-engineer-aws-terraform-multiple-openings-levels-at-altamira-technologies-corporation-4373392690?position=2&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=%2FBCbIm3eYmSc3P59lWcHZw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Airport Data Analyst 1 - Flight Path",
-        "company": "Garmin",
-        "location": "Scottsdale, AZ",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/airport-data-analyst-1-flight-path-at-garmin-4375101399?position=3&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=cjQAG9naCTQbwZXP%2BdUKCQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Altamira Technologies Corporation",
-        "location": "Centennial, CO",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-altamira-technologies-corporation-4373633585?position=4&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=6nNJC4M1HYvtBgVA6fIa4w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Cloud Infrastructure Engineer (AWS / Terraform) MULTIPLE OPENINGS/LEVELS",
-        "company": "Altamira Technologies Corporation",
-        "location": "Warrenton, VA",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/cloud-infrastructure-engineer-aws-terraform-multiple-openings-levels-at-altamira-technologies-corporation-4373379896?position=5&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=wTmofLMlb56m35wXRaB5wA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Associate, Digital Data Analyst",
-        "company": "AIPAC",
-        "location": "Washington, DC",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-digital-data-analyst-at-aipac-4375086721?position=6&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=Y9p9wcPgvMEkVH3b%2FvYRWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Cancer Data Analyst - Certified, Norton Cancer Registry, Days",
-        "company": "Norton Healthcare",
-        "location": "Louisville, KY",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/cancer-data-analyst-certified-norton-cancer-registry-days-at-norton-healthcare-4373637549?position=7&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=faCTwKO3i1Wdsf2Bh9es%2BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Data Systems Specialist - 61107723",
-        "company": "S.C. Department of Public Health",
-        "location": "Lexington County, SC",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-systems-specialist-61107723-at-s-c-department-of-public-health-4373647409?position=8&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=HnSmzunBFcnY3AuWe3%2B%2BZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Emerson",
+        "company": "Tata Consultancy Services",
         "location": "Austin, TX",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-emerson-4375089924?position=9&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=65gMHNcCKk%2BvpjEtk44%2BdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer/ Full stack developer",
-        "company": "Acuity, Inc.",
-        "location": "Chantilly, VA",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-developer-at-acuity-inc-4375084757?position=10&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=IwIYKVymzwss6DKB7KivZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Data Governance Analyst",
-        "company": "Cytek Biosciences",
-        "location": "Fremont, CA",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-governance-analyst-at-cytek-biosciences-4373633738?position=11&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=YuekQcEZd9OBxNXg84wlrA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer in Test",
-        "company": "CGI",
-        "location": "Merrimack, NH",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-in-test-at-cgi-4375080661?position=12&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=%2Bd4lgDjhfYFbzB6%2F3QwZbw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Project Specialist - Compensation Data",
-        "company": "WorkGenius Group",
-        "location": "Santa Monica, CA",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/project-specialist-compensation-data-at-workgenius-group-4373636686?position=13&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=WBhhhhfdEYwW4vgF%2FBu%2FRg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Lending Products",
-        "company": "Parafin",
-        "location": "San Francisco, CA",
-        "date_posted": "53 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-lending-products-at-parafin-4373630583?position=14&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=IXhotd%2F5K2yhefaPBCbydQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Test Engineer I",
-        "company": "bioM\u00e9rieux",
-        "location": "Salt Lake City, UT",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-test-engineer-i-at-biom%C3%A9rieux-4373642396?position=15&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=%2BlbRxyfV5skD1lJa6wHusg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - CLOUDworks (SkillBridge) - R10211395",
-        "company": "Northrop Grumman",
-        "location": "Dayton, OH",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-cloudworks-skillbridge-r10211395-at-northrop-grumman-4375089901?position=16&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=hcL%2Bi3qcVO0LzT22qn%2Bgkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer 3 - Mission Inf - R10223115",
-        "company": "Northrop Grumman",
-        "location": "Huntsville, AL",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-3-mission-inf-r10223115-at-northrop-grumman-4375105171?position=17&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=zGhtAi7ks0hDNkBz5wPjEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Software System Safety Engineer - R10223125",
-        "company": "Northrop Grumman",
-        "location": "Melbourne, FL",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/software-system-safety-engineer-r10223125-at-northrop-grumman-4375097646?position=18&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=N%2FgkR%2FVIh%2F4WhRpbdM5f1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "2026 Associate Software Engineer/Software Engineer - R10217878",
-        "company": "Northrop Grumman",
-        "location": "Oklahoma City, OK",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/2026-associate-software-engineer-software-engineer-r10217878-at-northrop-grumman-4375101390?position=19&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=fxE53uDJ4%2FW1OR%2BaCv74dw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Engineer Software",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-engineer-software-at-palo-alto-networks-4372663074?position=20&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=W0T0WepWUAt%2Fs8qefruUmQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Information System Security Engineer (ISSE)",
-        "company": "PolarisGov",
-        "location": "Fort Belvoir, VA",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/information-system-security-engineer-isse-at-polarisgov-4373643554?position=22&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=7hDMgbehOlozxNU1P%2B%2BNDA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "VMS Software Chief Engineer - R10223089",
-        "company": "Northrop Grumman",
-        "location": "San Diego, CA",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/vms-software-chief-engineer-r10223089-at-northrop-grumman-4375095784?position=23&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=evKPXQ8yu8D0%2Ft%2BP2sGWrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Injection Systems Engineer - Equipment & Process Performance",
-        "company": "Amcor",
-        "location": "Nashville, TN",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/injection-systems-engineer-equipment-process-performance-at-amcor-4337042595?position=24&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=3AFZ03Xwc1ShHvYk4TlAEw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Injection Systems Engineer - Equipment & Process Performance",
-        "company": "Amcor",
-        "location": "Utah, United States",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/injection-systems-engineer-equipment-process-performance-at-amcor-4337261392?position=25&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=%2BUCo0FZzwZ%2BFrvlzBScYjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist II - Product",
-        "company": "Garner Health",
-        "location": "New York, NY",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-product-at-garner-health-4373650401?position=26&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=LmCcg1OA5SBiaXxtHDkgZw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Injection Systems Engineer - Equipment & Process Performance",
-        "company": "Amcor",
-        "location": "Indiana, United States",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/injection-systems-engineer-equipment-process-performance-at-amcor-4337191860?position=27&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=lMlRQGXNkn6oGViWLyzfxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Injection Systems Engineer - Equipment & Process Performance",
-        "company": "Amcor",
-        "location": "The Home Place, AZ",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/injection-systems-engineer-equipment-process-performance-at-amcor-4337102349?position=28&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=Zvm0qZXjWXvapNiId1CWdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Injection Systems Engineer - Equipment & Process Performance",
-        "company": "Amcor",
-        "location": "Vermont, United States",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/injection-systems-engineer-equipment-process-performance-at-amcor-4337062306?position=29&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=mTX3FLPrxJxYteXarj%2FQ5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Injection Systems Engineer - Equipment & Process Performance",
-        "company": "Amcor",
-        "location": "Wichita, KS",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/injection-systems-engineer-equipment-process-performance-at-amcor-4337211900?position=30&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=8Y%2FjZms1rZic5JRhLpf8xQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Injection Systems Engineer - Equipment & Process Performance",
-        "company": "Amcor",
-        "location": "Montgomery, AL",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/injection-systems-engineer-equipment-process-performance-at-amcor-4337152094?position=31&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=lXkjH%2FUv894EgrY4LAs8Vg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "DX Consultant",
-        "company": "Kantar",
-        "location": "New York, United States",
-        "date_posted": "47 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/dx-consultant-at-kantar-4373630651?position=32&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=ZYWaN88Xyx4sT5Al54oOsA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
-        "email_sent": false
-    },
-    {
-        "title": "Roadway Engineering Designer",
-        "company": "CONSOR Engineers",
-        "location": "Dunwoody, GA",
         "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/roadway-engineering-designer-at-consor-engineers-4372662747?position=33&pageNum=0&refId=tse7hbcaSPknxh03YrLWmg%3D%3D&trackingId=a6BeGjXRy15pvy8%2B96ktCQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tata-consultancy-services-4373651707?position=2&pageNum=0&refId=YduFtFbVUXe67JktcaKLEA%3D%3D&trackingId=HZ5WPNWfLJn1kGZzqKVrHA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-02-19 03:14:40",
+        "scraped_date": "2026-02-19 05:06:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "FOTOMILL STUDIOS LIMITED",
+        "location": "Englewood, CO",
+        "date_posted": "49 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fotomill-studios-limited-4375098920?position=3&pageNum=0&refId=YduFtFbVUXe67JktcaKLEA%3D%3D&trackingId=01%2FP1ooH9HpYhhXR%2F6XvvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-19 05:06:20",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer, Offline Testing Infrastructure (OTI)",
+        "company": "Pittsburgh Robotics Network",
+        "location": "Pittsburgh, PA",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-offline-testing-infrastructure-oti-at-pittsburgh-robotics-network-4372666977?position=4&pageNum=0&refId=YduFtFbVUXe67JktcaKLEA%3D%3D&trackingId=rUGRAK7cGkenYCPRl%2B4apQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-19 05:06:20",
+        "email_sent": false
+    },
+    {
+        "title": "ANALYST I",
+        "company": "Caltrans District 3",
+        "location": "Sacramento, CA",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-i-at-caltrans-district-3-4373644963?position=6&pageNum=0&refId=YduFtFbVUXe67JktcaKLEA%3D%3D&trackingId=1nHxeuXXy8eJje00TGzDqg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-19 05:06:20",
+        "email_sent": false
+    },
+    {
+        "title": "ANALYST I",
+        "company": "Caltrans District 3",
+        "location": "Sacramento, CA",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-i-at-caltrans-district-3-4373638974?position=7&pageNum=0&refId=YduFtFbVUXe67JktcaKLEA%3D%3D&trackingId=GnqLEe6DpP6SXPfQwyhiNQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-19 05:06:20",
+        "email_sent": false
+    },
+    {
+        "title": "ANALYST II",
+        "company": "Caltrans District 3",
+        "location": "Sacramento, CA",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-ii-at-caltrans-district-3-4373649788?position=8&pageNum=0&refId=YduFtFbVUXe67JktcaKLEA%3D%3D&trackingId=ELDVV2oj%2Fla2Y%2FbN7USyhw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-19 05:06:20",
+        "email_sent": false
+    },
+    {
+        "title": "Software Controls Engineer",
+        "company": "BW Converting",
+        "location": "Green Bay, WI",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-controls-engineer-at-bw-converting-4375103435?position=9&pageNum=0&refId=YduFtFbVUXe67JktcaKLEA%3D%3D&trackingId=ekKNaq%2F%2FkCCFMdp7JQ8pEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-19 05:06:20",
+        "email_sent": false
+    },
+    {
+        "title": "Assistant, Associate or Full Project Scientist - Anesthesiology",
+        "company": "UC San Diego Academic Jobs",
+        "location": "San Diego, CA",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/assistant-associate-or-full-project-scientist-anesthesiology-at-uc-san-diego-academic-jobs-4375108281?position=10&pageNum=0&refId=YduFtFbVUXe67JktcaKLEA%3D%3D&trackingId=Kf%2FfReNbEeNH%2BgbPw%2BuiTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-19 05:06:20",
+        "email_sent": false
+    },
+    {
+        "title": "Founding Engineer (Rust/Embedded) | Co-Founder Track | Stealth Hardware Startup",
+        "company": "Autarch Technologies, Inc. (a FinTech company)",
+        "location": "Alpharetta, GA",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/founding-engineer-rust-embedded-co-founder-track-stealth-hardware-startup-4375117177?position=5&pageNum=0&refId=YduFtFbVUXe67JktcaKLEA%3D%3D&trackingId=xiK3G7dwfUxDG4Qqdhqdyw%3D%3D&trk=public_jobs_jserp-result_search-card",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-19 05:06:20",
         "email_sent": false
     }
 ]
