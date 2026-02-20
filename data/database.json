@@ -1,695 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Carrot",
-        "location": "United States",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-carrot-4317203984?position=1&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=FlElqej832n4YmFbgvInwQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hirenza-4375680855?position=2&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=TwXT2rcOriysgaZkddiVAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Zynga",
-        "location": "Austin, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-zynga-4367300299?position=3&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=5nCQTou7lDmFynBUSbC6RA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-best-job-tool-4375689600?position=4&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=xALDoLNf8LyxJGfQ%2B2W1Qw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, API Engineer",
-        "company": "OpenAI",
-        "location": "San Francisco, CA",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-engineer-at-openai-4344479011?position=5&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=O2jVGlZKytaI6rD5dQD5oQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Berkshire Hathaway Homestate Companies - Workers Compensation Division",
-        "location": "San Francisco Bay Area",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-berkshire-hathaway-homestate-companies-workers-compensation-division-4352024867?position=6&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=rzsp6icJQYFhNzn%2FwYlEiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Productivity",
-        "company": "OpenAI",
-        "location": "San Francisco, CA",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-productivity-at-openai-4352132396?position=7&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=sll2YcaVtbBNkRp9qX6TBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "MCA Connect",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-mca-connect-4358775130?position=8&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=H1WAVhIu4JY9NrGTyXFgsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Synthetic Data & Annotations",
-        "company": "Applied Intuition",
-        "location": "Sunnyvale, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-synthetic-data-annotations-at-applied-intuition-3679200884?position=9&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=enlLiz7rWHx652jKC0GfZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "SS&C Eze",
-        "location": "Waltham, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ss-c-eze-4317343216?position=10&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=E8CODvX09dHbOvUoYK8wpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Security Observability",
-        "company": "OpenAI",
-        "location": "New York, NY",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-observability-at-openai-4312246239?position=11&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=splpWGbnxpsCGfbVN7t2ZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer II - Front End",
-        "company": "Esri",
-        "location": "Washington, DC",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-ii-front-end-at-esri-4375800251?position=12&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=B9f40EDVrsaHKNZ9DiJTmQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Player Success",
-        "company": "Zynga",
-        "location": "Chicago, IL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-player-success-at-zynga-4367302322?position=13&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=gto6%2FD9u%2Fhvm4GkN6pk4YA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Tech Consulting",
-        "location": "Indiana, United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4374384715?position=14&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=rSmU3VC4jv0uhlptV2hCBw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Security Observability",
-        "company": "OpenAI",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-security-observability-at-openai-4312255130?position=15&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=aqK7i7pE40XyxiAFDQrGyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer II - Front End",
-        "company": "Esri",
-        "location": "St Louis, MO",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-ii-front-end-at-esri-4375687871?position=16&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=pD0Zmhwz%2BmRRQw7efiSYSA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Hit It Rich",
-        "company": "Zynga",
-        "location": "Carlsbad, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-hit-it-rich-at-zynga-4367306274?position=17&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=QhJ32923FvLF7jG1wsZtHA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Infrastructure Application & Automation Software Engineer",
-        "company": "Hammerspace",
-        "location": "Salt Lake City Metropolitan Area",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/infrastructure-application-automation-software-engineer-at-hammerspace-4338400238?position=18&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=Hwq1OG52HNKJ9TL2qabzgw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Hit It Rich",
-        "company": "Zynga",
-        "location": "San Mateo, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-hit-it-rich-at-zynga-4367313234?position=19&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=y%2Bk6O9%2FzissUAnjt3HRFnA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software AI Engineer",
-        "company": "micro1",
-        "location": "United States",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-ai-engineer-at-micro1-4375682803?position=20&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=WUoLPWf567sx3MjkMDiCNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Hit It Rich",
-        "company": "Zynga",
-        "location": "Austin, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-hit-it-rich-at-zynga-4367305286?position=21&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=KxeYiHXodM00zS9e6rm6EQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst \u2013 Finance Systems (NetSuite)",
-        "company": "Wilshire",
-        "location": "Denver, CO",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-%E2%80%93-finance-systems-netsuite-at-wilshire-4344841834?position=22&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=4oRuFXsMHPvVXkv%2FPRIO2Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst \u2013 Finance Systems (NetSuite)",
-        "company": "Wilshire",
-        "location": "New York, NY",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-%E2%80%93-finance-systems-netsuite-at-wilshire-4344788942?position=23&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=KmvaUYjj53ICryksBe%2FLwA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Automation Data Analyst",
-        "company": "Insight Global",
-        "location": "Charlotte Metro",
-        "date_posted": "5 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/automation-data-analyst-at-insight-global-4374387765?position=24&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=bUDMeQzrvGivvA750jZmNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Hit It Rich",
-        "company": "Zynga",
-        "location": "Eugene, OR",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-hit-it-rich-at-zynga-4367302324?position=25&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=VV0ExWM5BD5467veSTHnWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Hit It Rich",
-        "company": "Zynga",
-        "location": "Chicago, IL",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-hit-it-rich-at-zynga-4367199327?position=26&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=ZzQcIcJTGr%2Bt7u5JRBT%2FTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Data Analyst",
-        "company": "Pacific Gas and Electric Company",
-        "location": "Oakland, CA",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/operations-data-analyst-at-pacific-gas-and-electric-company-4374374767?position=27&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=7jWc7ACrdBhAMhFVdUQxAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Robotics Software Engineer",
-        "company": "Komatsu",
-        "location": "Warrendale, PA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/robotics-software-engineer-at-komatsu-4344982936?position=28&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=l8zhHRhrcCeURs9JO40%2BFg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center- Field Engineer (site)",
-        "company": "Sundt Construction",
-        "location": "Lockhart, TX",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-field-engineer-site-at-sundt-construction-4344644082?position=29&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=GPxi3zvxMuND%2FO2sgVBG1g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Implant",
-        "company": "Neuralink",
-        "location": "Fremont, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-implant-at-neuralink-4223673171?position=30&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=%2FFlub%2BTVUMEgj3uZbPEjFw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center- Field Engineer (CSA)",
-        "company": "Sundt Construction",
-        "location": "Lockhart, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-field-engineer-csa-at-sundt-construction-4344713615?position=31&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=RZnNoTSBkypcbRQYHj67uw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-best-job-tool-4375801086?position=32&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=VE5LFiR449ke00zd6Du%2FYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Core Services",
-        "company": "ClickUp",
-        "location": "United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-core-services-at-clickup-4344885900?position=33&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=%2FJLvTqEzdw%2Baq5IUXqmetA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center- Project Engineer (MEP)",
-        "company": "Sundt Construction",
-        "location": "Lockhart, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-project-engineer-mep-at-sundt-construction-4344791091?position=34&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=NUn1ej83jKiclGGLCKCUWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375679631?position=35&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=PElOyJ9HEyehKi3T7p8mAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Denver, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375679646?position=36&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=cTql1W7JJEnVpwaedYEcKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Denver, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375684564?position=37&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=ZysDRODHB0DNYzJpjXDz4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Reliability Engineer - Entry Level",
-        "company": "Anord Mardix",
-        "location": "Richmond, VA",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-reliability-engineer-entry-level-at-anord-mardix-4333983929?position=38&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=uGFekl2tsasXlJ5jo8WsGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "React Software Engineer [32882]",
-        "company": "Stealth Startup",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "57 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/react-software-engineer-32882-at-stealth-startup-4373472001?position=39&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=q6OkcNHk2LQ9ON0wQePBJg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center- Project Engineer (CSA)",
-        "company": "Sundt Construction",
-        "location": "Lockhart, TX",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-project-engineer-csa-at-sundt-construction-4344614123?position=40&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=yNa8ovHnXMlQTMD9%2B9AWBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Georgia, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375682714?position=41&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=NDv4ea39enECffFu4nwBrw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Washington, DC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375673986?position=42&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=TrduzImGE3dqGhw%2FGQ4Vsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Washington, DC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375675860?position=43&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=Vj7WsFWzo84H12MUKIiHQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "New Jersey, United States",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4363953779?position=45&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=Jp2WRjMhxkHOnfdIDOa8Iw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Entry Level Software Engineer",
-        "company": "Amentum",
-        "location": "Fredericksburg, VA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-amentum-4375638135?position=46&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=wtdZxCPGYEcNAf04HXJfLA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375682662?position=47&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=SvY5SPPv%2B3fJ1mKmRnuBew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375692225?position=48&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=oQUPG5IIdi0jK7vHefmrlg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375675854?position=49&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=6OyLxXFejgnuqRRVN0f3LQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375681591?position=50&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=w9Hg0oiO4ydlDkN1VBleWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Staff Software Engineer, Platform Engineering (Prisma Access)",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-staff-software-engineer-platform-engineering-prisma-access-at-palo-alto-networks-4213582630?position=51&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=B0KcGYjg4j6wJUhVz6ljnA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II - Automation & Validation",
-        "company": "Honeywell",
-        "location": "Pittsford, NY",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-automation-validation-at-honeywell-4367377855?position=52&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=8oIC1lldSLjhXYMMLV%2BZCA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Minneapolis, MN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375695043?position=53&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=NViCwtYyy0vQZZuHvqkOxQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Minneapolis, MN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375688423?position=54&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=n3I21U3Fbc25sLKWTaXfdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Minneapolis, MN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375674894?position=55&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=W4CYMK5X5n7Beyla4OJY4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Denver, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375676829?position=56&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=QcDqkRZpPZ6p12l7Bpphkg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Denver, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375674921?position=57&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=0hrIPcnBVensnmT2H7%2FLuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Minneapolis, MN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375677746?position=58&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=7q0Yg2s0gg7KNrEU8SEJig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Washington, DC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375683565?position=59&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=SNKQeE%2FjGd3AOkQi74zaNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Minneapolis, MN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375682667?position=60&pageNum=0&refId=gUAhcf8WvP4h0EaFZPKMhg%3D%3D&trackingId=u65cPXcF5jk7n6nMvtXrPg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst - Hit It Rich",
-        "company": "Zynga",
-        "location": "Chicago, IL",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-hit-it-rich-at-zynga-4367199327?position=1&pageNum=2&refId=Ujh5Qt2RbbfjUVxgprynvQ%3D%3D&trackingId=IDEpyxNMx7gkkGSPnO9oTg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Data Analyst",
-        "company": "Pacific Gas and Electric Company",
-        "location": "Oakland, CA",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/operations-data-analyst-at-pacific-gas-and-electric-company-4374374767?position=2&pageNum=2&refId=Ujh5Qt2RbbfjUVxgprynvQ%3D%3D&trackingId=cLetrgd6EYiC1DdHUb5mSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Robotics Software Engineer",
-        "company": "Komatsu",
-        "location": "Warrendale, PA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/robotics-software-engineer-at-komatsu-4344982936?position=3&pageNum=2&refId=Ujh5Qt2RbbfjUVxgprynvQ%3D%3D&trackingId=yJ2D6ekOkQGBewdUKz8cVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center- Field Engineer (site)",
-        "company": "Sundt Construction",
-        "location": "Lockhart, TX",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-field-engineer-site-at-sundt-construction-4344644082?position=4&pageNum=2&refId=Ujh5Qt2RbbfjUVxgprynvQ%3D%3D&trackingId=QCkeSiWL44%2FuCXLWCta5JQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Implant",
-        "company": "Neuralink",
-        "location": "Fremont, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-implant-at-neuralink-4223673171?position=5&pageNum=2&refId=Ujh5Qt2RbbfjUVxgprynvQ%3D%3D&trackingId=WUkVYhwC%2FZ2LywkxY2qB0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center- Field Engineer (CSA)",
-        "company": "Sundt Construction",
-        "location": "Lockhart, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-field-engineer-csa-at-sundt-construction-4344713615?position=6&pageNum=2&refId=Ujh5Qt2RbbfjUVxgprynvQ%3D%3D&trackingId=XZKzycMf9ay%2Bt3gSpzU9JA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Best Job Tool",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-best-job-tool-4375801086?position=7&pageNum=2&refId=Ujh5Qt2RbbfjUVxgprynvQ%3D%3D&trackingId=XHXhlzshbbQ6ExNq8l8lOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Core Services",
-        "company": "ClickUp",
-        "location": "United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-core-services-at-clickup-4344885900?position=8&pageNum=2&refId=Ujh5Qt2RbbfjUVxgprynvQ%3D%3D&trackingId=2mcFRhx9ldqt%2FdywBILiuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center- Project Engineer (MEP)",
-        "company": "Sundt Construction",
-        "location": "Lockhart, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-project-engineer-mep-at-sundt-construction-4344791091?position=9&pageNum=2&refId=Ujh5Qt2RbbfjUVxgprynvQ%3D%3D&trackingId=pjgrDHhDN4XvcYhzjMJAiQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4375679631?position=10&pageNum=2&refId=Ujh5Qt2RbbfjUVxgprynvQ%3D%3D&trackingId=YfymQM12NRWNnGcs2iR4jg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-20 13:24:17",
-        "email_sent": false
-    },
-    {
         "title": "Junior Data Engineer",
         "company": "KGS Technology Group, Inc",
         "location": "Alpharetta, GA",
@@ -1217,6 +527,296 @@
         "url": "https://www.linkedin.com/jobs/view/data-scientist-4374384992?position=56&pageNum=0&refId=e2WJJXWhVTaw%2FlDtcQ8gsg%3D%3D&trackingId=aryVULh15QyVKtOW%2BJqJ5Q%3D%3D&trk=public_jobs_jserp-result_search-card",
         "source": "LinkedIn",
         "scraped_date": "2026-02-20 14:12:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "VSV WINS, INC",
+        "location": "United States",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-vsv-wins-inc-4375806679?position=1&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=m4wqa400r1%2BjuVyAHrDMDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Integra Connect",
+        "location": "United States",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-integra-connect-4369619971?position=2&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=B2RAAUYqda9v3cnKau5Bug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Mastech Digital",
+        "location": "New York, United States",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-mastech-digital-4373457577?position=3&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=E50wvyk%2FrpiK7a7zVk1iKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4375677160?position=6&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=dOHiFfIqtjt95EEgGEgtAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer, Sr.",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4375681087?position=8&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=Y64M6MJkKaQ4Rwwj5g89RQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Snowflake, Informatica, Teradata, Oracle)",
+        "company": "The Brixton Group",
+        "location": "San Jose, CA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-snowflake-informatica-teradata-oracle-at-the-brixton-group-4373166525?position=9&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=%2B0SaxbPg%2BHtgQuXF9FT%2FKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "hackajob",
+        "location": "Middletown, CT",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hackajob-4374390759?position=12&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=4zHVfXA8rZwqSdi84oK%2Fjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Fullstory",
+        "location": "Atlanta, GA",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fullstory-4373476299?position=14&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=pSCpAQe3lDsmAy6yGPDnVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "On-Demand Group",
+        "location": "Chaska, MN",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-on-demand-group-4374613077?position=15&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=IdnWGSWyPYKXy8B31uFVOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4375670577?position=17&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=yetJx5tve20rnz%2FkfsNf8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "All- Software Developer / Software Engineer - (Full-Time) Career Break Acceptable",
+        "company": "Precision Technologies",
+        "location": "United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/all-software-developer-software-engineer-full-time-career-break-acceptable-at-precision-technologies-4374608028?position=19&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=ZzenICmgvmWSkpketP12YQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Hyra",
+        "location": "Texas, United States",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hyra-4375817137?position=20&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=T%2B2TjSxAbxUVpoaEm%2B0BFg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer (Python, Go)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-python-go-at-wiraa-4375668734?position=24&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=WU30hin9QDtCkXbU95l9%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Growth",
+        "company": "Anthropic",
+        "location": "San Francisco, CA",
+        "date_posted": "49 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-growth-at-anthropic-4344926636?position=31&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=W9KftB1sHNggQuy%2BvCg0Yw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer II",
+        "company": "hackajob",
+        "location": "Jersey City, NJ",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-ii-at-hackajob-4374607054?position=32&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=gsRIWv94FVXyQcaFVTyDbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer III",
+        "company": "Primary Talent Partners",
+        "location": "Charlotte, NC",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-primary-talent-partners-4375818239?position=33&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=OSFXe%2BLNWND2xLKYZx8L2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst, Data & AI Solutions",
+        "company": "The AES Corporation",
+        "location": "Salt Lake City, UT",
+        "date_posted": "41 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-data-ai-solutions-at-the-aes-corporation-4375623012?position=34&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=yhx9nUTNHe6ycxQBXlYvlw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Product Data Analyst II",
+        "company": "ShiftKey",
+        "location": "United States",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/product-data-analyst-ii-at-shiftkey-4358429779?position=39&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=huQabTrpSkzEbYbt09a%2BQQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Recruiting from Scratch",
+        "location": "New York, United States",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-recruiting-from-scratch-4370779330?position=40&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=3OOgvoSeQ%2FZi86mnB%2B3edw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, AI Cloud",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-cloud-at-wiraa-4375673463?position=42&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=nu1pYdQ19Jp5QsjrwspbKA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (EAA)",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-eaa-at-wiraa-4375667736?position=43&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=dz2MOwu4mndrXZpsjncOkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Frontend Software Engineer",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-wiraa-4375679125?position=45&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=CVtSuKpqHtR%2FRdIrll0WwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-wiraa-4375675334?position=52&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=AioOaemDHy30x3d7Vw%2Ft%2Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 2",
+        "company": "Wiraa",
+        "location": "United States",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-2-at-wiraa-4375667739?position=54&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=9Hkh0BVRqjwJHSrvuJPiQQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Engineer Software (Backend)",
+        "company": "Palo Alto Networks",
+        "location": "Santa Clara, CA",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-engineer-software-backend-at-palo-alto-networks-4356172679?position=57&pageNum=0&refId=1%2Fj5aUlK9phJHPV0eXOmJA%3D%3D&trackingId=Y78wdVkOOwBpJm6ToY0ERg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Growth",
+        "company": "Anthropic",
+        "location": "San Francisco, CA",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-growth-at-anthropic-4344926636?position=6&pageNum=2&refId=lwp156wQ7ihW1P4BxMipqA%3D%3D&trackingId=b2LZ2H4%2BgqWKkDcxJ1eAdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer II",
+        "company": "hackajob",
+        "location": "Jersey City, NJ",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-ii-at-hackajob-4374607054?position=7&pageNum=2&refId=lwp156wQ7ihW1P4BxMipqA%3D%3D&trackingId=KirSDO9BawiwLFHwFMJdqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer III",
+        "company": "Primary Talent Partners",
+        "location": "Charlotte, NC",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-primary-talent-partners-4375818239?position=8&pageNum=2&refId=lwp156wQ7ihW1P4BxMipqA%3D%3D&trackingId=xBb9rugKqE%2B5pw6Bq1JkBQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst, Data & AI Solutions",
+        "company": "The AES Corporation",
+        "location": "Salt Lake City, UT",
+        "date_posted": "41 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-data-ai-solutions-at-the-aes-corporation-4375623012?position=9&pageNum=2&refId=lwp156wQ7ihW1P4BxMipqA%3D%3D&trackingId=VUMwXZzAEpSo7D%2BsCEo6Lw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-20 15:01:22",
         "email_sent": false
     }
 ]
