@@ -1,25 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-fetchjobs-co-4374994903?position=1&pageNum=0&refId=lxV3vMOuWlBDuWWOzsGjmQ%3D%3D&trackingId=dvUYxlrx0d9WyF27CBdQeg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 22:34:54",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Haystack",
-        "location": "San Antonio, Texas Metropolitan Area",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4374996914?position=4&pageNum=0&refId=lxV3vMOuWlBDuWWOzsGjmQ%3D%3D&trackingId=Dj%2Fl7LbkeyQTcwLM9PHvGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-22 22:34:54",
-        "email_sent": false
-    },
-    {
         "title": "Summer 2026 Co-Op - Software Engineer",
         "company": "WD",
         "location": "Rochester, MN",
@@ -67,6 +47,36 @@
         "url": "https://www.linkedin.com/jobs/view/product-data-engineer-4376325608?position=2&pageNum=0&refId=JQdKtXr0oSKmdoI%2Be066yw%3D%3D&trackingId=xukUEcvQHfRb7hQokkF8BA%3D%3D&trk=public_jobs_jserp-result_search-card",
         "source": "LinkedIn",
         "scraped_date": "2026-02-22 23:29:46",
+        "email_sent": false
+    },
+    {
+        "title": "LATAM - Data Science Engineer",
+        "company": "Playsaurus Inc.",
+        "location": "Alameda, CA",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/latam-data-science-engineer-at-playsaurus-inc-4374229209?position=3&pageNum=0&refId=pQ9mSCkm5t%2F4Bzrd0AFV6w%3D%3D&trackingId=EFchvZOoEnwucpH7%2FflUIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-22 23:52:04",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst Support",
+        "company": "Helios HR",
+        "location": "Washington, DC",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-support-at-helios-hr-4376501880?position=4&pageNum=0&refId=pQ9mSCkm5t%2F4Bzrd0AFV6w%3D%3D&trackingId=CIBCWTOzksawXYSNJS2kdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-22 23:52:04",
+        "email_sent": false
+    },
+    {
+        "title": "GTM Engineer",
+        "company": "talentpluto",
+        "location": "San Francisco, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/gtm-engineer-at-talentpluto-4376517202?position=7&pageNum=0&refId=pQ9mSCkm5t%2F4Bzrd0AFV6w%3D%3D&trackingId=cuDFtnID0hMF%2FlC0SUJTcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-22 23:52:04",
         "email_sent": false
     }
 ]
