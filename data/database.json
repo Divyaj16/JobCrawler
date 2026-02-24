@@ -1,285 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4376559548?position=1&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=g9amsiMgEH9CnbamxsHGmg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer (Data Stage)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-data-stage-at-wiraa-4376572143?position=2&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=fI%2BHX3zYklk5khnNFVGOFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Platform",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-platform-at-wiraa-4376556677?position=3&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=xwE9Sx3w7WMO3u0db39q%2BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Js, SQL)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-js-sql-at-wiraa-4376556673?position=4&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=4ERVTNsYvXwIexIPtxOO1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4376570170?position=5&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=3QsHv10b8YSOFgMMdvlYPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4376567344?position=6&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=vQV0xuiMVwBk%2FjMxZE0aWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer (Python, API)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-python-api-at-wiraa-4376814379?position=7&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=Or8kU4W9d0xPelYflUPeWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Research",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-research-at-wiraa-4376556674?position=8&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=HFjg44%2F5KmL03a7YbEdfSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, AI Platform",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-platform-at-wiraa-4376571146?position=9&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=uoYtyB7b0yibzVemS%2BoG1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Level 3",
-        "company": "Snap Inc.",
-        "location": "New York, United States",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-3-at-snap-inc-4377107432?position=10&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=Tet70iZTlAXSqiNcAjB%2FlA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-wiraa-4376567346?position=11&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=fVRKdQHlMlN33pbMii16jw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Leidos",
-        "location": "Orlando, FL",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-leidos-4377121578?position=12&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=9aEaBHxbC4Crhf7R0UM8Cw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Level 3",
-        "company": "Snap Inc.",
-        "location": "Palo Alto, CA",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-3-at-snap-inc-4377112273?position=13&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=8jgiXOmkmdHxUpaaFl4kbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, Java)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-java-at-wiraa-4376552930?position=14&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=kWuwWjoaE1eqqHsL3IH%2F0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Node.js, SQL)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-node-js-sql-at-wiraa-4376566310?position=15&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=oVzqnlxg%2B%2BOjHWOMiUaKrw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Leidos",
-        "location": "Morgantown, WV",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-leidos-4377109965?position=16&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=yloDCp26aQ0R1rxeXXntzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wiraa-4376571148?position=17&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=LaTyoNwqwKniS02QHf%2BXLg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Level 3",
-        "company": "Snap Inc.",
-        "location": "Los Angeles, CA",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-level-3-at-snap-inc-4377118034?position=18&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=ZHsdwu82lpRo9%2BQgxio3VA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Leidos",
-        "location": "Huntsville, AL",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-leidos-4377124392?position=19&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=A3Hrnp7b34FIVXBzeYyw3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4376569210?position=20&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=LCCu%2BrGxHlqyyyF7AL3HjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, TypeScript)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-typescript-at-wiraa-4376571150?position=21&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=hMNPoAKZPAnDOj%2FE1op3jA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Technology - Junior Quantitative Strategist",
-        "company": "Soros Fund Management",
-        "location": "New York, United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/technology-junior-quantitative-strategist-at-soros-fund-management-4376044184?position=23&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=xKA83n3k%2FWOm6lPoY0%2F%2BnA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4376807682?position=25&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=mzFstIv21nHpaUYySsqXcg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Database Administrator (DBA)",
-        "company": "Guardian Jobs",
-        "location": "Bradford, IA",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/database-administrator-dba-at-guardian-jobs-4377127145?position=27&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=1JJF2A31vL09YwD8GoUnmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist (Fraud Analytics)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-fraud-analytics-at-wiraa-4376820202?position=28&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=wcRcjbsFbKQ8OUxtjPnA1w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Product Engineer, Division Production Software",
-        "company": "Hexagon Manufacturing Intelligence",
-        "location": "Camarillo, CA",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/product-engineer-division-production-software-at-hexagon-manufacturing-intelligence-4374560078?position=29&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=LUonSoRtPfFyKon3jiDg1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Portable Life Support System (PLSS) Project Engineer - Space Systems",
-        "company": "Oceaneering",
-        "location": "Houston, TX",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/portable-life-support-system-plss-project-engineer-space-systems-at-oceaneering-4377107434?position=30&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=GepDbUanywajDVHy7vWoFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
-        "title": "Land Development Project Manager",
-        "company": "NPAworldwide",
-        "location": "Richardson, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/land-development-project-manager-at-npaworldwide-4376027447?position=31&pageNum=0&refId=ZgH%2Fiman89Vm6TUOdZxOpQ%3D%3D&trackingId=G27svV%2FPC56Or%2FMXBHlu9A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-24 06:43:12",
-        "email_sent": false
-    },
-    {
         "title": "Member of Technical Staff (New Grad)",
         "company": "Faction",
         "location": "New York City Metropolitan Area",
@@ -507,6 +227,76 @@
         "url": "https://www.linkedin.com/jobs/view/public-health-section-chief-hybrid-%23260220-0563mp-001-at-state-of-connecticut-4377134120?position=46&pageNum=0&refId=UJKRM0rojd2ygoPor54iRg%3D%3D&trackingId=ue9%2BQDQhvk5yE83UZfNPQg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-02-24 07:42:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Aurora",
+        "location": "Mountain View, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-aurora-4331981726?position=1&pageNum=0&refId=uuwAOK2psM5xZHkMhTgyZQ%3D%3D&trackingId=HWsdp8H6A%2FiREVJ3VwcFlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-24 08:29:22",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Spectrum Business",
+        "location": "Stamford, CT",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-spectrum-business-4377132452?position=3&pageNum=0&refId=uuwAOK2psM5xZHkMhTgyZQ%3D%3D&trackingId=9jaFsQdTIXo0jrPfsyZAiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-24 08:29:22",
+        "email_sent": false
+    },
+    {
+        "title": "Population Health Data Analyst",
+        "company": "Elevance Health",
+        "location": "Rocky Hill, CT",
+        "date_posted": "49 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/population-health-data-analyst-at-elevance-health-4376037672?position=6&pageNum=0&refId=uuwAOK2psM5xZHkMhTgyZQ%3D%3D&trackingId=I33JZymodIKxFv8MJrcvaQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-24 08:29:22",
+        "email_sent": false
+    },
+    {
+        "title": "Advanced Analytics Contractor",
+        "company": "Horizontal Talent",
+        "location": "San Francisco, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/advanced-analytics-contractor-at-horizontal-talent-4374558607?position=10&pageNum=0&refId=uuwAOK2psM5xZHkMhTgyZQ%3D%3D&trackingId=YZcAGntODcV12faTJriJZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-24 08:29:22",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer",
+        "company": "Exelon",
+        "location": "Mays Landing, NJ",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-at-exelon-4368692135?position=11&pageNum=0&refId=uuwAOK2psM5xZHkMhTgyZQ%3D%3D&trackingId=fLYyQUFJSW3FX5nrUNP0wg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-24 08:29:22",
+        "email_sent": false
+    },
+    {
+        "title": "Scientist (Metrology Data Review)",
+        "company": "Eurofins",
+        "location": "Portage, MI",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/scientist-metrology-data-review-at-eurofins-4377129442?position=19&pageNum=0&refId=uuwAOK2psM5xZHkMhTgyZQ%3D%3D&trackingId=LuItOh9ZHQ21R5NERkpv1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-24 08:29:22",
+        "email_sent": false
+    },
+    {
+        "title": "Global Travel & Visa Analyst",
+        "company": "VOYA Visa Technology",
+        "location": "United States",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/global-travel-visa-analyst-at-voya-visa-technology-4377138261?position=20&pageNum=0&refId=uuwAOK2psM5xZHkMhTgyZQ%3D%3D&trackingId=YAiUSx%2BrACct9zJrbeQCgw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-24 08:29:22",
         "email_sent": false
     }
 ]
