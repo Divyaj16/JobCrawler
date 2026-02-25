@@ -1,72 +1,232 @@
 [
     {
-        "title": "Software Engineer I (Backend)",
-        "company": "WHOOP",
+        "title": "Fullstack Software Engineer, New Grad",
+        "company": "PermitFlow",
+        "location": "New York, NY",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/fullstack-software-engineer-new-grad-at-permitflow-4377569586?position=1&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=8iIqftdrieSlciX%2BguSqXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Ascensus",
+        "location": "Newton, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ascensus-4377571417?position=2&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=w%2F1%2BvRiqIdAWGvZrBQn%2Bow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+        "company": "Canonical",
+        "location": "Sacramento, CA",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics-at-canonical-4377569558?position=3&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=U3e5vD%2BKhqHCfOSwiB%2BLYA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+        "company": "Canonical",
+        "location": "Las Vegas, NV",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics-at-canonical-4377574419?position=4&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=yySo4r3zsnkr%2BgwWJMvSBA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+        "company": "Canonical",
+        "location": "Washington, DC",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics-at-canonical-4377582353?position=5&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=RPkWuYu4%2BUkNfIN%2FdJwwsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+        "company": "Canonical",
+        "location": "Tacoma, WA",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics-at-canonical-4377576434?position=6&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=sVBYD4JBk%2BPWp%2F3o8LNumA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+        "company": "Canonical",
+        "location": "Tulsa, OK",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics-at-canonical-4377572548?position=7&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=lbEfmRhmIJcdDzsZYxuxSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Tata Consultancy Services",
+        "location": "Plano, TX",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-tata-consultancy-services-4376483997?position=8&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=lGlxooKqT4iW18xk%2BxnOvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+        "company": "Canonical",
+        "location": "Wichita, KS",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics-at-canonical-4377578422?position=9&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=5vO1ibuc5eeatQ4X6ftAlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+        "company": "Canonical",
+        "location": "Syracuse, NY",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics-at-canonical-4377582352?position=10&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=lCndFSLcRWTuc9qdOCKBfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+        "company": "Canonical",
+        "location": "Tucson, AZ",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics-at-canonical-4377572549?position=11&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=oB2Fd9K%2Fbl2VmFJSBpp%2F3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Analyst",
+        "company": "Juba Electric Co",
+        "location": "Minneapolis, MN",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-at-juba-electric-co-4376453167?position=12&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=HDDvh%2F%2B%2Bl9vnQ1JHcRWWqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Oracle GoldenGate Administrator / Data Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Seattle, WA",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/oracle-goldengate-administrator-data-engineer-at-tata-consultancy-services-4376496368?position=13&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=tl7r3el5MDIvSwwRr9x8FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Automation Software Engineer",
+        "company": "Tata Consultancy Services",
+        "location": "Jacksonville, FL",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/automation-software-engineer-at-tata-consultancy-services-4376496373?position=14&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=nOniQa9nvFv9lrY2nKBh7g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer System Management",
+        "company": "Tata Consultancy Services",
+        "location": "Atlanta, GA",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-system-management-at-tata-consultancy-services-4376705137?position=15&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=3kIHw10RzBqQRlFI2akw9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer System Management",
+        "company": "Tata Consultancy Services",
+        "location": "Waldorf, MD",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-system-management-at-tata-consultancy-services-4376483996?position=16&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=6CW8InLm9aJ%2F2NBb7arhXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Actuarial Data Scientist",
+        "company": "Manulife",
         "location": "Boston, MA",
         "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-backend-at-whoop-4374849763?position=1&pageNum=0&refId=8Tx3qSstdrhvG3dLhttPTA%3D%3D&trackingId=OmnfJdOR3nrCgMtOXGCxSQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/actuarial-data-scientist-at-manulife-4376431948?position=17&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=xbPu89UVvv0BqPC7aqDsEg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-02-25 03:42:48",
+        "scraped_date": "2026-02-25 05:17:47",
         "email_sent": false
     },
     {
-        "title": "Analyst, Commerce - CNN Data Analytics, Science & Insights",
-        "company": "CNN",
-        "location": "Atlanta, GA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-commerce-cnn-data-analytics-science-insights-at-cnn-4377554548?position=2&pageNum=0&refId=8Tx3qSstdrhvG3dLhttPTA%3D%3D&trackingId=UmF6VqibogbNm898B5QT8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-25 03:42:48",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer in Test - Camera API",
-        "company": "Apple",
+        "title": "Model-Based Software Systems Engineer",
+        "company": "MITRE",
         "location": "San Diego, CA",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-camera-api-at-apple-4377573044?position=3&pageNum=0&refId=8Tx3qSstdrhvG3dLhttPTA%3D%3D&trackingId=UsIh3gAIl%2Bsvd7n1%2Bz7OFQ%3D%3D",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/model-based-software-systems-engineer-at-mitre-4377581368?position=18&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=%2FXAUMfO17RJzOO8jkR8ARQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-02-25 03:42:48",
+        "scraped_date": "2026-02-25 05:17:47",
         "email_sent": false
     },
     {
-        "title": "Software Developer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "19 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-developer-at-fetchjobs-co-4376484644?position=4&pageNum=0&refId=8Tx3qSstdrhvG3dLhttPTA%3D%3D&trackingId=MOvDxUwzwN0Pg%2BXXErxTjA%3D%3D",
+        "title": "Data Scientist",
+        "company": "Tata Consultancy Services",
+        "location": "Costa Mesa, CA",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-tata-consultancy-services-4376496370?position=22&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=GoUPibtqTtkFr2RflIktUQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-02-25 03:42:48",
+        "scraped_date": "2026-02-25 05:17:47",
         "email_sent": false
     },
     {
-        "title": "Associate AI & Analytics \u2013 Data Scientist-Finance Transformation 2026",
-        "company": "IBM",
-        "location": "New York, United States",
+        "title": "ANALYST III",
+        "company": "Caltrans District 3",
+        "location": "Yolo, CA",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-iii-at-caltrans-district-3-4376498207?position=23&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=8vQcOLqQcJZK9KEIxblO7w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "ZBB ANALYST",
+        "company": "Pilgrim's",
+        "location": "Waco, TX",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/zbb-analyst-at-pilgrim-s-4377586158?position=24&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=Is1bOPFOgj7JWrFRqYnPlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "ANALYST II",
+        "company": "Caltrans District 3",
+        "location": "Alameda, CA",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analyst-ii-at-caltrans-district-3-4376495412?position=25&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=pKpmXYP%2FRk%2FhtdAiN8cxuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-02-25 05:17:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (MES) with Security Clearance",
+        "company": "ClearanceJobs",
+        "location": "Camden, NJ",
         "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-ai-analytics-%E2%80%93-data-scientist-finance-transformation-2026-at-ibm-4374851812?position=5&pageNum=0&refId=8Tx3qSstdrhvG3dLhttPTA%3D%3D&trackingId=GKHkEjttgnaZsl1yw3CsTg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-mes-with-security-clearance-at-clearancejobs-4374859717?position=26&pageNum=0&refId=kaXLngQDeiTaVem8%2FgP3pQ%3D%3D&trackingId=xbfe6bJQtzORVlgoRNhJrw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-02-25 03:42:48",
-        "email_sent": false
-    },
-    {
-        "title": "Contract - Cyber Software Development Engineer  (C5)",
-        "company": "General Dynamics Land Systems",
-        "location": "Sterling Heights, MI",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/contract-cyber-software-development-engineer-c5-at-general-dynamics-land-systems-4377564531?position=6&pageNum=0&refId=8Tx3qSstdrhvG3dLhttPTA%3D%3D&trackingId=WoyThQcSnA84jpHNohkGTw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-25 03:42:48",
-        "email_sent": false
-    },
-    {
-        "title": "Associate AI & Analytics \u2013 Data Scientist-Finance Transformation 2026",
-        "company": "IBM",
-        "location": "Houston, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-ai-analytics-%E2%80%93-data-scientist-finance-transformation-2026-at-ibm-4374859747?position=7&pageNum=0&refId=8Tx3qSstdrhvG3dLhttPTA%3D%3D&trackingId=4iWf%2BQEVSoyjsEj2gR4UsA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-02-25 03:42:48",
+        "scraped_date": "2026-02-25 05:17:47",
         "email_sent": false
     }
 ]
