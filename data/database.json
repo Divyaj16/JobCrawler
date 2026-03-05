@@ -138,5 +138,35 @@
         "source": "LinkedIn",
         "scraped_date": "2026-03-05 05:20:39",
         "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AAA Auto Club Enterprises",
+        "location": "Coppell, TX",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-aaa-auto-club-enterprises-4379337458?position=1&pageNum=0&refId=uNJPMXrKSeRJ9O4FI7Vclg%3D%3D&trackingId=ZFxUgTaZFshCGf7pUuEhEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-05 06:06:57",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Aditi Consulting",
+        "location": "Redmond, WA",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-aditi-consulting-4367176259?position=2&pageNum=0&refId=uNJPMXrKSeRJ9O4FI7Vclg%3D%3D&trackingId=HnJqGcgd7neONA6rL4iFfw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-05 06:06:57",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Alignerr",
+        "location": "Seattle, WA",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-alignerr-4381184799?position=3&pageNum=0&refId=uNJPMXrKSeRJ9O4FI7Vclg%3D%3D&trackingId=99dfwrBopW1YMfz80Ra8DA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-05 06:06:57",
+        "email_sent": false
     }
 ]
