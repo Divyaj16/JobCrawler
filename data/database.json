@@ -1,52 +1,242 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Intermountain Health",
-        "location": "Murray, UT",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-intermountain-health-4380220135?position=1&pageNum=0&refId=Al4Byr8nDUC9ra4a8ixbYg%3D%3D&trackingId=tXjGbtsHMGkaQYcB5E27pw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 01:59:27",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Frontend",
-        "company": "Sim",
-        "location": "San Francisco, CA",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-sim-4381392389?position=2&pageNum=0&refId=Al4Byr8nDUC9ra4a8ixbYg%3D%3D&trackingId=jmjaxnwJAQSIdt38Py7tIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 01:59:27",
-        "email_sent": false
-    },
-    {
-        "title": "Database Engineer",
-        "company": "Minnesota IT Services",
-        "location": "St Paul, MN",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-minnesota-it-services-4381392436?position=3&pageNum=0&refId=Al4Byr8nDUC9ra4a8ixbYg%3D%3D&trackingId=L%2BhGZZBT55lkkQMm%2FNb61Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 01:59:27",
-        "email_sent": false
-    },
-    {
-        "title": "WANT YOUR WORK TO MEAN SOMETHING?",
-        "company": "Driven Insights",
-        "location": "Gardner, MA",
+        "title": "Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
         "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/want-your-work-to-mean-something%3F-at-driven-insights-4382623689?position=4&pageNum=0&refId=Al4Byr8nDUC9ra4a8ixbYg%3D%3D&trackingId=TmfvUlZTCvmCvCtWe7k0sg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4379694665?position=1&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=oPhI7gKmD1lcXGpSGKvGCw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-03-08 01:59:27",
+        "scraped_date": "2026-03-08 04:15:30",
         "email_sent": false
     },
     {
-        "title": "Rust Software Engineer \u2013 Low Latency / HFT / Crypto - Tribus",
-        "company": "Jobs via eFinancialCareers",
-        "location": "New York, NY",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/rust-software-engineer-%E2%80%93-low-latency-hft-crypto-tribus-at-jobs-via-efinancialcareers-4363173570?position=5&pageNum=0&refId=Al4Byr8nDUC9ra4a8ixbYg%3D%3D&trackingId=AJrh3GMPQU1712UrIFItAA%3D%3D",
+        "title": "IT System Engineer",
+        "company": "FetchJobs.co",
+        "location": "United States",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/it-system-engineer-at-fetchjobs-co-4381396374?position=2&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=m%2BjdVKWH3Am0tL5rcxMn1g%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-03-08 01:59:27",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Remote",
+        "company": "ExecutivePlacements.com",
+        "location": "Boston, MA",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-remote-at-executiveplacements-com-4382639524?position=3&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=5U6HUyXgCJhABJfdhch9yA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Aviation Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Washington, DC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/aviation-data-engineer-at-jobs-via-dice-4379497098?position=4&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=wky8ayB3Q70o2sH2d1sf3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Cloud Data Engineer - Coalesce, Snowflake experience",
+        "company": "Jobs via Dice",
+        "location": "Washington, DC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/cloud-data-engineer-coalesce-snowflake-experience-at-jobs-via-dice-4380049512?position=6&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=qMgAh8OBKFWOtLrFWqDeoQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "FetchJobs.co",
+        "location": "United States",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fetchjobs-co-4381398194?position=7&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=MqZCW%2BdJ7A%2BO1cMBesk%2FHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Jobs via Dice",
+        "location": "Memphis, TN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobs-via-dice-4379487610?position=8&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=6VZXobA9%2FoN1hGecoUGf2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "DevOps Engineer",
+        "company": "Jobs via Dice",
+        "location": "McLean, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-jobs-via-dice-4380043568?position=9&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=EKb%2F0NM14MrCvM78Mw2SJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Systems",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-systems-at-jobs-via-dice-4379694664?position=10&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=E5uX%2F%2FpQEudhz6DRgzvsRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, CDN (Starlink)",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-cdn-starlink-at-jobs-via-dice-4381397031?position=11&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=%2BwB12Mt5ktlgM9GBSCCPPw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4381396139?position=12&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=HSa%2F33SbRjHGXKdanmmaUQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Redondo Beach, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4379695706?position=13&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=oLfTaKp1SqWobmItjEcQIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Devices",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-devices-at-jobs-via-dice-4381386573?position=14&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=HkdVnQnmGnt2dKN8Vne5ug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Data - Top Secret Clearance (Starlink)",
+        "company": "Jobs via Dice",
+        "location": "Hawthorne, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-top-secret-clearance-starlink-at-jobs-via-dice-4381379794?position=15&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=aTOPCd0BVc3u7pdcqPCkNw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Rochester, MN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4381392351?position=16&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=uIO3TZaegwqPipqGrducmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Product",
+        "company": "Jobs via Dice",
+        "location": "Cambridge, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-product-at-jobs-via-dice-4380010196?position=17&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=9gH%2Bxdsqn9OD63JgFUAvuA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Mid Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Chantilly, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/mid-software-engineer-at-jobs-via-dice-4380045556?position=18&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=sf%2BnyfnsZfc67Wioeobl8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "RF Silicon Software Engineer (Starlink)",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/rf-silicon-software-engineer-starlink-at-jobs-via-dice-4380060042?position=19&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=oxhpcQhvg8u7VQisAeUG8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Jobs via Dice",
+        "location": "Arlington, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-jobs-via-dice-4380046561?position=20&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=MtmVdB0YxxpVADNQtfQgEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "System / Driver Engineer (Contract or Managed Services)",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/system-driver-engineer-contract-or-managed-services-at-jobs-via-dice-4380060065?position=21&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=CRakwUJJmbZSU%2FyLaQBo4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Governance Specialist",
+        "company": "Jobs via Dice",
+        "location": "Doral, FL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-governance-specialist-at-jobs-via-dice-4379476926?position=22&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=qMRmYVqkZW1JP3Bg3ZJMaQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "AI Financial Analyst",
+        "company": "Jobs via Dice",
+        "location": "California, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-financial-analyst-at-jobs-via-dice-4380052320?position=23&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=Z95s1BhcsBUY31Uz9BA7gA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Meteorology Satellite Data Assimilation Research Scientist",
+        "company": "Jobs via Dice",
+        "location": "Monterey, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/meteorology-satellite-data-assimilation-research-scientist-at-jobs-via-dice-4380000508?position=24&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=nviMT2g%2BnNDlDps%2FJ9xNrw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "USAF",
+        "location": "Stevenson Ranch, CA",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-4381355842?position=5&pageNum=0&refId=kP8IxCykhhS67vARndE36Q%3D%3D&trackingId=hRr6vAnE0ux5JApXu70KYA%3D%3D&trk=public_jobs_jserp-result_search-card",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 04:15:30",
         "email_sent": false
     }
 ]
