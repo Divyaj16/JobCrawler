@@ -1,115 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4381523438?position=1&pageNum=0&refId=rZ7mfCWlIOXsVp47regWuQ%3D%3D&trackingId=%2FxawfJxATRYri4kdBqZ3AA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 16:41:10",
-        "email_sent": false
-    },
-    {
-        "title": "Graduate Data Analyst",
-        "company": "Hyra",
-        "location": "Illinois, United States",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/graduate-data-analyst-at-hyra-4382677642?position=3&pageNum=0&refId=rZ7mfCWlIOXsVp47regWuQ%3D%3D&trackingId=QTKtWmI4Y7fd2NByIChXZw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 16:41:10",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Hyra",
-        "location": "Missouri, United States",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hyra-4382672777?position=4&pageNum=0&refId=rZ7mfCWlIOXsVp47regWuQ%3D%3D&trackingId=fiNYGKouWvz79zwgKoRxDA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 16:41:10",
-        "email_sent": false
-    },
-    {
-        "title": "Full Stack Software Engineer (Application Software)",
-        "company": "SpaceX",
-        "location": "Hawthorne, CA",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-application-software-at-spacex-4337148474?position=5&pageNum=0&refId=rZ7mfCWlIOXsVp47regWuQ%3D%3D&trackingId=r%2BVKQgTnCDbD5kL6OKwPOw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 16:41:10",
-        "email_sent": false
-    },
-    {
-        "title": "QA / Test Engineer & Software Developer",
-        "company": "SetupBoxs",
-        "location": "St Louis, MO",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/qa-test-engineer-software-developer-at-setupboxs-4381513989?position=6&pageNum=0&refId=rZ7mfCWlIOXsVp47regWuQ%3D%3D&trackingId=HZGeWjcmcWpuo8JXIsJKUQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 16:41:10",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Core Product",
-        "company": "Character.AI",
-        "location": "Redwood City, CA",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-core-product-at-character-ai-4310532920?position=8&pageNum=0&refId=rZ7mfCWlIOXsVp47regWuQ%3D%3D&trackingId=YwKtHamIqKXKq7BSPfX%2Fcg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 16:41:10",
-        "email_sent": false
-    },
-    {
-        "title": "ML Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-wiraa-4382651997?position=11&pageNum=0&refId=rZ7mfCWlIOXsVp47regWuQ%3D%3D&trackingId=WWh4xcHywdt0BgAkbTqhGg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 16:41:10",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Hyra",
-        "location": "California, United States",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4382680641?position=12&pageNum=0&refId=rZ7mfCWlIOXsVp47regWuQ%3D%3D&trackingId=DDhGcI%2FpCJUyG7TYnFD2Kg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 16:41:10",
-        "email_sent": false
-    },
-    {
-        "title": "Operations Analyst (Starlink)",
-        "company": "SpaceX",
-        "location": "Bastrop, TX",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/operations-analyst-starlink-at-spacex-4346946060?position=22&pageNum=0&refId=rZ7mfCWlIOXsVp47regWuQ%3D%3D&trackingId=Kfip0C3VLXLYi%2B%2BfjyKfpA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 16:41:10",
-        "email_sent": false
-    },
-    {
-        "title": "Ongoing Positions",
-        "company": "Hobart Arena",
-        "location": "Troy, AL",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ongoing-positions-at-hobart-arena-4381538011?position=26&pageNum=0&refId=rZ7mfCWlIOXsVp47regWuQ%3D%3D&trackingId=HofRis34KSShN0zDxAYgjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 16:41:10",
-        "email_sent": false
-    },
-    {
-        "title": "Electrician  Traffic",
-        "company": "City of Appleton Wisconsin",
-        "location": "Appleton, WI",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/electrician-traffic-at-city-of-appleton-wisconsin-4382687215?position=27&pageNum=0&refId=rZ7mfCWlIOXsVp47regWuQ%3D%3D&trackingId=zPxecwBs5bjpj8t7mitl%2Fg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-08 16:41:10",
-        "email_sent": false
-    },
-    {
         "title": "Azure Data Engineer",
         "company": "Jobs via Dice",
         "location": "Plano, TX",
@@ -377,6 +267,46 @@
         "url": "https://www.linkedin.com/jobs/view/supplier-quality-engineer-at-liebherr-usa-4319897185?position=25&pageNum=0&refId=gzYNWj59V%2FTDEc6Qo4ZtFA%3D%3D&trackingId=3nJEl33RSPi%2F4jEc6YJliA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-03-08 17:30:27",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Applied AI",
+        "company": "CHAOS Industries",
+        "location": "San Francisco, CA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-applied-ai-at-chaos-industries-4319935579?position=6&pageNum=0&refId=RxYNDoHyUoPYwsq2Tx1g%2FQ%3D%3D&trackingId=9cqNljUlrQ88YSDKhz5DTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 17:51:49",
+        "email_sent": false
+    },
+    {
+        "title": "Asset & Wealth Management - Software Engineer - Associate - Salt Lake City",
+        "company": "Goldman Sachs",
+        "location": "Salt Lake City, UT",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/asset-wealth-management-software-engineer-associate-salt-lake-city-at-goldman-sachs-4321333849?position=16&pageNum=0&refId=RxYNDoHyUoPYwsq2Tx1g%2FQ%3D%3D&trackingId=sK%2F9rgxP7%2BvmwvYhEA7orw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 17:51:49",
+        "email_sent": false
+    },
+    {
+        "title": "Research Associate - Biostatistics",
+        "company": "Inside Higher Ed",
+        "location": "Philadelphia, PA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/research-associate-biostatistics-at-inside-higher-ed-4382677783?position=19&pageNum=0&refId=RxYNDoHyUoPYwsq2Tx1g%2FQ%3D%3D&trackingId=eUlbqF80bGNgHn0Kxy%2FmHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 17:51:49",
+        "email_sent": false
+    },
+    {
+        "title": "Client Support Services Process Analyst",
+        "company": "Inside Higher Ed",
+        "location": "Riverside, CA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/client-support-services-process-analyst-at-inside-higher-ed-4382693174?position=22&pageNum=0&refId=RxYNDoHyUoPYwsq2Tx1g%2FQ%3D%3D&trackingId=1VapabTkbKo59MvylMgawQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-08 17:51:49",
         "email_sent": false
     }
 ]
