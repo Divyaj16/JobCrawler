@@ -1,385 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4383700728?position=1&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=FrOZuKNXy4K1ebnkmJc0pg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4383716043?position=2&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=8JeN643XlOeJue3vIbLujA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, SQL)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-sql-at-wiraa-4383711190?position=4&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=VbY8ff0xQvf0VB7Slv4uVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer - Retail",
-        "company": "Save A Lot",
-        "location": "St Ann, MO",
-        "date_posted": "25 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-retail-at-save-a-lot-4373844773?position=5&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=n41e2hkqlzQ7kO6U9bzBKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst (Remote)",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-remote-at-remotehunter-4382293346?position=6&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=0Q7eOEeOJLeWraReR77QyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Rillet",
-        "location": "San Francisco, CA",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-rillet-4354306798?position=7&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=KVAmGa7FyiVPyVT6pb5hmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data AI/ML Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-ai-ml-engineer-at-wiraa-4383715057?position=9&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=uTEZEcjtTvEn6ShYTSRFKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4383498859?position=10&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=%2Bjcj0REE6DVa7C8QzsDExw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Klanik",
-        "location": "Miami, FL",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-klanik-4382276996?position=11&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=TqSUSox86z1vl65LMQzfCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Claims",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-claims-at-wiraa-4383713134?position=12&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=c6lw%2F8akRHQH9Lyn4K4UFg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Haystack",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4382288593?position=13&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=LoPjHSgQv8hf1x%2FCq7SLww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Emerson",
-        "location": "Austin, TX",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-emerson-4358123108?position=14&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=s7GyFKX7FscWR3yFYCqPvw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-wiraa-4383720017?position=15&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=9iU6Ph3PDVn6fNr3vgxAfQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Prudential Financial",
-        "location": "Newark, NJ",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-prudential-financial-4330208500?position=20&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=foTFeV%2BJtvzKYK90kPYp3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, ML",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ml-at-wiraa-4383713135?position=21&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=7lvY%2FUZ0eTZueknQgKXwpw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer (Node.js, SQL)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-node-js-sql-at-wiraa-4383705550?position=22&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=yjUxyHmdfYgZb5VR7YWg9g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Denver, CO",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383498856?position=25&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=b3djweFbIPuZLSDu45r9Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Florida, United States",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383716112?position=29&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=qdxbG38omBDDrT3UVqCx5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Florida, United States",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383701753?position=30&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=LEVsJIoiM2nG03GJRb5zXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Georgia, United States",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383704604?position=31&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=Lq%2FmYalJ3OK3%2F1LbEqOuKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (SQL, C++)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-c%2B%2B-at-wiraa-4383715058?position=32&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=gGmW03ki5X8zwWb6pOgfvQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Minneapolis, MN",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383701764?position=34&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=kljN4EO%2B9z0KdgbeULVVng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (AI, API)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-api-at-wiraa-4383719025?position=41&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=tab9V3jsSM5qlpUWKL2UAA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383700775?position=43&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=5t%2FKk4CKzMxJXmJEEG1Fwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383703631?position=44&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=ricTLSbkFN%2BwtDPsVPU9oQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383711230?position=45&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=C1ePNWBUWRNFoJyaDxdthQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383705585?position=46&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=dUO8gcdlU7NQY%2F%2BC3WdUBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-wiraa-4383716042?position=47&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=QuA87nkxVpfuR5Ai%2B61oyQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Minneapolis, MN",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383708362?position=57&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=LNWI3uxIoaO187ZvaAlaRg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Minneapolis, MN",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383719079?position=58&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=FRKdmncMDKgDYKnOUsJfjA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383716081?position=59&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=mAi10pVfdYHOvmkOa7%2BOxg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Raleigh, NC",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383712200?position=60&pageNum=0&refId=gpS%2FfvvM1zjIhhR5HUdT6A%3D%3D&trackingId=DD108aC1ttvp5a7EqycwRQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Denver, CO",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383498856?position=1&pageNum=2&refId=ZC6iX5%2BVXhlOpqKOXqQECA%3D%3D&trackingId=Vx6duMjjInkdqTt0p3hL6A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Florida, United States",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383716112?position=5&pageNum=2&refId=ZC6iX5%2BVXhlOpqKOXqQECA%3D%3D&trackingId=yO4HP1ScQ%2FWk6px%2Bw%2Fs8QQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Florida, United States",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383701753?position=6&pageNum=2&refId=ZC6iX5%2BVXhlOpqKOXqQECA%3D%3D&trackingId=XXTWZspHI3R3EYNj57%2FU7w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Georgia, United States",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383704604?position=7&pageNum=2&refId=ZC6iX5%2BVXhlOpqKOXqQECA%3D%3D&trackingId=u00JvCmYNp1yBw81JVaGWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (SQL, C++)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-sql-c%2B%2B-at-wiraa-4383715058?position=8&pageNum=2&refId=ZC6iX5%2BVXhlOpqKOXqQECA%3D%3D&trackingId=yEbwVX9KFiiPGuXK3pushg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Software Engineer (US)",
-        "company": "Turing",
-        "location": "Minneapolis, MN",
-        "date_posted": "35 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383701764?position=10&pageNum=2&refId=ZC6iX5%2BVXhlOpqKOXqQECA%3D%3D&trackingId=HYn86zf8TsOQ7Cz7F10lFQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-10 11:00:04",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer I",
         "company": "Photronics",
         "location": "Brookfield, CT",
@@ -437,6 +57,136 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-4382275626?position=14&pageNum=0&refId=OKi6OptMjDHtEk6rc8phZQ%3D%3D&trackingId=HvNCg%2FVDJvBo4kUrCJFePw%3D%3D&trk=public_jobs_jserp-result_search-card",
         "source": "LinkedIn",
         "scraped_date": "2026-03-10 11:38:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "HUB International",
+        "location": "Greater Chicago Area",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-hub-international-4382408326?position=1&pageNum=0&refId=4YEYBohSKcUx4XvKhs4C1Q%3D%3D&trackingId=sgA9SUR%2FI7q8AtJ77rxKtw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 12:01:27",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Handshake",
+        "location": "San Francisco, CA",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-handshake-4373925074?position=4&pageNum=0&refId=4YEYBohSKcUx4XvKhs4C1Q%3D%3D&trackingId=8GAElmUBVor1BLJmHWbw6Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 12:01:27",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Tech Consulting",
+        "location": "Maryland, United States",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-tech-consulting-4382294726?position=10&pageNum=0&refId=4YEYBohSKcUx4XvKhs4C1Q%3D%3D&trackingId=58Ah%2FU0sG%2F%2B5nZhYGpaTAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 12:01:27",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer I",
+        "company": "Scowtt",
+        "location": "Seattle, WA",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-scowtt-4355797539?position=16&pageNum=0&refId=4YEYBohSKcUx4XvKhs4C1Q%3D%3D&trackingId=KjciMofykIZkMIxbLdLvmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 12:01:27",
+        "email_sent": false
+    },
+    {
+        "title": "LATAM - Data Science Engineer",
+        "company": "Playsaurus Inc.",
+        "location": "Alameda, CA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/latam-data-science-engineer-at-playsaurus-inc-4382057169?position=17&pageNum=0&refId=4YEYBohSKcUx4XvKhs4C1Q%3D%3D&trackingId=%2BrSF9kIkCk5zl62pRnWoDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 12:01:27",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Tech Consulting",
+        "location": "Washington DC-Baltimore Area",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4382292821?position=20&pageNum=0&refId=4YEYBohSKcUx4XvKhs4C1Q%3D%3D&trackingId=w1%2BlilLBTBeHaS9E%2BnJfDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 12:01:27",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Atlanta, GA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383709307?position=29&pageNum=0&refId=4YEYBohSKcUx4XvKhs4C1Q%3D%3D&trackingId=rtBE9wIrXIZgklCHVcMuTg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 12:01:27",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Pittsburgh, PA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383710202?position=34&pageNum=0&refId=4YEYBohSKcUx4XvKhs4C1Q%3D%3D&trackingId=NzJ154I1g2XjMr6sbDhOsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 12:01:27",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Pittsburgh, PA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383701628?position=37&pageNum=0&refId=4YEYBohSKcUx4XvKhs4C1Q%3D%3D&trackingId=JtScEZqz8ua9HeNNboS2XQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 12:01:27",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Pittsburgh, PA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383492978?position=57&pageNum=0&refId=4YEYBohSKcUx4XvKhs4C1Q%3D%3D&trackingId=88aE30428m8W5Q9YLDrTbQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 12:01:27",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Pittsburgh, PA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383709284?position=58&pageNum=0&refId=4YEYBohSKcUx4XvKhs4C1Q%3D%3D&trackingId=IMS5PpvTDZy8xqEcZl2qxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 12:01:27",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Atlanta, GA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383709307?position=4&pageNum=2&refId=9fLKfIdvccldKbN66d9W4g%3D%3D&trackingId=Wg1VcseX4q3ahBXdX6T7eQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 12:01:27",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer (US)",
+        "company": "Turing",
+        "location": "Pittsburgh, PA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-us-at-turing-4383710202?position=9&pageNum=2&refId=9fLKfIdvccldKbN66d9W4g%3D%3D&trackingId=TgDmMZ3k02KOQtvQQTHtMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-10 12:01:27",
         "email_sent": false
     }
 ]
