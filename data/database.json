@@ -1,305 +1,5 @@
 [
     {
-        "title": "Data Engineer 1",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-1-at-wiraa-4387809685?position=3&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=aeTZXUSTBjPT134iZvSEAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4387805723?position=8&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=cqakrxEV4QDzBs0l45XSrg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Visionist, Inc.",
-        "location": "Columbia, MD",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-visionist-inc-4388142428?position=10&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=0CXt6vm0UDTLYmD%2FehDZxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Kforce Inc",
-        "location": "Charlotte, NC",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-kforce-inc-4388125931?position=14&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=3iWQ4B%2B0Z%2FdOI9%2B7xd92nA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-at-wiraa-4387816238?position=18&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=NdC8O1VCygeNiTt4o%2BTS3w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4387804795?position=19&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=M4bpmNG35BgQznBXCL310A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Tech Consulting",
-        "location": "Florida, United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-tech-consulting-4387750603?position=20&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=%2BgcJgdFuY2JwV%2FyMj69%2FKw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer in Test (SDET)",
-        "company": "FairCom Corporation",
-        "location": "Sandy, UT",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-faircom-corporation-4388145396?position=21&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=nNpwI6UeBH%2BZg8W%2Bkq1A6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Systems Engineer",
-        "company": "Kforce Inc",
-        "location": "Herndon, VA",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/systems-engineer-at-kforce-inc-4388130793?position=22&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=4mzH5WTOjMKvQ8wyn7oGCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer in Test (SDET)",
-        "company": "FairCom Corporation",
-        "location": "Columbia, MO",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-faircom-corporation-4388150208?position=23&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=qS8Fc6c%2BOJkjygNn0cgXJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "BEPC Inc. - Business Excellence Professional Consulting",
-        "location": "Raritan, NJ",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-bepc-inc-business-excellence-professional-consulting-4388136611?position=25&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=S52S1UdJ1v8S%2BZGrUAg6EA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Haystack",
-        "location": "Grand Rapids Metropolitan Area",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4387766035?position=27&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=mhzxOD83AA49T9Kuehs8WA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer, Data",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-data-at-wiraa-4387817214?position=29&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=aXYtry%2FX58yRcxSGtq42nw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Jr. .NET Software Engineer",
-        "company": "TriCom Technical Services",
-        "location": "Topeka, KS",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/jr-net-software-engineer-at-tricom-technical-services-4388132904?position=31&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=qhGMp1hRRoPgezOByoHYqA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Raas Infotek",
-        "location": "Edison, NJ",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-raas-infotek-4386989392?position=34&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=7H9k9h%2BsLFlH7z2BSSeiVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Tech Consulting",
-        "location": "North Carolina, United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-tech-consulting-4387744857?position=36&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=cm4SKYccSLE8bPyB%2BBOFvw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas",
-        "company": "Goldman Sachs",
-        "location": "Dallas, TX",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/asset-wealth-management-software-engineer-associate-dallas-at-goldman-sachs-4387745625?position=37&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=i2z7m1hVbmPD3AsM%2BjT5xw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wiraa-4387821047?position=38&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=72rBE51NGsN1hdxu2o0lMg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-wiraa-4387820064?position=41&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=UKuqmKqaXXXkjsGyAe%2FTng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Professional, Data Analyst",
-        "company": "MVP Health Care",
-        "location": "Rochester, NY",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/professional-data-analyst-at-mvp-health-care-4387750561?position=43&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=H%2BT5NzXgb6lX1l%2Bwy0ewng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Js, API)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-js-api-at-wiraa-4387865564?position=48&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=OP4YDRiGDfW8sFukiXoBEA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "System Engineer",
-        "company": "Super Micro Computer Spain, S.L.",
-        "location": "San Jose, CA",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-super-micro-computer-spain-s-l-4385706340?position=49&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=qA4fABRoXIFrNQke5l3okg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Professional, Data Analyst",
-        "company": "MVP Health Care",
-        "location": "Schenectady, NY",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/professional-data-analyst-at-mvp-health-care-4387745808?position=50&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=4Ddztscqt6Z6X7wEoC32Ag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Front End Software Engineer (Js, CSS)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/front-end-software-engineer-js-css-at-wiraa-4387803843?position=52&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=%2BXSkHQ8WmV5woOMnRWB7Cw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-analyst-at-wiraa-4387803830?position=55&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=YK0ZC8Vy%2Bx%2BmQMkcVncerQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Software Quality Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-quality-engineer-ii-at-wiraa-4387803823?position=60&pageNum=0&refId=G3JQkiiitUWDqEf7bhArFg%3D%3D&trackingId=4BIwSkx5wrg2tPXgByLh2w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Haystack",
-        "location": "Grand Rapids Metropolitan Area",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-haystack-4387766035?position=2&pageNum=2&refId=VSYlw94kz2PUaF21yQBksw%3D%3D&trackingId=%2Bi0Ng5REH1PHMA2Jmr9Hww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer, Data",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-data-at-wiraa-4387817214?position=4&pageNum=2&refId=VSYlw94kz2PUaF21yQBksw%3D%3D&trackingId=awfR3WepahQNZuF0oECdRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Jr. .NET Software Engineer",
-        "company": "TriCom Technical Services",
-        "location": "Topeka, KS",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/jr-net-software-engineer-at-tricom-technical-services-4388132904?position=6&pageNum=2&refId=VSYlw94kz2PUaF21yQBksw%3D%3D&trackingId=GCHt2ALagZbPUY671l00xA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Raas Infotek",
-        "location": "Edison, NJ",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-raas-infotek-4386989392?position=9&pageNum=2&refId=VSYlw94kz2PUaF21yQBksw%3D%3D&trackingId=mDM%2B2ngb370tjG4wTCwA5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-19 22:48:49",
-        "email_sent": false
-    },
-    {
         "title": "Data Center Engineer",
         "company": "First Point Group",
         "location": "Denver Metropolitan Area",
@@ -727,6 +427,96 @@
         "url": "https://www.linkedin.com/jobs/view/tableau-power-bi-data-scientist-us-cititzen-only-at-future-modern-builderberg-llc-4388148440?position=9&pageNum=2&refId=RucgJwCpaANZ8DJQjLoxAw%3D%3D&trackingId=dZ%2BrS9gDCXAHnJUtyP3TJw%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-03-19 23:48:38",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "ODW Logistics",
+        "location": "Hamilton, OH",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-odw-logistics-4370459372?position=8&pageNum=0&refId=mNV0cgypbp%2B%2F7cqtiZTUFw%3D%3D&trackingId=o6WzThQ6Ahmtmw%2FUNlG65Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-20 00:04:19",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "AI-Media",
+        "location": "New York, United States",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-ai-media-4387762520?position=10&pageNum=0&refId=mNV0cgypbp%2B%2F7cqtiZTUFw%3D%3D&trackingId=JkTreII2YfaFl0nJ%2FLwxYQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-20 00:04:19",
+        "email_sent": false
+    },
+    {
+        "title": "Azure Data Engineer",
+        "company": "Wipro",
+        "location": "Dallas, PA",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/azure-data-engineer-at-wipro-4387772128?position=13&pageNum=0&refId=mNV0cgypbp%2B%2F7cqtiZTUFw%3D%3D&trackingId=aO8mFdma6Z6TSEtaXSDoNw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-20 00:04:19",
+        "email_sent": false
+    },
+    {
+        "title": "Pharmacy Data Analyst",
+        "company": "Ascension",
+        "location": "Milwaukee, WI",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/pharmacy-data-analyst-at-ascension-4384635126?position=15&pageNum=0&refId=mNV0cgypbp%2B%2F7cqtiZTUFw%3D%3D&trackingId=lLf%2FdvXWU0RYRByrrSGXmg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-20 00:04:19",
+        "email_sent": false
+    },
+    {
+        "title": "Technical Professional Data Science (Associate -Technical Professional)",
+        "company": "Halliburton",
+        "location": "Houston, TX",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/technical-professional-data-science-associate-technical-professional-at-halliburton-4387773115?position=18&pageNum=0&refId=mNV0cgypbp%2B%2F7cqtiZTUFw%3D%3D&trackingId=6IiED0ALOhplDLoZ8N5NNg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-20 00:04:19",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist \u2013 Science Validation",
+        "company": "Generation Lab",
+        "location": "Burlingame, CA",
+        "date_posted": "40 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-science-validation-at-generation-lab-4379472563?position=23&pageNum=0&refId=mNV0cgypbp%2B%2F7cqtiZTUFw%3D%3D&trackingId=vBdOHY0P2Jab12tCgRwKcQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-20 00:04:19",
+        "email_sent": false
+    },
+    {
+        "title": "Design Analyst",
+        "company": "GDH",
+        "location": "Bentonville, AR",
+        "date_posted": "40 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/design-analyst-at-gdh-4388104018?position=24&pageNum=0&refId=mNV0cgypbp%2B%2F7cqtiZTUFw%3D%3D&trackingId=yM5fYVxqTDdpFoinf2r%2BCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-20 00:04:19",
+        "email_sent": false
+    },
+    {
+        "title": "Industrial Engineer",
+        "company": "Stratolaunch",
+        "location": "Mojave, CA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/industrial-engineer-at-stratolaunch-4387773135?position=25&pageNum=0&refId=mNV0cgypbp%2B%2F7cqtiZTUFw%3D%3D&trackingId=aMVpFbMKrdxCfTc2N3jTIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-20 00:04:19",
+        "email_sent": false
+    },
+    {
+        "title": "Sustainability Analyst",
+        "company": "WSB",
+        "location": "Denver, CO",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sustainability-analyst-at-wsb-4387751967?position=26&pageNum=0&refId=mNV0cgypbp%2B%2F7cqtiZTUFw%3D%3D&trackingId=tgqdVYSdM8no7Iw4lt6KoQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-20 00:04:19",
         "email_sent": false
     }
 ]
