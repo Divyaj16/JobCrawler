@@ -1,365 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4388723931?position=3&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=ePyo%2BZeZXJiRHWEmq%2BnqWg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, New Grad",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-new-grad-at-jobright-ai-4388603181?position=6&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=ykBDU1lbv9AuvI63Lr8Oig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "DataAnnotation",
-        "location": "Washington, United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-dataannotation-4309697545?position=11&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=0agSRJAU%2Bs11WwCXY8aJEA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Machine Learning Engineer",
-        "company": "James Search Group",
-        "location": "New York, NY",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-james-search-group-4388732475?position=14&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=caxeHqitJwlAZfXd1fQ9nA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "DataAnnotation",
-        "location": "Pennsylvania, United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-dataannotation-4309808070?position=16&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=ImoY1uDayWwi2r1HPSV83w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer",
-        "company": "DataAnnotation",
-        "location": "Illinois, United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-dataannotation-4309698365?position=17&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=yZjGmdIQrlLhPEOxS98aYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer- Design Systems",
-        "company": "DataAnnotation",
-        "location": "New York, United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-design-systems-at-dataannotation-4309803432?position=19&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=qL9VodJroEudROpu00V%2F9Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I, Elixir",
-        "company": "True Anomaly",
-        "location": "Long Beach, CA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-elixir-at-true-anomaly-4379270270?position=21&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=4Se8n4cA4YtJlqHTkFKzBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Monetization",
-        "company": "Character.AI",
-        "location": "Redwood City, CA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-monetization-at-character-ai-4310537769?position=22&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=NApqpm5o%2By39a5E5bMvlvg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, AI",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-wiraa-4388728705?position=23&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=O%2B3kBeGpHcmHLqrIWpjPCw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Mobile Focus)",
-        "company": "DataAnnotation",
-        "location": "New Jersey, United States",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-mobile-focus-at-dataannotation-4334750072?position=25&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=%2FyYwYOi%2FhGx43yBEOtoZDw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Insights Analyst",
-        "company": "DataAnnotation",
-        "location": "Florida, United States",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-insights-analyst-at-dataannotation-4309802365?position=27&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=r9Z%2BcVwHU0cmVOmIgMkbkA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Insights Analyst",
-        "company": "DataAnnotation",
-        "location": "Colorado, United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-insights-analyst-at-dataannotation-4309806235?position=28&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=w%2Fe8gfnHDuABMAFAS8ILXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Physics Data Analyst",
-        "company": "DataAnnotation",
-        "location": "New Jersey, United States",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/physics-data-analyst-at-dataannotation-4309805147?position=29&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=OppLs3r5I0BGXPBEqT6u1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer- Design Systems",
-        "company": "DataAnnotation",
-        "location": "New Jersey, United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-design-systems-at-dataannotation-4309816081?position=30&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=SoVqQA93WmcQXuUwhqyz2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Physics Data Analyst",
-        "company": "DataAnnotation",
-        "location": "Pennsylvania, United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/physics-data-analyst-at-dataannotation-4309699461?position=31&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=1jgWDnhWkDh9SdnMD2GLqg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Physics Data Analyst",
-        "company": "DataAnnotation",
-        "location": "Texas, United States",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/physics-data-analyst-at-dataannotation-4309805137?position=32&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=Zl118Lxx%2BYe9D9BrN9IW4g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer- Design Systems",
-        "company": "DataAnnotation",
-        "location": "Virginia, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-design-systems-at-dataannotation-4309808334?position=33&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=Vhgfq2oQlOHiYLvAY5qv2Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Analyst",
-        "company": "PT Derma Kosmetik Internasional",
-        "location": "United States",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-analyst-at-pt-derma-kosmetik-internasional-4386166977?position=34&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=E81DOJGyMlve0k6%2FSQbyNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Physics Data Analyst",
-        "company": "DataAnnotation",
-        "location": "Virginia, United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/physics-data-analyst-at-dataannotation-4309805171?position=36&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=5YQvWoI6E%2FmjhpqI%2Bq16lw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Security Software Engineer, Applied Computing (Starshield)",
-        "company": "SpaceX",
-        "location": "Washington, DC",
-        "date_posted": "8 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/security-software-engineer-applied-computing-starshield-at-spacex-4379260862?position=39&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=Vwos5v2lJHWsYDhXwRZmtg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Web Interface Software Engineer",
-        "company": "Silvus Technologies",
-        "location": "Los Angeles, CA",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/web-interface-software-engineer-at-silvus-technologies-4376243296?position=40&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=x5hRAlD0xBHlz5LrSesZqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Android Software Engineer",
-        "company": "DataAnnotation",
-        "location": "Pennsylvania, United States",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/android-software-engineer-at-dataannotation-4334650804?position=43&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=3lSevqp3rZtUMvC1wpb%2FEQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "DataAnnotation",
-        "location": "California, United States",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-dataannotation-4309689862?position=45&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=auXJJa6izwIb5zqhaiRBHQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "Silvus Technologies",
-        "location": "Irvine, CA",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-silvus-technologies-4376238643?position=52&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=2gpDP13HmasJZ9DnZIgcDA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer - Research And Development (R&D)",
-        "company": "Silvus Technologies",
-        "location": "Los Angeles, CA",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-research-and-development-r-d-at-silvus-technologies-4376233744?position=55&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=8aJd6n4iS3VRZC9zEchIoQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Engineer",
-        "company": "Terracon",
-        "location": "Charlotte, NC",
-        "date_posted": "47 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-terracon-4388398347?position=58&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=xAB2xXLZQ1A%2Bwy6QfsGI5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Civil Engineer, Engineer Div.",
-        "company": "City of Worcester",
-        "location": "Worcester, MA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-civil-engineer-engineer-div-at-city-of-worcester-4388727761?position=59&pageNum=0&refId=cFWUC9UgTg0P8YYIiKVGyA%3D%3D&trackingId=ndhDFesgk1PdiM5s7TObNQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Insights Analyst",
-        "company": "DataAnnotation",
-        "location": "Florida, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-insights-analyst-at-dataannotation-4309802365?position=2&pageNum=2&refId=PPqUI0VnGKwEqWGTVvdYuA%3D%3D&trackingId=fIilsaGUWIIQZhueTfa4lg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Data Insights Analyst",
-        "company": "DataAnnotation",
-        "location": "Colorado, United States",
-        "date_posted": "7 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-insights-analyst-at-dataannotation-4309806235?position=3&pageNum=2&refId=PPqUI0VnGKwEqWGTVvdYuA%3D%3D&trackingId=EPuBqqzU6a3NWBQktqQbTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Physics Data Analyst",
-        "company": "DataAnnotation",
-        "location": "New Jersey, United States",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/physics-data-analyst-at-dataannotation-4309805147?position=4&pageNum=2&refId=PPqUI0VnGKwEqWGTVvdYuA%3D%3D&trackingId=nARoLKtbP3lYHpav%2B4Xd0Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer- Design Systems",
-        "company": "DataAnnotation",
-        "location": "New Jersey, United States",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-design-systems-at-dataannotation-4309816081?position=5&pageNum=2&refId=PPqUI0VnGKwEqWGTVvdYuA%3D%3D&trackingId=pnnOg2ddQVL0da9Z8d3WVg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Physics Data Analyst",
-        "company": "DataAnnotation",
-        "location": "Pennsylvania, United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/physics-data-analyst-at-dataannotation-4309699461?position=6&pageNum=2&refId=PPqUI0VnGKwEqWGTVvdYuA%3D%3D&trackingId=3btVw0ZjW8fSgoirEC2sIg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Physics Data Analyst",
-        "company": "DataAnnotation",
-        "location": "Texas, United States",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/physics-data-analyst-at-dataannotation-4309805137?position=7&pageNum=2&refId=PPqUI0VnGKwEqWGTVvdYuA%3D%3D&trackingId=bEYOL85e%2BHH1YbMQVxfmjw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer- Design Systems",
-        "company": "DataAnnotation",
-        "location": "Virginia, United States",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-design-systems-at-dataannotation-4309808334?position=8&pageNum=2&refId=PPqUI0VnGKwEqWGTVvdYuA%3D%3D&trackingId=9Yjgz1ToBfmN15a6fn9MWA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Analyst",
-        "company": "PT Derma Kosmetik Internasional",
-        "location": "United States",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-analyst-at-pt-derma-kosmetik-internasional-4386166977?position=9&pageNum=2&refId=PPqUI0VnGKwEqWGTVvdYuA%3D%3D&trackingId=mUUjjlU%2Bh05sDOYk7J%2B4xQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 16:29:06",
-        "email_sent": false
-    },
-    {
         "title": "Performance Test Data Engineer",
         "company": "Rezolve Ai",
         "location": "Roseville, CA",
@@ -847,6 +487,46 @@
         "url": "https://www.linkedin.com/jobs/view/hr-data-analyst-at-wiraa-4388705772?position=6&pageNum=2&refId=glKEo6iPTMMoXDvwvB6yKQ%3D%3D&trackingId=SylzBLifQFnrJGwjYzb6dQ%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-03-21 17:25:39",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "AM Pierce & Associates, Inc.",
+        "location": "California, MD",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-am-pierce-associates-inc-4388730735?position=15&pageNum=0&refId=C8n0jl7BC%2B%2FQJorbvJbJqg%3D%3D&trackingId=TgmaPjyWf6QF468nHTPE7w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 17:51:58",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "Infinity Towers for Urban Development",
+        "location": "Los Angeles, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-infinity-towers-for-urban-development-4388744344?position=18&pageNum=0&refId=C8n0jl7BC%2B%2FQJorbvJbJqg%3D%3D&trackingId=BuAsPCRzYCf7oPwCEMAlBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 17:51:58",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Worldpay",
+        "location": "Atlanta, GA",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-worldpay-4388742356?position=31&pageNum=0&refId=C8n0jl7BC%2B%2FQJorbvJbJqg%3D%3D&trackingId=E4JB6gRCL5zCJ%2B0KDdTK7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 17:51:58",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Worldpay",
+        "location": "Atlanta, GA",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-worldpay-4388742356?position=6&pageNum=2&refId=ZuGVu9dqhFoFcJNkKJrU3g%3D%3D&trackingId=sxvAlbUYIo4gX3W7MufNrg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 17:51:58",
         "email_sent": false
     }
 ]
