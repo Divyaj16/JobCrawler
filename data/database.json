@@ -1,245 +1,5 @@
 [
     {
-        "title": "Data Engineer 1",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-1-at-wiraa-4388335809?position=1&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=d%2Be1A9WR4UNMIjhCk8FkRA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4388353185?position=2&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=W19s%2FEA1n44Qcl0B5DBcUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sr-at-wiraa-4388331957?position=3&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=N74sP0v1q4ft7HqsGVEigA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data and Analytics Engineer",
-        "company": "Ace Relocation Systems",
-        "location": "San Diego, CA",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-and-analytics-engineer-at-ace-relocation-systems-4388266520?position=4&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=hWWcv6tMyDCBOStOCn9HAg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (API, SQL)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-api-sql-at-wiraa-4388335805?position=6&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=mlMle1omXfFqxz2scr0o4Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Compliance",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-compliance-at-wiraa-4388206238?position=9&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=a8YxLF3KbFj8qPdA8dDAEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Python, Linux)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-python-linux-at-wiraa-4387993828?position=10&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=wx%2FEvwqwuqiwM0xb54wLzw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, IT",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-it-at-wiraa-4388344434?position=11&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=%2B%2BV2OcD3sXxQpqMp0SsFIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "ML Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-wiraa-4388342442?position=13&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=IA81rUMkBs5EqHVsCSC4Cg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, SQL)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-sql-at-wiraa-4388204248?position=14&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=4Iypmv9Dz5ZEvJlwSGiOUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Back End Cloud Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/back-end-cloud-software-engineer-at-wiraa-4388344435?position=15&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=tY1fBOhBO0PgEiRS%2FwtGtQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Backend Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-wiraa-4388338754?position=16&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=5FtZBSULkz%2FSCs89nemz6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Engineer (Js/TypeScript)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/frontend-engineer-js-typescript-at-wiraa-4388333819?position=17&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=m7HEUhhjmx%2BLqL5gaZsWfA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4388207145?position=19&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=1XCCTXEtrfU4pDMcD%2FNqTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Software Engineer (React.js, Next.js)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-react-js-next-js-at-wiraa-4388350287?position=20&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=fz3%2B3PsuS52rOza5b3BXXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer - Launchpad",
-        "company": "Lowe's Companies, Inc.",
-        "location": "Charlotte, NC",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-launchpad-at-lowe-s-companies-inc-4388278022?position=21&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=fshBVJNX1375yrM2rT60DA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "DATA ANALYST 2",
-        "company": "Newport News Shipbuilding, A Division of HII",
-        "location": "Newport News, VA",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-2-at-newport-news-shipbuilding-a-division-of-hii-4388256962?position=22&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=h7Vb9PcIA23bWIZcGTWZow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Analyst",
-        "company": "World Wide Technology",
-        "location": "Mountain Home, TX",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-analyst-at-world-wide-technology-4388259741?position=23&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=Ay8vGaNiTMmu6svCEokXKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Fullstack /.Net)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-net-at-wiraa-4388200507?position=24&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=kM3B6qXkAJqtdb6VH9uUKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Kibi Ventures",
-        "location": "Seattle, WA",
-        "date_posted": "11 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-kibi-ventures-4388269450?position=26&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=gvwx9psHcP9Hi9yb6Dg4Ig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4388336776?position=27&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=yy2kyuDoVQI8umMhFqLb3g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "C.H. Robinson",
-        "location": "Eden Prairie, MN",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-c-h-robinson-4388266572?position=28&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=VYePURkNuxATRDUtpeb%2BMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Migration Analyst, ERP",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-migration-analyst-erp-at-wiraa-4388353186?position=30&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=1O9mWclryYgg%2Bj3y6JCTlQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, Health",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-health-at-wiraa-4388353190?position=31&pageNum=0&refId=A8uUK6iAlRM1ImL98%2BVCJw%3D%3D&trackingId=%2BduQPR%2Fjwue20f6JwAnTyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-21 06:48:47",
-        "email_sent": false
-    },
-    {
         "title": "DATA ENGINEER",
         "company": "Jobs via Dice",
         "location": "Dallas City, IL",
@@ -517,6 +277,96 @@
         "url": "https://www.linkedin.com/jobs/view/flask-and-data-engineer-4386151356?position=5&pageNum=0&refId=JN79yqYfG1GNLiXPR5aI0g%3D%3D&trackingId=F6U7gNeM0KrL2ANDwLV8%2BA%3D%3D&trk=public_jobs_jserp-result_search-card",
         "source": "LinkedIn",
         "scraped_date": "2026-03-21 07:25:10",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer I",
+        "company": "Columbia Bank",
+        "location": "Hillsboro, OR",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-columbia-bank-4388706550?position=7&pageNum=0&refId=5T%2F3cHEwBzWsAQQRXGcsUg%3D%3D&trackingId=ZYAstHIEX%2BCHwvlMpF5N4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 07:53:22",
+        "email_sent": false
+    },
+    {
+        "title": "Staff - Level I , Data Scientist",
+        "company": "EPRI",
+        "location": "Charlotte, NC",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-level-i-data-scientist-at-epri-4386107332?position=21&pageNum=0&refId=5T%2F3cHEwBzWsAQQRXGcsUg%3D%3D&trackingId=jSXDhy91Mmk6ouk1tPgrWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 07:53:22",
+        "email_sent": false
+    },
+    {
+        "title": "Entry-level Software Engineer",
+        "company": "Actalent",
+        "location": "Dublin, OH",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-actalent-4388266684?position=25&pageNum=0&refId=5T%2F3cHEwBzWsAQQRXGcsUg%3D%3D&trackingId=zIraPZVTNKpAN9y83xHSVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 07:53:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II - Space and RF Sensors (Onsite)",
+        "company": "Raytheon",
+        "location": "Fort Wayne, IN",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-space-and-rf-sensors-onsite-at-raytheon-4388271526?position=38&pageNum=0&refId=5T%2F3cHEwBzWsAQQRXGcsUg%3D%3D&trackingId=ZNX27szvHb1lNlTGa2DWGw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 07:53:22",
+        "email_sent": false
+    },
+    {
+        "title": "Software Integration and Test Engineer",
+        "company": "Raytheon",
+        "location": "Tewksbury, MA",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-integration-and-test-engineer-at-raytheon-4388272450?position=42&pageNum=0&refId=5T%2F3cHEwBzWsAQQRXGcsUg%3D%3D&trackingId=LYEDJZJa3G3KmbBGH9yXfg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 07:53:22",
+        "email_sent": false
+    },
+    {
+        "title": "2026 Full-time - Software Security Engineer 1 - Onsite (AZ)",
+        "company": "Raytheon",
+        "location": "Tucson, AZ",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/2026-full-time-software-security-engineer-1-onsite-az-at-raytheon-4388277155?position=44&pageNum=0&refId=5T%2F3cHEwBzWsAQQRXGcsUg%3D%3D&trackingId=3yGaPd%2Bo6T%2BFH3agcmvW8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 07:53:22",
+        "email_sent": false
+    },
+    {
+        "title": "Project Engineer - Data Centers",
+        "company": "Actalent",
+        "location": "Milwaukee, WI",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/project-engineer-data-centers-at-actalent-4388269564?position=51&pageNum=0&refId=5T%2F3cHEwBzWsAQQRXGcsUg%3D%3D&trackingId=FkvX2wJ0Smejztjt9sTR%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 07:53:22",
+        "email_sent": false
+    },
+    {
+        "title": "Transportation Engineer 3 (Construction Engineering) (40 Hour) #260317-8774FQ-001",
+        "company": "State of Connecticut",
+        "location": "Newington, CT",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/transportation-engineer-3-construction-engineering-40-hour-%23260317-8774fq-001-at-state-of-connecticut-4388265712?position=54&pageNum=0&refId=5T%2F3cHEwBzWsAQQRXGcsUg%3D%3D&trackingId=tWJ55BELx%2BBu%2FTgBbYS9jQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 07:53:22",
+        "email_sent": false
+    },
+    {
+        "title": "Manufacturing Engineer I",
+        "company": "Collins Aerospace",
+        "location": "Foley, AL",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/manufacturing-engineer-i-at-collins-aerospace-4388257970?position=58&pageNum=0&refId=5T%2F3cHEwBzWsAQQRXGcsUg%3D%3D&trackingId=tYWD4V78LfV%2B4Hk4eZZykg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-21 07:53:22",
         "email_sent": false
     }
 ]
