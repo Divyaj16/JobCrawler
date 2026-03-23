@@ -1,32 +1,492 @@
 [
     {
-        "title": "Backend Software Engineer",
-        "company": "Friday Harbor",
-        "location": "San Francisco, CA",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-friday-harbor-4388658723?position=1&pageNum=0&refId=%2Bt3WFYe30hZU%2FNZJF%2Bvxhg%3D%3D&trackingId=WUGZfJTPkReT1ZUWtjZmdQ%3D%3D",
+        "title": "Data Engineer 1",
+        "company": "Lensa",
+        "location": "Stamford, CT",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-1-at-lensa-4389036335?position=1&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=ORRiyQALIcIGrZaGpVWKpw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-03-22 23:42:04",
+        "scraped_date": "2026-03-23 03:19:21",
         "email_sent": false
     },
     {
-        "title": "Software Engineer",
-        "company": "Capgemini",
-        "location": "Nashville, TN",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-capgemini-4389016893?position=2&pageNum=0&refId=%2Bt3WFYe30hZU%2FNZJF%2Bvxhg%3D%3D&trackingId=MaJT9e2KHnfsjgnCVV6Tvg%3D%3D",
+        "title": "Entry Level Data Analytics Engineer",
+        "company": "Lensa",
+        "location": "Windsor, CT",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-analytics-engineer-at-lensa-4389028645?position=2&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=UmC%2Fz5dzX20Jxyoo32hiUw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-03-22 23:42:04",
+        "scraped_date": "2026-03-23 03:19:21",
         "email_sent": false
     },
     {
-        "title": "Clinical Research Data Scientist III",
-        "company": "The Fountain Group",
+        "title": "Data Analys (Entry-Level / Junior)",
+        "company": "Caelum Group GmbH",
         "location": "United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/clinical-research-data-scientist-iii-at-the-fountain-group-4389019568?position=3&pageNum=0&refId=%2Bt3WFYe30hZU%2FNZJF%2Bvxhg%3D%3D&trackingId=NrZUMTZQrzJdF9DQ3X4L0A%3D%3D",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analys-entry-level-junior-at-caelum-group-gmbh-4388673424?position=3&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=rfoz%2B2h7QeIUM%2FuZOp1Wyg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-03-22 23:42:04",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Data Integration Engineer",
+        "company": "Lensa",
+        "location": "Herndon, VA",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-data-integration-engineer-at-lensa-4389040268?position=4&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=3EdsGm%2BrgsMMdctH1u9Ymg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Junior",
+        "company": "Lensa",
+        "location": "Warner Robins, GA",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-junior-at-lensa-4389026617?position=5&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=MIcR0TPN9uHaGKtLgYkGHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Early Career Software Test Engineer",
+        "company": "Lensa",
+        "location": "Houston, TX",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/early-career-software-test-engineer-at-lensa-4389042076?position=6&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=HRkJajaE53AtnEMeXZgRgw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Member of Technical Staff",
+        "company": "TAE Capital",
+        "location": "Greater Chicago Area",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-at-tae-capital-4388674419?position=7&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=fQzTeAS3glMrpnClBC%2FBdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist II",
+        "company": "Press Ganey",
+        "location": "Chicago, IL",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-press-ganey-4388670512?position=8&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=aouUZ7QAFKcuWuZopGAiQg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - TS/SCI w/poly clearance required",
+        "company": "CyberTrend Engineering LLC",
+        "location": "Annapolis Junction, MD",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ts-sci-w-poly-clearance-required-at-cybertrend-engineering-llc-4389040479?position=9&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=JokmjFjba21QRvbvjY2l%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Sustainability Analyst",
+        "company": "Lensa",
+        "location": "New York, NY",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sustainability-analyst-at-lensa-4389030472?position=10&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=qzXx5kQajGLShTBRqTSgbw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386639587?position=11&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=7losLpPml5tl6MhENYO8hQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386646084?position=12&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=WjbFJ5S4%2BJl0cvVBgypSZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386642346?position=13&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=4ufM7UU699fxzGuqhLoDiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386626979?position=14&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=vyRUS3vNG9t10wtqht5MTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386648045?position=15&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=J5aVxwchNnIw5PvKMXLzGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386649004?position=16&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=prA3wBHPkIG%2FTmpEfz0HXA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386646103?position=17&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=MmiSZN6d9cErNgf%2FqBlmmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386630902?position=18&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=ApzMU07%2FBNgs2Vhd6j9ONw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386649018?position=19&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=RNuydKyKcm5EOcqEPG96ug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386642384?position=20&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=Z7nuuHHIG985dPdxY8SQrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386633817?position=21&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=WQMstM6l7vJdPnTI9i1B%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386630928?position=22&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=ppAJfTiTZsISz8TrIq2URw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386647311?position=23&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=T7qI6ED3SFrgSD9qMxOdYg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386653103?position=24&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=rD2FDQQNDz70CD4CF5AyDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386652113?position=25&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=7%2FhLzSmKUVaIz8xDbJPGnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386637873?position=26&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=B0cKS%2BJIci%2FL9X%2B68NXAjQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386649194?position=27&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=FGbCnfh%2BOCGtS3KODhk6iQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386639586?position=28&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=YbEg7VPHUnmdlVCpo8VKtw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386648035?position=29&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=Yup1HTFko%2BM8SAf7PJJ%2FAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386639592?position=30&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=miOQbkPW%2BKdICe7ZObeV4w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386631894?position=31&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=5G0UTpxUTRJAleKNxSS%2BVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386640560?position=32&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=5xE61bysaqTK6sm%2Fnl5pQw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386628948?position=33&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=rqepiK9zb8m53o8NEoo9Kg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386645281?position=34&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=NJiRT5Q%2BXkuXR9lyi2e56w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386636759?position=35&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=7YeIG47l2xPFm%2BHQPcl19A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386632832?position=36&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=exItoJyzPWVSYUkbasJvtA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386639644?position=37&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=RFf4TRc9TsQdS%2BxbPF3FkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Florida, United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386632834?position=38&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=Z1mrc0aeEao%2BvgRTEXFHAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Massachusetts, United States",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386637879?position=39&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=XsUlqlkKiwUWsypzelm8zg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "New York, United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386637722?position=40&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=zvBW9n1vdvC%2FHfptTrl%2Fug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Maryland, United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386642354?position=41&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=gsaE91sUuBh%2Fgmp%2B4rD%2FIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Texas, United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386643380?position=42&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=4xiQUwSA1TMu39S3oQuijA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Illinois, United States",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386639783?position=43&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=wSHYRiWYmfmL0xkuT7abqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Georgia, United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386642394?position=44&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=EHLRg2YoiftgTneknOdl1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Utah, United States",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386654072?position=45&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=U8Df%2FwF%2FeLsKgxaupVFakw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Pennsylvania, United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386647126?position=46&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=389ZGutw02VIj5ZpcddpEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Iowa, United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386636757?position=47&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=S7FNT%2Fx0ET3sTu%2FT1OJDIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Michigan, United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386628932?position=48&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=GAmnpiBwM1EZ8EkMkKH6zw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Ohio, United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4386638759?position=49&pageNum=0&refId=oi5%2Fma6DPdqJZPOAlY5E3A%3D%3D&trackingId=rgCxrNsm8BuVDW9qtUJxpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-23 03:19:21",
         "email_sent": false
     }
 ]
