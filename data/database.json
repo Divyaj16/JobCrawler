@@ -1,276 +1,6 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Clayton",
-        "location": "Maryville, TN",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-clayton-4390626748?position=4&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=DUl3BSQ0lh7CPTdECF%2BE8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "AMEND Consulting",
-        "location": "Cincinnati, OH",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-amend-consulting-4390629449?position=7&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=lvkW8TohD%2F%2F9SQmEeHJdTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Klaxontech Inc",
-        "location": "Tustin, CA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-klaxontech-inc-4390290357?position=8&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=nndBjvvAQYpg3sdubl3YKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Microsoft fabric data engineer",
-        "company": "Business Needs Inc.",
-        "location": "United States",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/microsoft-fabric-data-engineer-at-business-needs-inc-4390133910?position=9&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=IqkqE4UMUfBHxBvKkK3Pcg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, New Grad",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-new-grad-at-jobright-ai-4390298010?position=10&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=aeO4IsxkDDv7JSB8DOLcSw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Center Engineer",
-        "company": "Teceze USA",
-        "location": "Ashburn, VA",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-center-engineer-at-teceze-usa-4390274611?position=12&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=CzDzAJ%2Bq74NGsY59wsz1Vg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "CHAMP",
-        "location": "Cleveland, OH",
-        "date_posted": "12 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-champ-4390620971?position=16&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=Vk3evgEmWDqsSg4M7ahIag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst I",
-        "company": "LHH",
-        "location": "Houston, TX",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-i-at-lhh-4390289260?position=17&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=bflycHtoQ6GDrwPVESHeCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "HireTalent - Staffing & Recruiting Firm",
-        "location": "Denver, CO",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-hiretalent-staffing-recruiting-firm-4390628706?position=18&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=nyzIZHStnGfxZz2k%2Fiatgg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Primary Talent Partners",
-        "location": "Duncan, SC",
-        "date_posted": "53 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-primary-talent-partners-4390624215?position=19&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=vQPwt41a6zuNRmSDMGTJ4Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Software Engineer",
-        "company": "Akkodis",
-        "location": "Westlake, OH",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-akkodis-4390042735?position=20&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=lKuQ5JxFcU0Pp9fysFeeFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "AI Engineer",
-        "company": "PT Union Sampoerna Triputra Persada",
-        "location": "United States",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-pt-union-sampoerna-triputra-persada-4390286448?position=21&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=KoqbTFk2BJ4NSODTLKKxVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Entry-Level Software Engineer",
-        "company": "Bechtel Plant Machinery, Inc. (BPMI)",
-        "location": "Monroeville, PA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-bechtel-plant-machinery-inc-bpmi-4390641286?position=41&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=yjfQpECK5EbxXV4Pmq4kTQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Founder's Office",
-        "company": "CommerceIQ",
-        "location": "Mountain View, CA",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-founder-s-office-at-commerceiq-4390284472?position=42&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=evvi%2B32aBfWIST%2B4b7W8JA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Jobright.ai",
-        "location": "United States",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobright-ai-4390298086?position=46&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=1L27%2BcdYtWynxkAAN2fQUA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Controls Software Engineer",
-        "company": "Belcan",
-        "location": "Cincinnati, OH",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/controls-software-engineer-at-belcan-4386066644?position=47&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=nCKvQ9D5ZEAjtU%2FZfLUiQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Founding Bioinformatics Engineer",
-        "company": "Novaflow (YC S25)",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/founding-bioinformatics-engineer-at-novaflow-yc-s25-4390156234?position=49&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=S7vBFt4um8YxQBS3ooqqlg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Annotator - Spanish Language",
-        "company": "Experis",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-annotator-spanish-language-at-experis-4390243385?position=50&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=G4Fziokyzz8yGo98TolR3Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (T2)",
-        "company": "V2X Inc",
-        "location": "Indianapolis, IN",
-        "date_posted": "51 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-t2-at-v2x-inc-4390626363?position=51&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=123UyxHTLd51OOGqmcTcpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Infowave Systems, Inc",
-        "location": "Holyoke, MA",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-infowave-systems-inc-4390047654?position=52&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=xe%2Fdq7ENqAwVq0Yeg1rM3w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer \u2013 Systems Programming / Application Development C++",
-        "company": "Philips",
-        "location": "Cambridge, MA",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-systems-programming-application-development-c%2B%2B-at-philips-4390292292?position=53&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=SRUe3%2BGTxu3EkC49ue0EKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Managed Staffing, Inc.",
-        "location": "Phoenix, AZ",
-        "date_posted": "51 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-managed-staffing-inc-4390626392?position=55&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=PQOD204uxmguQWGmZxchSg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst",
-        "company": "Robert Half",
-        "location": "Palm Beach Gardens, FL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-at-robert-half-4390602863?position=56&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=PsLONJ5AoTORZzJKIeNlJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer",
-        "company": "Tata Consultancy Services",
-        "location": "Pittsburgh, PA",
-        "date_posted": "56 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-at-tata-consultancy-services-4390285295?position=57&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=yc653p67Y0RenwIkO5iLeA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer \u2013 Kernel",
-        "company": "IC Resources",
-        "location": "California, United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-kernel-at-ic-resources-4390636320?position=58&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=3%2FCBlHRFk3tPFSllLYR2yw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer Software Design",
-        "company": "Tata Consultancy Services",
-        "location": "Jacksonville, FL",
-        "date_posted": "56 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-software-design-at-tata-consultancy-services-4390263806?position=59&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=rd%2BT5Fzz2dCt3oiwCIzGag%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Engineer Software Design",
-        "company": "Tata Consultancy Services",
-        "location": "Jacksonville, FL",
-        "date_posted": "56 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/engineer-software-design-at-tata-consultancy-services-4390261877?position=60&pageNum=0&refId=xQXgDFVK9tWPe2AjByvAOA%3D%3D&trackingId=n%2FmOxbYesWRcMgf8WwxY3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-25 21:38:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
         "company": "BeaconFire Inc.",
         "location": "New Jersey, United States",
         "date_posted": "20 minutes ago",
@@ -727,6 +457,306 @@
         "url": "https://www.linkedin.com/jobs/view/software-engineer-at-kbr-careers-4390630666?position=10&pageNum=2&refId=dhc4BT3LXXSBL%2FO4JYhk7g%3D%3D&trackingId=nBK%2FExlF8%2FH6Zj94PbALdg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-03-25 22:07:47",
+        "email_sent": false
+    },
+    {
+        "title": "Jr. Data Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/jr-data-engineer-at-beaconfire-inc-4383157754?position=2&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=QJlJHcLwRQR3R2bwL6yFPw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Applications",
+        "company": "LinkedIn",
+        "location": "Mountain View, CA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-applications-at-linkedin-4390655211?position=6&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=x5w%2Brb8s4URAAdcjx7KEYw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer- Entry Level",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-entry-level-at-beaconfire-inc-4387067749?position=8&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=pQCvX6lpB%2FGl690C6awvuA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Enginee",
+        "company": "BBW Business Services Pvt Ltd.",
+        "location": "United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-enginee-at-bbw-business-services-pvt-ltd-4390063194?position=9&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=uCOruymS1TCIsa3K5dX9pw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Kelly Science, Engineering, Technology & Telecom",
+        "location": "Duncan, SC",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-kelly-science-engineering-technology-telecom-4390285774?position=13&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=wsEBAHgkgEuXaHndmU2VNw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Abbott",
+        "location": "St Paul, MN",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-abbott-4390074015?position=16&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=%2Fq0crPtQXrIpwY%2FxkzzLyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst - Cybersecurity",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "49 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-cybersecurity-at-remotehunter-4390284692?position=17&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=4gCivjRBKNT%2FgMk1SsmLqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 1",
+        "company": "Ultra I&C",
+        "location": "Tampa, FL",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-ultra-i-c-4390057328?position=22&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=SLpAhNIZCJ2A8f%2FrpI9IPg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Linux System Engineer",
+        "company": "Acro Service Corp",
+        "location": "St Paul, MN",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/linux-system-engineer-at-acro-service-corp-4390286593?position=26&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=w4nxixz7gPhCrhEDPkUjfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Super Micro Computer Spain, S.L.",
+        "location": "San Jose, CA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-super-micro-computer-spain-s-l-4390054572?position=28&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=E9bXx3A3EIgfgA3iBqBDFA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Super Micro Computer Spain, S.L.",
+        "location": "San Jose, CA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-super-micro-computer-spain-s-l-4390050785?position=30&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=TWJ%2BEUX7vMubj7hAV4HQig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Super Micro Computer Spain, S.L.",
+        "location": "San Jose, CA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-super-micro-computer-spain-s-l-4390074048?position=31&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=SnBz6Xn4ej0sUStUsuh2pQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Super Micro Computer Spain, S.L.",
+        "location": "San Jose, CA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-super-micro-computer-spain-s-l-4390070078?position=32&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=y57Sr2rAijGEDbAUj0KAVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Super Micro Computer Spain, S.L.",
+        "location": "San Jose, CA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-super-micro-computer-spain-s-l-4390067125?position=33&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=qQ6IcrAPEnOFIFJvpkMwXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Acro Service Corp",
+        "location": "St Paul, MN",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-acro-service-corp-4390293600?position=37&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=l4EOl1NRbvOT1e6eXuB%2BzQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Super Micro Computer Spain, S.L.",
+        "location": "San Jose, CA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-super-micro-computer-spain-s-l-4390052653?position=38&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=%2Fpo8Ta12%2FLYWhN1gfsdWMA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4384054557?position=39&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=zkV0EPE6Ouak%2BGe3FpbACA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "GPU Performance Software Engineer",
+        "company": "CoreWeave",
+        "location": "Sunnyvale, CA",
+        "date_posted": "49 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/gpu-performance-software-engineer-at-coreweave-4390058218?position=42&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=crFmTFMVHgclzUPe2VcSAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Construction Data Analyst",
+        "company": "KEP Electric/ IES RESIDENTIAL",
+        "location": "Cincinnati, OH",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/construction-data-analyst-at-kep-electric-ies-residential-4390662015?position=43&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=JRJpKL1SYRIfmPs99y8qpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "Leidos",
+        "location": "Huntsville, AL",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-leidos-4390641646?position=44&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=R2PPGvtzA0cfEv4WArAoGg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "FetchJobs.co",
+        "location": "Tucson, AZ",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-fetchjobs-co-4390289029?position=50&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=jZylO4klFxgAtiO%2Fs8ZVpw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Collabera",
+        "location": "King County, WA",
+        "date_posted": "41 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-collabera-4390282736?position=53&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=PUQyhf8RclTt0iNVgIa7gA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Quality & Engineering Data Analyst",
+        "company": "Dorman Products",
+        "location": "Colmar, PA",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/quality-engineering-data-analyst-at-dorman-products-4390652091?position=55&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=xwOvn6XgO4e4ToJ1VRJBCQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer (Level 5) - R10226113",
+        "company": "Northrop Grumman",
+        "location": "Redondo Beach, CA",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-level-5-r10226113-at-northrop-grumman-4387995305?position=58&pageNum=0&refId=LV423r5MRPpNmbrzG9qRDw%3D%3D&trackingId=VmV6quiGi5LFT%2B4dXvzltQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Linux System Engineer",
+        "company": "Acro Service Corp",
+        "location": "St Paul, MN",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/linux-system-engineer-at-acro-service-corp-4390286593?position=2&pageNum=2&refId=surSBn0IWJB1v1YeYpuEmQ%3D%3D&trackingId=g0tqwaGxOAo%2FOC5uJycVPw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Super Micro Computer Spain, S.L.",
+        "location": "San Jose, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-super-micro-computer-spain-s-l-4390054572?position=4&pageNum=2&refId=surSBn0IWJB1v1YeYpuEmQ%3D%3D&trackingId=I8Y49gsefn8Q2pdL%2F5FSpA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Super Micro Computer Spain, S.L.",
+        "location": "San Jose, CA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-super-micro-computer-spain-s-l-4390050785?position=6&pageNum=2&refId=surSBn0IWJB1v1YeYpuEmQ%3D%3D&trackingId=ynQWd7K7DwT9KLVzinF7TQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Super Micro Computer Spain, S.L.",
+        "location": "San Jose, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-super-micro-computer-spain-s-l-4390074048?position=7&pageNum=2&refId=surSBn0IWJB1v1YeYpuEmQ%3D%3D&trackingId=hSiBia%2B4xUOqOIGrp%2Fa31A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Super Micro Computer Spain, S.L.",
+        "location": "San Jose, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-super-micro-computer-spain-s-l-4390070078?position=8&pageNum=2&refId=surSBn0IWJB1v1YeYpuEmQ%3D%3D&trackingId=i1dGERex6Bn5gzqip5HAvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Super Micro Computer Spain, S.L.",
+        "location": "San Jose, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-super-micro-computer-spain-s-l-4390067125?position=9&pageNum=2&refId=surSBn0IWJB1v1YeYpuEmQ%3D%3D&trackingId=bIgYwFx%2B7OdK%2FdSFFt%2BsMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-25 22:55:47",
         "email_sent": false
     }
 ]
