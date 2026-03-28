@@ -1,235 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Kforce Inc",
-        "location": "Nashville, TN",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-kforce-inc-4372737498?position=1&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=ilFhbgvYemv4xFbwg9y7ZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-wiraa-4392077394?position=2&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=0oEhiF2awPv4fL2KG2FQtA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-wiraa-4392089135?position=3&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=KJl23zgT6mXU7RkRwUnMWw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "NextGen AI",
-        "location": "Los Angeles, CA",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-nextgen-ai-4391609454?position=4&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=FYPwli3wNQKEs51hZGD5bA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-wiraa-4392086289?position=5&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=lo0TsJhaaIttgmHFi2q%2BBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Q2",
-        "location": "Austin, TX",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-q2-4380818036?position=6&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=8hbrq5KElwWfXEZI9s%2BLYQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst, Supply Chain",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-supply-chain-at-wiraa-4392089137?position=7&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=R8Ggrh78gqMhf%2FLFoTyCNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Data & ML Engineer, Sr.",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-ml-engineer-sr-at-wiraa-4392078441?position=8&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=rk51d2d%2FewopM3H%2FCadokg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "DevOps Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/devops-engineer-at-wiraa-4392068796?position=9&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=4hXrwNEf42hvz%2BBEDP9jKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Analyst",
-        "company": "Synk",
-        "location": "United States",
-        "date_posted": "34 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-analyst-at-synk-4393622783?position=12&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=AGrX%2FlRwvxYhzdv7UFb1cQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Java, Python)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-java-python-at-wiraa-4392076480?position=15&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=3GhSJDo3l%2Fbr9vWZ0qKT5w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Frontend Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/frontend-software-engineer-at-wiraa-4392076479?position=16&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=MBatREfbMgc3Ghnx5E3fNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Full Stack Software Engineer",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-wiraa-4392074460?position=17&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=Z1grdrobC7l2GT2HDKKuUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-wiraa-4392071639?position=18&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=RC6BN5WRafkL%2FwjeEXDu2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (React, TypeScript)",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-react-typescript-at-wiraa-4392081385?position=19&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=Qb6FDkPiy61IopAe8cP6fQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "RedBalloon",
-        "location": "Huntsville, AL",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-redballoon-4393637224?position=20&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=3uOXhaIxztqZag9gSsBZpw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wiraa-4392089136?position=24&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=USGZX0bJyzvrihD5xMzOew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist II",
-        "company": "Wiraa",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-wiraa-4392070718?position=25&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=IPei3uaWcDuNxD%2FfgBP8Gw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Data Science Analyst",
-        "company": "Generac",
-        "location": "Waukesha, WI",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-science-analyst-at-generac-4380285347?position=31&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=NvYp2%2Bkq1%2BIC%2FcFZOjCo%2Fw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Webber - Field Engineer - Heavy Civil",
-        "company": "Webber, a Ferrovial company",
-        "location": "Atlanta, GA",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/webber-field-engineer-heavy-civil-at-webber-a-ferrovial-company-4382130703?position=37&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=nlBxXmO5AfUYWaN88oj3SQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Field Quality Engineer I",
-        "company": "Crux Subsurface, Inc.",
-        "location": "Spokane Valley, WA",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/field-quality-engineer-i-at-crux-subsurface-inc-4364447464?position=43&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=5n706ft5BkQ8OaLKtPQSdA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Field Quality Engineer I",
-        "company": "Crux Subsurface, Inc.",
-        "location": "Boise, ID",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/field-quality-engineer-i-at-crux-subsurface-inc-4364562067?position=44&pageNum=0&refId=9Fg24OtGZpP6h1GGv2S4eg%3D%3D&trackingId=LM97YEjHpFbiJHb17S8g0g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
-        "title": "Data Science Analyst",
-        "company": "Generac",
-        "location": "Waukesha, WI",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-science-analyst-at-generac-4380285347?position=6&pageNum=2&refId=eojr0QASTq1cul33%2FYwV%2BQ%3D%3D&trackingId=JAfWVe8H3yWUCsRT7zc1%2FQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-28 10:50:38",
-        "email_sent": false
-    },
-    {
         "title": "Software Engineer - Infrastructure",
         "company": "xAI",
         "location": "Palo Alto, CA",
@@ -1007,6 +777,196 @@
         "url": "https://www.linkedin.com/jobs/view/electrical-engineer-at-dvm-power-%2B-control-4382117322?position=9&pageNum=2&refId=VL5R89l53K8jNlFgOpNV2w%3D%3D&trackingId=owc7pxkLIWoigLZORyT51g%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-03-28 11:46:17",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Guidehouse",
+        "location": "Tampa, FL",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-guidehouse-4382344047?position=2&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=mMK707Wek48pP8LDFK1f3Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "Ford Motor Company",
+        "location": "Sunrise, FL",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-ford-motor-company-4364198369?position=8&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=E0Dvb2tFaiW%2FQ1fNyj0x%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Iot Software Engineer",
+        "company": "TEKsystems",
+        "location": "Wilsonville, OR",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/iot-software-engineer-at-teksystems-4386871210?position=9&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=ZqPscP06hn2hoZo%2BmssLAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Engineer, GenAI",
+        "company": "Scale AI",
+        "location": "San Francisco Bay Area",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-genai-at-scale-ai-4333828166?position=10&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=plBvZDKe%2F7uSuARiBDniWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "Hologic, Inc.",
+        "location": "Newark, DE",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-hologic-inc-4391282508?position=11&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=u0hS7Nr7jKy4zos%2BnJ3WXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer II",
+        "company": "Expedia Group",
+        "location": "Seattle, WA",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-ii-at-expedia-group-4391614219?position=12&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=yqDeowVmIKG4dnxA4VfhMA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "System Quality Assurance Test Engineer, Sustaining",
+        "company": "Hologic, Inc.",
+        "location": "Santa Clara, CA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-quality-assurance-test-engineer-sustaining-at-hologic-inc-4391619194?position=15&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=PRStL%2FG1iGDfU%2B151X9oWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Exiger",
+        "location": "McLean, VA",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-exiger-4291380246?position=16&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=iE%2FWsfi0METR4Z4nMZYopg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Applied AI - Polygraph Required",
+        "company": "BTI360",
+        "location": "Herndon, VA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-applied-ai-polygraph-required-at-bti360-4372122613?position=18&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=Ssqt6RL%2FucNvZ6Wuy09ZEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "System Test Engineer",
+        "company": "CTDI",
+        "location": "Lexington, KY",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-test-engineer-at-ctdi-4372149925?position=20&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=XzJenyE%2FGQWZ%2FA0sFVqEpA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Digital Research Associate",
+        "company": "APCO",
+        "location": "Washington, DC",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/digital-research-associate-at-apco-4371597126?position=23&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=yIcRkA9wHTQEcILIQrUMPw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Florida, United States",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4393377676?position=50&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=WjeC2AEciesHIbS6p9wUMg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "New York, United States",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4393372821?position=51&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=LHBZaLwI7OcjLv%2FoKeSdkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Maryland, United States",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4393609660?position=53&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=aohzsr0sRpW9aOsvzN3RZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "St. Petersburg, FL",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4393390423?position=56&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=FbbRhr5TEswCr1otg1StHQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Somerville, MA",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4393614867?position=57&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=T5lNiBHvy8WlYIDfySEAlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Waltham, MA",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4393615863?position=58&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=WeJH3192W9wmi0mBwtQrPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Lowell, MA",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4393631344?position=59&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=34rKpsHPQRVPiq0CuiOqvg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis Tutor",
+        "company": "Varsity Tutors, a Nerdy Company",
+        "location": "Quincy, MA",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4393618659?position=60&pageNum=0&refId=rwjqGa2BjqZ3sIkOGIdWzQ%3D%3D&trackingId=Z5wmlsgG7rMJGxY3oo9sRA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-28 12:02:51",
         "email_sent": false
     }
 ]
