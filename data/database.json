@@ -1,585 +1,5 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Petco",
-        "location": "San Diego, CA",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-petco-4392357648?position=1&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=PxDeao2P9mf1DXYGukyabw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer - SQL",
-        "company": "Hirenza",
-        "location": "United States",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-sql-at-hirenza-4392347838?position=2&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=Pn69Lc%2BncESj%2F74MPaE7yw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Database Engineer (Azure Data Bricks)",
-        "company": "DC Department of Human Resources",
-        "location": "Washington, DC",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/database-engineer-azure-data-bricks-at-dc-department-of-human-resources-4392361452?position=5&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=l5qi8B7AGClsSdf43YYscg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "Premier Group",
-        "location": "Austin, TX",
-        "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-premier-group-4392350844?position=7&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=Pb%2Bud1JUjjeb%2BB800e9TAw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Tampa, FL",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242627?position=9&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=J9KmF9wbqAfgNS%2FMCdXDPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Hayward, CA",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320202750?position=10&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=0lmsS3g%2Bo1Y6uQG195LVMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Escondido, CA",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320094883?position=11&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=B%2BT0sXl73fp7fckJ5k1z9A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Minneapolis, MN",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320232541?position=12&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=uKCD9es95jalgWoICvBw5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Sunnyvale, CA",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320262536?position=13&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=wbDkNe0Kx9MUY7z4tklkww%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Lowell, MA",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320262525?position=14&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=N4rS7RQU0AsphLtakmu3iw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Frisco, TX",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242623?position=15&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=AHswfSAsfQ6i8Ovr9M8AnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Round Rock, TX",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142803?position=16&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=WVtyvDyXsK4XMj28YHIDXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Kapolei, HI",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320262539?position=17&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=PqCG1DAqLmcDww4p%2B4PD6Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Albany, NY",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320112980?position=18&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=A1w0eLt3SYVyeryi6bY%2FMQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Denver, CO",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320202725?position=19&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=XBHB61Hiwz7w5m%2BDShcJjA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Fort Collins, CO",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320262507?position=20&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=2UkJMcS00iEX%2BJ0CZyZnZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Portland, ME",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320272580?position=21&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=jHXIpLlaBqcHiyn2vPHXYA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Lakewood, CO",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320232520?position=22&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=7yySFsV5DuCbgVMLdTBMoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "South Portland, ME",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320192725?position=23&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=kpUQdhiAxag%2BZszBNZA3ng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Garland, TX",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320102922?position=24&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=Zd%2BcrNezZi0gWP74mDsQ6w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Visalia, CA",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242630?position=25&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=eKfV0rm97pD9ZzOJqVYEdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Santa Rosa, CA",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320162894?position=26&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=KcpaNDhFzXGg%2BHcV1I9NUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "North Charleston, SC",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320094877?position=27&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=lQFtj1PU2yFz2Pqram89%2Bg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Bloomington, IL",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320172763?position=28&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=XmqSRorIipYmKHyLZAK4qg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Springdale, AR",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142791?position=29&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=06%2BYAlhwM5l0MeH7X1i%2BXA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Elk Grove, CA",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320292610?position=30&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=YH%2BFivze3wAjQzfIhwQc8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Manchester, NH",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142815?position=31&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=o7RGVcqBa%2BWbLcPjHeSB1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Tucson, AZ",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320162883?position=32&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=wGgMdY18o68TQSmpAArxsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Indianapolis, IN",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320302496?position=33&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=G%2BpM4ELgSBq%2F%2BAZxxCy6tA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Chesapeake, VA",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242605?position=34&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=6g%2F6qCKAKSydOPzyX9QFyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Columbia, SC",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320192711?position=35&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=zUrWG2J5puZgLoTgSjFHNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Lake Charles, LA",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320222685?position=36&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=oqYTaMHOQ2ECC8fJ0rSr3A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Elizabeth, NJ",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320262500?position=37&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=wr%2FBbo2lsxxi38%2FlgnCG2Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Billings, MT",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242619?position=38&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=kz3xmQXmklrGpjqypHOjcA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Traverse City, MI",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320321954?position=40&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=LBstFdQ3YlGpIzx43m%2FygQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Aurora, IL",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320302518?position=41&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=yFpaztUTMwYD7EtWJ3BflQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Watertown, SD",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320282465?position=42&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=MLMJwWOvfJW3uJa5m2FLxg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Pawtucket, RI",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320252643?position=43&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=eM9Vu078umiRIHpvo%2BoK%2BA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Mobile, AL",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320102903?position=46&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=1oHdJggGAg3mfFTLofejqA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Lincoln, NE",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320102892?position=47&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=IRa1p5L2tewLXbatI06ccA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Lawrence, KS",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320232507?position=48&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=W4ryl5cgW91yqWQ9sNODTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Hiring our Heroes Skillbridge - Systems Engineer",
-        "company": "Systems Planning & Analysis",
-        "location": "Alexandria, VA",
-        "date_posted": "46 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/hiring-our-heroes-skillbridge-systems-engineer-at-systems-planning-analysis-4267244913?position=49&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=R4yJDxtYeuxKWuhQVl9rjA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "United States",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394182396?position=53&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=2q5iBYakLPLCSwB7dUi%2FCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "United States",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394177886?position=54&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=U1owu8U%2FkW9BnZ%2Fqz8giHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "United States",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394187206?position=55&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=Rucn3CNHV85BSm3ae%2F%2FIbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "United States",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394184320?position=56&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=peNgUVFD9qdCXiUp9dErHg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "United States",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394193107?position=57&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=L5gAGBIN9xWyQaOSemhNPw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analysis Tutor",
-        "company": "Varsity Tutors, a Nerdy Company",
-        "location": "United States",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analysis-tutor-at-varsity-tutors-a-nerdy-company-4394181578?position=58&pageNum=0&refId=4VKjObW7HzT%2B0UzhNdmUFA%3D%3D&trackingId=pVk3wjmwCbdLTyh0MFHyfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Visalia, CA",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242630?position=1&pageNum=2&refId=XZ6gYmdgJpCcTmWRulMJxQ%3D%3D&trackingId=I1XzFEb2dcwJe0eCqIMcBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Santa Rosa, CA",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320162894?position=2&pageNum=2&refId=XZ6gYmdgJpCcTmWRulMJxQ%3D%3D&trackingId=CAlifXodM5kKJHCOntLdFw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "North Charleston, SC",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320094877?position=3&pageNum=2&refId=XZ6gYmdgJpCcTmWRulMJxQ%3D%3D&trackingId=mrViRShm9IX3kGBkodAe4Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Bloomington, IL",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320172763?position=4&pageNum=2&refId=XZ6gYmdgJpCcTmWRulMJxQ%3D%3D&trackingId=OMwTn2lKljPpEfpgF9BPBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Springdale, AR",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142791?position=5&pageNum=2&refId=XZ6gYmdgJpCcTmWRulMJxQ%3D%3D&trackingId=T%2FEP%2BQ2LgZBtNFRUROUvnQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Elk Grove, CA",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320292610?position=6&pageNum=2&refId=XZ6gYmdgJpCcTmWRulMJxQ%3D%3D&trackingId=VK3iV%2BID5pOgjxWExvqzNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Manchester, NH",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320142815?position=7&pageNum=2&refId=XZ6gYmdgJpCcTmWRulMJxQ%3D%3D&trackingId=4x0GA7k2zgMnNL1awd4T2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Tucson, AZ",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320162883?position=8&pageNum=2&refId=XZ6gYmdgJpCcTmWRulMJxQ%3D%3D&trackingId=PcpfTn6KjEMNWJr7O%2BCGCQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Indianapolis, IN",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320302496?position=9&pageNum=2&refId=XZ6gYmdgJpCcTmWRulMJxQ%3D%3D&trackingId=Z1es%2F%2BnNEdHWEQDBpLCSIA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
-        "title": "Integration Solutions Engineer",
-        "company": "Epic",
-        "location": "Chesapeake, VA",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/integration-solutions-engineer-at-epic-4320242605?position=10&pageNum=2&refId=XZ6gYmdgJpCcTmWRulMJxQ%3D%3D&trackingId=%2Ba23fnDCo1Jy0Gbw7MgpoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-03-29 18:54:01",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer",
         "company": "Stefanini Group",
         "location": "San Francisco, CA",
@@ -607,6 +27,116 @@
         "url": "https://www.linkedin.com/jobs/view/data-analyst-at-agilegrid-solutions-4392346973?position=6&pageNum=0&refId=52bgDaa%2FtpHOjViBy9QgGQ%3D%3D&trackingId=MZfTu4m%2FZKPJUR%2BSWeiFeg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-03-29 19:32:24",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst",
+        "company": "AMDOR ANALYTICS",
+        "location": "Los Angeles, CA",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-amdor-analytics-4391680334?position=4&pageNum=0&refId=r82hUhTo6uRQKKmEJfOztw%3D%3D&trackingId=t0MjKO7WJdeu7mnsYGukuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:59:38",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "McDermott International Inc.",
+        "location": "Chicago, IL",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-mcdermott-international-inc-4394547437?position=6&pageNum=0&refId=r82hUhTo6uRQKKmEJfOztw%3D%3D&trackingId=PZdD4kZmOj%2BuBjE%2BPnw%2FCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:59:38",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer  (Titan, R & SQL) - Richardson, TX (Onsite)",
+        "company": "Jobs via Dice",
+        "location": "Richardson, TX",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-titan-r-sql-richardson-tx-onsite-at-jobs-via-dice-4391915975?position=7&pageNum=0&refId=r82hUhTo6uRQKKmEJfOztw%3D%3D&trackingId=tVAh1YiPEnISOhkTLZmvbQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:59:38",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Lockheed Martin",
+        "location": "Littleton, CO",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-lockheed-martin-4364629846?position=9&pageNum=0&refId=r82hUhTo6uRQKKmEJfOztw%3D%3D&trackingId=fuWcS1dizYxf2S5q8V85yg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:59:38",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - Richardson, TX",
+        "company": "Jobs via Dice",
+        "location": "Richardson, TX",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-richardson-tx-at-jobs-via-dice-4391923481?position=10&pageNum=0&refId=r82hUhTo6uRQKKmEJfOztw%3D%3D&trackingId=UWviwhBCdPmTU4H8Ovfe9Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:59:38",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "AgileGrid Solutions",
+        "location": "United States",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-agilegrid-solutions-4392359737?position=11&pageNum=0&refId=r82hUhTo6uRQKKmEJfOztw%3D%3D&trackingId=GP4pHloI%2Bsp%2Bwc6mRqVFDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:59:38",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Hyra",
+        "location": "Missouri, United States",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hyra-4392362455?position=12&pageNum=0&refId=r82hUhTo6uRQKKmEJfOztw%3D%3D&trackingId=g3qXxM%2FAyRkZy2qtPGFezQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:59:38",
+        "email_sent": false
+    },
+    {
+        "title": "Graphics Software Development Engineer (Remote)",
+        "company": "Jobs via Dice",
+        "location": "Redmond, WA",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/graphics-software-development-engineer-remote-at-jobs-via-dice-4391939040?position=51&pageNum=0&refId=r82hUhTo6uRQKKmEJfOztw%3D%3D&trackingId=qpwkgLzL62vTZjIO9wJWag%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:59:38",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Littleton, CO",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4391668749?position=54&pageNum=0&refId=r82hUhTo6uRQKKmEJfOztw%3D%3D&trackingId=cK56%2FvKWjBztKZ1HhQU6%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:59:38",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Stratford, CT",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4391656830?position=56&pageNum=0&refId=r82hUhTo6uRQKKmEJfOztw%3D%3D&trackingId=viSRjSK48jBcKIwKXCiP5w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:59:38",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Jobs via Dice",
+        "location": "Mt. Laurel, NJ",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jobs-via-dice-4391666824?position=57&pageNum=0&refId=r82hUhTo6uRQKKmEJfOztw%3D%3D&trackingId=lyYlizNyxiwpSxPs%2FaSQlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-03-29 19:59:38",
         "email_sent": false
     }
 ]
