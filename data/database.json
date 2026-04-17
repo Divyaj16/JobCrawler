@@ -1,305 +1,5 @@
 [
     {
-        "title": "Data Engineer II",
-        "company": "Sundayy",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-sundayy-4402930300?position=4&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=ed8sorhvUke3kLrcHIExNg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer",
-        "company": "Sundayy",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sundayy-4402926432?position=5&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=iwBejNTTx0z9qwUMUSEtKg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Remote Data Engineer",
-        "company": "FetchJobs.co",
-        "location": "United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/remote-data-engineer-at-fetchjobs-co-4402323162?position=6&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=IFUH50cTV6D2B84%2FMuE7qw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst II, Healthcare",
-        "company": "Sundayy",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-ii-healthcare-at-sundayy-4402948187?position=9&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=oyySIgX5kywQtpIJxmU0Dg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Junior Data Analyst",
-        "company": "Kavaliro",
-        "location": "Woodland Park, CO",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-kavaliro-4403141177?position=11&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=%2Fol%2BObWjfe1YM0nFH17ZnA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer 1",
-        "company": "NAES",
-        "location": "Issaquah, WA",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-naes-4402142637?position=14&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=ELZTWiB4VF91odGF01%2FLXg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "K-OS Production Services",
-        "location": "California, United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-k-os-production-services-4400420500?position=18&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=jgJV4bZFUYRIoUWMFkxbLA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Developer I",
-        "company": "Spectrum",
-        "location": "Greenwood Village, CO",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-developer-i-at-spectrum-4403146032?position=19&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=2qf5TV4H3TEV0BFnLtO06g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "32 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-remotehunter-4402315143?position=22&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=L3a8WGXWmQ%2FRwy4Lj5VtKQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Humana",
-        "location": "Kentucky, United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-humana-4400470470?position=24&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=uOIH8gvXAV%2FKXb%2ByjB9TOQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "entry-level Data Analyst - Portics and SQL Server or Oracle 100% Remote Contract to hire",
-        "company": "Zeektek",
-        "location": "United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-portics-and-sql-server-or-oracle-100%25-remote-contract-to-hire-at-zeektek-4402324162?position=26&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=ZpfcC7mt8aqhZ47bEinYGQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II (Angular/.NET)",
-        "company": "Sol\u00fc Technology Partners",
-        "location": "Wilmington, DE",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-angular-net-at-sol%C3%BC-technology-partners-4401789517?position=30&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=ypGnTpxXZeBHEZ1jtJV5GQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-remotehunter-4402324149?position=35&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=a93x3tuUFm%2FpcFt63hxkuA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "Adobe",
-        "location": "San Jose, CA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-adobe-4402321229?position=37&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=rMA0qu5RPlCl%2FeLvxOuPMA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
-        "company": "Google",
-        "location": "New York, NY",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-phd-early-career-ai-machine-learning-2026-start-at-google-4365585252?position=41&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=1kwRumk7LCsNxbrH51AF9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst (FULLY REMOTE - EST ONLY)",
-        "company": "Apex Systems",
-        "location": "North Carolina, United States",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-fully-remote-est-only-at-apex-systems-4403142041?position=42&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=4yhfcNfPRNk3%2By3X2LSTNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer- Product Reliability Engineering",
-        "company": "Visa",
-        "location": "Austin, TX",
-        "date_posted": "28 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-product-reliability-engineering-at-visa-4402324110?position=45&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=CJCyp2Xevhh0DowSvkZHPA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Java Software Engineer",
-        "company": "BeaconFire Inc.",
-        "location": "Georgia, United States",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4397952384?position=46&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=5x1YJ5lZvWUzMscO5bweaw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Control Software Engineer",
-        "company": "Belcan",
-        "location": "Indianapolis, IN",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/control-software-engineer-at-belcan-4403124217?position=49&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=P%2FJCxNx8EBs%2BP0BOqBdWBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II - Infra",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "31 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-infra-at-remotehunter-4402319124?position=51&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=oHA%2BHbb94G8aJO0DVd%2BkvA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "BBG Ventures",
-        "location": "Boston, MA",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-bbg-ventures-4402314191?position=53&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=mlzi6TFdGKMYxqfyKx%2F8Rw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
-        "company": "Google",
-        "location": "Mountain View, CA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-phd-early-career-ai-machine-learning-2026-start-at-google-4365592087?position=54&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=DOlgxKi%2FLzxQB%2BoM4Vu%2FYg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
-        "company": "Google",
-        "location": "Kirkland, WA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-phd-early-career-ai-machine-learning-2026-start-at-google-4365587217?position=55&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=315YAge1%2BHADRcjHx%2BAAcw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer I",
-        "company": "HX5, LLC",
-        "location": "Brook Park, OH",
-        "date_posted": "23 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-hx5-llc-4400467463?position=57&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=TJeTOk3B0ZZQZpHGx6Udkw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Sr. Associate Software Engineer",
-        "company": "McKesson",
-        "location": "Atlanta, GA",
-        "date_posted": "Just now",
-        "url": "https://www.linkedin.com/jobs/view/sr-associate-software-engineer-at-mckesson-4403131260?position=58&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=QYDAWkUvdxs4VmWymKMpyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start",
-        "company": "Google",
-        "location": "Sunnyvale, CA",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-phd-early-career-ai-machine-learning-2026-start-at-google-4365591111?position=59&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=Pb8oMvsQbVLHm6ZkQoiTmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Software Engineer",
-        "company": "General Dynamics Mission Systems",
-        "location": "Fort Wayne, IN",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-general-dynamics-mission-systems-4371564520?position=60&pageNum=0&refId=63e7NlPeyIlH6HC4A6dVRg%3D%3D&trackingId=wyE9CUdl7VRhZZolV5wfIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "entry-level Data Analyst - Portics and SQL Server or Oracle 100% Remote Contract to hire",
-        "company": "Zeektek",
-        "location": "United States",
-        "date_posted": "21 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-portics-and-sql-server-or-oracle-100%25-remote-contract-to-hire-at-zeektek-4402324162?position=1&pageNum=2&refId=Bli2lFEmdIrtYtQSQrss0g%3D%3D&trackingId=JqB1I2sot3oQzVf7W0wdng%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II (Angular/.NET)",
-        "company": "Sol\u00fc Technology Partners",
-        "location": "Wilmington, DE",
-        "date_posted": "9 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-angular-net-at-sol%C3%BC-technology-partners-4401789517?position=5&pageNum=2&refId=Bli2lFEmdIrtYtQSQrss0g%3D%3D&trackingId=ISs5ybEqMpq959XptKDKYA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
-        "title": "Associate Software Engineer",
-        "company": "RemoteHunter",
-        "location": "United States",
-        "date_posted": "27 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/associate-software-engineer-at-remotehunter-4402324149?position=10&pageNum=2&refId=Bli2lFEmdIrtYtQSQrss0g%3D%3D&trackingId=Sjp7nLU9MV3q9NNwSXMfxA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-04-16 22:43:45",
-        "email_sent": false
-    },
-    {
         "title": "Junior Data Analys",
         "company": "Manipal Academy of BFSI",
         "location": "United States",
@@ -707,6 +407,206 @@
         "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-codex-tech-it-llc-4403134232?position=10&pageNum=2&refId=uEP251JnpfMeQnj2hk4UwA%3D%3D&trackingId=MtwKD6AxHSxwpQn45WcMgg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-04-16 23:29:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Machine Learning Inference - New College Grad 2026",
+        "company": "NVIDIA",
+        "location": "Santa Clara, CA",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-machine-learning-inference-new-college-grad-2026-at-nvidia-4402325617?position=2&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=nyfHg3YEXBBooXKyj66W5A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "LATAM - Data Science Engineer",
+        "company": "Playsaurus Inc.",
+        "location": "Alameda, CA",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/latam-data-science-engineer-at-playsaurus-inc-4400461779?position=3&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=eqzMO7G0xRd4a1dkFDd3JQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Docusign",
+        "location": "San Francisco, CA",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-docusign-4402313715?position=4&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=b9iLpDPkpsSIg8L0trn3fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst 3",
+        "company": "TalentBurst, an Inc 5000 company",
+        "location": "Durham, NC",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-3-at-talentburst-an-inc-5000-company-4400463727?position=5&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=fU0icvtA%2FiENUhKdEdUeWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Kensho Technologies",
+        "location": "Cambridge, MA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-kensho-technologies-4403143638?position=8&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=rP5crOVE4%2FXDf%2BEsr7NCGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II",
+        "company": "Kensho Technologies",
+        "location": "New York, NY",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-kensho-technologies-4403126874?position=10&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=0BnHNhCAT8ilUq0ooUoXWQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist \u2013 AI Training & Evaluation",
+        "company": "Alignerr",
+        "location": "Seattle, WA",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-ai-training-evaluation-at-alignerr-4400373412?position=13&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=EKOaZHgRklIoaSmZWGvDPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer II - Energy Efficiency",
+        "company": "Cascade Energy",
+        "location": "Pennsylvania, United States",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-ii-energy-efficiency-at-cascade-energy-4400474466?position=14&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=tAQXd1b6630nWnABMli74g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist \u2013 AI Training & Evaluation",
+        "company": "Alignerr",
+        "location": "New York, NY",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-ai-training-evaluation-at-alignerr-4400364729?position=15&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=zvN6AAsw3mkxe2tQYQS2vA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Statistical & Info Officer",
+        "company": "Kansas Department of Health and Environment",
+        "location": "Shawnee County, KS",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/statistical-info-officer-at-kansas-department-of-health-and-environment-4402319306?position=16&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=LwkNYKkLRBwWhPj8Yg%2BeVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Engineer/Assistant Engineer",
+        "company": "County of Riverside",
+        "location": "Riverside County, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-engineer-assistant-engineer-at-county-of-riverside-4402310702?position=17&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=TTYUjmu%2BrMEGuxYCEOumew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Investment Data & Operations Analyst",
+        "company": "Constellation Insurance, Inc.",
+        "location": "Cincinnati, OH",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/investment-data-operations-analyst-at-constellation-insurance-inc-4403125641?position=19&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=XvkuG0c5SlKaz7%2BChUO7Sg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Advanced Software/Electrical Engineer",
+        "company": "Honeywell Aerospace Technologies",
+        "location": "Tempe, AZ",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/advanced-software-electrical-engineer-at-honeywell-aerospace-technologies-4403137605?position=20&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=kiJDcxpXkE6Ggj0zlHgtiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Operations Analyst",
+        "company": "Inside Higher Ed",
+        "location": "Los Angeles, CA",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-center-operations-analyst-at-inside-higher-ed-4403136858?position=21&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=scOpZuT7e64A8xo4hiuReA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Data Quality Operations Analyst (Contract)",
+        "company": "Cartesia",
+        "location": "San Francisco, CA",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-quality-operations-analyst-contract-at-cartesia-4403134366?position=22&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=HoCflE40e5FZF9gKxP5T9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Portable Life Support System (PLSS) Project Engineer II",
+        "company": "Oceaneering",
+        "location": "Houston, TX",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/portable-life-support-system-plss-project-engineer-ii-at-oceaneering-4403138837?position=25&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=U9h%2BRRq7UhGleZ263MmbXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Public Health Informatics Scientist",
+        "company": "Southern Nevada Health District",
+        "location": "Las Vegas, NV",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/public-health-informatics-scientist-at-southern-nevada-health-district-4402309519?position=28&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=mAYQILvo4dZm3QeacqZeEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Practice Development Experience Analyst",
+        "company": "Ropes & Gray LLP",
+        "location": "Boston, MA",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/practice-development-experience-analyst-at-ropes-gray-llp-4402314548?position=29&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=7%2BZJrk1Rjz%2FBLdlP49vPkg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Mechanical Technician I-Absolute Aviation",
+        "company": "WENCOR",
+        "location": "Cheney, WA",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mechanical-technician-i-absolute-aviation-at-wencor-4402322616?position=30&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=vancP3gt9Ls9H8hr6T3YbQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Maintenance Technician",
+        "company": "JLL",
+        "location": "Woodland, CA",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-maintenance-technician-at-jll-4403141566?position=32&pageNum=0&refId=P98f2TtbR4fKrDeO1aT%2B0w%3D%3D&trackingId=Z7DhfZt5oJyjKd9ecOSsRA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-04-17 00:07:51",
         "email_sent": false
     }
 ]
