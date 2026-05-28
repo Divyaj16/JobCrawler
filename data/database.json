@@ -1,122 +1,312 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "Biohub",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-biohub-4417606424?position=1&pageNum=0&refId=HvcATivdynz9Lfr%2Bj4lYzA%3D%3D&trackingId=Y3J8Fdwv9xkXIbtMyRT5pQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-28 04:18:38",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer - Mid",
-        "company": "Wisenbaker Builder Services",
-        "location": "Quantico, VA",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-mid-at-wisenbaker-builder-services-4418886675?position=2&pageNum=0&refId=HvcATivdynz9Lfr%2Bj4lYzA%3D%3D&trackingId=fIois%2BLwjpVige99JFBfmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-28 04:18:38",
-        "email_sent": false
-    },
-    {
-        "title": "Pricing Data Engineer",
-        "company": "McDermott Will & Schulte",
-        "location": "Miami, FL",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/pricing-data-engineer-at-mcdermott-will-schulte-4420229828?position=3&pageNum=0&refId=HvcATivdynz9Lfr%2Bj4lYzA%3D%3D&trackingId=msKAewUcp%2Fy6gH7HbJjecA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-28 04:18:38",
-        "email_sent": false
-    },
-    {
-        "title": "Pricing Data Engineer",
-        "company": "McDermott Will & Schulte",
-        "location": "Chicago, IL",
-        "date_posted": "3 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/pricing-data-engineer-at-mcdermott-will-schulte-4420244490?position=4&pageNum=0&refId=HvcATivdynz9Lfr%2Bj4lYzA%3D%3D&trackingId=lj3Xgp3%2BCr2H1%2F1JGFKqVQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-28 04:18:38",
-        "email_sent": false
-    },
-    {
-        "title": "Data Engineer - Junior",
-        "company": "Wisenbaker Builder Services",
-        "location": "Quantico, VA",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-junior-at-wisenbaker-builder-services-4418883793?position=6&pageNum=0&refId=HvcATivdynz9Lfr%2Bj4lYzA%3D%3D&trackingId=rkqUz40zaY5koCF8lYYqlg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-28 04:18:38",
-        "email_sent": false
-    },
-    {
-        "title": "Mid-level SQL Engineer",
-        "company": "GLOTECH, Inc.",
-        "location": "Gaithersburg, MD",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/mid-level-sql-engineer-at-glotech-inc-4420237672?position=7&pageNum=0&refId=HvcATivdynz9Lfr%2Bj4lYzA%3D%3D&trackingId=bIr%2FUfMdWUxgl%2BeIJLLfBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-28 04:18:38",
-        "email_sent": false
-    },
-    {
-        "title": "SQL Engineer",
-        "company": "GLOTECH, Inc.",
-        "location": "Gaithersburg, MD",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sql-engineer-at-glotech-inc-4420226941?position=8&pageNum=0&refId=HvcATivdynz9Lfr%2Bj4lYzA%3D%3D&trackingId=4lItidFO65MioKK%2FPXqFoA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-28 04:18:38",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Data and AI Platforms",
-        "company": "lululemon",
-        "location": "Seattle, WA",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-and-ai-platforms-at-lululemon-4417604417?position=10&pageNum=0&refId=HvcATivdynz9Lfr%2Bj4lYzA%3D%3D&trackingId=fXx7yWy34oOf8U3APzInXw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-28 04:18:38",
-        "email_sent": false
-    },
-    {
-        "title": "Systems Analyst 3 (1722)",
-        "company": "Connect Tech+Talent",
-        "location": "Austin, TX",
-        "date_posted": "40 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/systems-analyst-3-1722-at-connect-tech%2Btalent-4418557948?position=11&pageNum=0&refId=HvcATivdynz9Lfr%2Bj4lYzA%3D%3D&trackingId=Aqb40N6BsziK%2BI8%2FfYUPwQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-05-28 04:18:38",
-        "email_sent": false
-    },
-    {
-        "title": "Snowflake Architect-Databricks",
-        "company": "Data Affect",
+        "title": "Data Analyst",
+        "company": "Jobgether",
         "location": "United States",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/snowflake-architect-databricks-at-data-affect-4418891403?position=12&pageNum=0&refId=HvcATivdynz9Lfr%2Bj4lYzA%3D%3D&trackingId=7e1fV5IIGYUsnChOV%2BkUHw%3D%3D",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobgether-4419024048?position=1&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=FI7CRyYKfbWI6JZEG4RyOQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-28 04:18:38",
+        "scraped_date": "2026-05-28 08:14:42",
         "email_sent": false
     },
     {
-        "title": "Principal Data Architect",
-        "company": "Haefele Software",
-        "location": "Indiana, United States",
-        "date_posted": "15 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-data-architect-at-haefele-software-4420240565?position=13&pageNum=0&refId=HvcATivdynz9Lfr%2Bj4lYzA%3D%3D&trackingId=Zuy63bKpqpTzZakbgrdu5w%3D%3D",
+        "title": "Junior Data Analyst",
+        "company": "Catch Health",
+        "location": "Fort Lauderdale, FL",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-catch-health-4420276349?position=2&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=GSFLaYRkFXnOuw1B5UWL6g%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-28 04:18:38",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Analyst with BI Skills",
+        "company": "SynergisticIT",
+        "location": "Santa Clara, CA",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-analyst-with-bi-skills-at-synergisticit-4420282042?position=3&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=WpbPlx0Vo0NEzJRq6ewz3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Java Devops developer/Data analyst/Bi analyst",
+        "company": "SynergisticIT",
+        "location": "Plano, TX",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-java-devops-developer-data-analyst-bi-analyst-at-synergisticit-4420278139?position=4&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=xiEV%2FbxpYoDEh07MKB6cnw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Scientist",
+        "company": "SynergisticIT",
+        "location": "Portland, OR",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-scientist-at-synergisticit-4420272459?position=5&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=TuVN87%2B0xzoiNDpY440gIQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Pylon",
+        "location": "San Francisco, CA",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-pylon-4420285167?position=6&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=ibY37xTbX7xBHUO04jxG%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Data Scientist",
+        "company": "SynergisticIT",
+        "location": "Allentown, PA",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-scientist-at-synergisticit-4420280118?position=7&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=3XqLvvU8i8yDgwpvH0UjpA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Developer",
+        "company": "SynergisticIT",
+        "location": "Montgomery, AL",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-developer-at-synergisticit-4420282049?position=8&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=Ylva6n1mTACNWDkqj8WpRA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Jobs via Dice",
+        "location": "Columbus, OH",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-jobs-via-dice-4419003756?position=9&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=NPL4Kl1VW0lArj323Lwojw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "SynergisticIT",
+        "location": "Seattle, WA",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-synergisticit-4420279128?position=10&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=vH44qz2ZbzBrpQk8Y340ew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Entry level java microservices developer/Jr data analyst/ data scientist",
+        "company": "SynergisticIT",
+        "location": "Tempe, AZ",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-java-microservices-developer-jr-data-analyst-data-scientist-at-synergisticit-4420274431?position=11&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=LwFpsCHxY1z%2FxXbuO3dsSg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst/Scientist - Remote",
+        "company": "SynergisticIT",
+        "location": "Billings, MT",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-scientist-remote-at-synergisticit-4420285011?position=12&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=7GgRkzCoAejO8fNrzZkJMg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
         "email_sent": false
     },
     {
         "title": "Staff Software Engineer",
-        "company": "REI",
-        "location": "Seattle, WA",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-rei-4420235769?position=15&pageNum=0&refId=HvcATivdynz9Lfr%2Bj4lYzA%3D%3D&trackingId=xDW%2FzlScADVwyLz7%2BiG%2FUg%3D%3D",
+        "company": "SoTalent",
+        "location": "Hartford, CT",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-sotalent-4417621206?position=13&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=DXcGY8AYtu4g%2BJfQjfDsIw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-05-28 04:18:38",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-remote-at-crossing-hurdles-4419015198?position=14&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=YLKQ1txgwaOcibaDvSGKIg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "ALC",
+        "location": "New York, NY",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-alc-4420268824?position=15&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=ruH3a%2Fnqjc0SDUwgPczFyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer",
+        "company": "Jobs via Dice",
+        "location": "Downers Grove, IL",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-at-jobs-via-dice-4419003763?position=16&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=0annzop9PgpsKhwfT5abFQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst 1 (0-2 years)",
+        "company": "Jobs via Dice",
+        "location": "Chicago, IL",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-1-0-2-years-at-jobs-via-dice-4418898827?position=17&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=2zMRPfnLhl2uBiSg38xpVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist at early-stage AI startup",
+        "company": "Jack & Jill",
+        "location": "New York, NY",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-early-stage-ai-startup-at-jack-jill-4419016291?position=18&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=1VyciKdXnWA0n%2F2rmvWlgA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer-Other - Intermediate",
+        "company": "Jobs via Dice",
+        "location": "Wilmington, DE",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-other-intermediate-at-jobs-via-dice-4419013450?position=19&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=x8zBg6gbZ1kQiT6jb%2FB8OQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer-Other - Advanced",
+        "company": "Jobs via Dice",
+        "location": "Houston, TX",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-other-advanced-at-jobs-via-dice-4419000813?position=20&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=fol%2FQ12DGv1dvLMXlC3TWQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Aerospace Mechanical/Analytics Engineer",
+        "company": "Jobs via Dice",
+        "location": "West Palm Beach, FL",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/aerospace-mechanical-analytics-engineer-at-jobs-via-dice-4419003775?position=21&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=u9F8bGXPFvbJyt1SZlc4yw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Electrical Engineer (Power Systems Engineer)",
+        "company": "TechPro Power Group Inc.",
+        "location": "Crofton, MD",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/electrical-engineer-power-systems-engineer-at-techpro-power-group-inc-4420272599?position=22&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=u8YRG7zueVOzwaTPIs4XZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Retail Data Collector",
+        "company": "Advantage Solutions",
+        "location": "Somerville, MA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/retail-data-collector-at-advantage-solutions-4420259861?position=23&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=unf6iyIsRst1S56m1DLtrQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "MSAT Scientist III",
+        "company": "Katalyst CRO",
+        "location": "Portsmouth, NH",
+        "date_posted": "40 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/msat-scientist-iii-at-katalyst-cro-4420267763?position=24&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=TgcVbZy6sTkjAGmDMTJMcw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Retail Data Collector",
+        "company": "Advantage Solutions",
+        "location": "Anchorage, AK",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/retail-data-collector-at-advantage-solutions-4420265530?position=25&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=aZbFEqtGG65oOntYEkGW2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Retail Data Collector",
+        "company": "Advantage Solutions",
+        "location": "Poultney, VT",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/retail-data-collector-at-advantage-solutions-4420258914?position=26&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=5jybkFKOHBd7TaGbpUuwjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Retail Data Collector",
+        "company": "Advantage Solutions",
+        "location": "Boise, ID",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/retail-data-collector-at-advantage-solutions-4420257969?position=27&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=RsJ5x9m%2FEyLW%2Bo51wHIu6g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Retail Data Collector",
+        "company": "Advantage Solutions",
+        "location": "Bozeman, MT",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/retail-data-collector-at-advantage-solutions-4420275306?position=28&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=2NFWVkNIdC6RR8qWbf%2BwfQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Drafting Technician I",
+        "company": "Resonetics",
+        "location": "Fort Worth, TX",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/drafting-technician-i-at-resonetics-4420282233?position=29&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=gkInbwQdWuTz2JRU2cAXLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Engineer Mechanical 2",
+        "company": "Jobs via Dice",
+        "location": "Palm Beach Gardens, FL",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineer-mechanical-2-at-jobs-via-dice-4419013428?position=31&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=2PLiYqr0uxfEPpzvkHivhg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
+        "email_sent": false
+    },
+    {
+        "title": "Junior AI /Machine learning engineer/Data scientist/Java developer",
+        "company": "SynergisticIT",
+        "location": "Athens, GA",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-ai-machine-learning-engineer-data-scientist-java-developer-at-synergisticit-4420272453?position=32&pageNum=0&refId=Gpqf8arK5l4HjUQAAGKTfA%3D%3D&trackingId=0YvgBQB%2Bm%2FP1WTyFVnjr0g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-05-28 08:14:42",
         "email_sent": false
     }
 ]
