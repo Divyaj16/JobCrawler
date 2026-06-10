@@ -1,1 +1,742 @@
-[]
+[
+    {
+        "title": "Data Engineer",
+        "company": "ELFA Electric",
+        "location": "New York, United States",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-elfa-electric-4427003519?position=1&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=O3cDhJN%2FRyOhd5hqayw7IA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer 2",
+        "company": "Humana",
+        "location": "Louisville, KY",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-2-at-humana-4423116829?position=2&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=ie6RUemugqo7ii3gWz7c5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Developer",
+        "company": "Nordic AI Hub",
+        "location": "New York, United States",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-developer-at-nordic-ai-hub-4427011720?position=3&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=H%2BssKrCUm9SHpeyEwYSPsw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "AgileGrid Solutions",
+        "location": "United States",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-agilegrid-solutions-4427014429?position=4&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=VOS8qOO4J8nelcQVULAm9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Google DATABASE ENGINEER",
+        "company": "Raas Infotek",
+        "location": "United States",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/google-database-engineer-at-raas-infotek-4426793880?position=5&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=PEYZrmrYp7JzCUcMX2YnsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Associate AI/ML Engineer",
+        "company": "Raft",
+        "location": "Tacoma, WA",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-ai-ml-engineer-at-raft-4427002675?position=6&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=NM5jN%2F9%2F5AtOacrRZ2ZviA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Backend AI-Forward Data Engineer",
+        "company": "Greystar",
+        "location": "United States",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-ai-forward-data-engineer-at-greystar-4380472617?position=8&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=EJJKpWUKUKHf8kO8pTWMmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Associate DevOps Engineer",
+        "company": "Raft",
+        "location": "Colorado Springs, CO",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-devops-engineer-at-raft-4427016281?position=9&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=iyfktvNMwt43fx4t1nzSqA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-beaconfire-inc-4422208616?position=10&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=sP3yEMzHftJJHLwXfSAycA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "System One",
+        "location": "Vienna, VA",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-system-one-4427001579?position=11&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=a%2B5t8ZMLYkqAQNVQRs47fQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Jr Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/jr-software-engineer-at-beaconfire-inc-4422203098?position=12&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=pWoSgWgz0R%2FI2hG3RqzB9g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Associate DevOps Engineer",
+        "company": "Raft",
+        "location": "Aberdeen, MD",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-devops-engineer-at-raft-4427001734?position=13&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=Lt7rOH2tBjav1qES6C4BbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Robert Half",
+        "location": "Lebanon, NH",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-robert-half-4426084044?position=14&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=2EbNP36faT4Ev9kvJBAQaw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software engineer",
+        "company": "Humana",
+        "location": "Louisville, KY",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-humana-4423134041?position=15&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=eX311sLDmLHi5%2BDLyvlJjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Entry Analyst",
+        "company": "Signals & Waves",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-entry-analyst-at-signals-waves-4426083380?position=16&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=lo0fiRCvVymK3Y0BDeacaw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Robert Half",
+        "location": "Gainesville, FL",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-robert-half-4426079547?position=17&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=UWVuYewKgcd6PBj91ac%2Fyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Robert Half",
+        "location": "Chatsworth, CA",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-robert-half-4426064880?position=18&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=PN10nd4RzRLFCJN2aFM8Ww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Jr Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/jr-java-software-engineer-at-beaconfire-inc-4422749515?position=19&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=JPwJ0nEVUAaKQnaHqklEfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New York, United States",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4426089073?position=20&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=bnNQA3xsa%2FEmgyUDPp5FMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "HR Data Analyst",
+        "company": "LifeStance Health",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/hr-data-analyst-at-lifestance-health-4413374420?position=21&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=4GiA08HsR6WQep1YkX8AWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer II (Fraud)",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-fraud-at-ladders-4423119260?position=22&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=IhSJ3dzAiOZQzVl5PnBKHw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Software Engineer",
+        "company": "ASSA ABLOY Group",
+        "location": "Phoenix, AZ",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-at-assa-abloy-group-4405576040?position=23&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=pL38oPvVCpnb4E269cHgmw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Annotator",
+        "company": "Shift+R",
+        "location": "California, United States",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-annotator-at-shift%2Br-4427004589?position=24&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=zubv4W%2B8w77ZBPHmBq1wRg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4426072970?position=25&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=IFd0ueZeL%2FWO3NbrNSBgbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "hackajob",
+        "location": "Mt. Laurel, NJ",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hackajob-4415076969?position=26&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=CMDTAa3nRPn64xnOHqA89g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4420163089?position=27&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=4P2sG3vz4dlu4Irbk6UaHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4421954983?position=28&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=qTu2SJ7eH1IbB1KNrUzUJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4425835593?position=29&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=JmwbjdUbtcGKze0lt1rm3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4421993634?position=30&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=DWZmDrktbsrkyBJwpbKEHg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4421980001?position=31&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=cJp1Bu6qVvW%2B6WN90qLuKQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4421960989?position=32&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=0bneofSlMDkVGadBtckWxw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Horizontal Talent",
+        "location": "Rochester, MN",
+        "date_posted": "40 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-horizontal-talent-4413379011?position=33&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=MnmVkyyS1QrN%2BwCi8on4Pw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4421973033?position=34&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=7iz6XaASEDhOPflnZ9Lo4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4421965874?position=35&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=HKcBkxQP%2Fu%2FtvjYTfw%2Flpg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4421973017?position=36&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=KMCjuZ25CJIpzqW4ukxGqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer II",
+        "company": "Flock",
+        "location": "United States",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-ii-at-flock-4417010342?position=37&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=iNuFuDzmAVhsR6555%2F06XQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Entry Level Software Engineer",
+        "company": "Actalent",
+        "location": "Mount Laurel, NJ",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-actalent-4426095085?position=38&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=EtbjxS3TvcLuEyDxe%2FgHbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Engineer",
+        "company": "Raft",
+        "location": "Honolulu, HI",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-raft-4427015370?position=39&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=1J67NttAmbd6LdUrKx%2FWMg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Engineer",
+        "company": "Raft",
+        "location": "Honolulu, HI",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-raft-4427000701?position=40&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=LJVUhByAk1XCun9gD1Ellg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer (Train AI Models Part Time!)",
+        "company": "hackajob",
+        "location": "United States",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-train-ai-models-part-time%21-at-hackajob-4379600413?position=41&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=rMKtjR8RtHZWcOf71ARf6A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Fullstack)",
+        "company": "Counsel Health",
+        "location": "New York, NY",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-at-counsel-health-4426102105?position=42&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=TbrSc6LRZ0jtrrg0DilRoQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Mobile Software Engineer",
+        "company": "DataAnnotation",
+        "location": "Wyoming, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mobile-software-engineer-at-dataannotation-4334700239?position=43&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=T19jnGyUWV8KRjXk6cHGEA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Controls Software Engineer, Atlas",
+        "company": "Boston Dynamics",
+        "location": "Waltham, MA",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/controls-software-engineer-atlas-at-boston-dynamics-4416964323?position=44&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=iblFfQcIpHLFayCTaOKqKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "CRM Data Analyst",
+        "company": "Cerity Partners",
+        "location": "Louisville, KY",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/crm-data-analyst-at-cerity-partners-4415936182?position=45&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=9NyKDHpKd7TOLvRQfwO2fQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Planner/Data Analyst",
+        "company": "Perkins Eastman",
+        "location": "San Francisco, CA",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/planner-data-analyst-at-perkins-eastman-4413603980?position=46&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=kjwjJ91ZtSwdx%2FesgOhw0g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Android Software Engineer",
+        "company": "DataAnnotation",
+        "location": "Oregon, United States",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/android-software-engineer-at-dataannotation-4334589724?position=47&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=bsS9cHmF5VikT0BgA18EVA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Data Scientist 1",
+        "company": "Mitchell Martin Inc.",
+        "location": "Bellevue, WA",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-data-scientist-1-at-mitchell-martin-inc-4423123815?position=48&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=nrCK26v1nEIIC%2FYUa0rPZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "DevSecOps Engineer - JobID-0030",
+        "company": "Innovative Defense Technologies (IDT)",
+        "location": "Arlington, VA",
+        "date_posted": "6 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/devsecops-engineer-jobid-0030-at-innovative-defense-technologies-idt-4413355705?position=49&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=dT73olgMEevYcfiINYO4Kg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Commissioning Software Development Engineer",
+        "company": "KUKA",
+        "location": "Clinton Township, MI",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-commissioning-software-development-engineer-at-kuka-4427009389?position=50&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=MUfc%2FFa%2F5zmDXIbEFXmUIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "AgileGrid Solutions",
+        "location": "United States",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-agilegrid-solutions-4427005579?position=51&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=z4k1%2FXSA5aNeB6aqR4Q2vg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "JSR Tech Consulting",
+        "location": "Newark, NJ",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jsr-tech-consulting-4415936992?position=52&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=5nB5RG2NOb8djexT5QHRPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Simulation and Training Products)",
+        "company": "hackajob",
+        "location": "Mt. Laurel, NJ",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-simulation-and-training-products-at-hackajob-4415087324?position=54&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=Fa%2BddTNubp7LRe8krp8mSQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Operations Data & Financial Analyst",
+        "company": "Skechers",
+        "location": "Rancho Cucamonga, CA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/operations-data-financial-analyst-at-skechers-4408048076?position=55&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=i2se9ORbt%2B90Bvnd3z7BTQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Ground Systems Engineer II, Automation Controls",
+        "company": "Rocket Lab",
+        "location": "Mississippi, United States",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ground-systems-engineer-ii-automation-controls-at-rocket-lab-4415993029?position=57&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=MSsW1qFxZMYmvOopZ5tmiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Engineer",
+        "company": "Boutique Recruiting",
+        "location": "Los Angeles, CA",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-boutique-recruiting-4416932188?position=58&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=FjlMTop3LdkdmuakUmBe1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Engineer, Palantir Foundry - Honolulu, HI",
+        "company": "Accenture Federal Services",
+        "location": "Honolulu, HI",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-palantir-foundry-honolulu-hi-at-accenture-federal-services-4334799009?position=59&pageNum=0&refId=murAS0X%2FRKZjWpJgEhv%2FTA%3D%3D&trackingId=2%2FZqR6QLJPYrktqEXbBC7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4426072970?position=1&pageNum=2&refId=CiuPOT%2FQ7j7KmdMWICDmmw%3D%3D&trackingId=uzwT%2BAoLzhzzfxYBwNlrMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "hackajob",
+        "location": "Mt. Laurel, NJ",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-hackajob-4415076969?position=2&pageNum=2&refId=CiuPOT%2FQ7j7KmdMWICDmmw%3D%3D&trackingId=oxNMHf4Vd6RwoFRNeY%2Br0g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4420163089?position=3&pageNum=2&refId=CiuPOT%2FQ7j7KmdMWICDmmw%3D%3D&trackingId=pAz7jcGsQwAHQ2aMsWU%2B9w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4421954983?position=4&pageNum=2&refId=CiuPOT%2FQ7j7KmdMWICDmmw%3D%3D&trackingId=WaH48l5%2Br1xBMVfCx1eUwg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4425835593?position=5&pageNum=2&refId=CiuPOT%2FQ7j7KmdMWICDmmw%3D%3D&trackingId=7OOlVFiou5PPtXfk09u4cQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4421993634?position=6&pageNum=2&refId=CiuPOT%2FQ7j7KmdMWICDmmw%3D%3D&trackingId=V2x9uWSdqolcqSIPN6VI7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4421980001?position=7&pageNum=2&refId=CiuPOT%2FQ7j7KmdMWICDmmw%3D%3D&trackingId=Txj6GwTH%2BfCeH5SR9njlkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4421960989?position=8&pageNum=2&refId=CiuPOT%2FQ7j7KmdMWICDmmw%3D%3D&trackingId=cAQuzzJpv%2Bhdlopdd4oruA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Horizontal Talent",
+        "location": "Rochester, MN",
+        "date_posted": "40 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-horizontal-talent-4413379011?position=9&pageNum=2&refId=CiuPOT%2FQ7j7KmdMWICDmmw%3D%3D&trackingId=oKTaYd4jJdwlBDeaQ%2FFHBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4421973033?position=10&pageNum=2&refId=CiuPOT%2FQ7j7KmdMWICDmmw%3D%3D&trackingId=wbybb49%2FT83x9QhkhBu7Mw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Virtual Commissioning Software Development Engineer",
+        "company": "KUKA",
+        "location": "Clinton Township, MI",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/virtual-commissioning-software-development-engineer-at-kuka-4427009389?position=1&pageNum=5&refId=SIXEFbaqW%2FK4ymlgo0iWbA%3D%3D&trackingId=HbCo8d%2F0oAMgpEYkLb%2Feuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "AgileGrid Solutions",
+        "location": "United States",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-agilegrid-solutions-4427005579?position=2&pageNum=5&refId=SIXEFbaqW%2FK4ymlgo0iWbA%3D%3D&trackingId=Kd0q%2B0RozncRxPkipu%2FYrg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "JSR Tech Consulting",
+        "location": "Newark, NJ",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-jsr-tech-consulting-4415936992?position=3&pageNum=5&refId=SIXEFbaqW%2FK4ymlgo0iWbA%3D%3D&trackingId=1vTWUFVrU05v0e2c1thltw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer (Simulation and Training Products)",
+        "company": "hackajob",
+        "location": "Mt. Laurel, NJ",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-simulation-and-training-products-at-hackajob-4415087324?position=5&pageNum=5&refId=SIXEFbaqW%2FK4ymlgo0iWbA%3D%3D&trackingId=he8Bp1MJNuPbVFfnPVJalg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Operations Data & Financial Analyst",
+        "company": "Skechers",
+        "location": "Rancho Cucamonga, CA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/operations-data-financial-analyst-at-skechers-4408048076?position=6&pageNum=5&refId=SIXEFbaqW%2FK4ymlgo0iWbA%3D%3D&trackingId=HxkmEHBSLw00XFuEzqglOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Ground Systems Engineer II, Automation Controls",
+        "company": "Rocket Lab",
+        "location": "Mississippi, United States",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ground-systems-engineer-ii-automation-controls-at-rocket-lab-4415993029?position=8&pageNum=5&refId=SIXEFbaqW%2FK4ymlgo0iWbA%3D%3D&trackingId=uMjuny1opIc%2Fq0j%2BqR%2FCiw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Engineer",
+        "company": "Boutique Recruiting",
+        "location": "Los Angeles, CA",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-boutique-recruiting-4416932188?position=9&pageNum=5&refId=SIXEFbaqW%2FK4ymlgo0iWbA%3D%3D&trackingId=QNKOVMY26mOQ8WXBq9MueA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Engineer, Palantir Foundry - Honolulu, HI",
+        "company": "Accenture Federal Services",
+        "location": "Honolulu, HI",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-palantir-foundry-honolulu-hi-at-accenture-federal-services-4334799009?position=10&pageNum=5&refId=SIXEFbaqW%2FK4ymlgo0iWbA%3D%3D&trackingId=UkHxz6GRB8te0yfkcwj00w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-10 14:02:21",
+        "email_sent": false
+    }
+]
