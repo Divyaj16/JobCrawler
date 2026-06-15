@@ -1,52 +1,432 @@
 [
     {
-        "title": "SQL DBA",
-        "company": "TriluxTech",
-        "location": "La Jolla Shores, CA",
+        "title": "Junior Data Engineer",
+        "company": "Tech Consulting",
+        "location": "Missouri, United States",
         "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sql-dba-at-triluxtech-4425759680?position=1&pageNum=0&refId=UwwZQE6RbYu6YNDp9v9HVw%3D%3D&trackingId=L19%2BPyJ21pYxb%2BuqLC2B%2BA%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-tech-consulting-4427711036?position=1&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=AAu%2B%2F9ofD%2Ffwr8Kr%2BonBag%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-15 07:03:41",
+        "scraped_date": "2026-06-15 13:26:36",
         "email_sent": false
     },
     {
-        "title": "Ai Engineer",
-        "company": "Reid Health",
-        "location": "Richmond, IN",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-reid-health-4428698659?position=2&pageNum=0&refId=UwwZQE6RbYu6YNDp9v9HVw%3D%3D&trackingId=45qvqBBdQJwvj2HOGqPgIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-15 07:03:41",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer/Programmer II/III",
-        "company": "UCAR - The University Corporation for Atmospheric Research",
-        "location": "Boulder, CO",
-        "date_posted": "47 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-programmer-ii-iii-at-ucar-the-university-corporation-for-atmospheric-research-4419994661?position=3&pageNum=0&refId=UwwZQE6RbYu6YNDp9v9HVw%3D%3D&trackingId=2hoOzzfhYqMU%2FdRs0nQF1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-15 07:03:41",
-        "email_sent": false
-    },
-    {
-        "title": "Quantitative Developer",
-        "company": "WizardQuant",
-        "location": "New York, United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/quantitative-developer-at-wizardquant-4416492402?position=4&pageNum=0&refId=UwwZQE6RbYu6YNDp9v9HVw%3D%3D&trackingId=pC7huxl6QXvpFaLZMaRD8Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-15 07:03:41",
-        "email_sent": false
-    },
-    {
-        "title": "Computational & Data Science Research Spec. 2 or 3 - 139471",
-        "company": "UC San Diego",
-        "location": "San Diego, CA",
+        "title": "Data Engineer",
+        "company": "Tech Consulting",
+        "location": "Texas, United States",
         "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/computational-data-science-research-spec-2-or-3-139471-at-uc-san-diego-4414371701?position=5&pageNum=0&refId=UwwZQE6RbYu6YNDp9v9HVw%3D%3D&trackingId=GpaqUcSLpnty3WISnTjcEg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-tech-consulting-4425785907?position=2&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=5EMdNo4OcQINs%2F4wgl7itA%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-15 07:03:41",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Entry-Level Software Engineer | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-remote-at-crossing-hurdles-4427499509?position=3&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=6UXPh0T8CDFzadhD4adV0w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Initiate Government Solutions, LLC.",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-initiate-government-solutions-llc-4428832946?position=4&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=At%2FqJ85phKJDd7xueikeOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analys",
+        "company": "Dubai Jobs Desk",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analys-at-dubai-jobs-desk-4427491566?position=5&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=ALSiD0%2B%2F6GiM7%2B8K7vBRWA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analys",
+        "company": "AI Safety UAE",
+        "location": "California, United States",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analys-at-ai-safety-uae-4426401130?position=6&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=Tws5Cm3M78kTq9GXIVafXQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analys",
+        "company": "Dubai Jobs Desk",
+        "location": "United States",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analys-at-dubai-jobs-desk-4428846066?position=7&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=4K%2Fpj8kJXZhvteoKfR5AZw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analytics Engineer",
+        "company": "Insight Global",
+        "location": "Jacksonville, FL",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analytics-engineer-at-insight-global-4427702685?position=8&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=9njF6V1CY6A5hUs5N%2Bn0BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Tech Consulting",
+        "location": "New York, United States",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-tech-consulting-4427491647?position=9&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=4Yg9KDLpJSXVbZ6r7dq1Cw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analys",
+        "company": "UN JOBS & OPPORTUNITIES",
+        "location": "United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analys-at-un-jobs-opportunities-4428858053?position=10&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=nmDN6e7Fhu%2BkRrZE%2Bu%2B0vw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Entry Analyst",
+        "company": "Synor Gold",
+        "location": "United States",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-entry-analyst-at-synor-gold-4425797274?position=11&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=geWpvZWrkuhZJtzdu6mJBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "US Data Engineer - Data Warehouse",
+        "company": "Artech L.L.C.",
+        "location": "Dallas, TX",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/us-data-engineer-data-warehouse-at-artech-l-l-c-4428844707?position=12&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=p3qPylU8ZHrGw%2Fgo1o258A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Insight Global",
+        "location": "Atlanta, GA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-insight-global-4427494567?position=13&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=rToc5RNYwcqr2zrJB5ejpQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Remodel Health",
+        "location": "Indianapolis, IN",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-remodel-health-4389756064?position=14&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=tCgaGDLo8gpNJZ3nXc2cGQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Software Engineer (Open 3D Engine) | Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remote-at-crossing-hurdles-4427710147?position=15&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=Zv03X0o7kkTwfasnThlwDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Jobright.ai",
+        "location": "United States",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-jobright-ai-4427489850?position=16&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=QRJDmCABWHkh%2BxexDcnW4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "DRS IT Solutions Inc",
+        "location": "Atlanta, GA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-drs-it-solutions-inc-4428850110?position=17&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=tBVrRAJpQbWEbztih6A%2B2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Trilyon, Inc.",
+        "location": "Atlanta, GA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-trilyon-inc-4428858057?position=18&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=YvdLR0%2B3WTSS8QQhTBgWhg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Salesforce Engineer",
+        "company": "Netrolynx AI",
+        "location": "United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/salesforce-engineer-at-netrolynx-ai-4428833807?position=19&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=IK%2BHOsbvE%2B1olAXux%2Fd1WA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Full Stack Software Engineer",
+        "company": "Nationwide",
+        "location": "Columbus, OH",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-nationwide-4425787838?position=20&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=oLPMaRlAZ%2FHI%2B1%2FJXmkNwg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Generative AI Engineer",
+        "company": "My Enablement",
+        "location": "Charlottesville, VA",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/generative-ai-engineer-at-my-enablement-4428845343?position=21&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=kHn0TIUP3IuEHb7DRkU3Dg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Science",
+        "company": "Tech Consulting",
+        "location": "Texas, United States",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-science-at-tech-consulting-4426406001?position=22&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=geB3S6I4AkLTJ0b1Vdo02g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software CI/CD Engineer (On-Site)",
+        "company": "Trace3",
+        "location": "Huntsville, AL",
+        "date_posted": "17 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-ci-cd-engineer-on-site-at-trace3-4308407194?position=23&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=9jdrjTbC4iQLoBpotEiIPQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Microsoft 365 Data Annotation Specialist | $30/hr Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/microsoft-365-data-annotation-specialist-%2430-hr-remote-at-crossing-hurdles-4427702459?position=24&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=vmvLuAplxyQm5cxn1%2B7q9A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Quality Assurance Engineer",
+        "company": "ARQ REC",
+        "location": "California, United States",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-quality-assurance-engineer-at-arq-rec-4427706365?position=25&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=uziKxqL34dP54NOleBc18A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Software Engineer - Gunshot Detection (Fully Remote)",
+        "company": "AmberBox Gunshot Detection",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-gunshot-detection-fully-remote-at-amberbox-gunshot-detection-4427705590?position=26&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=F1CKAXvH8Q6nobZecTzfdQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4402800507?position=27&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=uTGvvZBkgLRwOpya2qNYXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Embedded Software Engineer",
+        "company": "Veridian Tech Solutions, Inc.",
+        "location": "Illinois, United States",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-veridian-tech-solutions-inc-4426961001?position=28&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=9JfAgo6fVNYUKHwKjEfsRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Temporary Client Data & Insights Analyst",
+        "company": "Cartier",
+        "location": "New York, NY",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/temporary-client-data-insights-analyst-at-cartier-4417875051?position=29&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=6LDVD5QXHovcoGA2rpgvLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Java Software Engineer",
+        "company": "BeaconFire Inc.",
+        "location": "California, United States",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-software-engineer-at-beaconfire-inc-4425730717?position=30&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=5cDf7avbLlAcXSfQHzFxuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Center Operations Systems Engineer (Kansas City, MO)",
+        "company": "Lambda",
+        "location": "Kansas City, MO",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-center-operations-systems-engineer-kansas-city-mo-at-lambda-4386124834?position=31&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=49WNdOc3p5A%2FakPfU20zDQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Revature",
+        "location": "North Carolina, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-revature-4427703453?position=32&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=is8xY36M3n1m3jBCsUP3%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Revature",
+        "location": "Texas, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-revature-4427492538?position=33&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=PAakmxCsvoUrF80dmkhUbA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Revature",
+        "location": "Reston, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-revature-4427709237?position=34&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=ziZNAFy%2FUZmJAFL4TBd3eQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Netrolynx AI",
+        "location": "United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-netrolynx-ai-4428852228?position=35&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=hxLkDtYXbQvhHz%2FC4rdQvw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Research Software Engineer",
+        "company": "Inside Higher Ed",
+        "location": "Hanover, NH",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/research-software-engineer-at-inside-higher-ed-4428834283?position=36&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=RND1TVx5Vcs8HwRQhqA06g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Junior Data Scientist",
+        "company": "Tech Consulting",
+        "location": "Pennsylvania, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-tech-consulting-4427491539?position=37&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=wzGJc0D2tTZT9Xglm1g5%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "System Engineer",
+        "company": "Netrolynx AI",
+        "location": "United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/system-engineer-at-netrolynx-ai-4428841336?position=39&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=J1dKmUiHj2Tw%2B8vOCIAGAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Data Governance Analyst",
+        "company": "Motion",
+        "location": "Birmingham, AL",
+        "date_posted": "5 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-governance-analyst-at-motion-4388208446?position=40&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=XHbjlIywkiZb54DIMNTxRA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Traveling Assistant Engineer - New College Grad 2026 (Advanced Technology Group)",
+        "company": "Turner Construction Company",
+        "location": "Durham, NC",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/traveling-assistant-engineer-new-college-grad-2026-advanced-technology-group-at-turner-construction-company-4378021797?position=41&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=x6r2ejHb6Dtyqamew1JMvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Compliance Analyst | $66/hr Remote",
+        "company": "Crossing Hurdles",
+        "location": "United States",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/compliance-analyst-%2466-hr-remote-at-crossing-hurdles-4427498658?position=42&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=h6VwTakktxtRQaJ2htdkeQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Energy Engineer",
+        "company": "Inside Higher Ed",
+        "location": "Columbus, OH",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/energy-engineer-at-inside-higher-ed-4428842079?position=43&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=z%2F%2FDNiew67L%2FGHtGOnLziA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
+        "email_sent": false
+    },
+    {
+        "title": "Rotational Field Application Engineer",
+        "company": "Advanced Energy",
+        "location": "Milpitas, CA",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/rotational-field-application-engineer-at-advanced-energy-4398134725?position=44&pageNum=0&refId=0%2BTsvzi%2Fbke8R7744Y8AZA%3D%3D&trackingId=A%2Btm5l5nDVFbLEdN%2F028Sw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-15 13:26:36",
         "email_sent": false
     }
 ]
