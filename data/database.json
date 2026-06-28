@@ -1,72 +1,362 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Burtch Works",
-        "location": "Chicago, IL",
-        "date_posted": "6 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-burtch-works-4415519220?position=1&pageNum=0&refId=DQzBbxK49UG5kqfI0j5IUg%3D%3D&trackingId=ZFOe6r9fIe7kk6CUt0i6%2Bg%3D%3D",
+        "company": "American Academy of Sleep Medicine",
+        "location": "Darien, IL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-american-academy-of-sleep-medicine-4415542192?position=1&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=BggrOsLh8fzCJLpHzNkZFQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-28 09:30:50",
+        "scraped_date": "2026-06-28 11:23:04",
         "email_sent": false
     },
     {
-        "title": "Software Engineer - Data Platforms (Remote)",
-        "company": "Hired",
+        "title": "Sr. Data Engineer",
+        "company": "Thomson Reuters",
+        "location": "McLean, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-thomson-reuters-4405370926?position=4&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=Mn5qGOXkEhDAPjlSEeuvKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Software Engineer,Data, Autonomy",
+        "company": "Rivian",
+        "location": "Palo Alto, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-data-autonomy-at-rivian-4405085554?position=7&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=b0RV6Z0gk0vJtjeqYKPQpg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "xAI",
+        "location": "Palo Alto, CA",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-xai-4406679948?position=8&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=TjAsgAagPI3ulV8KgOBhAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Sundayy",
+        "location": "United States",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sundayy-4434288067?position=9&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=IMgE6QzYB9cybuBIxI%2FJyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+        "company": "Databricks",
+        "location": "Philadelphia, PA",
+        "date_posted": "40 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-fde-healthcare-life-sciences-at-databricks-4397805166?position=10&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=DAGr8xhs%2FbP06NFC2LSn1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
+        "company": "Databricks",
+        "location": "Philadelphia, PA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-fde-public-sector-at-databricks-4397808054?position=11&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=4XRXch6nEnfgn9jqTADG3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (Contract-to-Hire, Part-Time)",
+        "company": "Zeno Group",
+        "location": "New York, NY",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-contract-to-hire-part-time-at-zeno-group-4415567783?position=12&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=waHvNmY3N88n%2FqZPoA%2BcnQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Engineering Manager - Data Automation",
+        "company": "Klaviyo",
+        "location": "Boston, MA",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineering-manager-data-automation-at-klaviyo-4330397570?position=13&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=TCY1sFQ14zSn5xpumEE6qw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Microsoft Fabric Architect",
+        "company": "Troutman Pepper Locke LLP",
+        "location": "Atlanta, GA",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/microsoft-fabric-architect-at-troutman-pepper-locke-llp-4415572481?position=14&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=%2FSSD5J9zYzkutGeT%2FM6Q8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Microsoft Fabric Architect",
+        "company": "Troutman Pepper Locke LLP",
+        "location": "Dallas, TX",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/microsoft-fabric-architect-at-troutman-pepper-locke-llp-4415576291?position=15&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=sBoHOa%2F6F81hb3D2UNG%2BZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst, Production Finance Operations & Innovation",
+        "company": "Netflix",
+        "location": "Los Angeles, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-production-finance-operations-innovation-at-netflix-4356282744?position=16&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=P53%2BEfZ2mN5OiiCPKBkr1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Prediction Markets (Python)",
+        "company": "DRW",
+        "location": "Chicago, IL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-prediction-markets-python-at-drw-4385166575?position=17&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=Zl%2BLjSdX6z1Pim%2BZL00Q7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Software Engineer",
+        "company": "Oracle",
+        "location": "Austin, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-oracle-4421552120?position=19&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=YWjZcyW6v6XxpvFZbkfU2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Legal Practice Technology Data Scientist",
+        "company": "Kirkland & Ellis",
+        "location": "Boston, MA",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/legal-practice-technology-data-scientist-at-kirkland-ellis-4406822263?position=20&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=JSQATgZcCab8WwqPFILrjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Bioinformatician",
+        "company": "Goldbelt Apex LLC",
+        "location": "Atlanta, GA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/bioinformatician-at-goldbelt-apex-llc-4358640476?position=21&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=RFLDl2ZGjB6R0nOlrBXESw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Platform Engineer",
+        "company": "Ahold Delhaize USA",
+        "location": "Salisbury, NC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-platform-engineer-at-ahold-delhaize-usa-4385852163?position=22&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=DX1lfMRQLbZEC0%2FcTVx17w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Data Science Analyst",
+        "company": "Further",
+        "location": "Cleveland, OH",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-science-analyst-at-further-4397345145?position=23&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=FGVTOYFLSI4MDlXCkHRC3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Growth Engineer",
+        "company": "11x",
+        "location": "San Francisco, CA",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/growth-engineer-at-11x-4405709098?position=25&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=sKQIK5KCXmkCeXiTjrMz0w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Member of Technical Staff - Research Software Engineer",
+        "company": "Reflection",
+        "location": "New York, NY",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-research-software-engineer-at-reflection-4383243667?position=26&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=KwmRpdElV9VUqvw%2Bl%2FvBng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Engineer, Core Services Platform",
+        "company": "Strava",
+        "location": "Denver, CO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-engineer-core-services-platform-at-strava-4404157472?position=27&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=0NWfPkR1dsQIGkk5pJZ2WQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
+        "company": "Databricks",
+        "location": "Raleigh, NC",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-communications-media-entertainment-games-at-databricks-4383047701?position=29&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=FZUz4KUBhR3KtHofWpKhyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "MLOps Engineer",
+        "company": "DPR Construction",
+        "location": "Raleigh, NC",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mlops-engineer-at-dpr-construction-4343849877?position=30&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=VHlZUD0inNV17ih9RTfH4A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
+        "company": "Databricks",
+        "location": "Los Angeles, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-communications-media-entertainment-games-at-databricks-4383044783?position=31&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=fSf%2BXIQm0bQ6OK3cSCCMhw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
+        "company": "Databricks",
+        "location": "Denver, CO",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-communications-media-entertainment-games-at-databricks-4383047704?position=32&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=5%2FgxWLY%2Bx3Q%2BCGB%2B0vnD5g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
+        "company": "Databricks",
+        "location": "Atlanta, GA",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-fde-public-sector-at-databricks-4397807078?position=33&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=551T8h510J3ngRwrohtLug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+        "company": "Databricks",
+        "location": "Atlanta, GA",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-fde-healthcare-life-sciences-at-databricks-4397592860?position=34&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=YxxDZPtZ6ImdaZrLqdzuOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
+        "company": "Databricks",
+        "location": "Dallas, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-communications-media-entertainment-games-at-databricks-4383060179?position=35&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=LTEOiDCKjJlETOH4byRBkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
+        "company": "Databricks",
+        "location": "Chicago, IL",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-fde-public-sector-at-databricks-4383046660?position=36&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=n5Z6PkHyYWzaSc7srkrKQw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer (FDE)- Manufacturing",
+        "company": "Databricks",
+        "location": "Boston, MA",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-fde-manufacturing-at-databricks-4397805165?position=37&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=1%2FN%2BXqZsh6KX%2BIHV%2Bug4Ww%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+        "company": "Databricks",
+        "location": "Seattle, WA",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-fde-manufacturing-at-databricks-4397804164?position=38&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=IEYPbrgF247HuksEKTBmwA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
+        "company": "Databricks",
+        "location": "Washington, DC",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-fde-public-sector-at-databricks-4397599401?position=39&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=XGEqvyzIOK8mab%2BDEbMB7A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
+        "company": "Databricks",
+        "location": "Seattle, WA",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-communications-media-entertainment-games-at-databricks-4383056307?position=40&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=YnomGBwZzrtf1XKstG7WWQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
+        "company": "Databricks",
+        "location": "Atlanta, GA",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-communications-media-entertainment-games-at-databricks-4383059184?position=41&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=69eCzUNJiO%2BRtQoI1NxqbQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Solutions Architect",
+        "company": "Databricks",
+        "location": "Pittsburgh, PA",
+        "date_posted": "57 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-databricks-4347596721?position=42&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=5%2FqWnwUL80Sbw1u6GMlePA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-06-28 11:23:04",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
+        "company": "Databricks",
         "location": "United States",
         "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-platforms-remote-at-hired-4434275525?position=2&pageNum=0&refId=DQzBbxK49UG5kqfI0j5IUg%3D%3D&trackingId=HFSM5LkoLjpn188HjiLXMg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-communications-media-entertainment-games-at-databricks-4352072102?position=43&pageNum=0&refId=GrPM4%2BUuNjUguLNCvdisZQ%3D%3D&trackingId=%2FMD28G9aYEmS2GKI%2BsQtlg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-06-28 09:30:50",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Empower",
-        "location": "United States",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-empower-4421564301?position=3&pageNum=0&refId=DQzBbxK49UG5kqfI0j5IUg%3D%3D&trackingId=a%2Bzh9FVaI1iSE9H3hV5wkw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-28 09:30:50",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Waystar",
-        "location": "Atlanta, GA",
-        "date_posted": "14 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-waystar-4397339471?position=4&pageNum=0&refId=DQzBbxK49UG5kqfI0j5IUg%3D%3D&trackingId=yBux3Q5Y6dgvBnME%2FVyZqA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-28 09:30:50",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer - Operations Improvement",
-        "company": "Micron Technology",
-        "location": "Boise, ID",
-        "date_posted": "24 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-operations-improvement-at-micron-technology-4415187577?position=5&pageNum=0&refId=DQzBbxK49UG5kqfI0j5IUg%3D%3D&trackingId=ZM7sCMI8zbPiQur8sBop9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-28 09:30:50",
-        "email_sent": false
-    },
-    {
-        "title": "Pharma & Clinical Trials \u2014 Visual Document Understanding (Train AI Models Part Time!)",
-        "company": "hackajob",
-        "location": "United States",
-        "date_posted": "4 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/pharma-clinical-trials-%E2%80%94-visual-document-understanding-train-ai-models-part-time%21-at-hackajob-4433495976?position=6&pageNum=0&refId=DQzBbxK49UG5kqfI0j5IUg%3D%3D&trackingId=CtMuHnnt9i8NtXfVxV53ZQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-28 09:30:50",
-        "email_sent": false
-    },
-    {
-        "title": "Field Engineer / Survey Party Chief",
-        "company": "Construction Solutions Group",
-        "location": "Brownsville, TX",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/field-engineer-survey-party-chief-at-construction-solutions-group-4311316396?position=7&pageNum=0&refId=DQzBbxK49UG5kqfI0j5IUg%3D%3D&trackingId=eZdJgtnIC7MCQVmxVjzWxg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-06-28 09:30:50",
+        "scraped_date": "2026-06-28 11:23:04",
         "email_sent": false
     }
 ]
