@@ -1,192 +1,82 @@
 [
     {
-        "title": "Software Engineer",
-        "company": "Nike",
-        "location": "Beaverton, OR",
+        "title": "Data Engineer",
+        "company": "Stellantis",
+        "location": "Auburn Hills, MI",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-stellantis-4436184274?position=1&pageNum=0&refId=y8tj5HoxAVvRT3Wwrx9rJQ%3D%3D&trackingId=4XhRq0Gr%2Bs8Lmb7m28HxJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-02 06:55:58",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - GTM & Analytics",
+        "company": "Jobgether",
+        "location": "United States",
         "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-nike-4436158594?position=1&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=HgmQ8n0UxoiXz5x9wmnipw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-gtm-analytics-at-jobgether-4435031855?position=4&pageNum=0&refId=y8tj5HoxAVvRT3Wwrx9rJQ%3D%3D&trackingId=xv7QJAaysiFj9hQCJvQnbg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
+        "scraped_date": "2026-07-02 06:55:58",
         "email_sent": false
     },
     {
-        "title": "Software Engineer (Supply Chain Systems)",
-        "company": "Sally Beauty",
-        "location": "Plano, TX",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-supply-chain-systems-at-sally-beauty-4436162428?position=2&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=gG0STg2i19mDPHb%2BDtSBzA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Enterprise Data & Analytics Analyst, Platform Engineering",
-        "company": "First Hawaiian Bank",
-        "location": "Honolulu, HI",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/enterprise-data-analytics-analyst-platform-engineering-at-first-hawaiian-bank-4436152639?position=3&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=l4f606dp4oFILzfYXeXdcg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "KLA",
-        "location": "Milpitas, CA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-kla-4432746111?position=4&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=fVPoRwfh0UXOCs%2BteJRx5A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Data Annotator",
-        "company": "Horizon Surgical Systems",
-        "location": "Los Angeles, CA",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-annotator-at-horizon-surgical-systems-4436153601?position=5&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=zvBL7qrPUSDWGvceaFRUcw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Development Engineer",
-        "company": "Experis",
-        "location": "Redmond, WA",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-experis-4435023650?position=6&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=%2BAIM6KAwqvznVNwBcCZxfw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Enrollment Data Analyst II",
-        "company": "Elevance Health",
-        "location": "Nashville, TN",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/enrollment-data-analyst-ii-at-elevance-health-4436166386?position=7&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=g2kvZceoi8O4NmGluopOTA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Embedded Linux Software Engineer",
-        "company": "Rajant Corporation",
-        "location": "Malvern, PA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/embedded-linux-software-engineer-at-rajant-corporation-4432728680?position=8&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=qe6kBz7UnKVHIkq34JIZcA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Product/Software Support Engineer- Level 1",
-        "company": "Lockheed Martin",
-        "location": "Fort Worth, TX",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/product-software-support-engineer-level-1-at-lockheed-martin-4436153712?position=10&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=7t7FoEAGXSOKBOtF724h1Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Engineer Software",
-        "company": "Palo Alto Networks",
-        "location": "Santa Clara, CA",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-engineer-software-at-palo-alto-networks-4432742168?position=11&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=UmVipYCbgzkoNpD2O%2FT0jQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Simulation & Modeling | Sensor Fusion",
-        "company": "Lockheed Martin",
-        "location": "Fort Worth, TX",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-simulation-modeling-sensor-fusion-at-lockheed-martin-4436154734?position=12&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=QDVzM%2FYh7i8cqn821BpswA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Security Software Engineer",
-        "company": "Anduril Industries",
-        "location": "Costa Mesa, CA",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/security-software-engineer-at-anduril-industries-4436164466?position=13&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=pgWPZGrPsJ80RPV7Pk9Pew%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Mission Software Engineer, EW",
-        "company": "Anduril Industries",
-        "location": "Costa Mesa, CA",
-        "date_posted": "2 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/mission-software-engineer-ew-at-anduril-industries-4436173016?position=14&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=xvqyjKO%2FTcO%2BdsYBF%2BnpoQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Cat Analyst Target",
-        "company": "The Hershey Company",
-        "location": "Minneapolis, MN",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/cat-analyst-target-at-the-hershey-company-4435016538?position=15&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=NvCIigLLAKZtpWR8ydTfcw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "National Field System Engineer - Dallas, TX",
-        "company": "bioM\u00e9rieux",
+        "title": "Oracle Database Engineer (Remote)",
+        "company": "GovCIO",
         "location": "United States",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/national-field-system-engineer-dallas-tx-at-biom%C3%A9rieux-4435033150?position=17&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=S6FOg4UPjcpxicvK9d8ZcQ%3D%3D",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/oracle-database-engineer-remote-at-govcio-4436194168?position=7&pageNum=0&refId=y8tj5HoxAVvRT3Wwrx9rJQ%3D%3D&trackingId=BTdvoxonow50i2ZvJMBlhg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
+        "scraped_date": "2026-07-02 06:55:58",
         "email_sent": false
     },
     {
-        "title": "Sales Engineer - NM",
-        "company": "Steel Dynamics, Inc",
-        "location": "Hope, AR",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sales-engineer-nm-at-steel-dynamics-inc-4435010855?position=18&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=8CPmu767o525SgXfj4%2F2lw%3D%3D",
+        "title": "Database Administrator - Azure SQL & Microsoft Dataverse",
+        "company": "McMillan Pazdan Smith Architecture",
+        "location": "Charlotte, NC",
+        "date_posted": "51 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-administrator-azure-sql-microsoft-dataverse-at-mcmillan-pazdan-smith-architecture-4371042616?position=8&pageNum=0&refId=y8tj5HoxAVvRT3Wwrx9rJQ%3D%3D&trackingId=TBV1S1RiXelTxgOs5hz5Sg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
+        "scraped_date": "2026-07-02 06:55:58",
         "email_sent": false
     },
     {
-        "title": "Analyst - Labor P&A and Continuous Improvement",
-        "company": "The Venetian Resort Las Vegas",
-        "location": "Las Vegas, NV",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-labor-p-a-and-continuous-improvement-at-the-venetian-resort-las-vegas-4432747084?position=19&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=CDLYHNGUvEwq81JS4wKlMg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Industrial Engineer Technician II (Mon-Fri. 8am-4:30pm)",
-        "company": "Jabil",
-        "location": "Grantsville, UT",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/industrial-engineer-technician-ii-mon-fri-8am-4-30pm-at-jabil-4435010857?position=20&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=yuUqa2bZ0b52pagRNZplJw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Analyst, Category Management",
-        "company": "Cardinal Health",
+        "title": "Backend Engineer",
+        "company": "AssetWatch\u00ae",
         "location": "United States",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-analyst-category-management-at-cardinal-health-4432726713?position=21&pageNum=0&refId=I%2BZ5tGunLmk9WqzOqZSHSQ%3D%3D&trackingId=ti%2FwEbq6xj0GP3MXQdgquQ%3D%3D",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-engineer-at-assetwatch%C2%AE-4435048189?position=9&pageNum=0&refId=y8tj5HoxAVvRT3Wwrx9rJQ%3D%3D&trackingId=UWQV29mav6JRDC4HDR0Owg%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-07-02 03:24:47",
+        "scraped_date": "2026-07-02 06:55:58",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Engineer",
+        "company": "Air Apps",
+        "location": "San Francisco, CA",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-engineer-at-air-apps-4432749429?position=10&pageNum=0&refId=y8tj5HoxAVvRT3Wwrx9rJQ%3D%3D&trackingId=DmdsdOl6YZzw6S3VD0AJMQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-02 06:55:58",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist II",
+        "company": "Horizon Media",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-ii-at-horizon-media-4411524082?position=11&pageNum=0&refId=y8tj5HoxAVvRT3Wwrx9rJQ%3D%3D&trackingId=GjJmwPwbsRtqXpd973a6EA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-02 06:55:58",
+        "email_sent": false
+    },
+    {
+        "title": "Supervisor of Data Management",
+        "company": "Love's Travel Stops",
+        "location": "Oklahoma City, OK",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/supervisor-of-data-management-at-love-s-travel-stops-4432755402?position=12&pageNum=0&refId=y8tj5HoxAVvRT3Wwrx9rJQ%3D%3D&trackingId=2Dtu%2Fv%2B6sIfM2awiIeE%2ByA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-02 06:55:58",
         "email_sent": false
     }
 ]
