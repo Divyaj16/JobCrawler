@@ -1,232 +1,162 @@
 [
     {
-        "title": "Data Analyst",
-        "company": "Community Health Center of Snohomish County (CHC)",
-        "location": "Everett, WA",
-        "date_posted": "13 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-community-health-center-of-snohomish-county-chc-4442196842?position=1&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=SNQdeoEG5cZPIL94r7LdDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Systems Software Engineer, Accelerated Kubernetes Performance and Scale - New College Grad 2026",
-        "company": "NVIDIA",
-        "location": "Seattle, WA",
-        "date_posted": "56 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/systems-software-engineer-accelerated-kubernetes-performance-and-scale-new-college-grad-2026-at-nvidia-4441376218?position=2&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=Gv8yjMvzDp8BqdiVsnZA5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Systems Software Engineer, Accelerated Kubernetes Performance and Scale - New College Grad 2026",
-        "company": "NVIDIA",
-        "location": "Santa Clara, CA",
-        "date_posted": "56 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/systems-software-engineer-accelerated-kubernetes-performance-and-scale-new-college-grad-2026-at-nvidia-4441374492?position=3&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=w%2BvhE9Op9UtLCqEPtmXGUg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "R&D Software Engineer \u2014 AI/ML Mission Solutions",
-        "company": "Rackner",
-        "location": "United States",
-        "date_posted": "55 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/r-d-software-engineer-%E2%80%94-ai-ml-mission-solutions-at-rackner-4422642467?position=4&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=FcSawtEo8DZS813qFNgAyA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Forward Deployed Engineer",
-        "company": "It\u00f4",
-        "location": "New York City Metropolitan Area",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-it%C3%B4-4442199626?position=5&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=EMCOa1Pl4WrsOZCLwqQ%2FDQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Harvard, MA",
-        "company": "V2X Inc",
-        "location": "Boston, MA",
-        "date_posted": "29 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-harvard-ma-at-v2x-inc-4441379447?position=6&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=S6SHM6%2BsEOW1EHBO%2BLmCsg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "AI Automation Specialist",
-        "company": "Propark Mobility",
-        "location": "Hartford, CT",
-        "date_posted": "57 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-automation-specialist-at-propark-mobility-4442407058?position=7&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=i3%2FoJ89T35U%2FlxQEfHoKHw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Data Analyst",
-        "company": "Montefiore Health System",
-        "location": "Bronx, NY",
-        "date_posted": "36 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-montefiore-health-system-4442403452?position=8&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=0RcAmItNZiKxcU%2F4X5ZnXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Full Stack + AI",
-        "company": "Calvis",
-        "location": "Austin, TX",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-%2B-ai-at-calvis-4442406123?position=9&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=JDidfIYSe4gVfSvTtc9AQQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Full Stack + AI",
-        "company": "Calvis",
-        "location": "San Francisco Bay Area",
-        "date_posted": "44 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-%2B-ai-at-calvis-4442192593?position=10&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=rRZqqF0WJEIBWwiGXgR07g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer, Full Stack + AI",
-        "company": "Calvis",
-        "location": "New York, NY",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-%2B-ai-at-calvis-4442406142?position=11&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=y1aGFRA8DMBeeXkvsqguLA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Sierra Nevada Corporation",
-        "location": "Lone Tree, CO",
-        "date_posted": "26 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-sierra-nevada-corporation-4439280485?position=12&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=O5z62fU9CH5gIFMzGB81cw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "CRM Analyst, Strategy & Analytics",
-        "company": "Phoenix Suns",
-        "location": "Phoenix, AZ",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/crm-analyst-strategy-analytics-at-phoenix-suns-4442411195?position=13&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=n6EcHL3jwez5xhMydtgnvg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Honeywell Aerospace",
-        "location": "Phoenix, AZ",
-        "date_posted": "51 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-honeywell-aerospace-4442403224?position=14&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=m49e81Q3DRWRk0OnKM4tyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Data Centre Service Delivery Field Support Engineer (L2)",
-        "company": "NTT DATA, Inc.",
-        "location": "Ashburn, VA",
-        "date_posted": "49 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-centre-service-delivery-field-support-engineer-l2-at-ntt-data-inc-4439267898?position=15&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=bdj1cLSASCfgfvCeLzNh9w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Global Markets Internal Audit Data Scientist",
-        "company": "Nomura",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/global-markets-internal-audit-data-scientist-at-nomura-4439281392?position=16&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=i1VWgL%2FRIscZDvQrIlB%2F4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Sr. Business Analyst II - Advanced Analytics",
-        "company": "Pacific Life",
-        "location": "Newport Beach, CA",
-        "date_posted": "50 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-business-analyst-ii-advanced-analytics-at-pacific-life-4442199379?position=17&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=69OltAlTlis0ejroEOhjwA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Network Security System Engineer",
-        "company": "Sanford Health",
-        "location": "Sioux Falls, SD",
-        "date_posted": "42 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/network-security-system-engineer-at-sanford-health-4442402413?position=18&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=Ywz1p7zlvkwuLQHdah6m9g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Network Security System Engineer",
-        "company": "Sanford Health",
-        "location": "Marshfield, WI",
-        "date_posted": "41 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/network-security-system-engineer-at-sanford-health-4442190819?position=19&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=V4DCH37agNgeDhBG7jbM0w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Network Security System Engineer",
-        "company": "Sanford Health",
-        "location": "Bismarck, ND",
-        "date_posted": "39 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/network-security-system-engineer-at-sanford-health-4442195586?position=20&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=%2F%2BCsF7XZNgl07xtwX8aB%2FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Distribution Engineer",
-        "company": "Leidos",
-        "location": "Houston, TX",
-        "date_posted": "18 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/distribution-engineer-at-leidos-4442198700?position=21&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=oK9MuqPnl0kyCcYvFKrQBA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Process Engineer Boards",
-        "company": "Kronospan",
-        "location": "Anniston, AL",
-        "date_posted": "43 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/process-engineer-boards-at-kronospan-4441389088?position=22&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=it%2BvHoauBUS7xd0XK8KLpg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
-        "email_sent": false
-    },
-    {
-        "title": "Loss Control Consultant - Construction",
-        "company": "Starr",
-        "location": "Dallas, TX",
+        "title": "Sr. Data Engineer - Cloud & AI Platform",
+        "company": "Regions Bank",
+        "location": "Birmingham, AL",
         "date_posted": "10 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/loss-control-consultant-construction-at-starr-4442196835?position=23&pageNum=0&refId=Ojs2WdlaMhJgFdfmJBv1MA%3D%3D&trackingId=Yvk8tko7QqZYNdIO5QY3Mw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-cloud-ai-platform-at-regions-bank-4442423644?position=2&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=YgRQQCMuYnfLOC5MhrBGKQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-07-18 01:05:24",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Data Engineer - Cloud & AI Platform",
+        "company": "Regions Bank",
+        "location": "Atlanta, GA",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-cloud-ai-platform-at-regions-bank-4442429371?position=5&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=K51f%2BBcXeRLMdAC4Y2etgQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "AI Engineer",
+        "company": "Mercedes-Benz Vans, LLC (Charleston, SC)",
+        "location": "Charleston, SC",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-mercedes-benz-vans-llc-charleston-sc-4430119664?position=6&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=06qpJiE2mUn8GndQ6ynWhA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "Sr ETL Developer",
+        "company": "Golden 1 Credit Union",
+        "location": "Sacramento, CA",
+        "date_posted": "Just now",
+        "url": "https://www.linkedin.com/jobs/view/sr-etl-developer-at-golden-1-credit-union-4442435126?position=7&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=rYBcWjOT17j7r1k8ft%2BB1g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Database Engineer",
+        "company": "PayPal",
+        "location": "San Jose, CA",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-database-engineer-at-paypal-4442413736?position=8&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=MFnWqZc%2B9Swm0Ym3xOGoIg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "PayPal",
+        "location": "San Jose, CA",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-paypal-4442432066?position=9&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=bXpT5FacUOalxETISuxIQg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst (MLOps & Advanced Analytics)",
+        "company": "Voya Financial",
+        "location": "Hartford, CT",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-mlops-advanced-analytics-at-voya-financial-4442410993?position=10&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=vAbdBl83mZxePHAOJw%2FBfA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Machine Learning Engineer",
+        "company": "Bumble Inc.",
+        "location": "Austin, TX",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-machine-learning-engineer-at-bumble-inc-4441705280?position=11&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=kUheeG92qJ7kQbhWvFe%2BJA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "SQL Database Administrator",
+        "company": "MANTECH",
+        "location": "Crane, IN",
+        "date_posted": "Just now",
+        "url": "https://www.linkedin.com/jobs/view/sql-database-administrator-at-mantech-4439602179?position=14&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=vFDybrQ18B4BTLnBeUBM8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "Service Delivery Technician - Performance Hub (Data)",
+        "company": "KPMG US",
+        "location": "Orlando, FL",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/service-delivery-technician-performance-hub-data-at-kpmg-us-4437941822?position=16&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=jxZ1XY6%2FENEMMw0cEF09Jg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 2, Autonomous Lab\nBoston, Massachusetts",
+        "company": "Ginkgo Inc",
+        "location": "Boston, MA",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-2-autonomous-lab%0Aboston-massachusetts-at-ginkgo-inc-4442424443?position=17&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=1UcXVGTvSxZo0r87FlpZOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Data Engineer - Cloud & AI Platform",
+        "company": "Regions Bank",
+        "location": "Charlotte, NC",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-cloud-ai-platform-at-regions-bank-4442414948?position=19&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=6KzNH7o%2B2oj2Q%2BKPzkyIgQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "Onshore - Sr Engg_CurationSup",
+        "company": "Fractal",
+        "location": "California, United States",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/onshore-sr-engg-curationsup-at-fractal-4441389859?position=20&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=aCeUK%2Bv3wYk1hUVvazh6WQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Analyst, Data Analytics",
+        "company": "PayPal",
+        "location": "San Jose, CA",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-analyst-data-analytics-at-paypal-4442419477?position=24&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=VwQY%2BBGArIG6ZjOCgcFpIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Software Engineer",
+        "company": "PayPal",
+        "location": "New York, NY",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-at-paypal-4442412812?position=25&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=9MiXphOZ8f2w5fQfGsLHzw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
+        "email_sent": false
+    },
+    {
+        "title": "Production Support Manager -DigiOps",
+        "company": "Fractal",
+        "location": "California, United States",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/production-support-manager-digiops-at-fractal-4441706129?position=27&pageNum=0&refId=8WvKVk1mLzJyWZfuVGs5eg%3D%3D&trackingId=BpLHqcWSSX9rE2Ho3vTXkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-07-18 04:12:52",
         "email_sent": false
     }
 ]
