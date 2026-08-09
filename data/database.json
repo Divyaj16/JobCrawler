@@ -1,102 +1,62 @@
 [
     {
-        "title": "Data Engineer - Director",
-        "company": "Morgan Stanley",
+        "title": "Data Analyst | AWS Cloud | PostgreSQL",
+        "company": "Capgemini",
         "location": "New York, NY",
-        "date_posted": "17 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-director-at-morgan-stanley-4438913317?position=1&pageNum=0&refId=%2FJ2uq5KkZERH7Q3qTjAovg%3D%3D&trackingId=iAjDRnx2FJxLqraueHHwbA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-08 23:35:05",
-        "email_sent": false
-    },
-    {
-        "title": "Data Developer",
-        "company": "SafelyYou",
-        "location": "Canada, NC",
-        "date_posted": "37 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-developer-at-safelyyou-4449263708?position=2&pageNum=0&refId=%2FJ2uq5KkZERH7Q3qTjAovg%3D%3D&trackingId=dJZnkJjYoJPctZE4L0IABQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-08 23:35:05",
-        "email_sent": false
-    },
-    {
-        "title": "Test & Analytics Engineer",
-        "company": "Stord",
-        "location": "Atlanta, GA",
         "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/test-analytics-engineer-at-stord-4447219032?position=3&pageNum=0&refId=%2FJ2uq5KkZERH7Q3qTjAovg%3D%3D&trackingId=B8O3X77wL0zKJ4h%2F1WwNQg%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-aws-cloud-postgresql-at-capgemini-4450937030?position=1&pageNum=0&refId=X%2BkC4YsUG%2FvCW6jZjd2qyQ%3D%3D&trackingId=7v1stSf%2FwYXq2zxBMcRtNw%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-08-08 23:35:05",
+        "scraped_date": "2026-08-09 02:22:25",
         "email_sent": false
     },
     {
-        "title": "GenAI Engineer",
-        "company": "Infosys",
-        "location": "Charlotte, NC",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/genai-engineer-at-infosys-4449278055?position=4&pageNum=0&refId=%2FJ2uq5KkZERH7Q3qTjAovg%3D%3D&trackingId=%2Fp8Hp5RjCbMofK8WlILL8A%3D%3D",
+        "title": "Cloud Architect",
+        "company": "Precodata",
+        "location": "Indiana, United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/cloud-architect-at-precodata-4451321315?position=2&pageNum=0&refId=X%2BkC4YsUG%2FvCW6jZjd2qyQ%3D%3D&trackingId=JC7cIDZ1o2mb2aRAXQE35w%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-08-08 23:35:05",
+        "scraped_date": "2026-08-09 02:22:25",
         "email_sent": false
     },
     {
-        "title": "AWS Platform Engineer",
-        "company": "Stefanini Group",
+        "title": "Big Data Architect",
+        "company": "Precodata",
+        "location": "City of Washington County, DC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/big-data-architect-at-precodata-4451317460?position=3&pageNum=0&refId=X%2BkC4YsUG%2FvCW6jZjd2qyQ%3D%3D&trackingId=1%2BgmN1bqWKAkAXU437q2LA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-09 02:22:25",
+        "email_sent": false
+    },
+    {
+        "title": "Founding Product Engineer",
+        "company": "GizmoData",
+        "location": "North Port, FL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/founding-product-engineer-at-gizmodata-4450929541?position=5&pageNum=0&refId=X%2BkC4YsUG%2FvCW6jZjd2qyQ%3D%3D&trackingId=%2FOvgfomVIq3FWikY%2F3wbyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-09 02:22:25",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Engineer - Experimentation Platform",
+        "company": "Forerunner",
         "location": "San Francisco, CA",
-        "date_posted": "20 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/aws-platform-engineer-at-stefanini-group-4451303516?position=5&pageNum=0&refId=%2FJ2uq5KkZERH7Q3qTjAovg%3D%3D&trackingId=btzhmpuvkDvjUzIHQ%2BwmZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-08 23:35:05",
-        "email_sent": false
-    },
-    {
-        "title": "Audio AI Engineer",
-        "company": "Gainrep",
-        "location": "Reston, VA",
-        "date_posted": "45 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/audio-ai-engineer-at-gainrep-4451314093?position=6&pageNum=0&refId=%2FJ2uq5KkZERH7Q3qTjAovg%3D%3D&trackingId=z8Asz%2BZVtSELUgYUZGG2uQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-08 23:35:05",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "CareerZen",
-        "location": "San Francisco, CA",
-        "date_posted": "16 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-careerzen-4451098919?position=7&pageNum=0&refId=%2FJ2uq5KkZERH7Q3qTjAovg%3D%3D&trackingId=%2F%2Fk3frbyy0mLeFyY2tTYNw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-08 23:35:05",
-        "email_sent": false
-    },
-    {
-        "title": "Sr. Analyst Master Data Governance",
-        "company": "HP Hood LLC",
-        "location": "Lynnfield, MA",
-        "date_posted": "53 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-analyst-master-data-governance-at-hp-hood-llc-4436634324?position=8&pageNum=0&refId=%2FJ2uq5KkZERH7Q3qTjAovg%3D%3D&trackingId=sVrJ%2BYi4Rn6h%2FSMXj7qj%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-08 23:35:05",
-        "email_sent": false
-    },
-    {
-        "title": "GenAI Engineer",
-        "company": "Infosys",
-        "location": "Charlotte, NC",
         "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/genai-engineer-at-infosys-4449272550?position=9&pageNum=0&refId=%2FJ2uq5KkZERH7Q3qTjAovg%3D%3D&trackingId=oW%2BaXIWmFHDa9H49866d%2Bw%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/staff-engineer-experimentation-platform-at-forerunner-4451306814?position=6&pageNum=0&refId=X%2BkC4YsUG%2FvCW6jZjd2qyQ%3D%3D&trackingId=RxJ2aTX5p56OFWXZA5NJoQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-08-08 23:35:05",
+        "scraped_date": "2026-08-09 02:22:25",
         "email_sent": false
     },
     {
-        "title": "GenAI Engineer",
-        "company": "Infosys",
-        "location": "Charlotte, NC",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/genai-engineer-at-infosys-4449268694?position=10&pageNum=0&refId=%2FJ2uq5KkZERH7Q3qTjAovg%3D%3D&trackingId=CKYTAHIcwhvqUgPsFfZZng%3D%3D",
+        "title": "AI +ML+  Tableau+ Sql",
+        "company": "ZealTech",
+        "location": "Fremont, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-%2Bml%2B-tableau%2B-sql-at-zealtech-4450368283?position=7&pageNum=0&refId=X%2BkC4YsUG%2FvCW6jZjd2qyQ%3D%3D&trackingId=i95QNG0TzYPgOkDKlC4KsQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-08-08 23:35:05",
+        "scraped_date": "2026-08-09 02:22:25",
         "email_sent": false
     }
 ]
