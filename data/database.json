@@ -328,5 +328,335 @@
         "source": "LinkedIn",
         "scraped_date": "2026-08-15 17:34:13",
         "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Air Apps",
+        "location": "San Francisco, CA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-air-apps-4452446345?position=1&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=m8%2Fqsceb5UwVSD4Ga24pbg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Evlo AI",
+        "location": "Atlanta, GA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-evlo-ai-4453946044?position=2&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=SRaEgO%2B1u4wJrBzcq8lGow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Data & Model Operations Engineer",
+        "company": "Credigy",
+        "location": "Norcross, GA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-model-operations-engineer-at-credigy-4425837910?position=4&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=I%2Bg%2BKyL9oypB0zXh4RYuUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II - Data Engineer",
+        "company": "BAE Systems, Inc.",
+        "location": "Nashua, NH",
+        "date_posted": "41 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-data-engineer-at-bae-systems-inc-4423178437?position=5&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=0kcVBGnGfoI7IsICuaSjsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Durability Data Analytics Principal Engineer P4 (Onsite)",
+        "company": "Pratt & Whitney",
+        "location": "East Hartford, CT",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/durability-data-analytics-principal-engineer-p4-onsite-at-pratt-whitney-4436492868?position=7&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=tuOqkJ9YQGv5wF7Gtgq6gg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Engineer - Vice President",
+        "company": "Citi",
+        "location": "Jersey City, NJ",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-engineer-vice-president-at-citi-4426957043?position=8&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=vXQw5zyRAc%2BdqHKBJZS1Xg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Data Architecture & Engineering - Manager - Financial Services - Consulting - NYC",
+        "company": "EY",
+        "location": "Dallas, TX",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-architecture-engineering-manager-financial-services-consulting-nyc-at-ey-4441834631?position=11&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=5G1STqMw1N54eHcDlnq%2BJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst at SRI Tech",
+        "company": "Direct-Calls.com",
+        "location": "Beaverton, OR",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-sri-tech-at-direct-calls-com-4455123780?position=12&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=C01Jl1khn8TxUU1mRGklMw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Head of Enterprise Applications & Data Engineering",
+        "company": "Tate",
+        "location": "Columbia, MD",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/head-of-enterprise-applications-data-engineering-at-tate-4436360288?position=15&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=iRG1k17IR8lU5HbpXVRWfg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Engineer",
+        "company": "Evlo AI",
+        "location": "San Diego, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-engineer-at-evlo-ai-4453939045?position=18&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=JSw%2FuDi5aCjYB2hy5ZipuA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Data Analyst - Supply Chain",
+        "company": "The Home Depot",
+        "location": "Atlanta, GA",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-analyst-supply-chain-at-the-home-depot-4453953063?position=19&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=JD3RWXoSF%2Bn%2F4P0hT%2FBZuQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Data Governance Analyst",
+        "company": "Marmon Foodservice Technologies",
+        "location": "Carol Stream, IL",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-governance-analyst-at-marmon-foodservice-technologies-4432331491?position=20&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=6NPg7L2yv8Lo6gxBNbyfrg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Operations Data Analyst",
+        "company": "Thales Defense & Security, Inc.",
+        "location": "Clarksburg, MD",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/operations-data-analyst-at-thales-defense-security-inc-4444613559?position=21&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=fmkOY%2BaRiuzObyrxRTznmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "R&D Data Architect",
+        "company": "CSL",
+        "location": "Waltham, MA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/r-d-data-architect-at-csl-4455115768?position=24&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=4eWdqJSRgsAGCmOOb4SBkQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Compliance, Machine Learning Engineer, Dallas, Vice President",
+        "company": "Goldman Sachs",
+        "location": "Dallas, TX",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/compliance-machine-learning-engineer-dallas-vice-president-at-goldman-sachs-4407021875?position=26&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=Elli1zgxbPmvERHEgAl6VA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Game Security Data Scientist",
+        "company": "KRAFTON Inc.",
+        "location": "El Segundo, CA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/game-security-data-scientist-at-krafton-inc-4445242121?position=27&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=%2FaXgQ8WPnXrZXIrP5r9MjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Entry-Level Data Engineer - Paid Training & Relocation Support at Genesis10",
+        "company": "Direct-Calls.com",
+        "location": "Charlotte, NC",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/entry-level-data-engineer-paid-training-relocation-support-at-genesis10-at-direct-calls-com-4455130714?position=28&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=F%2Fuc%2Ff9hEBbV46rUL9ZFUA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Vice President (Identity) , Engineering",
+        "company": "Zeta Global",
+        "location": "Dallas, TX",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/vice-president-identity-engineering-at-zeta-global-4416192948?position=29&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=PsxjSr7WASNy%2FUAQe%2BXRLA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Manager, Data Enablement (MCI)",
+        "company": "Publicis Health Media",
+        "location": "New York, NY",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/manager-data-enablement-mci-at-publicis-health-media-4426099623?position=30&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=j7i2kf8RpIYdHZxX1ov83A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Data Analyst/Content Manager- Ft Shafter, HI",
+        "company": "BAE Systems, Inc.",
+        "location": "Honolulu, HI",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-analyst-content-manager-ft-shafter-hi-at-bae-systems-inc-4406400304?position=32&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=KAvURM%2FDXaRRqY%2B4nPwEsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Enterprise Solutions Architect - World Financial Group",
+        "company": "Aegon",
+        "location": "United States",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/enterprise-solutions-architect-world-financial-group-at-aegon-4349578821?position=33&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=fUs6%2BB99Qp4MqksMRaNoqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Client Integration Engineer",
+        "company": "Publicis Digital Experience",
+        "location": "West Chicago, IL",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/client-integration-engineer-at-publicis-digital-experience-4427224478?position=34&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=TQ6mkiIzzBHSBqDV4V0qxg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Engineering Technician",
+        "company": "Sentinel Peak Resources",
+        "location": "Bakersfield, CA",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineering-technician-at-sentinel-peak-resources-4423696242?position=37&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=7h4SuLcTJxqXwizbFwF7Ow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Azure Cloud Engineer",
+        "company": "National Indemnity Company",
+        "location": "Omaha, NE",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/azure-cloud-engineer-at-national-indemnity-company-4306845675?position=38&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=c%2BtlI8bLKD%2FXNbeMdYpjKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI Agent Platforms",
+        "company": "Workato",
+        "location": "San Francisco, CA",
+        "date_posted": "18 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-agent-platforms-at-workato-4455120742?position=40&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=j9XJLXMPzFmW3f2iagTBOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Evlo AI",
+        "location": "Washington, DC",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-evlo-ai-4453938046?position=42&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=T4wUAUuqEkBUcZqvh%2B2Zhg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Evlo AI",
+        "location": "San Diego, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-evlo-ai-4453939039?position=43&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=ATer5IR552G1tYMTGsEm0g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Evlo AI",
+        "location": "Minneapolis, MN",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-evlo-ai-4453939041?position=44&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=PABkdEsJev7Dj9a6ene9OQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Engineer",
+        "company": "Evlo AI",
+        "location": "Atlanta, GA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-engineer-at-evlo-ai-4453939042?position=45&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=QdQVpNnds4R5y%2B%2Bd2AsqzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "EDA Workflow Optimization Engineer",
+        "company": "NVIDIA",
+        "location": "Austin, TX",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/eda-workflow-optimization-engineer-at-nvidia-4395485277?position=46&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=tugkUiHCmISig9n9To7A8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "C++ Trading & Simulator Engineer (USA)",
+        "company": "Trexquant Investment LP",
+        "location": "Stamford, CT",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/c%2B%2B-trading-simulator-engineer-usa-at-trexquant-investment-lp-4406568943?position=47&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=YrIC4sK7EgDHTcFe%2BdeZbg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Evlo AI",
+        "location": "Chicago, IL",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-evlo-ai-4453957036?position=48&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=CmNNUYrdOCR5R%2F%2Br7N46KQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
+    },
+    {
+        "title": "Business Analyst",
+        "company": "Evlo AI",
+        "location": "Phoenix, AZ",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/business-analyst-at-evlo-ai-4453935068?position=50&pageNum=0&refId=sDPts3Vm%2B2Mvm3zV9eWR1w%3D%3D&trackingId=xpCNg4iDkp9kI%2FD9iYEm2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 17:55:28",
+        "email_sent": false
     }
 ]
