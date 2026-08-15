@@ -1,45 +1,5 @@
 [
     {
-        "title": "Technical Solutions Engineer",
-        "company": "Clark Pacific",
-        "location": "West Sacramento, CA",
-        "date_posted": "22 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/technical-solutions-engineer-at-clark-pacific-4455137325?position=2&pageNum=0&refId=9oqz8pJrDa1y4XHiic8KBg%3D%3D&trackingId=6GCeHKs10m6ieWQDOpqOhQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 22:19:53",
-        "email_sent": false
-    },
-    {
-        "title": "Data Manager",
-        "company": "ANR Business Consulting",
-        "location": "New York, NY",
-        "date_posted": "30 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-manager-at-anr-business-consulting-4453955319?position=3&pageNum=0&refId=9oqz8pJrDa1y4XHiic8KBg%3D%3D&trackingId=Tw%2FHwXlLFP7kIGUSTp%2BwEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 22:19:53",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Data Governance",
-        "company": "Advance Local",
-        "location": "Jersey City, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-data-governance-at-advance-local-4455151195?position=4&pageNum=0&refId=9oqz8pJrDa1y4XHiic8KBg%3D%3D&trackingId=p39x6BZemQy4kK4irC7z4A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 22:19:53",
-        "email_sent": false
-    },
-    {
-        "title": "Enterprise Architect",
-        "company": "Colas USA",
-        "location": "Denver, CO",
-        "date_posted": "33 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/enterprise-architect-at-colas-usa-4451734831?position=6&pageNum=0&refId=9oqz8pJrDa1y4XHiic8KBg%3D%3D&trackingId=I7rDNu8P%2FKMyKZQ1s91daQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-15 22:19:53",
-        "email_sent": false
-    },
-    {
         "title": "Data Scientist",
         "company": "Inspire",
         "location": "Atlanta, GA",
@@ -47,6 +7,76 @@
         "url": "https://www.linkedin.com/jobs/view/data-scientist-at-inspire-4451731818?position=5&pageNum=0&refId=blBACXeiQtWfPKLAcP4IdQ%3D%3D&trackingId=yH4%2BUzX5UzEgZBy%2FYQakAA%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-08-15 22:44:38",
+        "email_sent": false
+    },
+    {
+        "title": "Databricks Data Engineer",
+        "company": "Infosys",
+        "location": "Richardson, TX",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/databricks-data-engineer-at-infosys-4451732916?position=1&pageNum=0&refId=sD1nyJbUIHGZXxrFkEi78A%3D%3D&trackingId=6gGylP9ke6mOBcFnXS8XSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 23:33:01",
+        "email_sent": false
+    },
+    {
+        "title": "Databricks Data Engineer",
+        "company": "Infosys",
+        "location": "Hartford, CT",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/databricks-data-engineer-at-infosys-4451729854?position=2&pageNum=0&refId=sD1nyJbUIHGZXxrFkEi78A%3D%3D&trackingId=ej7n4b4XgCi0911zFP%2Fjcg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 23:33:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II",
+        "company": "Sundayy",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-sundayy-4454892746?position=3&pageNum=0&refId=sD1nyJbUIHGZXxrFkEi78A%3D%3D&trackingId=gqTS6RcXa3Nc6UzjlQvdIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 23:33:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer - Remote",
+        "company": "Sundayy",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-remote-at-sundayy-4454895667?position=4&pageNum=0&refId=sD1nyJbUIHGZXxrFkEi78A%3D%3D&trackingId=YtQA24Ktj8DNQ9KfW0pf6g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 23:33:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst",
+        "company": "Galapagos Federal Systems",
+        "location": "Washington, DC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-at-galapagos-federal-systems-4453948367?position=7&pageNum=0&refId=sD1nyJbUIHGZXxrFkEi78A%3D%3D&trackingId=p0Rckbs2DS89ttR4KMYqSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 23:33:01",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Sundayy",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-sundayy-4454899612?position=8&pageNum=0&refId=sD1nyJbUIHGZXxrFkEi78A%3D%3D&trackingId=Nh9uui0rMhEGYaKe26pixg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 23:33:01",
+        "email_sent": false
+    },
+    {
+        "title": "Gen/Agentic AI Engineer",
+        "company": "Infosys",
+        "location": "Irving, TX",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/gen-agentic-ai-engineer-at-infosys-4451746923?position=9&pageNum=0&refId=sD1nyJbUIHGZXxrFkEi78A%3D%3D&trackingId=R8CVAkTI7KBVHDB8Cueaaw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-15 23:33:01",
         "email_sent": false
     }
 ]
