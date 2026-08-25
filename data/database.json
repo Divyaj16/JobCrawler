@@ -1,365 +1,5 @@
 [
     {
-        "title": "Data Engineer",
-        "company": "CGI",
-        "location": "Pittsburgh, PA",
-        "date_posted": "56 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-cgi-4458597038?position=1&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=JqkkC%2F8xr3SgvqsQ9m9wfQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "DATA SCIENTIST",
-        "company": "Santee Cooper",
-        "location": "Moncks Corner, SC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-santee-cooper-4443431208?position=3&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=B871oMSVlyq0cr%2FpbgGF7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "GardaWorld",
-        "location": "St Louis, MO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-gardaworld-4458567134?position=4&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=Rn3%2F0PMLZLa7A%2BDao5NTaQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Engineer II \u2014 Data Engineering",
-        "company": "Toyota North America",
-        "location": "Plano, TX",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-engineer-ii-%E2%80%94-data-engineering-at-toyota-north-america-4457403813?position=5&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=uOWEZiASRVQlYTHtkoIB0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer - Core Systems",
-        "company": "Epsilon Health",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-core-systems-at-epsilon-health-4456555313?position=7&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=TgKZ5bEKBNon3G%2BwZAqgrA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data & AI Engineering (2027 Grads)",
-        "company": "Procter & Gamble",
-        "location": "Cincinnati, OH",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-ai-engineering-2027-grads-at-procter-gamble-4456547381?position=8&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=RClqHRBwg%2BZTqHAVas3i2g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Oracle Database Design DBA and MongoDB App Support- Data Engineer",
-        "company": "PNC",
-        "location": "Pittsburgh, PA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/oracle-database-design-dba-and-mongodb-app-support-data-engineer-at-pnc-4458576051?position=9&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=LSWikKUDCHE7QXbjNvj1zA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Business Intelligence Engineer II",
-        "company": "Kafene",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/business-intelligence-engineer-ii-at-kafene-4456556299?position=10&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=2YgWbl9OVMA7mxRyWabeBg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Database Developer",
-        "company": "Inadev",
-        "location": "Reston, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-database-developer-at-inadev-4458561280?position=11&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=OIH0BRodvk2WmS%2FsKXTRiw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "812086 Software Engineer $90,000.00",
-        "company": "B4Corp",
-        "location": "Bethesda, MD",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/812086-software-engineer-%2490-000-00-at-b4corp-4456567350?position=12&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=P7c2H6zB30u1udh4nDyaNA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Visualization Engineer",
-        "company": "Booz Allen Hamilton",
-        "location": "Monterey, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-visualization-engineer-at-booz-allen-hamilton-4458571121?position=13&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=swFIXivXAlFlA196Mj%2Fp8A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Data & AI Architect (Forward-Deployed)",
-        "company": "Cognizant",
-        "location": "Plano, TX",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-data-ai-architect-forward-deployed-at-cognizant-4457196883?position=14&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=Hc6CDJRqoTs0MCk5tdPa7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Site Reliability Engineer - Data Science & Analytics in Bank Operations",
-        "company": "PNC",
-        "location": "Phoenix, AZ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/site-reliability-engineer-data-science-analytics-in-bank-operations-at-pnc-4458582042?position=17&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=1OEDEd0oELcYT2Rq6EMjWQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "MySQL Database Administrator",
-        "company": "impact.com",
-        "location": "Columbus, OH",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/mysql-database-administrator-at-impact-com-4453800024?position=18&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=Mva9dQ7Ijv8YvUd1Wjch1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Processor / Excel, SQL / Stoughton, MA",
-        "company": "Motion Recruitment",
-        "location": "Stoughton, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-processor-excel-sql-stoughton-ma-at-motion-recruitment-4458567261?position=20&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=0rpzle25LLrVm8%2FxXeia1w%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Systems and Data Analyst",
-        "company": "Vancouver Housing Authority",
-        "location": "Vancouver, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/systems-and-data-analyst-at-vancouver-housing-authority-4458579001?position=22&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=wxsNEU8YSwyV8p9WfOwWZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Applied Intelligence Engineer",
-        "company": "Helios",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/applied-intelligence-engineer-at-helios-4456551366?position=23&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=HDLZGLOFKmumMPq9giUTbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Pinnacle Government Solutions",
-        "location": "Springfield, VA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-pinnacle-government-solutions-4458584112?position=24&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=8lvoPIzPxuQ66DKakjUPCg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Business System Consultant",
-        "company": "Cognizant",
-        "location": "Chicago, IL",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/business-system-consultant-at-cognizant-4457415186?position=25&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=a53QEYk8ugMVF85zFclppA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist, Next Gen Recommendation Systems",
-        "company": "impact.com",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-next-gen-recommendation-systems-at-impact-com-4405164991?position=26&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=DC4yp4alfpzJqloysUtvzQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Data Analyst",
-        "company": "SmithRx",
-        "location": "Austin, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-data-analyst-at-smithrx-4458566259?position=27&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=XSGav31vc1BrQB9QY3lefw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Data Analyst",
-        "company": "SmithRx",
-        "location": "Seattle, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-data-analyst-at-smithrx-4458552507?position=28&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=W6nfD5P3qoww%2FybapZkMIQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Expert Sierra Aderant Report - Database Developer",
-        "company": "Brxio Inc",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/expert-sierra-aderant-report-database-developer-at-brxio-inc-4457404686?position=29&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=UKdNXmTeubpb5brr%2Bg77ig%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Technology Operational Effectiveness Analyst",
-        "company": "Verition",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/technology-operational-effectiveness-analyst-at-verition-4458555382?position=30&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=IpL%2BHmZwg4%2FpoLIPqgfBXQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Governance Professional",
-        "company": "Credit One Bank",
-        "location": "Las Vegas, NV",
-        "date_posted": "57 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/data-governance-professional-at-credit-one-bank-4458587145?position=31&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=CtZTvqnL8te%2B5BASiaR4CA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Launch Operations Specialist",
-        "company": "Miter",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/launch-operations-specialist-at-miter-4456544336?position=32&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=e49TVtGWwLkHVA0X3xwr9A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "PostgreSQL Database Administrator (DBA)",
-        "company": "Alrek Business Solutions Inc",
-        "location": "Wood Dale, IL",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/postgresql-database-administrator-dba-at-alrek-business-solutions-inc-4457412711?position=34&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=D%2FSLkcTP2%2BPoS1f5%2FHPfdw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Collection Data Manager (Level I-IV)",
-        "company": "BTS",
-        "location": "Columbia, MD",
-        "date_posted": "49 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/collection-data-manager-level-i-iv-at-bts-4458590164?position=35&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=UTfPaaG7BUPWoSImE8oCRw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "SAIC",
-        "location": "Offutt Air Force Base, NE",
-        "date_posted": "38 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-saic-4458576220?position=37&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=23wuqzQYrsa3HjmhfhdPbQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Launch Operations Specialist",
-        "company": "Miter",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/launch-operations-specialist-at-miter-4456562293?position=38&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=gOAPC%2FKHpWax2ApGndQeDg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Programmer/Database Administrator",
-        "company": "CGI",
-        "location": "Huntsville, AL",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/programmer-database-administrator-at-cgi-4458593041?position=39&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=WjkxORD%2Bi75LIE9eJgPxTg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Associate",
-        "company": "PNC",
-        "location": "Pittsburgh, PA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-associate-at-pnc-4458587029?position=41&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=mkwou0iUgCS5snLYEjBUuw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Data Analyst",
-        "company": "SmithRx",
-        "location": "New York, NY",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-data-analyst-at-smithrx-4458562298?position=43&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=gh%2BIG0uFB%2FXUircw7EiVmQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Data Analyst",
-        "company": "SmithRx",
-        "location": "Boston, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-data-analyst-at-smithrx-4458567191?position=45&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=Moo8QEaoBsx4xGRb%2F5kl5Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Sr. Data Scientist, Programmatic Algorithms",
-        "company": "impact.com",
-        "location": "Columbus, OH",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-data-scientist-programmatic-algorithms-at-impact-com-4405178942?position=46&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=3Qauj5Eo0RlarQzVQlfbdQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Data Analyst",
-        "company": "SmithRx",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-data-analyst-at-smithrx-4458549991?position=47&pageNum=0&refId=c75Efhshukc%2BkBLluJs10g%3D%3D&trackingId=uJh4mI7LH6crgiQBoJqkyw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-08-25 03:36:36",
-        "email_sent": false
-    },
-    {
         "title": "Data Engineer II - MLOps Engineer",
         "company": "Travelers",
         "location": "Hartford, CT",
@@ -567,6 +207,316 @@
         "url": "https://www.linkedin.com/jobs/view/data-scientist-at-base-2-solutions-4457407950?position=31&pageNum=0&refId=HP95T%2B4WwXksb2Df0ScgjQ%3D%3D&trackingId=%2BXPfrA2Kg3ZWZR6FFlaZdg%3D%3D",
         "source": "LinkedIn",
         "scraped_date": "2026-08-25 04:22:27",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Engineer - Data Engineering",
+        "company": "Early Warning",
+        "location": "Scottsdale, AZ",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-engineer-data-engineering-at-early-warning-4458581584?position=1&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=3JkbbrB5xJO6o4sR6d3uZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Engineer - Data Engineering",
+        "company": "Early Warning",
+        "location": "San Francisco, CA",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-engineer-data-engineering-at-early-warning-4458591543?position=3&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=hyRAysODpl9A9uUJpSslMg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Development Engineer",
+        "company": "Adobe",
+        "location": "San Jose, CA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-development-engineer-at-adobe-4457428165?position=5&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=oSPzBOtVHO8O9%2F%2BkORtD2Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "New York, NY",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-data-layer-at-camunda-4456579232?position=6&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=VAXnpve7kkgOQcelmdI2DA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "Boston, MA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-data-layer-at-camunda-4456583210?position=7&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=Xbh%2FYuNT%2FLKcJAA0D%2FPUbg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer \u2013 Data Team #4555",
+        "company": "BioSpace",
+        "location": "Sunnyvale, CA",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-%E2%80%93-data-team-%234555-at-biospace-4458589579?position=8&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=wmupx18SKLCPArG7xPQ5iQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Azure and Databricks Architect",
+        "company": "Infosys",
+        "location": "Richardson, TX",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/azure-and-databricks-architect-at-infosys-4420753788?position=9&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=yraomzkQFBey9u1W7diQCw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Engineer - Private Equity",
+        "company": "Epic Placements",
+        "location": "San Francisco Bay Area",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-private-equity-at-epic-placements-4447765788?position=10&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=qCX0RbufQMAGZS5UJDTh7Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Director, Data Engineering",
+        "company": "SQUIRE",
+        "location": "United States",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/director-data-engineering-at-squire-4456582190?position=11&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=FZ6aph5dUpDr%2FgBonmdrnA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst \u2014 Quality Engineering Analytics",
+        "company": "Artiminds",
+        "location": "Wichita, KS",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-%E2%80%94-quality-engineering-analytics-at-artiminds-4457433158?position=12&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=x9eo6iQsowSSoSE6br07FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "CRM Engineer (Full-time Remote, North Carolina Based)",
+        "company": "Alliance Health",
+        "location": "Morrisville, NC",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/crm-engineer-full-time-remote-north-carolina-based-at-alliance-health-4457121676?position=13&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=cWHsobalhXoXe2WkmgIN0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "Qcells Georgia, Inc.",
+        "location": "Cartersville, GA",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-qcells-georgia-inc-4457419259?position=14&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=fpzEhlBwTNFFL3XuvEyNQQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "AI Engineer",
+        "company": "Emory Healthcare",
+        "location": "Atlanta, GA",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-emory-healthcare-4458575601?position=15&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=2ICizA4EefJxqhNUm%2BKHUw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Gen AI Engineer",
+        "company": "Infosys",
+        "location": "Charlotte, NC",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/gen-ai-engineer-at-infosys-4420189728?position=17&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=CvOBjeYLuuYqARAeMZfs%2Fg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "IT Business Intelligence Developer",
+        "company": "UCSF Health",
+        "location": "San Francisco, CA",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/it-business-intelligence-developer-at-ucsf-health-4457005662?position=18&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=dWgZyh1VkiypEw21hAmCPg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "(USA) Data Scientist III",
+        "company": "Sam's Club",
+        "location": "Bentonville, AR",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/usa-data-scientist-iii-at-sam-s-club-4456589109?position=19&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=ExmSE4eMIJLcbTC15dsHsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "GTM Engineer (Data & AI)",
+        "company": "LeanData",
+        "location": "United States",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/gtm-engineer-data-ai-at-leandata-4434643610?position=20&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=J2yUV4SsSzcHB0QQTzz2qQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Associate AI Engineer",
+        "company": "Emory Healthcare",
+        "location": "Atlanta, GA",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-ai-engineer-at-emory-healthcare-4458590531?position=21&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=iksS5begsFqLNIabV22qpg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Developer I - BI & Analytics",
+        "company": "IEHP",
+        "location": "Rancho Cucamonga, CA",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/developer-i-bi-analytics-at-iehp-4458585684?position=22&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=uJld%2FZE8oBR70BBWvhOjjA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Model Evaluation and Improvement",
+        "company": "Benchling",
+        "location": "San Francisco, CA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-model-evaluation-and-improvement-at-benchling-4458585630?position=23&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=a5IBtwE9Y0dW8CtIgEzj4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Automation Engineer",
+        "company": "FUJIFILM Electronic Materials U.S.A., Inc.",
+        "location": "Mesa, AZ",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-automation-engineer-at-fujifilm-electronic-materials-u-s-a-inc-4458584693?position=24&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=HuO%2Fp964OtaERSPDoB%2FE%2FQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Vibee - Business Operations Coordinator",
+        "company": "Insomniac Events",
+        "location": "Las Vegas, NV",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/vibee-business-operations-coordinator-at-insomniac-events-4457416593?position=25&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=0Y%2B1vp83YWzNfaFcGQWzOQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "Austin, TX",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-data-layer-at-camunda-4456575276?position=26&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=ePJ4L2Lhx6tLiCizp9PVzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "Austin, TX",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-data-layer-at-camunda-4456585234?position=27&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=IW7J9C2ccWIjcOgnAgk6bA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "Raleigh, NC",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-data-layer-at-camunda-4456571311?position=28&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=giXoLUy%2B2cpfd22gONhyxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "Raleigh, NC",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-data-layer-at-camunda-4456576250?position=29&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=tAp8yUlHst6fKuPB7jrjXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "Atlanta, GA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-data-layer-at-camunda-4456591133?position=30&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=30U5BRioqZGcE88H0MqlSw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "Atlanta, GA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-data-layer-at-camunda-4456569368?position=31&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=dyA%2FfKR3A0%2BSg1zmp%2BivsQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Scientist, Data II",
+        "company": "BioSpace",
+        "location": "North Chicago, IL",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-scientist-data-ii-at-biospace-4458575675?position=32&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=IPc4WNdbpenjFqUry52YnA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "New York, NY",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-data-layer-at-camunda-4456569367?position=33&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=FtYO%2FVJqmZCyoqA7RJnqVw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Backend - Data Layer",
+        "company": "Camunda",
+        "location": "Boston, MA",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-data-layer-at-camunda-4456575278?position=34&pageNum=0&refId=t%2FP6Hb%2BtdZjIHuoB4MF%2FZw%3D%3D&trackingId=YSxChy9R%2FxpnXUrD9bfXcg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-08-25 05:01:09",
         "email_sent": false
     }
 ]
