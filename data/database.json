@@ -1,542 +1,2132 @@
 [
     {
         "title": "Data Engineer",
-        "company": "Haystack",
-        "location": "Washington DC-Baltimore Area",
+        "company": "Booz Allen Hamilton",
+        "location": "Arlington, VA",
         "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-haystack-4469674131?position=1&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=slNmhi4aKpe41VlkGWLoWQ%3D%3D",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-booz-allen-hamilton-4424129429?position=1&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=K6xSqmmzPqjl65zO09d3Ug%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Architect, EDT Data Platform Engineering (Hybrid)",
-        "company": "Stryker",
-        "location": "Mahwah, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-architect-edt-data-platform-engineering-hybrid-at-stryker-4466129668?position=2&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=8oOVOulvSOUapvrbInUqCQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Sr Data Engineer",
-        "company": "Lowe's Companies, Inc.",
-        "location": "Charlotte, NC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-lowe-s-companies-inc-4471188547?position=3&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=dKjByYSc3vZc%2FzXZDeyp2A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Pacific Northwest National Laboratory",
-        "location": "Seattle, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-pacific-northwest-national-laboratory-4469660905?position=4&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=%2B0XOvEJW0q07GZRwt%2Bh2rQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer II",
-        "company": "Pacific Northwest National Laboratory",
-        "location": "Richland, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-pacific-northwest-national-laboratory-4469679047?position=5&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=oLdMzyQDdFLYu3n%2BnvdgLQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Data Platform Software Engineer (RaptorDB)",
-        "company": "Visalytics",
-        "location": "Santa Clara, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-data-platform-software-engineer-raptordb-at-visalytics-4469383380?position=6&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=s41MZ9zytq2P9jXV4c8zeQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Principal Architect, Data Product Delivery (Hybrid)",
-        "company": "Stryker",
-        "location": "Mahwah, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/principal-architect-data-product-delivery-hybrid-at-stryker-4468061644?position=9&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=iVsuZoqk1m1k0yqeVy93lg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data & Visualization Analyst",
-        "company": "Freese and Nichols",
-        "location": "Atlanta, GA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-visualization-analyst-at-freese-and-nichols-4469379463?position=10&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=Fw43VK9pQBFjeP08ubhenA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Clinical Informatics Supervisor II",
-        "company": "University of California, San Francisco",
-        "location": "California, United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/clinical-informatics-supervisor-ii-at-university-of-california-san-francisco-4471193529?position=11&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=CNHuHxmR6ooBaitnQEzH7g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Azure Databricks Administrator",
-        "company": "NYU Langone Health",
-        "location": "New York, NY",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/azure-databricks-administrator-at-nyu-langone-health-4469386066?position=14&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=xB8MnnTVxSjWcact9qunBQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "HEALTHCARE DATA MODELER / INTEROPERABILITY CONSULTANT",
-        "company": "VeriiPro",
-        "location": "Austin, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/healthcare-data-modeler-interoperability-consultant-at-veriipro-4471405081?position=16&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=UYTo2Al7%2FJiK3woYof1hOA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist",
-        "company": "Haystack",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-haystack-4469656908?position=17&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=kJaqOwhefLzGmkiVc17H7A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Director, Data Architecture and Engineering",
-        "company": "Slalom",
-        "location": "Boston, MA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/director-data-architecture-and-engineering-at-slalom-4471193449?position=22&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=%2Bu9ihwPhm3RGSDnqsvGq%2BQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineering Manager \u2013 Device Intelligence and Geospatial Insights",
-        "company": "T-Mobile",
-        "location": "Overland Park, KS",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineering-manager-%E2%80%93-device-intelligence-and-geospatial-insights-at-t-mobile-4471401123?position=23&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=uj3HyeojKURygPZymOWVYw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "OneStream Consultant",
-        "company": "MANTECH",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/onestream-consultant-at-mantech-4471181955?position=26&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=dDA8YqmVcnJ2ByZdJ8hgJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Electric Field Operations (Hybrid Schedule)",
-        "company": "Eversource Energy",
-        "location": "Berlin, CT",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-electric-field-operations-hybrid-schedule-at-eversource-energy-4471404262?position=28&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=Ooxhgry8F0Pfiaq3SuhxVA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Enterprise Architect, Data & AI Enablement",
-        "company": "REI",
-        "location": "Seattle, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/enterprise-architect-data-ai-enablement-at-rei-4469372592?position=29&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=fZ%2FSgXHo2K5xRCXTZPs02Q%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineering Manager \u2013 Device Intelligence and Geospatial Insights",
-        "company": "T-Mobile",
-        "location": "Bellevue, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineering-manager-%E2%80%93-device-intelligence-and-geospatial-insights-at-t-mobile-4471182909?position=30&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=LufDP%2Bp%2FJwYpA1y5Vd9rEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "AI Deployment Specialist (Remote)",
-        "company": "Procore Technologies",
-        "location": "Austin, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-deployment-specialist-remote-at-procore-technologies-4469377450?position=32&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=QAV9BVmZkkhfXfwTZYGbow%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Intern, R&D Graduate Co-Op - Monitoring Systems Technology Intern Center (MSTIC), Onsite",
-        "company": "Sandia National Laboratories",
-        "location": "Albuquerque, NM",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/intern-r-d-graduate-co-op-monitoring-systems-technology-intern-center-mstic-onsite-at-sandia-national-laboratories-4471193591?position=33&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=0PmLGIz0IkLQBr7wA9NhjQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "AVP - Compliance and AI/ML",
-        "company": "Barclays Bank US",
-        "location": "Wilmington, DE",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/avp-compliance-and-ai-ml-at-barclays-bank-us-4469382285?position=35&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=g5HU8B5rsfYXUS2tbV%2FLbg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer",
-        "company": "Cisco",
-        "location": "Durham, NC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-at-cisco-4471401174?position=37&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=XIiula1glN7fodKcQ%2Fn87g%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Founding Forward Deployed Engineer (up to $220k)",
-        "company": "Dex",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/founding-forward-deployed-engineer-up-to-%24220k-at-dex-4471197370?position=39&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=4uQ0DoI9pd0PY0FuQ8tNpQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Scientist Intern, 2027 Summer U.S.",
-        "company": "Atlassian",
-        "location": "Seattle, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-scientist-intern-2027-summer-u-s-at-atlassian-4471188458?position=40&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=2Lrokn5%2Fu%2FcDLl6xsGcUZA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Sr II Developer - Epic Reporting (Clarity / Caboodle)",
-        "company": "NYU Langone Health",
-        "location": "New York, NY",
-        "date_posted": "52 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/sr-ii-developer-epic-reporting-clarity-caboodle-at-nyu-langone-health-4469369711?position=41&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=pa6rZUSt3AkQStny%2BeR39A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "ORACLE OIC / FUSION ORDER MANAGEMENT CONSULTANT",
-        "company": "VeriiPro",
-        "location": "Triangle, NC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/oracle-oic-fusion-order-management-consultant-at-veriipro-4471199339?position=42&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=tgBpomuZuFz1l83W%2Fm0xwg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Member of Technical Staff - Full Stack",
-        "company": "Jobgether",
-        "location": "United States",
-        "date_posted": "59 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-full-stack-at-jobgether-4469372578?position=45&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=Ndp3cGoaAZxEnSRhL3Panw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Oracle EBS Sr. Architect",
-        "company": "Accenture Federal Services",
-        "location": "Washington, DC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/oracle-ebs-sr-architect-at-accenture-federal-services-4288985394?position=49&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=LEOU5fYvUM%2FN5RRTAmNEqQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer Full Stack / Backend II (Full-Time) - United States",
-        "company": "Cisco",
-        "location": "Boulder, CO",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-backend-ii-full-time-united-states-at-cisco-4471187619?position=50&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=HwmCt7ozPFT5bcxkg5Qv9A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Full-Stack)",
-        "company": "Pasona N A, Inc.",
-        "location": "Compton, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-pasona-n-a-inc-4471181878?position=51&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=AqS2VaFehrasVqbpUIxuKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Specialist",
-        "company": "Girl Scouts of Southwest Texas",
-        "location": "San Antonio, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-specialist-at-girl-scouts-of-southwest-texas-4471402197?position=52&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=75sz0T20rb1eG47cLDPVtg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "People Analyst/HRIS",
-        "company": "Child Care Resource Center",
-        "location": "Chatsworth, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/people-analyst-hris-at-child-care-resource-center-4469383309?position=54&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=h7DmRsPYDZMJlKju7Rx0hQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Engineer",
-        "company": "Bluebeam",
-        "location": "Dallas, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-bluebeam-4471401263?position=56&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=0L9V5g3pWoPKkbLEnkHmEg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Architect",
-        "company": "Station Casinos",
-        "location": "Las Vegas, NV",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-architect-at-station-casinos-4471187635?position=57&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=XfFb5FwaKl4tfsYVyTu5OQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Contact Center Cloud Engineer, VP",
-        "company": "Barclays",
-        "location": "Whippany, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/contact-center-cloud-engineer-vp-at-barclays-4469382286?position=58&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=F9HlsH0fksd9xJOs40EhSQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Engineer - Dragonfly Portfolio",
-        "company": "Dragonfly",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-engineer-dragonfly-portfolio-at-dragonfly-4453710912?position=59&pageNum=0&refId=%2FjnQZN5ryJFsod1t%2BRpHpA%3D%3D&trackingId=rN3H6YITBkhjks9rQdkV0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "OneStream Consultant",
-        "company": "MANTECH",
-        "location": "United States",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/onestream-consultant-at-mantech-4471181955?position=1&pageNum=2&refId=qhCCdHQ%2BqFP10NNIP9bfyw%3D%3D&trackingId=EzbzeaLK%2B7c4YgUpXfJcKA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Analyst, Electric Field Operations (Hybrid Schedule)",
-        "company": "Eversource Energy",
-        "location": "Berlin, CT",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/analyst-electric-field-operations-hybrid-schedule-at-eversource-energy-4471404262?position=3&pageNum=2&refId=qhCCdHQ%2BqFP10NNIP9bfyw%3D%3D&trackingId=EF%2BViu4NPP%2Bqllc6zY6vFA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Enterprise Architect, Data & AI Enablement",
-        "company": "REI",
-        "location": "Seattle, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/enterprise-architect-data-ai-enablement-at-rei-4469372592?position=4&pageNum=2&refId=qhCCdHQ%2BqFP10NNIP9bfyw%3D%3D&trackingId=KBWznBPlB%2BV%2BozEF3XDrmA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineering Manager \u2013 Device Intelligence and Geospatial Insights",
-        "company": "T-Mobile",
-        "location": "Bellevue, WA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineering-manager-%E2%80%93-device-intelligence-and-geospatial-insights-at-t-mobile-4471182909?position=5&pageNum=2&refId=qhCCdHQ%2BqFP10NNIP9bfyw%3D%3D&trackingId=CYU0kIzT5NIIr%2B1Zd3UmMw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "AI Deployment Specialist (Remote)",
-        "company": "Procore Technologies",
-        "location": "Austin, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/ai-deployment-specialist-remote-at-procore-technologies-4469377450?position=7&pageNum=2&refId=qhCCdHQ%2BqFP10NNIP9bfyw%3D%3D&trackingId=pjuFd9Ij4YbZzPsunzggJA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Intern, R&D Graduate Co-Op - Monitoring Systems Technology Intern Center (MSTIC), Onsite",
-        "company": "Sandia National Laboratories",
-        "location": "Albuquerque, NM",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/intern-r-d-graduate-co-op-monitoring-systems-technology-intern-center-mstic-onsite-at-sandia-national-laboratories-4471193591?position=8&pageNum=2&refId=qhCCdHQ%2BqFP10NNIP9bfyw%3D%3D&trackingId=FWl0WwxBrx%2FlizX4pWTfjg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "AVP - Compliance and AI/ML",
-        "company": "Barclays Bank US",
-        "location": "Wilmington, DE",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/avp-compliance-and-ai-ml-at-barclays-bank-us-4469382285?position=10&pageNum=2&refId=qhCCdHQ%2BqFP10NNIP9bfyw%3D%3D&trackingId=zpjCDvUIFdUXOMwCcKkVZg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Engineer (Full-Stack)",
-        "company": "Pasona N A, Inc.",
-        "location": "Compton, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-pasona-n-a-inc-4471181878?position=1&pageNum=5&refId=rRg4WhKL3X60CBpvvoErtQ%3D%3D&trackingId=IU37D4OHNSi5nu7BSuOc0A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Data Specialist",
-        "company": "Girl Scouts of Southwest Texas",
-        "location": "San Antonio, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-specialist-at-girl-scouts-of-southwest-texas-4471402197?position=2&pageNum=5&refId=rRg4WhKL3X60CBpvvoErtQ%3D%3D&trackingId=xIu6X3dVIrGXRoaXA1XBdg%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "People Analyst/HRIS",
-        "company": "Child Care Resource Center",
-        "location": "Chatsworth, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/people-analyst-hris-at-child-care-resource-center-4469383309?position=4&pageNum=5&refId=rRg4WhKL3X60CBpvvoErtQ%3D%3D&trackingId=t6NoIOio3DYFL9rNgtQK1A%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Engineer",
-        "company": "Bluebeam",
-        "location": "Dallas, TX",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-bluebeam-4471401263?position=6&pageNum=5&refId=rRg4WhKL3X60CBpvvoErtQ%3D%3D&trackingId=1bMi3aFaGaEmpN7Z7yh0FA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Software Architect",
-        "company": "Station Casinos",
-        "location": "Las Vegas, NV",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/software-architect-at-station-casinos-4471187635?position=7&pageNum=5&refId=rRg4WhKL3X60CBpvvoErtQ%3D%3D&trackingId=6Kf1ZLPSekkzDn%2Fm0jgZUw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Contact Center Cloud Engineer, VP",
-        "company": "Barclays",
-        "location": "Whippany, NJ",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/contact-center-cloud-engineer-vp-at-barclays-4469382286?position=8&pageNum=5&refId=rRg4WhKL3X60CBpvvoErtQ%3D%3D&trackingId=kfnUTOFlJORBQ5VZb%2FRgmw%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Staff Engineer - Dragonfly Portfolio",
-        "company": "Dragonfly",
-        "location": "San Francisco, CA",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/staff-engineer-dragonfly-portfolio-at-dragonfly-4453710912?position=9&pageNum=5&refId=rRg4WhKL3X60CBpvvoErtQ%3D%3D&trackingId=5WtylK1l7Xhz4ROV4NPkeA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Chief AI Architect \u2013 Department of War",
-        "company": "Pacific Northwest National Laboratory",
-        "location": "Washington, DC",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/chief-ai-architect-%E2%80%93-department-of-war-at-pacific-northwest-national-laboratory-4469663811?position=5&pageNum=7&refId=EzKLekGrWhrT3iWy3ztzGA%3D%3D&trackingId=RkW2NJtPoUUCRCtbAWLuMQ%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Intern, R&D Graduate Year Round - Monitoring Systems Technology Intern Center (MSTIC),Onsite",
-        "company": "Sandia National Laboratories",
-        "location": "Albuquerque, NM",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/intern-r-d-graduate-year-round-monitoring-systems-technology-intern-center-mstic-onsite-at-sandia-national-laboratories-4471404272?position=6&pageNum=7&refId=EzKLekGrWhrT3iWy3ztzGA%3D%3D&trackingId=OoZeaU0IXaZraHKZksXQQA%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
-        "email_sent": false
-    },
-    {
-        "title": "Early Career R&D Electrical Engineer - Radar Advanced Exploitation and Human-Systems Integration, Onsite",
-        "company": "Sandia National Laboratories",
-        "location": "Albuquerque, NM",
-        "date_posted": "48 minutes ago",
-        "url": "https://www.linkedin.com/jobs/view/early-career-r-d-electrical-engineer-radar-advanced-exploitation-and-human-systems-integration-onsite-at-sandia-national-laboratories-4471406128?position=7&pageNum=7&refId=EzKLekGrWhrT3iWy3ztzGA%3D%3D&trackingId=7kOsol%2BQ1xtkn1pkpLrEog%3D%3D",
-        "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
+        "scraped_date": "2026-09-24 10:35:26",
         "email_sent": false
     },
     {
         "title": "Data Engineer",
-        "company": "Haystack",
-        "location": "Washington DC-Baltimore Area",
-        "date_posted": "1 hour ago",
-        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-haystack-4469674141?position=9&pageNum=7&refId=EzKLekGrWhrT3iWy3ztzGA%3D%3D&trackingId=VC1vSAzfVffVe%2FTujTOkdw%3D%3D",
+        "company": "Optum",
+        "location": "Eden Prairie, MN",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-optum-4471438372?position=2&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=pa2ooBoOVyhYhP77f5UEbQ%3D%3D",
         "source": "LinkedIn",
-        "scraped_date": "2026-09-24 05:32:36",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Booz Allen Hamilton",
+        "location": "Chantilly, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-booz-allen-hamilton-4452641323?position=3&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=FQQ6HAh8waKbuGCHM0wnzA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Data Engineer",
+        "company": "Total Wine & More",
+        "location": "Bethesda, MD",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-total-wine-more-4450176926?position=4&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=%2FiKWMRNgNMXfv4AvBTnCTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer II",
+        "company": "McLane Company, Inc.",
+        "location": "Temple, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-ii-at-mclane-company-inc-4453137162?position=6&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=%2FTkxJpLBIIjS1fyAo%2F5IOw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer-Healthcare Practice",
+        "company": "Blue & Co., LLC",
+        "location": "Indianapolis, IN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-healthcare-practice-at-blue-co-llc-4450181100?position=8&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=ziA6GOwUD2hc%2BFfsIstbGg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Engineer",
+        "company": "Courtyard",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-courtyard-4448467341?position=11&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=2QiEWfUr3zpfIvlvaNNeRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineering Software Developer",
+        "company": "Leidos",
+        "location": "Washington, DC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineering-software-developer-at-leidos-4469724281?position=13&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=dxw8l1Ckwx6MaDsDtDEmyw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer III - Data Engineer",
+        "company": "JPMorganChase",
+        "location": "Plano, TX",
+        "date_posted": "49 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-data-engineer-at-jpmorganchase-4460479596?position=14&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=n7YYaG117x1AN0ECXVOpcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Business Intelligence Engineer",
+        "company": "DoorDash",
+        "location": "Los Angeles, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-business-intelligence-engineer-at-doordash-4440199889?position=17&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=AUjjwCLAdlIIfQw4JxVHlQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Integration Specialist",
+        "company": "Dauch",
+        "location": "Detroit, MI",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/integration-specialist-at-dauch-4451686746?position=18&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=9hJxnaFZMzu6%2B3jv8Wdb3w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Chief Data Engineer",
+        "company": "Jobgether",
+        "location": "United States",
+        "date_posted": "57 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/chief-data-engineer-at-jobgether-4469709711?position=20&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=a%2Bn3DW%2BgWjXPh8Je5Aljhw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Infrastructure Data Analytics Engineer",
+        "company": "U.S. Bank",
+        "location": "Denver, CO",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/infrastructure-data-analytics-engineer-at-u-s-bank-4451498548?position=22&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=6KJl8ObIMXcSzTGM%2Bkc9ZA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer 5 - Cloud Games Infrastructure Data Products",
+        "company": "Netflix",
+        "location": "United States",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-5-cloud-games-infrastructure-data-products-at-netflix-4460431108?position=24&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=WY3QbRGx%2FKZ7trFAoBDR%2Fw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer III-IIDR - IBM InfoSphere Data Replication",
+        "company": "Bank of America",
+        "location": "Addison, TX",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-iidr-ibm-infosphere-data-replication-at-bank-of-america-4434703644?position=25&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=A1DJqGlcosUmFuctQO0bKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer 5 - Infrastructure Efficiency & Productivity",
+        "company": "Netflix",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-5-infrastructure-efficiency-productivity-at-netflix-4453014356?position=26&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=huDkOsOQb77N2xQfFgeYrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Software Engineer, Data Streaming Systems",
+        "company": "Paramount",
+        "location": "Burbank, CA",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-data-streaming-systems-at-paramount-4426743709?position=27&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=bzt5FjxqA1oKaiqW%2BNV%2FrA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Director, Data Engineering (Enterprise Data Products & Engineering)",
+        "company": "Travelers",
+        "location": "Hartford, CT",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/director-data-engineering-enterprise-data-products-engineering-at-travelers-4452747984?position=29&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=hxABlUbi5dCjcVX4qMoeaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Marketing Technology Strategist",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/marketing-technology-strategist-at-remotehunter-4471440327?position=31&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=y4X%2F4%2F53%2B%2BxXPcjTd0Oaaw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "MDM Solutions Engineer - Life Sciences (Reltio/Informatica)",
+        "company": "Deloitte",
+        "location": "Pittsburgh, PA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/mdm-solutions-engineer-life-sciences-reltio-informatica-at-deloitte-4462761724?position=32&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=u%2FQHuXzDpppIEhkQYcNQ2A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "MDM Solutions Engineer - Life Sciences (Reltio/Informatica)",
+        "company": "Deloitte",
+        "location": "Greater Indianapolis",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mdm-solutions-engineer-life-sciences-reltio-informatica-at-deloitte-4462763355?position=33&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=zS1JWvajYCGVTy7dIG1i3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Agile Data Migration expert - Software engineer",
+        "company": "Cygnus Professionals Inc.",
+        "location": "Austin, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/agile-data-migration-expert-software-engineer-at-cygnus-professionals-inc-4471426803?position=34&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=fqoqxBRRwp3AhRan%2F9JjGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Customer Data Engineer II - New Glenn",
+        "company": "Blue Origin",
+        "location": "Huntsville, AL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/customer-data-engineer-ii-new-glenn-at-blue-origin-4460427063?position=36&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=DOjrqfVvkJY%2Fifbtc1bWzg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Customer Data Engineer II - New Glenn",
+        "company": "Blue Origin",
+        "location": "Denver, CO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/customer-data-engineer-ii-new-glenn-at-blue-origin-4460436056?position=37&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=UD%2FYlg3Xyh9nbAZrk6iBMA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Application Engineer",
+        "company": "Generac",
+        "location": "Waukesha, WI",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-application-engineer-at-generac-4462802183?position=41&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=szFseszhF5SGOr0h6apBCw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Director, Data Engineering (Google Cloud Platform)",
+        "company": "TTEC Digital",
+        "location": "Austin, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/director-data-engineering-google-cloud-platform-at-ttec-digital-4462441114?position=42&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=yvqzJNdKcAKUSXsYvso3HQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Power Analyst",
+        "company": "Susquehanna International Group",
+        "location": "Bala-Cynwyd, PA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/power-analyst-at-susquehanna-international-group-4412815881?position=43&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=XAlJNk67D5k273ZdO4vecQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Architect, Data Platform \u2014 AgentExchange",
+        "company": "Salesforce",
+        "location": "San Francisco, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/architect-data-platform-%E2%80%94-agentexchange-at-salesforce-4415592778?position=44&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=BXqCNWsHvasqIwWoqkS33A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning Engineer II",
+        "company": "Mimecast",
+        "location": "Columbus, OH",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-mimecast-4416221273?position=45&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=SQo5pY9KNPUKMo6XqMwCfQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist",
+        "company": "SAIC",
+        "location": "Rock Island, IL",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-saic-4471446258?position=46&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=CaUf3L%2FVdTBKUmOPH1ZG8g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Machine Learning Engineer",
+        "company": "PitchBook",
+        "location": "Seattle, WA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-at-pitchbook-4421979281?position=49&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=kMdzdUbbd%2FERYCxv6D4n5Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "WBG Young Professional - req38251",
+        "company": "The World Bank Group",
+        "location": "Washington, DC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/wbg-young-professional-req38251-at-the-world-bank-group-4462494671?position=50&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=e9PTh2V64sLi9A8pLZpOng%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Remote",
+        "company": "Optum",
+        "location": "Eden Prairie, MN",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-remote-at-optum-4471447219?position=52&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=J4rQ11b29oyztkWEvFeX3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Science Student Experience - Spring 2027",
+        "company": "Bobcat Company",
+        "location": "Buford, GA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-science-student-experience-spring-2027-at-bobcat-company-4462741719?position=53&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=LZrwMfC5Li%2BZ7vo0a%2BSBdw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Business Systems Analyst 4",
+        "company": "Lam Research",
+        "location": "Livermore, CA",
+        "date_posted": "55 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/business-systems-analyst-4-at-lam-research-4451956053?position=55&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=VGzKWNBDh10YWeUPA%2F997A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Integration/Report Developer",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/integration-report-developer-at-remotehunter-4471431877?position=56&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=SuGgb0jwX5mgar88P4i0eQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff ML Engineer",
+        "company": "Press Ganey",
+        "location": "United States",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-ml-engineer-at-press-ganey-4471451037?position=58&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=%2BjGLxu20UkqKpuKtQRfEhA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst-Healthcare Practice",
+        "company": "Blue & Co., LLC",
+        "location": "Indianapolis, IN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-practice-at-blue-co-llc-4450167932?position=60&pageNum=0&refId=y3%2FNLbcevkEk%2FUKxq7uMkw%3D%3D&trackingId=uzBVFLcF3dhZNsOAbbJtiw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer 5 - Infrastructure Efficiency & Productivity",
+        "company": "Netflix",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-5-infrastructure-efficiency-productivity-at-netflix-4453014356?position=1&pageNum=2&refId=aPaGTnB782CKmKC3a2Z3fQ%3D%3D&trackingId=%2Bx%2FbsKoo9aIwKVOIt511dQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Software Engineer, Data Streaming Systems",
+        "company": "Paramount",
+        "location": "Burbank, CA",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-data-streaming-systems-at-paramount-4426743709?position=2&pageNum=2&refId=aPaGTnB782CKmKC3a2Z3fQ%3D%3D&trackingId=ohPvsn19BWBIeGgS5uXAvA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Director, Data Engineering (Enterprise Data Products & Engineering)",
+        "company": "Travelers",
+        "location": "Hartford, CT",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/director-data-engineering-enterprise-data-products-engineering-at-travelers-4452747984?position=4&pageNum=2&refId=aPaGTnB782CKmKC3a2Z3fQ%3D%3D&trackingId=sIBC9TYzjzl1mDdOwB03Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Marketing Technology Strategist",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/marketing-technology-strategist-at-remotehunter-4471440327?position=6&pageNum=2&refId=aPaGTnB782CKmKC3a2Z3fQ%3D%3D&trackingId=Ei4pcAlvF%2BXdK13i%2BUQN6g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "MDM Solutions Engineer - Life Sciences (Reltio/Informatica)",
+        "company": "Deloitte",
+        "location": "Pittsburgh, PA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/mdm-solutions-engineer-life-sciences-reltio-informatica-at-deloitte-4462761724?position=7&pageNum=2&refId=aPaGTnB782CKmKC3a2Z3fQ%3D%3D&trackingId=TyIrI9ypBi4xlhUX4hBYGg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "MDM Solutions Engineer - Life Sciences (Reltio/Informatica)",
+        "company": "Deloitte",
+        "location": "Greater Indianapolis",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mdm-solutions-engineer-life-sciences-reltio-informatica-at-deloitte-4462763355?position=8&pageNum=2&refId=aPaGTnB782CKmKC3a2Z3fQ%3D%3D&trackingId=MXJtqWrvmyJFoG%2B5NzuJ%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Agile Data Migration expert - Software engineer",
+        "company": "Cygnus Professionals Inc.",
+        "location": "Austin, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/agile-data-migration-expert-software-engineer-at-cygnus-professionals-inc-4471426803?position=9&pageNum=2&refId=aPaGTnB782CKmKC3a2Z3fQ%3D%3D&trackingId=v6WBEOKu592kassFCvoF8w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - Remote",
+        "company": "Optum",
+        "location": "Eden Prairie, MN",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-remote-at-optum-4471447219?position=2&pageNum=5&refId=dIqRWoQ9Pdy4hg0YH6Dtuw%3D%3D&trackingId=vr7ILtNo6RjJC7%2FV2LRBAA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Science Student Experience - Spring 2027",
+        "company": "Bobcat Company",
+        "location": "Buford, GA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-science-student-experience-spring-2027-at-bobcat-company-4462741719?position=3&pageNum=5&refId=dIqRWoQ9Pdy4hg0YH6Dtuw%3D%3D&trackingId=HeTkyp3kQJvn0n3h9%2Bvx1A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Business Systems Analyst 4",
+        "company": "Lam Research",
+        "location": "Livermore, CA",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/business-systems-analyst-4-at-lam-research-4451956053?position=5&pageNum=5&refId=dIqRWoQ9Pdy4hg0YH6Dtuw%3D%3D&trackingId=uj9WXrajsmQIiuOObqNnAg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Integration/Report Developer",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/integration-report-developer-at-remotehunter-4471431877?position=6&pageNum=5&refId=dIqRWoQ9Pdy4hg0YH6Dtuw%3D%3D&trackingId=9VGEtAL0PVpJ9euDhvj4tg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff ML Engineer",
+        "company": "Press Ganey",
+        "location": "United States",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-ml-engineer-at-press-ganey-4471451037?position=8&pageNum=5&refId=dIqRWoQ9Pdy4hg0YH6Dtuw%3D%3D&trackingId=G3q2WkpZubGev56Wlp6Tpg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analyst-Healthcare Practice",
+        "company": "Blue & Co., LLC",
+        "location": "Indianapolis, IN",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-practice-at-blue-co-llc-4450167932?position=10&pageNum=5&refId=dIqRWoQ9Pdy4hg0YH6Dtuw%3D%3D&trackingId=URNlVKAZKjLGmr3iiQfMwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Booz Allen Hamilton",
+        "location": "Aurora, CO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-booz-allen-hamilton-4452625693?position=1&pageNum=7&refId=90SHLA%2FbIFcvGQ5EEieV0g%3D%3D&trackingId=YQbDAXtoBxAXW8ogo%2FpBzQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "Booz Allen Hamilton",
+        "location": "Fayetteville, NC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-booz-allen-hamilton-4425674429?position=2&pageNum=7&refId=90SHLA%2FbIFcvGQ5EEieV0g%3D%3D&trackingId=edMYl9CNFYkwDwWC0hPHYQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Palantir Data Engineer",
+        "company": "Booz Allen Hamilton",
+        "location": "Norfolk, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/palantir-data-engineer-at-booz-allen-hamilton-4452624726?position=3&pageNum=7&refId=90SHLA%2FbIFcvGQ5EEieV0g%3D%3D&trackingId=iVkFOHx1Ykj%2Fo9MBQ4njXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Palantir Data Engineer",
+        "company": "Booz Allen Hamilton",
+        "location": "Aberdeen Proving Ground, MD",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/palantir-data-engineer-at-booz-allen-hamilton-4452629535?position=4&pageNum=7&refId=90SHLA%2FbIFcvGQ5EEieV0g%3D%3D&trackingId=ubfNA8dMMHoONEuojQ0S7w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Backend Python/Databricks Software Engineer III",
+        "company": "JPMorganChase",
+        "location": "Plano, TX",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/backend-python-databricks-software-engineer-iii-at-jpmorganchase-4469722195?position=7&pageNum=7&refId=90SHLA%2FbIFcvGQ5EEieV0g%3D%3D&trackingId=xofTe%2FpzTd60AIIXNCmDEA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Agentic Solutions Engineer",
+        "company": "Booz Allen Hamilton",
+        "location": "McLean, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/agentic-solutions-engineer-at-booz-allen-hamilton-4442259739?position=9&pageNum=7&refId=90SHLA%2FbIFcvGQ5EEieV0g%3D%3D&trackingId=hcPj3Ox6mMQKmxkyWNFOsA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "MDM Solutions Engineer - Life Sciences (Reltio/Informatica)",
+        "company": "Deloitte",
+        "location": "Cincinnati, OH",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mdm-solutions-engineer-life-sciences-reltio-informatica-at-deloitte-4462763389?position=10&pageNum=7&refId=90SHLA%2FbIFcvGQ5EEieV0g%3D%3D&trackingId=GxwlWy2qvHa0fuWkbGz08Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "MDM Solutions Engineer - Life Sciences (Reltio/Informatica)",
+        "company": "Deloitte",
+        "location": "Dallas, TX",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mdm-solutions-engineer-life-sciences-reltio-informatica-at-deloitte-4462767343?position=1&pageNum=10&refId=zugRdOw15QkEadNvDdW55Q%3D%3D&trackingId=9hWt0Z0X54hofsL%2FIIdOaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "MDM Solutions Engineer - Life Sciences (Reltio/Informatica)",
+        "company": "Deloitte",
+        "location": "McLean, VA",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mdm-solutions-engineer-life-sciences-reltio-informatica-at-deloitte-4462772252?position=2&pageNum=10&refId=zugRdOw15QkEadNvDdW55Q%3D%3D&trackingId=Y6buK9wN577vx1lDkV%2BvHA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "MDM Solutions Engineer - Life Sciences (Reltio/Informatica)",
+        "company": "Deloitte",
+        "location": "Chicago, IL",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mdm-solutions-engineer-life-sciences-reltio-informatica-at-deloitte-4462762344?position=3&pageNum=10&refId=zugRdOw15QkEadNvDdW55Q%3D%3D&trackingId=muROEc3YUE%2BeYVHqhRoh0A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Customer Data Engineer II - New Glenn",
+        "company": "Blue Origin",
+        "location": "Greater Seattle Area",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/customer-data-engineer-ii-new-glenn-at-blue-origin-4460421063?position=6&pageNum=10&refId=zugRdOw15QkEadNvDdW55Q%3D%3D&trackingId=8oe7cG5luMtSmP9lJok1gg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Developer",
+        "company": "Booz Allen Hamilton",
+        "location": "Arlington, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-developer-at-booz-allen-hamilton-4434747798?position=8&pageNum=10&refId=zugRdOw15QkEadNvDdW55Q%3D%3D&trackingId=yEyRCRPvYoVXzZsNwhXEFQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer III - Scala Engineer",
+        "company": "JPMorganChase",
+        "location": "Jersey City, NJ",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-scala-engineer-at-jpmorganchase-4452468877?position=4&pageNum=12&refId=95Ahrx4DtsT%2BQNw%2FQTMHkw%3D%3D&trackingId=SvondFv4WAYExOWFNdmcDA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "VectraAI Cloud-Native Engineer",
+        "company": "Booz Allen Hamilton",
+        "location": "Norfolk, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/vectraai-cloud-native-engineer-at-booz-allen-hamilton-4443553659?position=5&pageNum=12&refId=95Ahrx4DtsT%2BQNw%2FQTMHkw%3D%3D&trackingId=KN5MG7S4Pig5sAbgfI0P4A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Platform Software Engineer",
+        "company": "Oracle",
+        "location": "United States",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-platform-software-engineer-at-oracle-4452450079?position=6&pageNum=12&refId=95Ahrx4DtsT%2BQNw%2FQTMHkw%3D%3D&trackingId=5fca%2Ft9PlO%2BdMFdeaWrcPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Software Developer",
+        "company": "Booz Allen Hamilton",
+        "location": "San Diego, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-software-developer-at-booz-allen-hamilton-4452646028?position=8&pageNum=12&refId=95Ahrx4DtsT%2BQNw%2FQTMHkw%3D%3D&trackingId=Jl9LzH9MmgMI6z%2Fmua4gXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer III (Java/AWS)",
+        "company": "JPMorganChase",
+        "location": "New York, NY",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4469724138?position=10&pageNum=12&refId=95Ahrx4DtsT%2BQNw%2FQTMHkw%3D%3D&trackingId=eshQg7JcqwuX6j7gsb72Xg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "Austin, TX",
+        "date_posted": "56 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462780176?position=1&pageNum=15&refId=H4%2BSIC4xFGL%2BRRc4naCf3Q%3D%3D&trackingId=GAZWeCEmuWI3H7c%2FLcNEjw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "VectraAI Cloud-Native Engineer",
+        "company": "Booz Allen Hamilton",
+        "location": "Riverdale, MD",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/vectraai-cloud-native-engineer-at-booz-allen-hamilton-4443548764?position=2&pageNum=15&refId=H4%2BSIC4xFGL%2BRRc4naCf3Q%3D%3D&trackingId=aZSNB9Ja%2FDbOiY79GDc0ig%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "Philadelphia, PA",
+        "date_posted": "49 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462782112?position=4&pageNum=15&refId=H4%2BSIC4xFGL%2BRRc4naCf3Q%3D%3D&trackingId=ZKD4Lkl8NqTaTEDg60WziQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "Stamford, CT",
+        "date_posted": "49 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462775217?position=6&pageNum=15&refId=H4%2BSIC4xFGL%2BRRc4naCf3Q%3D%3D&trackingId=gy39ltZoCm5oorb%2FfhgPWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "Greater Cleveland",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462780168?position=7&pageNum=15&refId=H4%2BSIC4xFGL%2BRRc4naCf3Q%3D%3D&trackingId=pTImQOAly%2FcwW%2BOSWF8CUg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "Cincinnati, OH",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462782110?position=10&pageNum=15&refId=H4%2BSIC4xFGL%2BRRc4naCf3Q%3D%3D&trackingId=lcNOM9ELVpfDq%2Bim6T%2B2og%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Carson City, NV",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461383431?position=2&pageNum=17&refId=pjRcnlDmll6b6UmfTUIj%2Fg%3D%3D&trackingId=BzRI8fu5EczCjb%2FXEd71Ow%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Government Healthcare Data Manager",
+        "company": "Marsh",
+        "location": "Tampa, FL",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/government-healthcare-data-manager-at-marsh-4462492363?position=4&pageNum=17&refId=pjRcnlDmll6b6UmfTUIj%2Fg%3D%3D&trackingId=G%2F3TBJO8lGAbstCNi0Yy8Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "Costa Mesa, CA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462775228?position=5&pageNum=17&refId=pjRcnlDmll6b6UmfTUIj%2Fg%3D%3D&trackingId=u0cAFlGNGPc42WziPrwnOA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Cyber Data Platform Architect",
+        "company": "Booz Allen Hamilton",
+        "location": "McLean, VA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/cyber-data-platform-architect-at-booz-allen-hamilton-4442798172?position=6&pageNum=17&refId=pjRcnlDmll6b6UmfTUIj%2Fg%3D%3D&trackingId=7jPLea%2B0WZTyEW88pNMrmQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "Atlanta, GA",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462771272?position=7&pageNum=17&refId=pjRcnlDmll6b6UmfTUIj%2Fg%3D%3D&trackingId=s4o%2FI3aCuVNGlSUDm%2BuMqQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "Morristown, NJ",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462770302?position=8&pageNum=17&refId=pjRcnlDmll6b6UmfTUIj%2Fg%3D%3D&trackingId=AW%2FpMz84DQIMYry%2BloL4OQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Boise, ID",
+        "date_posted": "57 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461374525?position=10&pageNum=17&refId=pjRcnlDmll6b6UmfTUIj%2Fg%3D%3D&trackingId=8cJQfOC5mqI0Jr0g9vWBfw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Government Healthcare Data Manager",
+        "company": "Marsh",
+        "location": "Washington, DC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/government-healthcare-data-manager-at-marsh-4462705015?position=1&pageNum=20&refId=ktIWZpTmBQ675UHLIexXRQ%3D%3D&trackingId=itR%2F5SKjMm2la7gif1J%2FNw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Government Healthcare Data Manager",
+        "company": "Marsh",
+        "location": "St Louis, MO",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/government-healthcare-data-manager-at-marsh-4462486780?position=3&pageNum=20&refId=ktIWZpTmBQ675UHLIexXRQ%3D%3D&trackingId=0oodqNdFJfOQ%2BR9MXRAcEA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "VectraAI Cloud-Native Engineer",
+        "company": "Booz Allen Hamilton",
+        "location": "Washington, DC",
+        "date_posted": "1 hour ago",
+        "url": "https://www.linkedin.com/jobs/view/vectraai-cloud-native-engineer-at-booz-allen-hamilton-4443547761?position=4&pageNum=20&refId=ktIWZpTmBQ675UHLIexXRQ%3D%3D&trackingId=pfIAGxwLbjkvlUvT5BONDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Carson City, NV",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461385449?position=1&pageNum=22&refId=Qno5%2F0tN%2Bld4YUEaiw82lg%3D%3D&trackingId=iprR9h5j7o77PovbJ5Afrw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "St Paul, MN",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461395007?position=9&pageNum=22&refId=Qno5%2F0tN%2Bld4YUEaiw82lg%3D%3D&trackingId=Xwo2IR6C8nluqgjKt6plXg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "New York, NY",
+        "date_posted": "47 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462779231?position=10&pageNum=22&refId=Qno5%2F0tN%2Bld4YUEaiw82lg%3D%3D&trackingId=85RnAgzQLLf0YdPN5vJqxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer I- Pathology",
+        "company": "The Johns Hopkins University",
+        "location": "Baltimore, MD",
+        "date_posted": "4 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-pathology-at-the-johns-hopkins-university-4377012907?position=1&pageNum=25&refId=eyh116nlcve6xyJ7Bj3wHw%3D%3D&trackingId=tCVoKIsL2fPjOZwwvths4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer",
+        "company": "TalentHop",
+        "location": "United States",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-at-talenthop-4469719707?position=3&pageNum=25&refId=eyh116nlcve6xyJ7Bj3wHw%3D%3D&trackingId=d8qrN0j0o8JO5P4GcfqbFQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer I IS - Remote",
+        "company": "TalentHop",
+        "location": "United States",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-i-is-remote-at-talenthop-4469724540?position=4&pageNum=25&refId=eyh116nlcve6xyJ7Bj3wHw%3D%3D&trackingId=l%2FunkVoAHAEPWqF3kgRvTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Data Engineer",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-ladders-4471453094?position=5&pageNum=25&refId=eyh116nlcve6xyJ7Bj3wHw%3D%3D&trackingId=IZFOnTDrDfM1DPcXzRHMiA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer II, Data",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ii-data-at-ladders-4471452114?position=7&pageNum=25&refId=eyh116nlcve6xyJ7Bj3wHw%3D%3D&trackingId=8KIsSqysf7YNG428aSJK3g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Data Engineer",
+        "company": "McAfee",
+        "location": "Frisco, TX",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-data-engineer-at-mcafee-4434687248?position=9&pageNum=25&refId=eyh116nlcve6xyJ7Bj3wHw%3D%3D&trackingId=J9G9GiXtm3o37PTQXhGheg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Member of Technical Staff - Data Platform",
+        "company": "Reflection",
+        "location": "San Francisco, CA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-data-platform-at-reflection-4442633849?position=10&pageNum=25&refId=eyh116nlcve6xyJ7Bj3wHw%3D%3D&trackingId=aBBY1DdzLXC8RKIDcAxLYg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+        "company": "Databricks",
+        "location": "New York, NY",
+        "date_posted": "12 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-forward-deployed-engineer-fde-healthcare-life-sciences-at-databricks-4397597477?position=1&pageNum=27&refId=eAq5J4Y%2F7PBC6AHk8fJ4ew%3D%3D&trackingId=rcCy6sqFP4ZWwHHtmB1e9Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, Data Products & Platform",
+        "company": "Clay",
+        "location": "New York City Metropolitan Area",
+        "date_posted": "2 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-data-products-platform-at-clay-4460989917?position=2&pageNum=27&refId=eAq5J4Y%2F7PBC6AHk8fJ4ew%3D%3D&trackingId=9nK9Jyy0ODxyfYHeaxGIkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Customer Data Engineer II - New Glenn",
+        "company": "Blue Origin",
+        "location": "Merritt Island, FL",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/customer-data-engineer-ii-new-glenn-at-blue-origin-4460430158?position=3&pageNum=27&refId=eAq5J4Y%2F7PBC6AHk8fJ4ew%3D%3D&trackingId=yH%2FwXIP4Mxkm%2FtR%2BE4Jh2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "MDM Solutions Engineer - Life Sciences (Reltio/Informatica)",
+        "company": "Deloitte",
+        "location": "Miami, FL",
+        "date_posted": "41 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mdm-solutions-engineer-life-sciences-reltio-informatica-at-deloitte-4462762368?position=4&pageNum=27&refId=eAq5J4Y%2F7PBC6AHk8fJ4ew%3D%3D&trackingId=vonxW3eHggxfU%2FuSCYKnkA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer, ML Infrastructure Platform",
+        "company": "Nuro",
+        "location": "Mountain View, CA",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ml-infrastructure-platform-at-nuro-4451976802?position=6&pageNum=27&refId=eAq5J4Y%2F7PBC6AHk8fJ4ew%3D%3D&trackingId=zmtXTSNgnXzJ2xBimszKQw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Machine Learning / Data Science Engineer",
+        "company": "CapTech",
+        "location": "Richmond, VA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-data-science-engineer-at-captech-4435191966?position=9&pageNum=27&refId=eAq5J4Y%2F7PBC6AHk8fJ4ew%3D%3D&trackingId=nequf%2FjzcQY0JZZCeebvWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Specialized Applications Developer",
+        "company": "FirstDay Foundation",
+        "location": "San Antonio, Texas Metropolitan Area",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/specialized-applications-developer-at-firstday-foundation-4462746170?position=10&pageNum=27&refId=eAq5J4Y%2F7PBC6AHk8fJ4ew%3D%3D&trackingId=rvW9lPYRTKDOGF3CqP2ThA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Distinguished Engineer, AI Applications",
+        "company": "GEICO",
+        "location": "Palo Alto, CA",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/distinguished-engineer-ai-applications-at-geico-4461367324?position=2&pageNum=30&refId=DQWoxj51QlSpYeWIWXllpQ%3D%3D&trackingId=W1ytPNXPyMyc1vA%2FqGTTtg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Baton Rouge, LA",
+        "date_posted": "11 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461378479?position=5&pageNum=30&refId=DQWoxj51QlSpYeWIWXllpQ%3D%3D&trackingId=jPJqujkT%2FbbjhufDfSey4g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "(USA) Principal, Machine Learning Engineer",
+        "company": "Walmart",
+        "location": "Sunnyvale, CA",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/usa-principal-machine-learning-engineer-at-walmart-4471450186?position=6&pageNum=30&refId=DQWoxj51QlSpYeWIWXllpQ%3D%3D&trackingId=cZAHAXC3ue0Crkaje6qAUg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Engineer (6332)",
+        "company": "itD",
+        "location": "United States",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-engineer-6332-at-itd-4470461879?position=7&pageNum=30&refId=DQWoxj51QlSpYeWIWXllpQ%3D%3D&trackingId=UvqpnOIBRGew8peb0%2FX4Hg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist - Pricing & Profitability",
+        "company": "AMD",
+        "location": "San Jose, CA",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-pricing-profitability-at-amd-4459985984?position=8&pageNum=30&refId=DQWoxj51QlSpYeWIWXllpQ%3D%3D&trackingId=knPJN1T4WRniMWtZNHT8BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Analysis",
+        "company": "Constellation West",
+        "location": "Bellevue, NE",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-analysis-at-constellation-west-4442778455?position=10&pageNum=30&refId=DQWoxj51QlSpYeWIWXllpQ%3D%3D&trackingId=%2F%2BtCsZ4BU3VcyB%2F89ScAlA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Architect Principal, Analytics Pipeline (FWA)",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-architect-principal-analytics-pipeline-fwa-at-ladders-4471449401?position=1&pageNum=32&refId=NQjSgPm%2Bd7mL5K7WuD7fTw%3D%3D&trackingId=%2FA%2FpIPl7%2BgOEvuyOIDmmGw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer 4 - Revenue Infrastructure",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-4-revenue-infrastructure-at-ladders-4471432922?position=2&pageNum=32&refId=NQjSgPm%2Bd7mL5K7WuD7fTw%3D%3D&trackingId=2T%2BdfOXXzwDp2nYvZtm8Rw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics Engineer Toronto (Remote)",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-engineer-toronto-remote-at-ladders-4471438540?position=4&pageNum=32&refId=NQjSgPm%2Bd7mL5K7WuD7fTw%3D%3D&trackingId=2FKw8o0IW2DrcJ87EAlW2w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff, Business Intelligence Engineer",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-business-intelligence-engineer-at-ladders-4471446440?position=5&pageNum=32&refId=NQjSgPm%2Bd7mL5K7WuD7fTw%3D%3D&trackingId=pzyV1HvcYEakrZCURmPvMg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Asset Management-  Equities Quantitative Developer - Vice President/Associate",
+        "company": "JPMorganChase",
+        "location": "New York, NY",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/asset-management-equities-quantitative-developer-vice-president-associate-at-jpmorganchase-4453090401?position=6&pageNum=32&refId=NQjSgPm%2Bd7mL5K7WuD7fTw%3D%3D&trackingId=PkgXY6%2FxV4jPM6V6fUaGIw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Database Engineer II",
+        "company": "TalentHop",
+        "location": "United States",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/database-engineer-ii-at-talenthop-4469724470?position=7&pageNum=32&refId=NQjSgPm%2Bd7mL5K7WuD7fTw%3D%3D&trackingId=XuNO5bmYmZCQToSk3EU1Zw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer, Data Infrastructure",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-data-infrastructure-at-ladders-4471434822?position=8&pageNum=32&refId=NQjSgPm%2Bd7mL5K7WuD7fTw%3D%3D&trackingId=%2FrCU0%2FR8SAOdr5EMNIvCvQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Engineering Data Architect",
+        "company": "RemoteHunter",
+        "location": "United States",
+        "date_posted": "3 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/engineering-data-architect-at-remotehunter-4471449486?position=9&pageNum=32&refId=NQjSgPm%2Bd7mL5K7WuD7fTw%3D%3D&trackingId=iWeWZRIdl5JAKgrDmXRvQA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Cloud Data Architect",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/cloud-data-architect-at-ladders-4471437585?position=1&pageNum=35&refId=rpmotg2WsFDyF74xfggh8g%3D%3D&trackingId=aONkiCeRTUBI5PSd%2Br6Q0Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Consulting Data Architect - Snowflake",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/consulting-data-architect-snowflake-at-ladders-4471433845?position=3&pageNum=35&refId=rpmotg2WsFDyF74xfggh8g%3D%3D&trackingId=qyP5CZCYgUiPvrSNlo3RNw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "MDM Solutions Engineer - Life Sciences (Reltio/Informatica)",
+        "company": "Deloitte",
+        "location": "San Francisco, CA",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/mdm-solutions-engineer-life-sciences-reltio-informatica-at-deloitte-4462769267?position=6&pageNum=35&refId=rpmotg2WsFDyF74xfggh8g%3D%3D&trackingId=xvEIKhitYHWTd7C%2BFm2NVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Data Systems Architect",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-systems-architect-at-ladders-4471433823?position=10&pageNum=35&refId=rpmotg2WsFDyF74xfggh8g%3D%3D&trackingId=ycqVV7ayKT5BVLWh%2BE0AoA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Manager-AI and Data Risk Management",
+        "company": "Deloitte",
+        "location": "Boston, MA",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/manager-ai-and-data-risk-management-at-deloitte-4453397786?position=2&pageNum=37&refId=%2BcZ4YOcHRfEJaCA5S8gViw%3D%3D&trackingId=HHdS2mjLDUgs0CuP3EF%2BxA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "Minneapolis, MN",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462768322?position=4&pageNum=37&refId=%2BcZ4YOcHRfEJaCA5S8gViw%3D%3D&trackingId=2pJBN7COwl%2BDM%2BNujBSLEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "Greater Indianapolis",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462775220?position=7&pageNum=37&refId=%2BcZ4YOcHRfEJaCA5S8gViw%3D%3D&trackingId=nGBT1smbfDJNQ%2BR9HbLOKg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Intelligent Document Processing - Hyperscience Developer contractor",
+        "company": "Deloitte",
+        "location": "Massachusetts, United States",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/intelligent-document-processing-hyperscience-developer-contractor-at-deloitte-4462412645?position=1&pageNum=40&refId=c273rO4Xh6LvbJUsKCPniA%3D%3D&trackingId=TW%2B36XuF3lkj%2BFgJWNCmug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "Charlotte, NC",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462770305?position=2&pageNum=40&refId=c273rO4Xh6LvbJUsKCPniA%3D%3D&trackingId=dh7SG0KEJACHusa7WbbaZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "St Louis, MO",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462773259?position=3&pageNum=40&refId=c273rO4Xh6LvbJUsKCPniA%3D%3D&trackingId=OZUK0rQpINOZ0n5mZKSHLQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "Los Angeles, CA",
+        "date_posted": "37 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462762349?position=5&pageNum=40&refId=c273rO4Xh6LvbJUsKCPniA%3D%3D&trackingId=tB0xd1ajvBamOyvXVYWVVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Jackson, MS",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461392218?position=9&pageNum=40&refId=c273rO4Xh6LvbJUsKCPniA%3D%3D&trackingId=qAmOO2iZ5JTon4n2TjL5tg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Intelligent Document Processing - Hyperscience Developer contractor",
+        "company": "Deloitte",
+        "location": "Texas, United States",
+        "date_posted": "27 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/intelligent-document-processing-hyperscience-developer-contractor-at-deloitte-4462417329?position=3&pageNum=42&refId=CwwwlEbafZ2eGoSBg4pPGg%3D%3D&trackingId=fWd1VoSnQtOvZbgQXUFjmA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Intelligent Document Processing - Hyperscience Developer contractor",
+        "company": "Deloitte",
+        "location": "New York, United States",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/intelligent-document-processing-hyperscience-developer-contractor-at-deloitte-4462405801?position=6&pageNum=42&refId=CwwwlEbafZ2eGoSBg4pPGg%3D%3D&trackingId=4%2BzaIZ%2FctzCMvJhL8Beo6Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Software Engineer- Customer Experience Intelligence (CXI)",
+        "company": "Databricks",
+        "location": "Mountain View, CA",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-customer-experience-intelligence-cxi-at-databricks-4404611818?position=8&pageNum=42&refId=CwwwlEbafZ2eGoSBg4pPGg%3D%3D&trackingId=70OoRHFb2ciNMaw%2BPJsBrg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Bismarck, ND",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461379465?position=5&pageNum=45&refId=xLjBDkEssk3IgwibjynESg%3D%3D&trackingId=3MmdT19%2FI4ZIts3zHtKf%2Bg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Solutions Architect - Life Sciences",
+        "company": "Deloitte",
+        "location": "San Francisco, CA",
+        "date_posted": "30 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-life-sciences-at-deloitte-4462763374?position=8&pageNum=45&refId=xLjBDkEssk3IgwibjynESg%3D%3D&trackingId=HafWfcl%2FMScb8Oh5d6RBKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Oklahoma City, OK",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461387384?position=3&pageNum=47&refId=KJJ8G3GJXmAHEQS0UUF%2FcA%3D%3D&trackingId=CRENjV8Qr7FupsIrSjoP%2BQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Madison, WI",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461384441?position=4&pageNum=47&refId=KJJ8G3GJXmAHEQS0UUF%2FcA%3D%3D&trackingId=EIoMDzc4hkrIV%2Bcat7GY6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Salt Lake City, UT",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461385454?position=7&pageNum=47&refId=KJJ8G3GJXmAHEQS0UUF%2FcA%3D%3D&trackingId=XhOWPBN3UWZDsuEN1M6mDg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Nashville, TN",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461392221?position=8&pageNum=47&refId=KJJ8G3GJXmAHEQS0UUF%2FcA%3D%3D&trackingId=UobCJIl18v9bsJI3EqTBkw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "People Analytics AI Engineer",
+        "company": "Samsara",
+        "location": "Seattle, WA",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/people-analytics-ai-engineer-at-samsara-4421163687?position=1&pageNum=50&refId=X5oSBqwKdiNwfKAOcryakA%3D%3D&trackingId=R5ns53Ooq6FYFgGyMbTWWw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer \u2013 AI Platform",
+        "company": "Thomson Reuters",
+        "location": "Brooklyn, NY",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-%E2%80%93-ai-platform-at-thomson-reuters-4461376577?position=4&pageNum=50&refId=X5oSBqwKdiNwfKAOcryakA%3D%3D&trackingId=Uc6q7JEiApM8fPDC1bW0ug%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer - Python/Typescript",
+        "company": "Turing",
+        "location": "New York, United States",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-python-typescript-at-turing-4471447484?position=5&pageNum=50&refId=X5oSBqwKdiNwfKAOcryakA%3D%3D&trackingId=o3YXUDDuO61%2FUXFdE1k4Zg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Remote Software Engineer - Python/Typescript",
+        "company": "Turing",
+        "location": "Austin, Texas Metropolitan Area",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/remote-software-engineer-python-typescript-at-turing-4471448499?position=6&pageNum=50&refId=X5oSBqwKdiNwfKAOcryakA%3D%3D&trackingId=SyLFmRiRIeGrRhJa9DYuwQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Pierre, SD",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461380476?position=7&pageNum=50&refId=X5oSBqwKdiNwfKAOcryakA%3D%3D&trackingId=lVjlgZLQeMgqNaGQS0gbEQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Ethics & Compliance Data Analyst",
+        "company": "SLB",
+        "location": "Houston, TX",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ethics-compliance-data-analyst-at-slb-4471435792?position=2&pageNum=52&refId=wvOVD4sendz%2FkzirNWpe%2BQ%3D%3D&trackingId=EiIeHzrziyVmjOaBhwWoNA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Engineer",
+        "company": "CSC Generation",
+        "location": "Cottonwood Heights, UT",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-engineer-at-csc-generation-4442687577?position=3&pageNum=52&refId=wvOVD4sendz%2FkzirNWpe%2BQ%3D%3D&trackingId=lO7pNup2CKJPv7Rvo3KGIA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineering 6 - Ads Finance",
+        "company": "Netflix",
+        "location": "Los Gatos, CA",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineering-6-ads-finance-at-netflix-4441094232?position=4&pageNum=52&refId=wvOVD4sendz%2FkzirNWpe%2BQ%3D%3D&trackingId=T0JKhzyfJp3xLPX%2FaehDfQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer III",
+        "company": "Blue Origin",
+        "location": "Huntsville, AL",
+        "date_posted": "46 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-blue-origin-4441078951?position=5&pageNum=52&refId=wvOVD4sendz%2FkzirNWpe%2BQ%3D%3D&trackingId=jkr3NFaVEdGQA2IqUB7cBQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Front Office Engineer, Investment Innovation, Integration & Trading",
+        "company": "Liberty Mutual Insurance",
+        "location": "Boston, MA",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-front-office-engineer-investment-innovation-integration-trading-at-liberty-mutual-insurance-4426553310?position=6&pageNum=52&refId=wvOVD4sendz%2FkzirNWpe%2BQ%3D%3D&trackingId=YhdfpDC9dR4sLZCEVEpAVQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Manager I, Engineering - Cloud FinOps",
+        "company": "Datadog",
+        "location": "New York, NY",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/manager-i-engineering-cloud-finops-at-datadog-4462492195?position=7&pageNum=52&refId=wvOVD4sendz%2FkzirNWpe%2BQ%3D%3D&trackingId=7vdZEI6sNuIgws95aEiIPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Data Scientist, Mid",
+        "company": "Booz Allen Hamilton",
+        "location": "Aurora, CO",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-mid-at-booz-allen-hamilton-4452640339?position=9&pageNum=52&refId=wvOVD4sendz%2FkzirNWpe%2BQ%3D%3D&trackingId=w1xhhgd7FMqE3mAvGXrr1Q%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Software Engineer, BE Python",
+        "company": "PayPal",
+        "location": "San Jose, CA",
+        "date_posted": "49 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-be-python-at-paypal-4462475777?position=10&pageNum=52&refId=wvOVD4sendz%2FkzirNWpe%2BQ%3D%3D&trackingId=iT4Moc3iAy%2BeqAwu6vZGTA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Juneau, AK",
+        "date_posted": "13 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461392224?position=2&pageNum=55&refId=r2ZqyAYh8Ek3asaEp1WFUw%3D%3D&trackingId=E5tPoKIRuqc4fBamgggZtw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "St Paul, MN",
+        "date_posted": "24 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461375511?position=4&pageNum=55&refId=r2ZqyAYh8Ek3asaEp1WFUw%3D%3D&trackingId=PV1%2B1tRDHPgLVP%2Fmtz06pA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Harrisburg, PA",
+        "date_posted": "43 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461386378?position=7&pageNum=55&refId=r2ZqyAYh8Ek3asaEp1WFUw%3D%3D&trackingId=mKGhU8tssNvNVIsM7QzZ6w%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Frankfort, KY",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461372575?position=2&pageNum=57&refId=2JRzNeAnBPkOccscWsrMFg%3D%3D&trackingId=fPjIczIgaUA2MHhECTpWJg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Salem, OR",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461379471?position=3&pageNum=57&refId=2JRzNeAnBPkOccscWsrMFg%3D%3D&trackingId=zZe5jMQYajg1%2BbPPAzDFPA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Santa Fe, NM",
+        "date_posted": "53 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461374523?position=4&pageNum=57&refId=2JRzNeAnBPkOccscWsrMFg%3D%3D&trackingId=hVRt1vFDYTuHICX8ZQMgqw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Tallahassee, FL",
+        "date_posted": "35 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461382434?position=6&pageNum=57&refId=2JRzNeAnBPkOccscWsrMFg%3D%3D&trackingId=EseZmf6Mjn03wsswJDI92g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Honolulu, HI",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461395006?position=9&pageNum=57&refId=2JRzNeAnBPkOccscWsrMFg%3D%3D&trackingId=M2STqXackuPywWMaMtt0Qg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Columbus, OH",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461378472?position=1&pageNum=60&refId=ypmlqe1Tq6rOX1fvxgJMFA%3D%3D&trackingId=7bM6kBySRgGIPYPMbxuudw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Boston, MA",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461391268?position=2&pageNum=60&refId=ypmlqe1Tq6rOX1fvxgJMFA%3D%3D&trackingId=dF5vUHkRdwEPLU%2BkyLZeGA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Lansing, MI",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461385453?position=3&pageNum=60&refId=ypmlqe1Tq6rOX1fvxgJMFA%3D%3D&trackingId=XWdjXJlGFP3kPgODsrfBCA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Springfield, IL",
+        "date_posted": "40 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461388370?position=4&pageNum=60&refId=ypmlqe1Tq6rOX1fvxgJMFA%3D%3D&trackingId=2ZqAvob0wkl8rF4oeucDRA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Harrisburg, PA",
+        "date_posted": "44 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461372581?position=5&pageNum=60&refId=ypmlqe1Tq6rOX1fvxgJMFA%3D%3D&trackingId=IFWPHrdAB%2BUMYmC7GF0BBw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Richmond, VA",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461375513?position=7&pageNum=60&refId=ypmlqe1Tq6rOX1fvxgJMFA%3D%3D&trackingId=TBVpsNvUhVim7kC81iwFfg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Java Full Stack Developer-Software Engineer III",
+        "company": "Deloitte",
+        "location": "Tampa, FL",
+        "date_posted": "50 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/java-full-stack-developer-software-engineer-iii-at-deloitte-4443906384?position=1&pageNum=62&refId=o1vOA5awwTawZbRJxrSIPg%3D%3D&trackingId=NPBHBKQ%2BPJQ%2FQIVydZpCjg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Austin, TX",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461393154?position=5&pageNum=62&refId=o1vOA5awwTawZbRJxrSIPg%3D%3D&trackingId=nVzmX2Rn1kkc0Jk2SMOQEA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Columbus, OH",
+        "date_posted": "41 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461375514?position=7&pageNum=62&refId=o1vOA5awwTawZbRJxrSIPg%3D%3D&trackingId=vVy619R%2FPgdh8eU3yQdqXw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Salem, OR",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461388368?position=9&pageNum=62&refId=o1vOA5awwTawZbRJxrSIPg%3D%3D&trackingId=NhIlS7KNUvgzgNLUwS7t3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Phoenix, AZ",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461374524?position=1&pageNum=65&refId=1MQHVG6goz92afl%2BRhUgPA%3D%3D&trackingId=Bd6WR6ita64L1Ki039xtyA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Software Engineer - AI",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-ladders-4471448366?position=5&pageNum=65&refId=1MQHVG6goz92afl%2BRhUgPA%3D%3D&trackingId=4%2FRo3EtzbsZVVdPnkXnr3A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics and Insights Engineer III",
+        "company": "Deloitte",
+        "location": "Detroit, MI",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-and-insights-engineer-iii-at-deloitte-4461734167?position=6&pageNum=65&refId=1MQHVG6goz92afl%2BRhUgPA%3D%3D&trackingId=d4eMFKI2y9xkegYAXh9Zyg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Annapolis, MD",
+        "date_posted": "22 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461384452?position=7&pageNum=65&refId=1MQHVG6goz92afl%2BRhUgPA%3D%3D&trackingId=pdDluIXCCGKx4rD%2BzhtPxQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Washington, DC",
+        "date_posted": "31 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461376522?position=2&pageNum=67&refId=3ooY8ynI9KkgRh9PFJqqtg%3D%3D&trackingId=blTR850njQH7W7plhA93VA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics and Insights Engineer III",
+        "company": "Deloitte",
+        "location": "Philadelphia, PA",
+        "date_posted": "16 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-and-insights-engineer-iii-at-deloitte-4461722944?position=3&pageNum=67&refId=3ooY8ynI9KkgRh9PFJqqtg%3D%3D&trackingId=IGzMomKac5t4c%2BA7V9LIoQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Annapolis, MD",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461388371?position=6&pageNum=67&refId=3ooY8ynI9KkgRh9PFJqqtg%3D%3D&trackingId=NUn5aGf0Vyo3QY4RPrEknA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics and Insights Engineer III",
+        "company": "Deloitte",
+        "location": "Tempe, AZ",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-and-insights-engineer-iii-at-deloitte-4461719961?position=9&pageNum=67&refId=3ooY8ynI9KkgRh9PFJqqtg%3D%3D&trackingId=SUYKZr9mj3IMwB6UQDQNAQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Denver, CO",
+        "date_posted": "15 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461382433?position=10&pageNum=67&refId=3ooY8ynI9KkgRh9PFJqqtg%3D%3D&trackingId=2P4fmMX91iyrsEc9Tl8xKw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Washington, DC",
+        "date_posted": "49 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461378473?position=4&pageNum=70&refId=LybX7Vma5GG2C19Kx1wSlg%3D%3D&trackingId=H02OdmG5ZWVJKpXsROnfEg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics and Insights Engineer III",
+        "company": "Deloitte",
+        "location": "Houston, TX",
+        "date_posted": "48 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-and-insights-engineer-iii-at-deloitte-4461727435?position=6&pageNum=70&refId=LybX7Vma5GG2C19Kx1wSlg%3D%3D&trackingId=%2FLaAu1x%2BGY5YnI%2Bop8tFQw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Risk Reporting - Vice President",
+        "company": "JPMorganChase",
+        "location": "Tempe, AZ",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/risk-reporting-vice-president-at-jpmorganchase-4406839523?position=10&pageNum=70&refId=LybX7Vma5GG2C19Kx1wSlg%3D%3D&trackingId=ytIBZ4GJ9VJBmeHL34gwJw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "AI Outcome Customer Engineer IV, Forward Deployed Engineering",
+        "company": "Google",
+        "location": "Austin, TX",
+        "date_posted": "14 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/ai-outcome-customer-engineer-iv-forward-deployed-engineering-at-google-4469722675?position=3&pageNum=72&refId=jPPOveIIdIL%2F1t5bjh%2BWyg%3D%3D&trackingId=RTUpeQQ%2F4oEy%2FE2QnV3WAw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr. Solutions Architect - Services Presales - Microsoft Fabric & Data Engineering",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-solutions-architect-services-presales-microsoft-fabric-data-engineering-at-ladders-4471435715?position=4&pageNum=72&refId=jPPOveIIdIL%2F1t5bjh%2BWyg%3D%3D&trackingId=RqIrp9Zou91XG9bGoNqdQw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Architect-Professional Services ( USA Remote)",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "9 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-architect-professional-services-usa-remote-at-ladders-4471437577?position=5&pageNum=72&refId=jPPOveIIdIL%2F1t5bjh%2BWyg%3D%3D&trackingId=En2rshgvLfR%2BFrPtI8Vxxg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics and Insights Engineer III",
+        "company": "Deloitte",
+        "location": "Boston, MA",
+        "date_posted": "52 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-and-insights-engineer-iii-at-deloitte-4461732247?position=7&pageNum=72&refId=jPPOveIIdIL%2F1t5bjh%2BWyg%3D%3D&trackingId=%2BAlOW%2FlvjcGXd42jOqgTuw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Contract Student Worker - Machine Learning Engineer - Data Mining & VLM (Full-time)",
+        "company": "Zoox",
+        "location": "Foster City, CA",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/contract-student-worker-machine-learning-engineer-data-mining-vlm-full-time-at-zoox-4452640236?position=2&pageNum=75&refId=e44yaZeE%2Fdhx9830kpi2uw%3D%3D&trackingId=XxsywDuek0PoMMMMHL4tBg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "The IoT / Edge Architect",
+        "company": "NTT DATA North America",
+        "location": "Bethesda, MD",
+        "date_posted": "1 minute ago",
+        "url": "https://www.linkedin.com/jobs/view/the-iot-edge-architect-at-ntt-data-north-america-4434750322?position=3&pageNum=75&refId=e44yaZeE%2Fdhx9830kpi2uw%3D%3D&trackingId=HKoDppKcqS1qKOYHkUMVhA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Pearson",
+        "location": "Concord, NH",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-pearson-4461380480?position=8&pageNum=75&refId=e44yaZeE%2Fdhx9830kpi2uw%3D%3D&trackingId=O14kAmgK2i%2BPYCnw2OPRaA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Sr Software Engineer I",
+        "company": "Principal Financial Group",
+        "location": "Raleigh, NC",
+        "date_posted": "38 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-i-at-principal-financial-group-4462717175?position=1&pageNum=77&refId=O6FM3NjEbE4qZ%2B%2F0gGd0ng%3D%3D&trackingId=G99qC4QoTT29onz1ZG%2BhSA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Real Time Scheduling Analyst",
+        "company": "Shell",
+        "location": "San Diego, CA",
+        "date_posted": "19 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/real-time-scheduling-analyst-at-shell-4460659437?position=2&pageNum=77&refId=O6FM3NjEbE4qZ%2B%2F0gGd0ng%3D%3D&trackingId=YxLYu69JtEd2WWaylSF1tA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Founding Engineer",
+        "company": "Inventure",
+        "location": "San Francisco, CA",
+        "date_posted": "21 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/founding-engineer-at-inventure-4471442400?position=3&pageNum=77&refId=O6FM3NjEbE4qZ%2B%2F0gGd0ng%3D%3D&trackingId=iGBstYpRr522r5BnQ%2BM3eQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Intern",
+        "company": "KaarTech",
+        "location": "Chicago, IL",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/intern-at-kaartech-4469722428?position=5&pageNum=77&refId=O6FM3NjEbE4qZ%2B%2F0gGd0ng%3D%3D&trackingId=btco8PDPcrNC0g%2FX56frgw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Agentic AI Architect",
+        "company": "PPL Corporation",
+        "location": "Providence, RI",
+        "date_posted": "40 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-agentic-ai-architect-at-ppl-corporation-4443583542?position=6&pageNum=77&refId=O6FM3NjEbE4qZ%2B%2F0gGd0ng%3D%3D&trackingId=hZtUZYjIGTAfgo8m2MCx8A%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "PayPal",
+        "location": "Austin, TX",
+        "date_posted": "32 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-paypal-4462478604?position=8&pageNum=77&refId=O6FM3NjEbE4qZ%2B%2F0gGd0ng%3D%3D&trackingId=q5pdXT0XSuOjbO0nOGTgBQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Manager, Data Enablement",
+        "company": "Novolex",
+        "location": "United States",
+        "date_posted": "7 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/manager-data-enablement-at-novolex-4453386556?position=9&pageNum=77&refId=O6FM3NjEbE4qZ%2B%2F0gGd0ng%3D%3D&trackingId=t%2Fjby1%2BqdqHyc56%2Fkl%2FvcA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Engineer",
+        "company": "Kong",
+        "location": "Albany, NY",
+        "date_posted": "28 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-kong-4415554124?position=3&pageNum=80&refId=KAaLviDCjrhSMjFhxd4lNA%3D%3D&trackingId=flWxS8mwQYH2KMqqL8zThw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Principal Software Engineer - AI Infra Compute",
+        "company": "Oracle",
+        "location": "United States",
+        "date_posted": "25 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/principal-software-engineer-ai-infra-compute-at-oracle-4431992279?position=6&pageNum=80&refId=KAaLviDCjrhSMjFhxd4lNA%3D%3D&trackingId=MP%2FUExaShl5i%2BB%2Fkxaah%2Bw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Director, Data Science",
+        "company": "PHD",
+        "location": "New York, NY",
+        "date_posted": "54 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-director-data-science-at-phd-4453017111?position=7&pageNum=80&refId=KAaLviDCjrhSMjFhxd4lNA%3D%3D&trackingId=NkhmQziaw8eMLUqbdiutOg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Member of Technical Staff",
+        "company": "Adyen",
+        "location": "San Francisco, CA",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-at-adyen-4451929526?position=8&pageNum=80&refId=KAaLviDCjrhSMjFhxd4lNA%3D%3D&trackingId=mMVQJDL%2F73PGod%2Fx0mWOcQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff AI Engineer",
+        "company": "LinkedIn",
+        "location": "Mountain View, CA",
+        "date_posted": "42 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-ai-engineer-at-linkedin-4452653272?position=9&pageNum=80&refId=KAaLviDCjrhSMjFhxd4lNA%3D%3D&trackingId=xCIH3MeSQbLM%2BGLfTP39ew%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Member of Research Staff",
+        "company": "The Voleon Group",
+        "location": "New York, NY",
+        "date_posted": "29 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/member-of-research-staff-at-the-voleon-group-4416404762?position=10&pageNum=80&refId=KAaLviDCjrhSMjFhxd4lNA%3D%3D&trackingId=GHNbpHfUBRxsQ5GuyRRgQQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Forward Deployed Engineer- ServiceNow",
+        "company": "Deloitte",
+        "location": "Greater Sacramento",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-servicenow-at-deloitte-4451969684?position=1&pageNum=82&refId=ahXfGJRvtgJgIqZWOpt4rA%3D%3D&trackingId=V2J1%2BLBv%2BfdBsu7fqhv9zg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics and Insights Engineer III",
+        "company": "Deloitte",
+        "location": "New York, NY",
+        "date_posted": "34 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-and-insights-engineer-iii-at-deloitte-4461732248?position=5&pageNum=82&refId=ahXfGJRvtgJgIqZWOpt4rA%3D%3D&trackingId=8eZ4RWNdqOFSaQQsj%2FF%2BZg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Manager - Software Engineer (Agentic Engineering) - Tax Technology",
+        "company": "Deloitte",
+        "location": "Boston, MA",
+        "date_posted": "20 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/manager-software-engineer-agentic-engineering-tax-technology-at-deloitte-4452600589?position=1&pageNum=85&refId=6XAHzdXZjdppyCH5N%2BUXuA%3D%3D&trackingId=4HwdKDiIHj3aAyaZOqpQWg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "M&A Financial Due Diligence Data Analytics Manager - LSHC",
+        "company": "Deloitte",
+        "location": "San Jose, CA",
+        "date_posted": "33 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/m-a-financial-due-diligence-data-analytics-manager-lshc-at-deloitte-4435107407?position=4&pageNum=85&refId=6XAHzdXZjdppyCH5N%2BUXuA%3D%3D&trackingId=r47G%2BvMxyBg31oSYABuXRQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics and Insights Engineer III",
+        "company": "Deloitte",
+        "location": "Los Angeles, CA",
+        "date_posted": "39 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-and-insights-engineer-iii-at-deloitte-4461735128?position=7&pageNum=85&refId=6XAHzdXZjdppyCH5N%2BUXuA%3D%3D&trackingId=PzwoM2BCyFFmPdIzCAxlDw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Analytics and Insights Engineer III",
+        "company": "Deloitte",
+        "location": "Dallas, TX",
+        "date_posted": "26 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/analytics-and-insights-engineer-iii-at-deloitte-4461731292?position=8&pageNum=85&refId=6XAHzdXZjdppyCH5N%2BUXuA%3D%3D&trackingId=HP1sVRevEg6t%2BoOdKJ9m2g%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Bank Compliance Technology Analyst",
+        "company": "Affirm",
+        "location": "Pittsburgh, PA",
+        "date_posted": "8 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/bank-compliance-technology-analyst-at-affirm-4451961982?position=1&pageNum=87&refId=%2BUuFW8V2GBy9sofMO6va0Q%3D%3D&trackingId=MIP3bZV0pQLFEzV%2FSOnJVg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Bank Compliance Technology Analyst",
+        "company": "Affirm",
+        "location": "Charlotte, NC",
+        "date_posted": "45 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/bank-compliance-technology-analyst-at-affirm-4451966913?position=3&pageNum=87&refId=%2BUuFW8V2GBy9sofMO6va0Q%3D%3D&trackingId=YNrZJ9%2BEOUx4AY%2Fw8UVouA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Bank Compliance Technology Analyst",
+        "company": "Affirm",
+        "location": "Atlanta, GA",
+        "date_posted": "58 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/bank-compliance-technology-analyst-at-affirm-4451967872?position=4&pageNum=87&refId=%2BUuFW8V2GBy9sofMO6va0Q%3D%3D&trackingId=Z7T%2FmjSxA79XsiBtLiYYiQ%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Bank Compliance Technology Analyst",
+        "company": "Affirm",
+        "location": "Boulder, CO",
+        "date_posted": "23 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/bank-compliance-technology-analyst-at-affirm-4451974829?position=5&pageNum=87&refId=%2BUuFW8V2GBy9sofMO6va0Q%3D%3D&trackingId=Y2u1PsEETLT2Gl%2F9o6b6gw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Bank Compliance Technology Analyst",
+        "company": "Affirm",
+        "location": "Salt Lake City, UT",
+        "date_posted": "36 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/bank-compliance-technology-analyst-at-affirm-4451978631?position=10&pageNum=87&refId=%2BUuFW8V2GBy9sofMO6va0Q%3D%3D&trackingId=ZarWy6xfpIydSeuE93Ixtw%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Associate Director, Applied AI Engineering - PxE Consulting",
+        "company": "Deloitte",
+        "location": "Hermitage, TN",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/associate-director-applied-ai-engineering-pxe-consulting-at-deloitte-4453399766?position=1&pageNum=90&refId=i79vSItxlcqwFxCZ%2BQr5WA%3D%3D&trackingId=LgOCFo0ZszO%2BXIluY2OeUg%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "M&A Financial Due Diligence Data Analytics Manager - LSHC",
+        "company": "Deloitte",
+        "location": "Stamford, CT",
+        "date_posted": "59 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/m-a-financial-due-diligence-data-analytics-manager-lshc-at-deloitte-4435110367?position=2&pageNum=90&refId=i79vSItxlcqwFxCZ%2BQr5WA%3D%3D&trackingId=2EvRUSie%2B5A8w6dQzjQ0sA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
+        "email_sent": false
+    },
+    {
+        "title": "Staff Software Engineer",
+        "company": "Ladders",
+        "location": "United States",
+        "date_posted": "10 minutes ago",
+        "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-ladders-4471439539?position=6&pageNum=90&refId=i79vSItxlcqwFxCZ%2BQr5WA%3D%3D&trackingId=RbV54Lv2spHw%2BEJFt1JL%2BA%3D%3D",
+        "source": "LinkedIn",
+        "scraped_date": "2026-09-24 10:35:26",
         "email_sent": false
     }
 ]
